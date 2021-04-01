@@ -1,0 +1,43 @@
+# BLASTN 2.9.0+
+# Query: EJFNCMDJ_00001 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+EJFNCMDJ_00001	EJFNCMDJ_00001	100.000	138	100	138	138	0	2.66e-69	255
+EJFNCMDJ_00001	OFJEEBPC_00003	100.000	138	100	138	138	0	2.66e-69	255
+EJFNCMDJ_00001	CIENGLJJ_00004	100.000	138	100	138	138	0	2.66e-69	255
+EJFNCMDJ_00001	LBIPJCMD_00008	100.000	138	100	138	138	0	2.66e-69	255
+# BLASTN 2.9.0+
+# Query: EJFNCMDJ_00002 Hydroxyacylglutathione hydrolase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+EJFNCMDJ_00002	EJFNCMDJ_00002	100.000	1005	100	1005	1005	0	0.0	1857
+EJFNCMDJ_00002	OFJEEBPC_00004	100.000	1005	100	1005	1005	0	0.0	1857
+EJFNCMDJ_00002	CIENGLJJ_00005	100.000	1005	100	1005	1005	0	0.0	1857
+EJFNCMDJ_00002	LBIPJCMD_00009	100.000	1005	100	1005	1005	0	0.0	1857
+# BLASTN 2.9.0+
+# Query: EJFNCMDJ_00003 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+EJFNCMDJ_00003	EJFNCMDJ_00003	100.000	1491	100	1491	1491	0	0.0	2754
+EJFNCMDJ_00003	OFJEEBPC_00005	100.000	1491	100	1491	1491	0	0.0	2754
+EJFNCMDJ_00003	LBIPJCMD_00010	100.000	1491	100	1491	1491	0	0.0	2754
+# BLASTN 2.9.0+
+# Query: EJFNCMDJ_00004 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+EJFNCMDJ_00004	EJFNCMDJ_00004	100.000	1092	100	1092	1092	0	0.0	2017
+EJFNCMDJ_00004	OFJEEBPC_00006	100.000	1092	100	1092	1092	0	0.0	2017
+EJFNCMDJ_00004	LBIPJCMD_00011	100.000	1092	100	1092	1092	0	0.0	2017
+# BLASTN 2.9.0+
+# Query: EJFNCMDJ_00005 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+EJFNCMDJ_00005	EJFNCMDJ_00005	100.000	291	100	291	291	0	5.36e-154	538
+EJFNCMDJ_00005	OFJEEBPC_00007	100.000	291	100	291	291	0	5.36e-154	538
+EJFNCMDJ_00005	LBIPJCMD_00012	100.000	291	100	291	291	0	5.36e-154	538
+# BLAST processed 5 queries

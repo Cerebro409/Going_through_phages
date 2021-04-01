@@ -1,0 +1,896 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CICOJLPI_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 5743 ,
+            seq-data
+              iupacna "AGGTACATTTTACAAATCGCCTTCTCCAGACGAAGAAGCATATGTGCAAGTTGGG
+GACACTGTTTCAAATGAAACAACAGTGTGTATTTTAGAGGCAATGAAACTATTTAATGAAATTCAAGCAGAAATTTCA
+GGTGAAATTGTTGAAATCTTAGTAGAAGACGGACAAATGGTAGAGTATGGCCAACCGTTATTTAAGGTGAAATAATGA
+AAAAGGTTTTAATTGCAAACCGCGGTGAAATCGCAGTTAGGATTATTCGCGCTTGTCGTGATTTAGGCATCCAAACTG
+TTGCAATCTATTCTGAAGGGGATAAAGATGCGCTACATACTCAAATTGCTGATGAAGCATATTGCGTAGGTCCCACTT
+TGTCTAAAGATTCATATTTAAATATTCCGAACATCTTATCTATTGCAACTTCTACAGGTTGTGATGGCGTTCATCCGG
+GTTATGGCTTTTTAGCTGAAAATGCTGACTTTGCAGAATTATGCGAAGCATGCCAATTGAAGTTCATTGGACCAAGTT
+ATCAATCTATCCAAAAAATGGGTATCAAAGATGTTGCTAAGGCAGAAATGATCAAAGCCAATGTTCCAGTTGTTCCTG
+GTAGTGACGGTTTAATGAAAGACGTCTCAGAAGCTAAGAAAATCGCCCAAAAAATTGGCTATCCGGTCATCATTAAAG
+CTACTGCTGGCGGTGGCGGAAAAGGTATCCGTGTTGCTCGTGATGAAAAAGAACTTGAAACTGGCTTCCGAATGACAG
+AACAAGAAGCTCAAACTGCATTTGGTAATGGTGGACTTTATATGGAGAAATTCATCGAAAACTTCCGCCATATTGAAA
+TCCAAATTGTTGGGGACAGCTATGGTAATGTAATTCATTTAGGAGAACGTGATTGTACAATTCAAAGACGTATGCAGA
+AATTAGTGGAAGAAGCACCTTCCCCAATTTTAGATGATGAAACACGTCGTGAAATGGGAAATGCCGCAGTGCGTGCAG
+CGAAAGCTGTAAATTATGAAAATGCGGGAACAATTGAGTTTATATATGATTTAAATGATAATAAATTTTATTTTATGG
+AAATGAATACACGTATTCAAGTAGAACATCCTGTAACTGAAATGGTAACAGGAATTGATTTAGTTAAATTACAATTAC
+AAGTTGCTATGGGTGAAGTGTTACCATATAAACAAGAAGATATTAAATTAACAGGACACGCAATTGAATTTAGAATTA
+ATGCTGAAAATCCTTACAAGAACTTTATGCCATCGCCAGGTAAAATTGAGCAATATCTTGCACCAGGTGGATATGGTG
+TTCGAATAGAGTCAGCATGTTATACTAATTATACGATACCGCCATATTATGATTCGATGGTAGCGAAATTAATCATAC
+ATGAACCGACACGAGATGAAGCGATTATGGCTGGCATTCGTGCATTAAGTGAATTTGTGGTTCTTGGTATTGATACAA
+CTATTCCATTCCATATTAAATTATTGAATAACGATATATTTAGAAGCGGTAAATTTAATACAAACTTTTTAGAGCAAA
+ATAGCATTATGAATGATGAAGGTTAATAGGAGGTCAATCCATGGTCAAAGTAACTGATTATTCAAATTCAAAATTAGG
+TAAAGTAGAAATAGCGCCAGAAGTGCTATCTGTTATTGCAAGTATAGCTACTTCGGAAGTCGAAGGCATCACTGGCCA
+TTTTGCTGAATTAAAAGAAACAAATTTAGAAAAAGTTAGTCGTAAAAATTTAAGCCGTGATTTAAAAATCGAGAGTAA
+AGAAGATGGCATATATATAGATGTATATTGTGCATTAAAACATGGTGTTAATATTTCAAAAACTGCAAACAAAATTCA
+AACGTCAATTTTTAATTCAATTTCTAATATGACAGCGATAGAACCTAAGCAAATTAATATTCACATTACACAAATCGT
+TATTGAAAAGTAATGTCATACCTAATTCAGTAATTAAATAAAGAAAAATACAAACGTTTGAAGGAGTTAAAAATGAGT
+CGTAAAGAATCCCGAGTGCAAGCTTTTCAAACTTTATTTCAATTAGAAATGAAGGACAGTGATTTAACGATAAATGAA
+GCGATAAGCTTTATTAAAGACGATAATCCAGATTTAGACTTCGAATTTATTCATTGGCTAGTTTCTGGCGTTAAAGAT
+CACGAACCTGTATTAGACGAGACAATTAGTCCTTATTTAAAAGATTGGACTATTGCACGTTTATTAAAAACGGATCGT
+ATTATTTTAAGAATGGCAACATATGAAATATTACACAGTGATACACCTGCTAAAGTTGTAATGAATGAAGCAGTTGAA
+TTAACAAAACAATTCAGTGATGATGATCATTATAAATTTATAAATGGTGTATTGAGTAATATAAAAAAATAAAATTGA
+GTGATGTTATATGTCAGATTATTTAAGTGTTTCAGCTTTAACGAAATATATTAAATATAAATTTGATCAAGATCCACA
+TCTCCAATCTGTATTGATTAAAGGTGAGCTTTCAAATTTCAAAAAGCATTCAAGTGGTCATTTATACTTTAATGTGAA
+AGATAAAGAAAGCGTTATAAGTGCCATGATGTTCAAAGGTAGTGCTTCTAAATTAAACTTCGAACCTAAAGAAGGAGA
+TGAAGTCTTATTAGAAGCACGTGTTTCTGTTTTTGAACGTCGTGGAAACTATCAAATTTATGTAAATAAAATGCAATT
+AGATGGTATAGGGAACTTATATCAAAAATTAGAAGCATTAAAGAAAAAATTAACTGAAGAAGGTTGTTTTGATAAAGC
+GAATAAGAAATCAATACCTAAGTTTCCAAAAAAAATTGCAGTTTTAACAGCGAGTACAGGTGCCGCAATTCGAGATAT
+CCATTCAACGATAAATAGTCGTTTCCCATTAGCTGAACAAATACAAATTAGTACTTTGGTTCAAGGTGAAAAAGCAAA
+GGACGACATTATTGAAAAAATTGAATATGCAGATAGTTTAGGTGTAGATACCATTATTGTAGGTCGAGGCGGTGGATC
+CATAGAAGATTTATGGAATTTTAACGAAGAAGCTGTCGTCCGTGCAATATATAATTGTAAGACACCGATTATATCAGC
+AGTAGGTCATGAAACAGACTTTACATTAAGTGATTTTGCTGCAGACATCAGAGCTGCGACTCCAACTCAAGCTGCTGT
+TATTGCAACACCAGACCAATATGAATTGCTGCAACAAATACAGCAATATCAGTTTACATTGACTCGTTTCATCAAGAA
+ACATTTAGAACAACAACGTAAACATGTTGAACATTTGTCATCGTATTACAAGTTTAAACAACCAACTTTATTGTATGA
+TCAACAGATACAACGTCGAGATGATTTAGAAAAGAGACTGAAACAACAAATTCAGGCAACTTTTGAACAACAGAGACA
+TCGATTAATGCTGTTGCAACAACGCTATAATTTAAAAGCGTTACTAAGTAGTGTTAATCAAGAACAACAAAATAATCT
+TCAATTGACAAACCAACTTGTTAAATTATTGAATTCTAAGATATTAAGTTATAAAAATGATTTGAAAAATAAAGTAGA
+AAACTTAAACAATTTAAGTCCAACTAATACAATGTTGCGTGGATATGCAATTGTTAATAAAAAAGACGAAGTCATTAC
+GAGTACTAAAGATTTAACAGAAAATGATCAATTGACGTTAACAATGAAAGATGGCTTAGTAGATGCAAAAGTTACGAA
+AGTAAGGTGTAATAATGACTAAAGAAACGCAAAGTTTTGAAGAAATGATGCAAGAATTAGAGCAAATTGTTCAAAAAT
+TAGATAATGAAACAGTATCTTTAGAGGAATCATTAGATTTATACCAACGTGGTATGAAACTATCAGCAGCTTGTGACA
+CAACTTTAAAAAATGCCGAAAAAAAGGTGAATGACTTAATAAAAGAAGAAGCTGAGGATGTAAAAAATGACGAATCTA
+CCGATGAATAAATTAATAGATGAAGTCAATAATGAATTATCGGTTGCGATAAATAAATCAGTAATGGATACTCAGCTA
+GAAGAAAGTATGTTGTATTCATTAAATGCTGGAGGTAAACGCATCCGACCAGTTCTGTTATTACTCACTTTAGATTCA
+CTAAATACCGAGTATGAGTTAGGTATGAAGAGCGCAATTGCACTAGAAATGATTCATACATATTCACTTATTCATGAT
+GACCTACCAGCGATGGATAATGATGATTATCGACGAGGGAAATTAACAAATCATAAAGTATATGGTGAGTGGACTGCG
+ATATTAGCAGGTGATGCTTTATTAACTAAAGCATTTGAACTTATTTCAAGTGATGATAGATTAACTGATGAAGTAAAA
+ATAAAAGTTCTACAACGGCTGTCAATAGCAAGTGGTCATGTTGGAATGGTCGGTGGACAAATGTTAGATATGCAAAGC
+GAAGGCCAACCAATTGATCTTGAAACTTTGGAAATGATACACAAAACAAAAACAGGTGCACTATTAACTTTTGCGGTT
+ATGAGTGCAGCAGATATCGCTAATGTCGATGATGCAACTAAAGAACATTTAGAAAGTTATAGTTATCATTTAGGTATG
+ATGTTTCAGATTAAAGATGATTTATTAGACTGCTATGGTGATGAAGCGAAGTTAGGTAAAAAAGTGGGCAGCGATCTT
+GAAAATAATAAAAGTACGTACGTGAGTTTATTAGGAAAAGATGGCGCAGAAGATAAATTGACTTATCATAGAGACGCA
+GCAGTGTATGAACTAACGCAAATTGATGAACAATTCAATACAAAACACTTATTAGAAATCGTTGATTTATTTTATAGC
+AGGGATCACTAAAAGCAAATATATCGATTAGCAACAATTGTAAAGTTTGAAATGTCTCAAAAGGCATATTCAACTGAC
+GTTGTTTGTTAATCGATTTTTCTCATGTTGAAACTTAAAATTATGTTGAAGTCTTTCATTTAAAAATAGAATTTTCAA
+TTTCTATACGACAATATTCGCATCTGTGATATCAATGTGATTTTAATTAAATATGTTCAAACAATTGACGCTTATTAA
+ATCTAATAATTAGCAAGTTTATTACACATATATTCATTTTTATACATATTTTAAGCAATTGTTATGCGTAATATGAAA
+AATATTTATAAATAGATAACCAAGATAGATAAACCATGTTTACCCTTTTTACGTAAAGGTGTTTAGTAGTCGTAAATC
+AGTGCATGTGTTAAAATAAATGTATAAATATTCGTAATCAGAGGTGTTTACTGTGCCCAAAAAATCGGTTAGGCATAT
+AAAAATTAGAGAAATTATTTCAAATGAACAGATAGAGACACAAGATGAATTAGTTAAACGATTAAACGATTATGATTT
+AAATGTCACTCAAGCAACTGTTTCTCGTGATATTAAAGAACTACAACTTATTAAAGTACCTATACCTTCAGGTCAATA
+TGTTTATAGTTTACCAAATGATAGAAAATTCCATCCTTTAGAAAAATTGGGACGTTATTTAATGGATTCCTTTGTTAA
+TATAGATGGTACTGATAATTTACTTGTTCTAAAAACATTACCTGGTAATGCACAATCTATTGGAGCTATATTAGACCA
+AATCAATTGGGAAGAAGTACTAGGCACAATTTGTGGTGATGATACTTGTTTAATTATTTGTCGAAGCAAAGAGGCAAG
+TGATGAAATCAAGTCAAGAATTTTCAATTTGTTATAAGGATGCGATGAGTTTATGTTACAAACCTTATCAAT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      gene {
+                        locus "accB" ,
+                        locus-tag "CICOJLPI_00001" } ,
+                    location
+                      int {
+                        from 43 ,
+                        to 207 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_1" } } } ,
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      gene {
+                        locus "cfiB" ,
+                        locus-tag "CICOJLPI_00002" } ,
+                    location
+                      int {
+                        from 207 ,
+                        to 1562 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_1" } } } ,
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus-tag "CICOJLPI_00003" } ,
+                    location
+                      int {
+                        from 1577 ,
+                        to 1939 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus "nusB" ,
+                        locus-tag "CICOJLPI_00004" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 2388 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_1" } } } ,
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      gene {
+                        locus "xseA" ,
+                        locus-tag "CICOJLPI_00005" } ,
+                    location
+                      int {
+                        from 2405 ,
+                        to 3742 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_1" } } } ,
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      gene {
+                        locus "xseB" ,
+                        locus-tag "CICOJLPI_00006" } ,
+                    location
+                      int {
+                        from 3735 ,
+                        to 3965 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_1" } } } ,
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      gene {
+                        locus-tag "CICOJLPI_00007" } ,
+                    location
+                      int {
+                        from 3943 ,
+                        to 4824 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_1" } } } ,
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      gene {
+                        locus "argR" ,
+                        locus-tag "CICOJLPI_00008" } ,
+                    location
+                      int {
+                        from 5255 ,
+                        to 5707 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CICOJLPI_00001" } } ,
+          descr {
+            title "Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+ [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 54 ,
+            seq-data
+              ncbieaa "MQVGDTVSNETTVCILEAMKLFNEIQAEISGEIVEILVEDGQMVEYGQPLFKVK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      prot {
+                        name {
+                          "Biotin carboxyl carrier protein of acetyl-CoA
+ carboxylase" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 53 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CICOJLPI_00002" } } ,
+          descr {
+            title "2-oxoglutarate carboxylase small subunit [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 451 ,
+            seq-data
+              ncbieaa "MKKVLIANRGEIAVRIIRACRDLGIQTVAIYSEGDKDALHTQIADEAYCVGPTLS
+KDSYLNIPNILSIATSTGCDGVHPGYGFLAENADFAELCEACQLKFIGPSYQSIQKMGIKDVAKAEMIKANVPVVPGS
+DGLMKDVSEAKKIAQKIGYPVIIKATAGGGGKGIRVARDEKELETGFRMTEQEAQTAFGNGGLYMEKFIENFRHIEIQ
+IVGDSYGNVIHLGERDCTIQRRMQKLVEEAPSPILDDETRREMGNAAVRAAKAVNYENAGTIEFIYDLNDNKFYFMEM
+NTRIQVEHPVTEMVTGIDLVKLQLQVAMGEVLPYKQEDIKLTGHAIEFRINAENPYKNFMPSPGKIEQYLAPGGYGVR
+IESACYTNYTIPPYYDSMVAKLIIHEPTRDEAIMAGIRALSEFVVLGIDTTIPFHIKLLNNDIFRSGKFNTNFLEQNS
+IMNDEG" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      prot {
+                        name {
+                          "2-oxoglutarate carboxylase small subunit" } ,
+                        ec {
+                          "6.4.1.7" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 450 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CICOJLPI_00003" } } ,
+          descr {
+            title "hypothetical protein CICOJLPI_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 120 ,
+            seq-data
+              ncbieaa "MVKVTDYSNSKLGKVEIAPEVLSVIASIATSEVEGITGHFAELKETNLEKVSRKN
+LSRDLKIESKEDGIYIDVYCALKHGVNISKTANKIQTSIFNSISNMTAIEPKQINIHITQIVIEK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 119 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CICOJLPI_00004" } } ,
+          descr {
+            title "Transcription antitermination protein NusB [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 129 ,
+            seq-data
+              ncbieaa "MSRKESRVQAFQTLFQLEMKDSDLTINEAISFIKDDNPDLDFEFIHWLVSGVKDH
+EPVLDETISPYLKDWTIARLLKTDRIILRMATYEILHSDTPAKVVMNEAVELTKQFSDDDHYKFINGVLSNIKK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      prot {
+                        name {
+                          "Transcription antitermination protein NusB" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 128 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CICOJLPI_00005" } } ,
+          descr {
+            title "Exodeoxyribonuclease 7 large subunit [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 445 ,
+            seq-data
+              ncbieaa "MSDYLSVSALTKYIKYKFDQDPHLQSVLIKGELSNFKKHSSGHLYFNVKDKESVI
+SAMMFKGSASKLNFEPKEGDEVLLEARVSVFERRGNYQIYVNKMQLDGIGNLYQKLEALKKKLTEEGCFDKANKKSIP
+KFPKKIAVLTASTGAAIRDIHSTINSRFPLAEQIQISTLVQGEKAKDDIIEKIEYADSLGVDTIIVGRGGGSIEDLWN
+FNEEAVVRAIYNCKTPIISAVGHETDFTLSDFAADIRAATPTQAAVIATPDQYELLQQIQQYQFTLTRFIKKHLEQQR
+KHVEHLSSYYKFKQPTLLYDQQIQRRDDLEKRLKQQIQATFEQQRHRLMLLQQRYNLKALLSSVNQEQQNNLQLTNQL
+VKLLNSKILSYKNDLKNKVENLNNLSPTNTMLRGYAIVNKKDEVITSTKDLTENDQLTLTMKDGLVDAKVTKVRCNND
+" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      prot {
+                        name {
+                          "Exodeoxyribonuclease 7 large subunit" } ,
+                        ec {
+                          "3.1.11.6" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 444 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CICOJLPI_00006" } } ,
+          descr {
+            title "Exodeoxyribonuclease 7 small subunit [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 76 ,
+            seq-data
+              ncbieaa "MTKETQSFEEMMQELEQIVQKLDNETVSLEESLDLYQRGMKLSAACDTTLKNAEK
+KVNDLIKEEAEDVKNDESTDE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 22 ,
+                    data
+                      prot {
+                        name {
+                          "Exodeoxyribonuclease 7 small subunit" } ,
+                        ec {
+                          "3.1.11.6" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 75 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CICOJLPI_00007" } } ,
+          descr {
+            title "Farnesyl diphosphate synthase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 293 ,
+            seq-data
+              ncbieaa "MTNLPMNKLIDEVNNELSVAINKSVMDTQLEESMLYSLNAGGKRIRPVLLLLTLD
+SLNTEYELGMKSAIALEMIHTYSLIHDDLPAMDNDDYRRGKLTNHKVYGEWTAILAGDALLTKAFELISSDDRLTDEV
+KIKVLQRLSIASGHVGMVGGQMLDMQSEGQPIDLETLEMIHKTKTGALLTFAVMSAADIANVDDATKEHLESYSYHLG
+MMFQIKDDLLDCYGDEAKLGKKVGSDLENNKSTYVSLLGKDGAEDKLTYHRDAAVYELTQIDEQFNTKHLLEIVDLFY
+SRDH" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 23 ,
+                    data
+                      prot {
+                        name {
+                          "Farnesyl diphosphate synthase" } ,
+                        ec {
+                          "2.5.1.10" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 292 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_00007" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CICOJLPI_00008" } } ,
+          descr {
+            title "Arginine repressor [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 150 ,
+            seq-data
+              ncbieaa "MPKKSVRHIKIREIISNEQIETQDELVKRLNDYDLNVTQATVSRDIKELQLIKVP
+IPSGQYVYSLPNDRKFHPLEKLGRYLMDSFVNIDGTDNLLVLKTLPGNAQSIGAILDQINWEEVLGTICGDDTCLIIC
+RSKEASDEIKSRIFNLL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 24 ,
+                    data
+                      prot {
+                        name {
+                          "Arginine repressor" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 149 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CICOJLPI_00008" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CICOJLPI_00001" } ,
+                location
+                  int {
+                    from 43 ,
+                    to 207 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CICOJLPI_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P49786" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG0511" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CICOJLPI_00002" } ,
+                location
+                  int {
+                    from 207 ,
+                    to 1562 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CICOJLPI_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:D3DJ42" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG0439" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CICOJLPI_00003" } ,
+                location
+                  int {
+                    from 1577 ,
+                    to 1939 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CICOJLPI_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q5XA93" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CICOJLPI_00004" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 2388 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CICOJLPI_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P65578" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CICOJLPI_00005" } ,
+                location
+                  int {
+                    from 2405 ,
+                    to 3742 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CICOJLPI_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P04994" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG1570" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CICOJLPI_00006" } ,
+                location
+                  int {
+                    from 3735 ,
+                    to 3965 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CICOJLPI_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "protein motif:HAMAP:MF_00337" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CICOJLPI_00007" } ,
+                location
+                  int {
+                    from 3943 ,
+                    to 4824 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CICOJLPI_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q08291" } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CICOJLPI_00008" } ,
+                location
+                  int {
+                    from 5255 ,
+                    to 5707 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CICOJLPI_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P63580" } } } } } } } } }

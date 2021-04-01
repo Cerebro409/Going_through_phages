@@ -1,0 +1,19 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GBPBBHJG_00001	gene	282				
+GBPBBHJG_00001	CDS	282				hypothetical protein
+GBPBBHJG_00002	gene	696				
+GBPBBHJG_00002	CDS	696		1.-.-.-		putative oxidoreductase
+GBPBBHJG_00003	gene	423				
+GBPBBHJG_00003	CDS	423				hypothetical protein
+GBPBBHJG_00004	gene	420				
+GBPBBHJG_00004	CDS	420				hypothetical protein
+GBPBBHJG_00005	gene	426				
+GBPBBHJG_00005	CDS	426				hypothetical protein
+GBPBBHJG_00006	gene	423				
+GBPBBHJG_00006	CDS	423				hypothetical protein
+GBPBBHJG_00007	gene	1539	abgT			
+GBPBBHJG_00007	CDS	1539	abgT		COG2978	p-aminobenzoyl-glutamate transport protein
+GBPBBHJG_00008	gene	819	bacC			
+GBPBBHJG_00008	CDS	819	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+GBPBBHJG_00009	gene	366				
+GBPBBHJG_00009	CDS	366				hypothetical protein

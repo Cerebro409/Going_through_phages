@@ -1,0 +1,105 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EFEAKEDL_00001	gene	399	rpsH			
+EFEAKEDL_00001	CDS	399	rpsH			30S ribosomal protein S8
+EFEAKEDL_00002	gene	537	rplF			
+EFEAKEDL_00002	CDS	537	rplF			50S ribosomal protein L6
+EFEAKEDL_00003	gene	360	rplR			
+EFEAKEDL_00003	CDS	360	rplR			50S ribosomal protein L18
+EFEAKEDL_00004	gene	501	rpsE			
+EFEAKEDL_00004	CDS	501	rpsE			30S ribosomal protein S5
+EFEAKEDL_00005	gene	180	rpmD			
+EFEAKEDL_00005	CDS	180	rpmD			50S ribosomal protein L30
+EFEAKEDL_00006	gene	441	rplO			
+EFEAKEDL_00006	CDS	441	rplO			50S ribosomal protein L15
+EFEAKEDL_00007	gene	1293	secY			
+EFEAKEDL_00007	CDS	1293	secY			Protein translocase subunit SecY
+EFEAKEDL_00008	gene	648	adk			
+EFEAKEDL_00008	CDS	648	adk	2.7.4.3		Adenylate kinase
+EFEAKEDL_00009	gene	219	infA			
+EFEAKEDL_00009	CDS	219	infA			Translation initiation factor IF-1
+EFEAKEDL_00010	gene	114	rpmJ			
+EFEAKEDL_00010	CDS	114	rpmJ		COG0257	50S ribosomal protein L36
+EFEAKEDL_00011	gene	366	rpsM			
+EFEAKEDL_00011	CDS	366	rpsM			30S ribosomal protein S13
+EFEAKEDL_00012	gene	390	rpsK			
+EFEAKEDL_00012	CDS	390	rpsK			30S ribosomal protein S11
+EFEAKEDL_00013	gene	945	rpoA			
+EFEAKEDL_00013	CDS	945	rpoA	2.7.7.6		DNA-directed RNA polymerase subunit alpha
+EFEAKEDL_00014	gene	369	rplQ			
+EFEAKEDL_00014	CDS	369	rplQ			50S ribosomal protein L17
+EFEAKEDL_00015	gene	921	ecfA1			
+EFEAKEDL_00015	CDS	921	ecfA1	7.-.-.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA1
+EFEAKEDL_00016	gene	861	ecfA2			
+EFEAKEDL_00016	CDS	861	ecfA2	3.6.3.-		Energy-coupling factor transporter ATP-binding protein EcfA2
+EFEAKEDL_00017	gene	807	ecfT			
+EFEAKEDL_00017	CDS	807	ecfT			Energy-coupling factor transporter transmembrane protein EcfT
+EFEAKEDL_00018	gene	804	truA			
+EFEAKEDL_00018	CDS	804	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+EFEAKEDL_00019	gene	438	rplM			
+EFEAKEDL_00019	CDS	438	rplM			50S ribosomal protein L13
+EFEAKEDL_00020	gene	399	rpsI			
+EFEAKEDL_00020	CDS	399	rpsI			30S ribosomal protein S9
+EFEAKEDL_00021	gene	1098				
+EFEAKEDL_00021	CDS	1098				hypothetical protein
+EFEAKEDL_00022	gene	294				
+EFEAKEDL_00022	CDS	294				hypothetical protein
+EFEAKEDL_00023	gene	792				
+EFEAKEDL_00023	CDS	792				hypothetical protein
+EFEAKEDL_00024	gene	1137				
+EFEAKEDL_00024	CDS	1137				hypothetical protein
+EFEAKEDL_00025	gene	1407				
+EFEAKEDL_00025	CDS	1407				hypothetical protein
+EFEAKEDL_00026	gene	225				
+EFEAKEDL_00026	CDS	225				hypothetical protein
+EFEAKEDL_00027	gene	1665	alsS			
+EFEAKEDL_00027	CDS	1665	alsS	2.2.1.6	COG0028	Acetolactate synthase
+EFEAKEDL_00028	gene	705	aldC			
+EFEAKEDL_00028	CDS	705	aldC	4.1.1.5	COG3527	Alpha-acetolactate decarboxylase
+EFEAKEDL_00029	gene	426				
+EFEAKEDL_00029	CDS	426				65 kDa membrane protein
+EFEAKEDL_00030	gene	816				
+EFEAKEDL_00030	CDS	816		3.-.-.-		putative hydrolase
+EFEAKEDL_00031	gene	855				
+EFEAKEDL_00031	CDS	855				hypothetical protein
+EFEAKEDL_00032	gene	2424				
+EFEAKEDL_00032	CDS	2424		4.2.2.1		Hyaluronate lyase
+EFEAKEDL_00033	gene	417	adhR			
+EFEAKEDL_00033	CDS	417	adhR		COG0789	HTH-type transcriptional regulator AdhR
+EFEAKEDL_00034	gene	849				
+EFEAKEDL_00034	CDS	849		1.-.-.-	COG0656	putative oxidoreductase/MSMEI_2347
+EFEAKEDL_00035	gene	435				
+EFEAKEDL_00035	CDS	435				hypothetical protein
+EFEAKEDL_00036	gene	741	cobB			
+EFEAKEDL_00036	CDS	741	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+EFEAKEDL_00037	gene	792	lacR			
+EFEAKEDL_00037	CDS	792	lacR			Lactose phosphotransferase system repressor
+EFEAKEDL_00038	gene	429	lacA			
+EFEAKEDL_00038	CDS	429	lacA	5.3.1.26		Galactose-6-phosphate isomerase subunit LacA
+EFEAKEDL_00039	gene	516	lacB			
+EFEAKEDL_00039	CDS	516	lacB	5.3.1.26		Galactose-6-phosphate isomerase subunit LacB
+EFEAKEDL_00040	gene	933	lacC			
+EFEAKEDL_00040	CDS	933	lacC	2.7.1.144	COG1105	Tagatose-6-phosphate kinase
+EFEAKEDL_00041	gene	981	lacD			
+EFEAKEDL_00041	CDS	981	lacD	4.1.2.40		Tagatose 1,6-diphosphate aldolase
+EFEAKEDL_00042	gene	312	lacF			
+EFEAKEDL_00042	CDS	312	lacF		COG1447	PTS system lactose-specific EIIA component
+EFEAKEDL_00043	gene	1713	lacE			
+EFEAKEDL_00043	CDS	1713	lacE			PTS system lactose-specific EIICB component
+EFEAKEDL_00044	gene	1413	lacG			
+EFEAKEDL_00044	CDS	1413	lacG	3.2.1.85		6-phospho-beta-galactosidase
+EFEAKEDL_00045	gene	885				
+EFEAKEDL_00045	CDS	885				hypothetical protein
+EFEAKEDL_00046	gene	1005	yfmJ			
+EFEAKEDL_00046	CDS	1005	yfmJ	1.-.-.-	COG2130	Putative NADP-dependent oxidoreductase YfmJ
+EFEAKEDL_00047	gene	1002				
+EFEAKEDL_00047	CDS	1002				Zinc-type alcohol dehydrogenase-like protein
+EFEAKEDL_00048	gene	1563	opuD			
+EFEAKEDL_00048	CDS	1563	opuD		COG1292	Glycine betaine transporter OpuD
+EFEAKEDL_00049	gene	537				
+EFEAKEDL_00049	CDS	537				hypothetical protein
+EFEAKEDL_00050	gene	240				
+EFEAKEDL_00050	CDS	240				hypothetical protein
+EFEAKEDL_00051	gene	510				
+EFEAKEDL_00051	CDS	510			COG1302	Alkaline shock protein 23
+EFEAKEDL_00052	gene	312				
+EFEAKEDL_00052	CDS	312				IS1182 family transposase ISSau3

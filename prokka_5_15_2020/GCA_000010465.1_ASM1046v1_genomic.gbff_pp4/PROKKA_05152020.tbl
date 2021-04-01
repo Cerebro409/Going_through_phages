@@ -1,0 +1,73 @@
+>Feature gnl|X|MKBEIGGD_1
+1663	128	gene
+			gene	yfkN
+			locus_tag	MKBEIGGD_00001
+1663	128	CDS
+			db_xref	COG:COG0737
+			gene	yfkN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34313
+			locus_tag	MKBEIGGD_00001
+			product	Trifunctional nucleotide phosphoesterase protein YfkN
+			protein_id	gnl|X|MKBEIGGD_00001
+3258	1714	gene
+			locus_tag	MKBEIGGD_00002
+3258	1714	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MKBEIGGD_00002
+			product	hypothetical protein
+			protein_id	gnl|X|MKBEIGGD_00002
+3487	4443	gene
+			gene	phnD2
+			locus_tag	MKBEIGGD_00003
+3487	4443	CDS
+			db_xref	COG:COG3221
+			gene	phnD2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A3PDP9
+			locus_tag	MKBEIGGD_00003
+			product	putative ABC transporter phosphonate/phosphite binding protein PhnD2
+			protein_id	gnl|X|MKBEIGGD_00003
+4657	5430	gene
+			gene	glnQ
+			locus_tag	MKBEIGGD_00004
+4657	5430	CDS
+			gene	glnQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27675
+			locus_tag	MKBEIGGD_00004
+			product	Glutamine transport ATP-binding protein GlnQ
+			protein_id	gnl|X|MKBEIGGD_00004
+5432	6232	gene
+			gene	phnE_1
+			locus_tag	MKBEIGGD_00005
+5432	6232	CDS
+			db_xref	COG:COG3639
+			gene	phnE_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QQ68
+			locus_tag	MKBEIGGD_00005
+			product	Phosphate-import permease protein PhnE
+			protein_id	gnl|X|MKBEIGGD_00005
+6229	7044	gene
+			gene	phnE_2
+			locus_tag	MKBEIGGD_00006
+6229	7044	CDS
+			db_xref	COG:COG3639
+			gene	phnE_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QQ68
+			locus_tag	MKBEIGGD_00006
+			product	Phosphate-import permease protein PhnE
+			protein_id	gnl|X|MKBEIGGD_00006
+7429	7175	gene
+			gene	deoB
+			locus_tag	MKBEIGGD_00007
+7429	7175	CDS
+			EC_number	5.4.2.7
+			gene	deoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99100
+			locus_tag	MKBEIGGD_00007
+			product	Phosphopentomutase
+			protein_id	gnl|X|MKBEIGGD_00007

@@ -1,0 +1,19 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+BPDMCOHN_00001	gene	1515	pbpH			
+BPDMCOHN_00001	CDS	1515	pbpH		COG0768	Penicillin-binding protein H
+BPDMCOHN_00002	gene	150	rpmG2			
+BPDMCOHN_00002	CDS	150	rpmG2		COG0267	50S ribosomal protein L33 2
+BPDMCOHN_00003	gene	594	yqgN			
+BPDMCOHN_00003	CDS	594	yqgN		COG0212	putative protein YqgN
+BPDMCOHN_00004	gene	1464	gluP			
+BPDMCOHN_00004	CDS	1464	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+BPDMCOHN_00005	gene	204				
+BPDMCOHN_00005	CDS	204				hypothetical protein
+BPDMCOHN_00006	gene	987	glcK			
+BPDMCOHN_00006	CDS	987	glcK	2.7.1.2	COG1940	Glucokinase
+BPDMCOHN_00007	gene	330				
+BPDMCOHN_00007	CDS	330				hypothetical protein
+BPDMCOHN_00008	gene	624				
+BPDMCOHN_00008	CDS	624		3.-.-.-		putative metallo-hydrolase
+BPDMCOHN_00009	gene	975	comGA			
+BPDMCOHN_00009	CDS	975	comGA		COG2804	ComG operon protein 1

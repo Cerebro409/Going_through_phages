@@ -1,0 +1,21 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+JKFAJILD_00001	gene	393				
+JKFAJILD_00001	CDS	393				Superantigen-like protein 13
+JKFAJILD_00002	gene	198				
+JKFAJILD_00002	CDS	198				hypothetical protein
+JKFAJILD_00003	gene	198				
+JKFAJILD_00003	CDS	198				hypothetical protein
+JKFAJILD_00004	gene	147				
+JKFAJILD_00004	CDS	147				hypothetical protein
+JKFAJILD_00005	gene	966	hly			
+JKFAJILD_00005	CDS	966	hly			Alpha-hemolysin
+JKFAJILD_00006	gene	234				
+JKFAJILD_00006	CDS	234				hypothetical protein
+JKFAJILD_00007	gene	186				
+JKFAJILD_00007	CDS	186				hypothetical protein
+JKFAJILD_00008	gene	222				
+JKFAJILD_00008	CDS	222				hypothetical protein
+JKFAJILD_00009	gene	351	scn			
+JKFAJILD_00009	CDS	351	scn			Staphylococcal complement inhibitor
+JKFAJILD_00010	gene	378	fib			
+JKFAJILD_00010	CDS	378	fib			Fibrinogen-binding protein

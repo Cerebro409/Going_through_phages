@@ -1,0 +1,41 @@
+# BLASTN 2.9.0+
+# Query: FBIDEFON_00001 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+FBIDEFON_00001	MKBNMLOM_00001	100.000	225	100	1878	225	0	1.98e-117	416
+FBIDEFON_00001	DOACAIIE_00001	100.000	225	100	1878	225	0	1.98e-117	416
+FBIDEFON_00001	GJOHIMGI_00001	100.000	225	100	1878	225	0	1.98e-117	416
+FBIDEFON_00001	FBIDEFON_00001	100.000	225	100	225	225	0	1.98e-117	416
+FBIDEFON_00001	CMLBKDKH_00008	100.000	225	100	1878	225	0	1.98e-117	416
+# BLASTN 2.9.0+
+# Query: FBIDEFON_00002 tRNA modification GTPase MnmE
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+FBIDEFON_00002	MKBNMLOM_00002	100.000	1380	100	1380	1380	0	0.0	2549
+FBIDEFON_00002	DOACAIIE_00002	100.000	1380	100	1380	1380	0	0.0	2549
+FBIDEFON_00002	GJOHIMGI_00002	100.000	1380	100	1380	1380	0	0.0	2549
+FBIDEFON_00002	FBIDEFON_00002	100.000	1380	100	1380	1380	0	0.0	2549
+FBIDEFON_00002	CMLBKDKH_00009	100.000	1380	100	1380	1380	0	0.0	2549
+# BLASTN 2.9.0+
+# Query: FBIDEFON_00003 Ribonuclease P protein component
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+FBIDEFON_00003	MKBNMLOM_00003	100.000	354	100	354	354	0	0.0	654
+FBIDEFON_00003	DOACAIIE_00003	100.000	354	100	354	354	0	0.0	654
+FBIDEFON_00003	GJOHIMGI_00003	100.000	354	100	354	354	0	0.0	654
+FBIDEFON_00003	FBIDEFON_00003	100.000	354	100	354	354	0	0.0	654
+FBIDEFON_00003	CMLBKDKH_00010	100.000	354	100	354	354	0	0.0	654
+# BLASTN 2.9.0+
+# Query: FBIDEFON_00004 50S ribosomal protein L34
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+FBIDEFON_00004	MKBNMLOM_00004	100.000	138	100	138	138	0	2.66e-69	255
+FBIDEFON_00004	DOACAIIE_00004	100.000	138	100	138	138	0	2.66e-69	255
+FBIDEFON_00004	GJOHIMGI_00004	100.000	138	100	138	138	0	2.66e-69	255
+FBIDEFON_00004	FBIDEFON_00004	100.000	138	100	138	138	0	2.66e-69	255
+FBIDEFON_00004	CMLBKDKH_00011	100.000	138	100	138	138	0	2.66e-69	255
+# BLAST processed 4 queries

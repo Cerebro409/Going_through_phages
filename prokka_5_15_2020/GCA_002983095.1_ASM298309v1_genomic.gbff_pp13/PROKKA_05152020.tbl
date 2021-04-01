@@ -1,0 +1,51 @@
+>Feature gnl|X|LMPLBELI_1
+23	199	gene
+			gene	dnaA
+			locus_tag	LMPLBELI_00001
+23	199	CDS
+			gene	dnaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68866
+			locus_tag	LMPLBELI_00001
+			product	Chromosomal replication initiator protein DnaA
+			protein_id	gnl|X|LMPLBELI_00001
+477	1610	gene
+			gene	dnaN
+			locus_tag	LMPLBELI_00002
+477	1610	CDS
+			gene	dnaN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99103
+			locus_tag	LMPLBELI_00002
+			product	Beta sliding clamp
+			protein_id	gnl|X|LMPLBELI_00002
+1991	2236	gene
+			locus_tag	LMPLBELI_00003
+1991	2236	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LMPLBELI_00003
+			product	hypothetical protein
+			protein_id	gnl|X|LMPLBELI_00003
+2233	3345	gene
+			gene	recF
+			locus_tag	LMPLBELI_00004
+2233	3345	CDS
+			db_xref	COG:COG1195
+			gene	recF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8RDL3
+			locus_tag	LMPLBELI_00004
+			product	DNA replication and repair protein RecF
+			protein_id	gnl|X|LMPLBELI_00004
+3355	5289	gene
+			gene	gyrB
+			locus_tag	LMPLBELI_00005
+3355	5289	CDS
+			EC_number	5.6.2.2
+			db_xref	COG:COG0187
+			gene	gyrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A0K8
+			locus_tag	LMPLBELI_00005
+			product	DNA gyrase subunit B
+			protein_id	gnl|X|LMPLBELI_00005

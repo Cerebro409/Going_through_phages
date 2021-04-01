@@ -1,0 +1,13 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+DCPLLAOP_00001	gene	597	recR			
+DCPLLAOP_00001	CDS	597	recR		COG0353	Recombination protein RecR
+DCPLLAOP_00002	gene	318				
+DCPLLAOP_00002	CDS	318				Nucleoid-associated protein
+DCPLLAOP_00003	gene	1698	ruvB			
+DCPLLAOP_00003	CDS	1698	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+DCPLLAOP_00004	gene	525				
+DCPLLAOP_00004	CDS	525				hypothetical protein
+DCPLLAOP_00005	gene	729	treR			
+DCPLLAOP_00005	CDS	729	treR		COG2188	HTH-type transcriptional regulator TreR
+DCPLLAOP_00006	gene	585				
+DCPLLAOP_00006	CDS	585				hypothetical protein

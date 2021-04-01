@@ -1,0 +1,60 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1          161         1357            +         1197      0.40533
+
+     2         1369         2136            +          768      0.40135
+     (bit_score:178.333;e-value:1.52696e-54;identity:33.2%;gi|557307613|ref|YP_008766949.1| IS21 transposition protein [Enterobacteria phage fiAA91-ss])
+
+     3         2367         2759            -          393      0.28434
+
+     4         2761         3150            -          390      0.25100
+
+     5         3168         3542            -          375      0.24769
+
+     6         3557         4030            -          474      0.30897
+
+     7         4041         4454            -          414      0.30196
+
+     8         4467         5729            -         1263      0.37745
+
+     9         5742         6032            -          291      0.33422
+
+    10         6035         7114            -         1080      0.37680
+
+    11         7051        11559            -         4509      0.50000
+
+    12        11581        12915            -         1335      0.44934
+
+    13        12928        13170            -          243      0.36791
+
+    14        13133        13600            -          468      0.34437
+
+    15        13600        16629            -         3030      0.46000
+
+    16        16712        17005            -          294      0.28735
+
+    17        17244        18146            +          903      0.41718
+
+    18        18477        20000            +         1524      0.38431
+
+    19        20068        21291            +         1224      0.39734
+
+    20        21231        22151            +          921      0.38313
+
+    21        22165        22824            +          660      0.42469
+
+    22        22876        23841            -          966      0.28799
+
+    23        24149        24793            -          645      0.43317
+

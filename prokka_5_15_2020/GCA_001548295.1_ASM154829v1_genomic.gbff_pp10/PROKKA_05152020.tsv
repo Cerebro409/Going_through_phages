@@ -1,0 +1,13 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LCOCJHGB_00001	gene	816				
+LCOCJHGB_00001	CDS	816		3.1.1.23	COG2267	Monoacylglycerol lipase
+LCOCJHGB_00002	gene	246				
+LCOCJHGB_00002	CDS	246				hypothetical protein
+LCOCJHGB_00003	gene	432				
+LCOCJHGB_00003	CDS	432				hypothetical protein
+LCOCJHGB_00004	gene	447	argR			
+LCOCJHGB_00004	CDS	447	argR			Arginine repressor
+LCOCJHGB_00005	gene	1236	arcA			
+LCOCJHGB_00005	CDS	1236	arcA	3.5.3.6		Arginine deiminase
+LCOCJHGB_00006	gene	1422	arcD			
+LCOCJHGB_00006	CDS	1422	arcD		COG0531	Arginine/ornithine antiporter

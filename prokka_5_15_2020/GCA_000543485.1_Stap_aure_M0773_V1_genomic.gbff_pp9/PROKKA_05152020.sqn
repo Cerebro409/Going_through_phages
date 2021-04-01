@@ -1,0 +1,1119 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GMOEFFOK_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 9560 ,
+            seq-data
+              iupacna "ATACCGGTTCAAGTTTCATTTCGTCACTTTTCAACATTTGTCTAATCAGCATTGA
+ACCTGCTTGACCAGCACCAACAACTAAAGTTGGCTTCTTATTAAATGACTTACCTCCAAGGTATTTCCGATAAATACG
+CCAAAATAACCTTGAGCCACCTATTAAAATCAAGTGCATCATCCAAGTAATTAAATACAATCTAAAAAACGGTCTATT
+GCCTGTAACAATTGTCACGACCACCATCGTAATAACGATAGATGTCGTCACAGCTTTAACAATTAAAATCAATTCACT
+CACACTGGCATATTCCCACGCTCGATGATACATATTAAAAATAAATGCTGAAATATGATGCGATATGAATAGTGATAT
+AGCTGCCAATATTAATAATTTGACAGAATATGTTTTGAAATACGGTTCTAAAATGTAATAACTTACGAATACTGAAAA
+TGTCACTATCAGTGAATCGATTAATGCTAGTATTAAAAGCCGCAATTTCACAGATAAATGTGCCATAAAACCCCTCAT
+TTGCTGTTTATAACCCAAACCATCTTTTCTGTTTATAATCTTGTTGTGGCATTCGTTTAGGAATTTTTTTATCATCAA
+CAACTAACTTCGCATTACTAATAAATCCGTTCATATCTTCATAATAATCACGTAATTTCTTATCATTAAATAAGTCTT
+TCATTAAGAACGGTCTGATTTCTGTGTTATGCGCATCTGAACCGATGAAATGTGTCAGATTGTTTTCAATCATTTGAA
+TTGCTAATTTTCTAATTTTTTTACCGGAAATACCCGCTAATGACGCCGTTGTCACTTGACTTAAAGCACCTTTGTTAA
+TTAAATCGTATAGTATGTCAAGGTTTTGACTTATTGCTTTATTCCGCTCTGGATGTGCAATAATCGGTACAAAGCCTT
+TACTCTGTAATTCGAAAAATAATTGATCAGTATAGTGTGGAACTTCATTTGATGGAAATTCTATTAGTAAATAGCGTG
+AATCATTAATACCGTTAATAACTTTTCGATCAATATCATTAAGGATTTGATCGGTAATTCTTATTTCCTGACCATAAT
+AAAACTTTAGATTTAGTGCTTGTACTTCCTCTAAGCTTTCAATATGGTTTAAACATGATTTCACTTTTTCTATAGGTG
+TGGTATATCGAGGATGTAAGTGATGTGATGTTACAATGATTTCTGTAACACCTTGTGTTGTCGCTTGTTTTAAAAGAT
+CCATCATCTCTGTTTCATTTGTCGGACCGTCATCGATATTAGGCAATATATGGTTATGAATATCAATCATACTTATTC
+ATCTCCATAATAGTGATAATAACTAGAAGATTTATCGACCTTTGTCTTGTTCAAAATGACACCTAGAATGTTACTGCC
+TGCTTTTTCCATAAGTGCTTTTGCTTTTTTAACTTCATTTTTATCATTTTTTTCACTATCAATTACTAACAGACTATC
+TTTAATAGCACGCGCATATAGTTGTGCATCAGTCACAGTATTAACTGGCGGTGTATCGACAATAATAATGTCGTAACG
+TTTATTAAACAGATCAACTAATTCTTTGAACCTTTCAGACCCAATTAACTCAGATGGATTTGGAGGTACAGGGCCAGC
+TGTTAGCAAATCTAAATTTTCAATTTCTGTCGACGTAATTGCTTCTGACATAGTCGTTCGACCAATGATTAAGCTTGA
+TAGTCCATTATTATTTTGCTCATTAAAAATATAGTTTTGTGTTGGCTTACGCATATCGCCATCAATAACTAATGTCTT
+ATAGCCTGCTTGTGCATAAGTAATCGCTACATTCGATACAACTGTACTTTTACCTGCACCAGGCTTTTCAGAAGTAAC
+CAATAAGCGCTTTACTTCACCATTTGCTTTTGAAAACATGATGTTTGAACGTATACCTCGAAACTTTTCACTAATTGT
+TGATTTTGGTTTTTCATATACAAATAGTGTTGTTGTCGTATTTTCCTTTTTTGACATAAGTAGCAACCATCCTTAATT
+AAATTTTTGAATTGAACCCAATACAGGCAATCCTAATTCTTTCTCTACATCTTCTTCATCTTTAATTCGCTTATCGAA
+AATTACTTTGAAGAAGATATATATAAGCGCGACAACTAATCCTAAAAAGAATGCACCGATTAGATTCACTACAGTTTT
+TGGTGCGACTTTAACTGCTGTACCGTCTGCTTTAGATAAAATTGATACGTTATCCACACTCATAATCTTCGGAATTTG
+TTTACTTGTAACTTTAGCGAAGCTATTCGCAATTTTTTCCGAATCTTGTTTATGACCACTTTTAACTTGGATGTTGAT
+AAGTTGCGTATTTTCTTGGTTTGTAATTGTCAACATACTCGACAATTTAGATGGTGAATACTTATCATTTAAGTCCTT
+TGACACCTCATCTAAAATTCTAGGACTTTTAACAATTTCTTTATACGTATTTACAAGTTGAATATTACTTTGAACCTC
+TTGCGCCATAAACTGAGGATTGTCACCCTTAGTTTGATTCACTAAAATTTGAGTATTAGCTTGATATTTAGGTGATAA
+GACGAAAAATGTAACAATAGCGCTAATAATTAAAAATAATAGCGGTAAAATAATTAAAATCTTCAAGTTTTTTTGTAA
+TACTTCTTTAATTTTTGTTAATTCTAATGTACTTTCCATTATTTACCTCCCTTAAAAATTTTCATTAAAATTGGTATT
+ATATATATAGTATTTACATATTACATATCGTTTGAACAATTAATTACTTTTAAACCGCATTATTTTCGCCTTTTTATT
+TATATGAAATTAAAAATAATTATACTCTAAAGTAGTAATAGTTTGTGAAATGAGTATCAATCTTAATATTTTCTTTAT
+TTAAAAAAATGATTGTCTAGTTTGTATCTCTCTGAAGATTTGGCAATAAATAAAAGCCGATAACCGTATAATGATTAT
+CGACTTAAAGTTTATGTGGCATTTTTTACTTTTGTAATTTCAGGTGAGTTAGATGATTATTATCAGATAGATTATTGC
+TTATAATCATATGATGTTTGAATGATATCTTTGATTTCACTGATTAGTGCTTCTTTAGGATTAGCAGTTGTACATTGA
+TCTTCAAATGCGAGCTCTGCCATTCTATCAATTGACTCATTTAATTCTTCTTCAGACACACCTTGTGATTTCAAATTC
+ATTTCAATTCCGACTGATTGACCTAATTCGTAGACAGCTTTAGCTAATGATTCTACGAGTGCTTCTGTCGTATTACCT
+TTTAATCCTAAGAATTTGGCAATATCTGCATAATCTGTATCTGCTCTGAAGAACTCATATTTAGGGAATAATGCATGT
+TTTTGCGGGTCTTTGGCATTATAACGGATAATATGCGGTAGTAATATCGCATTCGCTCTACCATGCGGAATACCATAT
+TCGCCACCAATTTTATGCGCAATTGAGTGTGCAATGCCTAAGAATGCATTTGCAAATGCCATACCAGCCAAAGTTGAT
+GCGTTATGCATTTTCTCTCTTGAAACTTTATCACCCTTTTCAACAGATGATTTTAAATATTCGAACGTCAATTTAATC
+GCTTGTAGACTCAAACCTCTTGTGTAGTCTGAAGCCATTACAGATACATATGATTCCATTGCATGCGTTAGTACATCC
+ATTCCTGTATCTGCTGTAACGCTTTTTGGCACACTCATCACAAATTGAGGGTCAATAATTGCAACGTCAGGTGTTAAA
+GCAAAATCAGCCAACGGATATTTTACATTTGTTTCACTATCTGTGATAACTGCAAATGGTGTTACTTCTGAACCTGTA
+CCTGATGTCGTAGGGATACAAATGAACGTCGCATTTTCAGGCATGCCTATTTTATAAGTACGTTTACCGATGTCTAGG
+AACTTTTGTTTAGCACCGAAGAATGATGTCTCAGGGTGTTCAAAGAACATCCACATTGCTTTTGCAGCATCCATCGCT
+GAACCACCACCAAGTGCAATGATTGTATCCGGTTGGAAATCAACCATCATTTCCAGACCTTTATATACTGTATTAGTT
+GATGGGTTCGGTTCGACTTCGCTAAATATTTTAATTTGAGGCTGTTCCGTTTTTTGTCTTAATACATTCTCAACTGTT
+TTTGTATAACCGAATTCTACCATACCAGGGTCACAGACAATCATCACTTTTTCAATCTTGTCCATTGTTGTTAGACTC
+ATGATTGCATTTTCTTCAAAATAAATTTGAGCAGGCACCTTGAAAATTTGAGTATTATTACGTCGTTTAGCAATCGTT
+TTAATGTTTAATAAATCTGTCGCACTAACATTATGTGAAATTGAGTTTCTACCGTAGGAACCACAACCTAATGTTAAA
+GACGGAATCAATTCGTTATACATATCACCAATACCTCCAACCGCTGATGGTGTATTTACAAGTACACGACAAGCTTTC
+ATTCTTAGTCCAAAATCTTTTTGTAATGTTTCATCTTCTGTATGGATAACGGCTGTGTGTCCTAATCCACCAAAATGT
+AGTGTGTCTTCACAAATTTGAAATGCTTGTTTTGTAGATTGGGCTTTTACTAAGGCTAATACTGGAGATAATTTTTCA
+CGAGATAACGGATAGTCTGAACCTACACCGCTAATTTCGGCTATGATAAGTTTTGTATTTTCGGGGACAGGTATACCT
+GCTAATTCAGCTATTTCAACTGCAGATTTACCGACAATATCAGGCTTAATACCTGTTTTTTGTTCATTCATAATTGCA
+TTTTCTAAGCGTTGTAATTCATCTTTTTTAACAAAGTATGCTTGATGTGCTTTAAATTCATTAGTAACATCTTTATAA
+ATTTCTTTATCAATGACTACAACTTGTTCAGAAGCACAAATCATACCATTATCAAATGTTTTTGAACCAATGATATCA
+TTTACTGCACGTTTAATGTGTGCTGTTTTTTCAATGTAAGACGGCACGTTACCTGGTCCCACACCTAATGCCGGTTTG
+CCAGTTGAATATGCAGACTTAACCATGCCCGAACCACCTGTTGCTAGAACTAATGCAATACCTTTGTGATTCATTAAT
+TGTTTTGTTGCTTCGATAGAAGGCACTTCAATCCACTGAATAATATCTTTAGGTGCACCTGCCTTCATTGCCGCTTCT
+AATACAACTTCTGCTGCACGCTTCGACGATTCTTGTGCACTTGGATGGAATGCAAAAATGATTGGATTTCCTGTCTTA
+ATTGCAATCATCGCTTTAAAAATAGTTGTCGACGTAGGATTTGTTGTTGGCGTAACACCACAAATAACACCAATTGGT
+TCCGCTACATACGTTAATCCTTTTTCTTTATCTTCACCAATAATCCCTACTGTCTTATTGTCTTTTATTGAATTCCAT
+ATATATTCAGAAGCGTATAAATTTTTAATCGCTTTATCTTCGTATATACCTCTTCCAGTTTCTTCATGTGCTAATTTT
+GCTAGCACCATATGTTGATCAACAGCTGCTAAGCTCATTTGATGAACAATATGATCAATTTCTTCTTGTGACTTTTTA
+GATAATGCTTCTAATGCTTTTTTCCCTTTGTCAGCTAGAGCATCAATCATAATTGCCACTTCTTGTTCTTTCGATCCA
+CGATTTTCTTTTTCAGGTATAGTTAACATATACAACCACTCCTTTATACTTTGTGAATTATTTCACAAACATTATAGT
+ACATGTCTCTCAGGATATAAAGAAAATTCTATACAAAAAAGTTTAATTTCGAATATTATTTGAACAAATATCAAATTT
+TAAAATAAATGTTTTCATGAAATCATTGTTATTTCGGTGTTTTTAGAATGATTTTATAATCATAATTTTTTCAATGAC
+ATAATTTATTCATAATTATATATTTAATTCTGAATATTCTTTAATAGCCTAAAAAGCTTGTTATATCGCACAAAACAC
+AACATTAAAAGGTCCTTGTCGATACCTATCAACAGATGTTACAAATAAAAACCACCCGTGTGAACGGGTGGTTTGTTC
+TGCGGCTATAAGCCTTCCTTACTGGCCAGCCCTAAAAGGGCACTGACAAGTCAGCCAACTGCACTACTATTCCAGCAA
+TCCTAAAGGTTTACTCTTTTTTCTTTCTTTTTTTATTTTTCTCTCCAGTGAAAGGATCTAAATATTCTTCCATTGAAA
+TTTCATCTGCAACGATATCCTCTTGTAATTGATTACGAATATAATTTTCAATCACTTTTTTATTTCTACCTACTGTAT
+CCACATAAAATCCTTTACACCAAAACTTTCTATTTCCATATCTATACTTTAAGTTAGCATGTCTATCAAATATCATTA
+AATTACTTTTCCTTTTAAATAGCCAACAAATGATGATACCCCAAGTTTGGGTGGTATACTAACTAACATATGGATATG
+ATCTTTACATACCTCTGCTTCAATTATCTCTACACCTTTTCTTTCATATAATTGACGTAATATAATCCCTATATCTTT
+TTTTATTTTTCCATATATCGCTTGTCTTCTGTATTTAGGTGCAAAGACAATATGTTACTTACAATTCCATTTCGTATG
+TGCTAAACTGTTTGTGTCAGATGACATTAAATAGCATCTCCTCGTGTTGATTATTTTGGTTGGCTGACCAATATTTAC
+TCTAACATGTAGAGATGCATTTTTTTGACAATGGTAGAACCTTTTCTGGGGAGTGGGACAGAAATGATATTTTCGCAA
+AATTTATTTCGCCGTCCCACCCCAACTTGCATTGTCTGTAGAAATTGGGAATCCAATTTCTCTTTGTTGGGGCCCCGC
+CCCAACTCGCATTGCCTGTAGAATTTCTTTTCGAAATTCTCTGTGTTGGGGCCCCTGACTAGAATTGAAAAAAGCTTA
+TTACAAGCGCATTTTCGTTCAGTCAATTACTGCCAATATAACTTCGTAGATCATAGAAGATTGATTTATTTCCCAGCC
+TATTCTTTTTATAATATTTAGCAAAGGTAATAATGATATTAATAATGTACAAAAAATATAAATCAAATCGACATCCTT
+ATAAAACATCAGAACCACTAAAAACAAAAAAGCACAAAATAAAATTAAATTTAAAATAAACGACCACTTTTCAAAAAA
+ATCTCTTTTCATATTTCCACCCCTAATTTTAATAAGCATTATTTTATATTCTCTTTTAAGTTTATTATTCAAAAGGAA
+AACAGAAATATCTTTCAATATTATTATAAACATTTCAACTACTTTTAAAAACCAACAAAAAAATACTTATTTTAAGTA
+GATGAGCATAAGTGAACATAGTTCTTTAGTTATAATAATTAATTCAACCAAAAGTCGATTTGTTTTTGCAATTGGTTT
+TCATTTCCTCTTAAAGATATTTTCATTAAATCTGTCAAATCAATAGACGCTATATTTTTCAACTTATCTCTATATTTA
+TTTTTAGTACGTCTTTCTAAATTTCCCCATTCCTCTTCTTCGTGAGTTAATAAATGAAGCATTGCTCGTTCTTGTATA
+TTTTCAATCATTTTTAAATTCGGTTTTAAAATATGCAAATCATCAAAACAATCTTTCCAACAATCAACCATATCTCGT
+TTTAATTCAATTTCCACACGCCATAGAAATGTTGAATCAATTTCAACATCTGCATTATCTTTACGTTCTTGTTTTTAT
+TATAAATCCGAATAAACCTATCACTATTACGCACACCAAAATATTTTGTTTCTGGTTTTACATTACGTCCATAAAATA
+TAGTTTTCTTTACCGACTTATCTGACAATGCATAATAGTCATTTAAATCAAATTCAAAATCAAAAGCCAAATCTAATC
+TCGTAAAACTAACATCGTCCAAATAACTGATGATATTTTGTTTTAACCAAAGCACTTCATCATGCGAAAGCTTATTAG
+GATTAAATTCAACGCGCATACTACGTCTATTCCAAAGAGTTGCTTTTATTTTGTCATATTCAATATAAACTTTTTCTT
+TAAGAGCTTTAGCTTTAAAGTTTGTTTGTAAAATATCCCAAAGCCGAATTTCAGGATTAGTACTCATAAAATGTGAAA
+GTCTCTCTGCGTTAGACATGCTAAGATTCCCAACAATCGTTATAGCGTCAAAAGACAATTTTGGAATAGCTAGTGACA
+TCCTATGTCGATTTAACCGGCTATTACCGGATATTAGAGTATCCAGTTTTACAAATGGATGAAACGAAATTCAAAACA
+CTAAAAAATATGTTCCACTAACAGCAAAAAAATACCATTATGTTCCTACTAAAAAACTAAAAATACTGGAGAACAAAT
+GTCAGGATATAACTTAGGATACTATGTAATAAAAATTTACAATAAAAAAACAGGAAAACAAATTTCAAGTAAAAGAAT
+ACCCATACAAAGAGGATAAAATAAAAAACCTCGAACTGAAATGATGATCTTTTCAGCTCGAGGTTTAAATATTGGTGC
+CTTATTTATATAGATTCGTTATATTATATTCTCTATTTTCATTAACATAATCCTTAAAGAGTTTTAAATTAATACCTG
+CTAGATGATTCAAAAATGTTTCATCAACTTTTAAATAATTCAATAATTTTTGTGGTGTCAGTAAATTTCTATCAAAAT
+ACAACTTTAATAAACTATTCATTTTGACAGGACGTGACATTTCAATCACGTCGTCTAAAGATAATACTTTCTCGCTTT
+AAACAAAAACAAAAACTTACCCGATTAAAATCAAGTAAGTTTTACATATATCCGTCACTTTTCAACTTTAAAATCAAC
+AACTTGCGGGATGCGCATCAAATTATTATTTGATAAAAAATCAATAAGTAATTGTGCGCCTTCAACTTGAATATCTTT
+TACAACTGGCGCGTCGATATACATATCATACTGACCACCGCCTACTGCACGATAATTATTTACACAAATTGTATATGT
+CTGCTTTAAATCAACTGCGTGACCTTGAATCATCATATTGCTCACACGTTGTCCCTTTGGTCTTCCAACATGAATGGT
+ATAACTTACGCCACCATATATATCATAATTAAAGTGTTGTGGTTTGGGTTCAAGGAAGTCTGCGCTCACACTAACTTC
+ATCATTTTTCACGTCAAAATATTCTGCTGATCGTTCAATGGCTTCTTTAAGTTTGGCACCACTTACAGCTAAAACTTT
+AAATGTATTTGGAAATGGGTAATTGTTAATAACATCTCGCATCGTCACGACTTGCTTGAAACCACTAGCAGAATCAAA
+CAAAGCTGTACAGGCAACATCTGCGTCACTTTTTTCTAATAAAGCGTAATTCATAAAATTTGTAAAAGGATGCGGTGC
+CACACGTGCCTCAAATGCATGATTAATCGTCATATCATATGGCAATGTAGTAATTTCGTAATCTAACCAGTCCTCTAA
+CTGCTTTCGTAAATGTTGGTCATCTTCATCAATAGTAAATGTGGAATCATCTATAACAGGAAGTAATTCACATGATTC
+AACGGATAGATTTTCATATTCATCAGTACTCAAGACTACTCTGCCTACAGTTGTACCTCTCGTACCAGGTTGAATCAC
+AGCCGTTTGCTTAAACCTTTCAGCAATTTGTCGATGTTGGTGACCCGTAATAAAGATATCTATATCT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus "ywqE" ,
+                        locus-tag "GMOEFFOK_00001" } ,
+                    location
+                      int {
+                        from 530 ,
+                        to 1294 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus "ywqD" ,
+                        locus-tag "GMOEFFOK_00002" } ,
+                    location
+                      int {
+                        from 1297 ,
+                        to 1983 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      gene {
+                        locus "cap8A" ,
+                        locus-tag "GMOEFFOK_00003" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 2667 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      gene {
+                        locus "adhE" ,
+                        locus-tag "GMOEFFOK_00004" } ,
+                    location
+                      int {
+                        from 3012 ,
+                        to 5621 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      gene {
+                        locus-tag "GMOEFFOK_00005" } ,
+                    location
+                      int {
+                        from 6071 ,
+                        to 6292 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      gene {
+                        locus-tag "GMOEFFOK_00006" } ,
+                    location
+                      int {
+                        from 6859 ,
+                        to 7185 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      gene {
+                        locus "repE" ,
+                        locus-tag "GMOEFFOK_00007" } ,
+                    location
+                      int {
+                        from 7269 ,
+                        to 7559 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      gene {
+                        locus "repN" ,
+                        locus-tag "GMOEFFOK_00008" } ,
+                    location
+                      int {
+                        from 7544 ,
+                        to 8089 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      gene {
+                        locus-tag "GMOEFFOK_00009" } ,
+                    location
+                      int {
+                        from 8402 ,
+                        to 8596 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      gene {
+                        locus-tag "GMOEFFOK_00010" } ,
+                    location
+                      int {
+                        from 8689 ,
+                        to 9492 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GMOEFFOK_00001" } } ,
+          descr {
+            title "Tyrosine-protein phosphatase YwqE [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 254 ,
+            seq-data
+              ncbieaa "MIDIHNHILPNIDDGPTNETEMMDLLKQATTQGVTEIIVTSHHLHPRYTTPIEKV
+KSCLNHIESLEEVQALNLKFYYGQEIRITDQILNDIDRKVINGINDSRYLLIEFPSNEVPHYTDQLFFELQSKGFVPI
+IAHPERNKAISQNLDILYDLINKGALSQVTTASLAGISGKKIRKLAIQMIENNLTHFIGSDAHNTEIRPFLMKDLFND
+KKLRDYYEDMNGFISNAKLVVDDKKIPKRMPQQDYKQKRWFGL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      prot {
+                        name {
+                          "Tyrosine-protein phosphatase YwqE" } ,
+                        ec {
+                          "3.1.3.48" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 253 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GMOEFFOK_00002" } } ,
+          descr {
+            title "Tyrosine-protein kinase YwqD [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 228 ,
+            seq-data
+              ncbieaa "MSKKENTTTTLFVYEKPKSTISEKFRGIRSNIMFSKANGEVKRLLVTSEKPGAGK
+STVVSNVAITYAQAGYKTLVIDGDMRKPTQNYIFNEQNNNGLSSLIIGRTTMSEAITSTEIENLDLLTAGPVPPNPSE
+LIGSERFKELVDLFNKRYDIIIVDTPPVNTVTDAQLYARAIKDSLLVIDSEKNDKNEVKKAKALMEKAGSNILGVILN
+KTKVDKSSSYYHYYGDE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 22 ,
+                    data
+                      prot {
+                        name {
+                          "Tyrosine-protein kinase YwqD" } ,
+                        ec {
+                          "2.7.10.2" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 227 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GMOEFFOK_00003" } } ,
+          descr {
+            title "Capsular polysaccharide type 8 biosynthesis protein cap8A
+ [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 222 ,
+            seq-data
+              ncbieaa "MESTLELTKIKEVLQKNLKILIILPLLFLIISAIVTFFVLSPKYQANTQILVNQT
+KGDNPQFMAQEVQSNIQLVNTYKEIVKSPRILDEVSKDLNDKYSPSKLSSMLTITNQENTQLINIQVKSGHKQDSEKI
+ANSFAKVTSKQIPKIMSVDNVSILSKADGTAVKVAPKTVVNLIGAFFLGLVVALIYIFFKVIFDKRIKDEEDVEKELG
+LPVLGSIQKFN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 23 ,
+                    data
+                      prot {
+                        name {
+                          "Capsular polysaccharide type 8 biosynthesis protein
+ cap8A" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 221 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GMOEFFOK_00004" } } ,
+          descr {
+            title "Aldehyde-alcohol dehydrogenase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 869 ,
+            seq-data
+              ncbieaa "MLTIPEKENRGSKEQEVAIMIDALADKGKKALEALSKKSQEEIDHIVHQMSLAAV
+DQHMVLAKLAHEETGRGIYEDKAIKNLYASEYIWNSIKDNKTVGIIGEDKEKGLTYVAEPIGVICGVTPTTNPTSTTI
+FKAMIAIKTGNPIIFAFHPSAQESSKRAAEVVLEAAMKAGAPKDIIQWIEVPSIEATKQLMNHKGIALVLATGGSGMV
+KSAYSTGKPALGVGPGNVPSYIEKTAHIKRAVNDIIGSKTFDNGMICASEQVVVIDKEIYKDVTNEFKAHQAYFVKKD
+ELQRLENAIMNEQKTGIKPDIVGKSAVEIAELAGIPVPENTKLIIAEISGVGSDYPLSREKLSPVLALVKAQSTKQAF
+QICEDTLHFGGLGHTAVIHTEDETLQKDFGLRMKACRVLVNTPSAVGGIGDMYNELIPSLTLGCGSYGRNSISHNVSA
+TDLLNIKTIAKRRNNTQIFKVPAQIYFEENAIMSLTTMDKIEKVMIVCDPGMVEFGYTKTVENVLRQKTEQPQIKIFS
+EVEPNPSTNTVYKGLEMMVDFQPDTIIALGGGSAMDAAKAMWMFFEHPETSFFGAKQKFLDIGKRTYKIGMPENATFI
+CIPTTSGTGSEVTPFAVITDSETNVKYPLADFALTPDVAIIDPQFVMSVPKSVTADTGMDVLTHAMESYVSVMASDYT
+RGLSLQAIKLTFEYLKSSVEKGDKVSREKMHNASTLAGMAFANAFLGIAHSIAHKIGGEYGIPHGRANAILLPHIIRY
+NAKDPQKHALFPKYEFFRADTDYADIAKFLGLKGNTTEALVESLAKAVYELGQSVGIEMNLKSQGVSEEELNESIDRM
+AELAFEDQCTTANPKEALISEIKDIIQTSYDYKQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 24 ,
+                    data
+                      prot {
+                        name {
+                          "Aldehyde-alcohol dehydrogenase" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 868 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GMOEFFOK_00005" } } ,
+          descr {
+            title "IS200/IS605 family transposase ISSep3 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 73 ,
+            seq-data
+              ncbieaa "MIFDRHANLKYRYGNRKFWCKGFYVDTVGRNKKVIENYIRNQLQEDIVADEISME
+EYLDPFTGEKNKKRKKKE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 25 ,
+                    data
+                      prot {
+                        name {
+                          "IS200/IS605 family transposase ISSep3" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 72 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GMOEFFOK_00006" } } ,
+          descr {
+            title "hypothetical protein GMOEFFOK_00006 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 108 ,
+            seq-data
+              ncbieaa "MFIIILKDISVFLLNNKLKREYKIMLIKIRGGNMKRDFFEKWSFILNLILFCAFL
+FLVVLMFYKDVDLIYIFCTLLISLLPLLNIIKRIGWEINQSSMIYEVILAVID" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 26 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 107 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GMOEFFOK_00007" } } ,
+          descr {
+            title "Replication initiation protein [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 96 ,
+            seq-data
+              ncbieaa "MEIELKRDMVDCWKDCFDDLHILKPNLKMIENIQERAMLHLLTHEEEEWGNLERR
+TKNKYRDKLKNIASIDLTDLMKISLRGNENQLQKQIDFWLN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 27 ,
+                    data
+                      prot {
+                        name {
+                          "Replication initiation protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 95 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_00007" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GMOEFFOK_00008" } } ,
+          descr {
+            title "Replication initiation protein [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 181 ,
+            seq-data
+              ncbieaa "MSLAIPKLSFDAITIVGNLSMSNAERLSHFMSTNPEIRLWDILQTNFKAKALKEK
+VYIEYDKIKATLWNRRSMRVEFNPNKLSHDEVLWLKQNIISYLDDVSFTRLDLAFDFEFDLNDYYALSDKSVKKTIFY
+GRNVKPETKYFGVRNSDRFIRIYNKNKNVKIMQMLKLIQHFYGVWKLN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 28 ,
+                    data
+                      prot {
+                        name {
+                          "Replication initiation protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 180 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_00008" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GMOEFFOK_00009" } } ,
+          descr {
+            title "hypothetical protein GMOEFFOK_00009 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 64 ,
+            seq-data
+              ncbieaa "MSRPVKMNSLLKLYFDRNLLTPQKLLNYLKVDETFLNHLAGINLKLFKDYVNENR
+EYNITNLYK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 29 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 63 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_00009" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GMOEFFOK_00010" } } ,
+          descr {
+            title "hypothetical protein GMOEFFOK_00010 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 267 ,
+            seq-data
+              ncbieaa "MIQPGTRGTTVGRVVLSTDEYENLSVESCELLPVIDDSTFTIDEDDQHLRKQLED
+WLDYEITTLPYDMTINHAFEARVAPHPFTNFMNYALLEKSDADVACTALFDSASGFKQVVTMRDVINNYPFPNTFKVL
+AVSGAKLKEAIERSAEYFDVKNDEVSVSADFLEPKPQHFNYDIYGGVSYTIHVGRPKGQRVSNMMIQGHAVDLKQTYT
+ICVNNYRAVGGGQYDMYIDAPVVKDIQVEGAQLLIDFLSNNNLMRIPQVVDFKVEK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 30 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 266 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GMOEFFOK_00010" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GMOEFFOK_00001" } ,
+                location
+                  int {
+                    from 530 ,
+                    to 1294 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GMOEFFOK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P96717" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG4464" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GMOEFFOK_00002" } ,
+                location
+                  int {
+                    from 1297 ,
+                    to 1983 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GMOEFFOK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P96716" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG0489" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GMOEFFOK_00003" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 2667 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GMOEFFOK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P72367" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG3944" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GMOEFFOK_00004" } ,
+                location
+                  int {
+                    from 3012 ,
+                    to 5621 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GMOEFFOK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P0A9Q7" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG1012" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GMOEFFOK_00005" } ,
+                location
+                  int {
+                    from 6071 ,
+                    to 6292 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GMOEFFOK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:ISfinder:ISSep3" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GMOEFFOK_00006" } ,
+                location
+                  int {
+                    from 6859 ,
+                    to 7185 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GMOEFFOK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GMOEFFOK_00007" } ,
+                location
+                  int {
+                    from 7269 ,
+                    to 7559 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GMOEFFOK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P12053" } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GMOEFFOK_00008" } ,
+                location
+                  int {
+                    from 7544 ,
+                    to 8089 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GMOEFFOK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P19529" } } } ,
+              {
+                id
+                  local
+                    id 9 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GMOEFFOK_00009" } ,
+                location
+                  int {
+                    from 8402 ,
+                    to 8596 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GMOEFFOK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 10 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GMOEFFOK_00010" } ,
+                location
+                  int {
+                    from 8689 ,
+                    to 9492 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GMOEFFOK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } } } } } } }

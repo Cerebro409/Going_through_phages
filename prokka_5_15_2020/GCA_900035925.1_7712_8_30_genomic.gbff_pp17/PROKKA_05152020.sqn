@@ -1,0 +1,671 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PAONDKHO_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 4608 ,
+            seq-data
+              iupacna "AAACAAATAAAAACGGTGTGCCATATATGTCGTTACTCGTTACAGCAATCATTGT
+AGTGATTATTTTCGTATTACAAAGCCTTACAAAAGGTGCATACGAATATATCGTTGCAGCAAGTGGTTTAACTGGTTT
+TATTGCTTGGGTAGGTATAGCAGTAAGTCATTATCGATTTAGAAGAGCATTTGATAAACAAAATTATGACAAATCTAA
+ATTAAAATATACTGCTAAATTATTCCCATTCGGACCATTATTTGCTGGCTTTTTATGTATTGTAGTAATTATTGGTCA
+AGATGTTGACTTTATTAAAACAGGAGATTTTAATTTTAGTCGCTTCTTAATTACGTATATGGGAATTCCAGTATTTTT
+AGCATTCTTTATTTATCATAAGCTTCGATATAAAACGAAAAAAATTCCATTAGAACAAGTAGATTTACGTCAAGACGT
+GTCAATGGATGAAATAAAAGGTTAAAATAAAAATAATTACAGTTATAGTGTTGACTTAAATGTGAATTGTTGATATGA
+TTAACAACGTTGAATACGAAACGAACCAAGTAGAAGCACCCGCTTCTCACCTGTAGCGACGCATAAAGCAGTTGGCAG
+GTTAATCACATTACACATATCTGTGTATAAGGAAGAGCGGGTATTTTATACCTGCTCTTCCTTTTTGCTTGGTGCAAA
+TTTCGTAAAAATTTTGGAGGTGTCAACCATAGCAAAAGATCAAACTCAAATCAATGACAAAATTCGTGCAAAAGAATT
+ACGTTTAATCGGTCAAGATGGTGAACAAATTGGTGTTAAATCAAAGCGAGAAGCTTTAGAAATGGCTGAACGTGTAGA
+TTTAGACTTAGTGGTCGTTGCACCGAATGCGAAACCACCAGTTGCAAGAATTATGGATTACGGTAAATTCAAATTCGA
+ACAACAGAAAAAAGAAAAAGAAATGAAAAAGAAACAAAAAATTATCAATGTTAAAGAAATTCGTTTAAGTCCAACAAT
+TGAGGAACATGATTTCCAAACTAAGTTGAAAAACGGACGTAAATTCTTAACTAAAGGCGATAAATGTAAAGTATCTAT
+TCGTTTCAGAGGGCGTGCCATTACGCATAAGGAAATTGGTCAACGTGTGCTAGAAAAATATGCAGATGAATGCAAAGA
+TATAGCAACAGTTGAACAAAAACCTAAAATGGACGGGCGTCAAATGTTTATCATGTTAGCGCCAACAGCTGAAAAATA
+ATTAAAGCTATTACAGGAGGACTTATATTATGCCAAAAATGAAAACTCACCGCGGAGCAGCTAAACGTGTTAAAAGAA
+CTGCTTCAGGTCAATTAAAACGTTCAAGAGCTTTCACATCTCACTTATTCGCAAACAAGAGCACTAAACAAAAACGTC
+AATTACGTAAAGCTAGATTAGTGTCTAAGAGCGACATGAAACGTGTAAAACAATTATTAGCATACAAAAAATAAGAAC
+AAATACAGAAATCGGTAGGAATTACCTAAGGAGGAATTTTTTATGCCACGAGTTAAAGGTGGAACAGTAACAAGAGCG
+CGTCGTAAAAAAACGATTAAATTAGCTAAAGGTTACTTCGGTTCAAAACATACATTATACAAAGTAGCTAAGCAACAA
+GTAATGAAATCAGGTCAATACGCTTTCCGTGACCGTCGTCAACGTAAACGTGACTTCCGTAAATTATGGATTACACGT
+ATCAACGCAGCAGCTCGTCAACATGAAATGAGCTACTCACGTTTAATGAACGGTTTGAAAAAAGCTGGTATCGACATT
+AACCGTAAAATGTTATCAGAAATTGCAATTTCTGATGAAAAAGCATTTGCTCAATTAGTAACTAAAGCTAAAGATGCT
+TTAAAATAATAACACTTATAAAAAAGAGATGGCATTGTCATCTCTTTTTTATTTTTTAAATAGCAAAATGCCACATTT
+AATCGCTAAAATATGACATATTTGCTAAAATGCATTTAAGAGAACAAACATTAAAGTGAGGAGTTTTATACGATGTCT
+AAATTTGATGAACAAATCATTGTAGTACCTAGAGAAATTATTTTTAATAATGAAAAGAATACTTTTAATGGGTTTTTA
+AATAAGAATAAACCAGAAGGTCAAAATATTTTTGATGCGCTAAGTCAATATGAAGTTAAGCGACGCGGCGATATGGAA
+GAGGATCCATCATATAAACAACTCATTTCTTATTGTTTACTTGAAAATGAGCATGGCGAGATATTAGTGTATGAACGA
+TTATCTGGCGGTGGAGAAGCTCGATTGCATGGACAATCTTCAATAGGTGTAGGCGGTCATATGAATGATGTTCCAGGA
+GCAGAATCTATTAACGAAGTATTGAGAGTTAATGCTCAGAGAGAATTAGAAGAAGAAGTAGGTTTAAGTGAGCAAGAT
+TCACAAAATATGGAGTATATCGGTTTTATTAATGACGATAATAATGAAGTGGGCAAGGTACATATTGGTGTTGTATTT
+AAAATCACTGTAAGTACGAATGATGTAGAAGCTAAAGAAACAGATACTTTACGAATAAAATGGGTTGAAAAAGGCAAC
+ATAGAGTCATATGATGATTTCGAAACGTGGAGCGCATTAATCCTTCAAGATTTATAATCAAACGAGGTGACATATATG
+TCAGATATTATTCAGTTTCCTAACTCTTCGATAAAGTTATATAAAGATATAAAACGTGCTGAACAAGACCAAAACTAT
+GACCTGATGTATGAATATATTGTGCAATATGAACGTCAATTTGAACTCACTGAAGAAATAGCAATGATGAAATGCCGT
+ATGTTATATGAGACGGGGTCATTTCTTGAATTAAGAGAAGAAACAATTGTCTTATTGAAAACTGGCATACAACAATAT
+GATGCATTGATGATTTATTACGTGAAAAGTTTGATTGGTTTGGGACAATATTTTGAAGCGGTAGAAGTAATTCATCAA
+ATTATTGATGAAGTCAAAGATCACAAAACAAGAATGGCATTACATCCTCTTAAAGAATTTGCTAAGTCAAAATTAATT
+GAAGATGAAAAACGATTGACTCAGTCATTAACTGATTTTGATACGTTATCAATGAGGGAACAGACGCACTTGATTTTG
+AAGTTAATAGACATTGGTCATTTTCAATTTCAAGAAACGGTATTATATATATTAAAATCTAATACGTACAGTTATAAC
+CTAATTAGTTTAATGATTGAGTATTTAAGGTTTGCAAATTGTACACAAGAACTGACAATTGAAAAGTATGGTATGGAT
+GTAACTTTTGTACCAGCTAATTTAAATGGGCTAGAACATACAACGCTGAAAGAAAAAGTTATACCTAACGTTATGGAA
+ACATTAAATGATGGTGCTTTACATATCGCTGAAGAAGCACACCATATTATGAATAATCACTCTATCATGATTTATCCA
+ATTGATATTGAAACTTTGTTTGAAACGAATAAATGGATTAATGCATACGAATGTTATTTCAAAAATATGTTAGGACTT
+AAATGTGAATTACAAAGTATCGATGCATTTAATTTTATTCAGCAATTAGATTTGAATAATAATAGTTAAATTGTTGCA
+AAATAATACTCAGCATTTTAATATAGTTTTGACGAAAAAAGTTGATTTACAAATATATAAACGTTGTGATTTCAATGT
+TTGTATAGGGAATAGACCTATGATATAATAGGGAAGTTGAAAAAATAAATTAGTTAATCATGGAGGTATATATACATG
+ACAGCAACTTGGGAAAAAAAGGAAGGTAACGAAGGTTTATTAACTGTTACTGTTCCTGCAGAAAAAGTAAACAAAGCG
+TTAGATCAAGCATTCAAAAAAGTGGTTAAACAAATTAACGTACCTGGATTCCGTAAAGGTAAAGTACCACGTCCAATT
+TTCGAACAACGCTTTGGTGTAGAAGCATTATATCAAGATGCTATCGACATTTTATTACCAGATGCTTATGGTGAAGCA
+ATTGACGAAACTGATATTAAACCAGTTGCACAACCAGAAGTAAGTGTTACTCAAATTGAAAAAGGTAAAGATTTTATT
+TTTGAAGCAACAGTTACAGTTGAGCCAGAAGTTAAATTAGGAGACTATAAAGGTCTTGAAATTGAAAAACAAGAAACT
+GAATTATCTGATGATGAGTTACAAGAAGCGATTGACCACAGCTTAGGACATTTAGCTGAAATGGTAGTTAAAGAAGAT
+GGTGTTGTTGAAAATGGCGACACAGTTAACATCGACTTTAGTGGTTCAGTTGACGGAGAAGAATTCGAAGGTGGACAA
+GCTGAAGGTTACGATTTAGAAATCGGTTCAGGTTCATTCATTCCTGGTTTCGAAGAGCAATTAGAAGGTATGAAAGTT
+GACGAAGAAAAAGATGTTGTCGTAACATTCCCAGAAGAATACCATGCTGAAGAATTAGCTGGTAAAGAAGCAACTTTT
+AAAACAAAAGTTAACGAAATTAAATTTAAAGAAGTTCCAGAATTAACAGATGAAATTGCTAATGAATTAGATGCGGAA
+GCAAATACAGTAGACGAGTATAAAGAAAACTTACGTAAACGTTTAGCTGAACAAAAAGCTACAGATGCTGAAAATGTT
+GAAAAAGAAGAAGCGATTACAAAAGCTAC" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 7 ,
+                    data
+                      gene {
+                        locus "lysP" ,
+                        locus-tag "PAONDKHO_00001" } ,
+                    location
+                      int {
+                        from 26 ,
+                        to 469 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PAONDKHO_1" } } } ,
+                  {
+                    id
+                      local
+                        id 8 ,
+                    data
+                      gene {
+                        locus "infC" ,
+                        locus-tag "PAONDKHO_00002" } ,
+                    location
+                      int {
+                        from 665 ,
+                        to 1225 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PAONDKHO_1" } } } ,
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      gene {
+                        locus "rpmI" ,
+                        locus-tag "PAONDKHO_00003" } ,
+                    location
+                      int {
+                        from 1254 ,
+                        to 1454 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PAONDKHO_1" } } } ,
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      gene {
+                        locus "rplT" ,
+                        locus-tag "PAONDKHO_00004" } ,
+                    location
+                      int {
+                        from 1501 ,
+                        to 1857 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PAONDKHO_1" } } } ,
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus-tag "PAONDKHO_00005" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 2607 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PAONDKHO_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus-tag "PAONDKHO_00006" } ,
+                    location
+                      int {
+                        from 2626 ,
+                        to 3555 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PAONDKHO_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PAONDKHO_00001" } } ,
+          descr {
+            title "Lysine-specific permease [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 147 ,
+            seq-data
+              ncbieaa "MSLLVTAIIVVIIFVLQSLTKGAYEYIVAASGLTGFIAWVGIAVSHYRFRRAFDK
+QNYDKSKLKYTAKLFPFGPLFAGFLCIVVIIGQDVDFIKTGDFNFSRFLITYMGIPVFLAFFIYHKLRYKTKKIPLEQ
+VDLRQDVSMDEIKG" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      prot {
+                        name {
+                          "Lysine-specific permease" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 146 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PAONDKHO_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PAONDKHO_00002" } } ,
+          descr {
+            title "Translation initiation factor IF-3 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 186 ,
+            seq-data
+              ncbieaa "MLGANFVKILEVSTIAKDQTQINDKIRAKELRLIGQDGEQIGVKSKREALEMAER
+VDLDLVVVAPNAKPPVARIMDYGKFKFEQQKKEKEMKKKQKIINVKEIRLSPTIEEHDFQTKLKNGRKFLTKGDKCKV
+SIRFRGRAITHKEIGQRVLEKYADECKDIATVEQKPKMDGRQMFIMLAPTAEK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      prot {
+                        name {
+                          "Translation initiation factor IF-3" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 185 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PAONDKHO_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PAONDKHO_00003" } } ,
+          descr {
+            title "50S ribosomal protein L35 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 66 ,
+            seq-data
+              ncbieaa "MPKMKTHRGAAKRVKRTASGQLKRSRAFTSHLFANKSTKQKRQLRKARLVSKSDM
+KRVKQLLAYKK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      prot {
+                        name {
+                          "50S ribosomal protein L35" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 65 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PAONDKHO_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PAONDKHO_00004" } } ,
+          descr {
+            title "50S ribosomal protein L20 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 118 ,
+            seq-data
+              ncbieaa "MPRVKGGTVTRARRKKTIKLAKGYFGSKHTLYKVAKQQVMKSGQYAFRDRRQRKR
+DFRKLWITRINAAARQHEMSYSRLMNGLKKAGIDINRKMLSEIAISDEKAFAQLVTKAKDALK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      prot {
+                        name {
+                          "50S ribosomal protein L20" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 117 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PAONDKHO_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PAONDKHO_00005" } } ,
+          descr {
+            title "hypothetical protein PAONDKHO_00005 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 202 ,
+            seq-data
+              ncbieaa "MSKFDEQIIVVPREIIFNNEKNTFNGFLNKNKPEGQNIFDALSQYEVKRRGDMEE
+DPSYKQLISYCLLENEHGEILVYERLSGGGEARLHGQSSIGVGGHMNDVPGAESINEVLRVNAQRELEEEVGLSEQDS
+QNMEYIGFINDDNNEVGKVHIGVVFKITVSTNDVEAKETDTLRIKWVEKGNIESYDDFETWSALILQDL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 201 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PAONDKHO_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PAONDKHO_00006" } } ,
+          descr {
+            title "hypothetical protein PAONDKHO_00006 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 309 ,
+            seq-data
+              ncbieaa "MSDIIQFPNSSIKLYKDIKRAEQDQNYDLMYEYIVQYERQFELTEEIAMMKCRML
+YETGSFLELREETIVLLKTGIQQYDALMIYYVKSLIGLGQYFEAVEVIHQIIDEVKDHKTRMALHPLKEFAKSKLIED
+EKRLTQSLTDFDTLSMREQTHLILKLIDIGHFQFQETVLYILKSNTYSYNLISLMIEYLRFANCTQELTIEKYGMDVT
+FVPANLNGLEHTTLKEKVIPNVMETLNDGALHIAEEAHHIMNNHSIMIYPIDIETLFETNKWINAYECYFKNMLGLKC
+ELQSIDAFNFIQQLDLNNNS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 308 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PAONDKHO_00006" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "PAONDKHO_00001" } ,
+                location
+                  int {
+                    from 26 ,
+                    to 469 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "PAONDKHO_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P25737" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG0833" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "PAONDKHO_00002" } ,
+                location
+                  int {
+                    from 665 ,
+                    to 1225 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "PAONDKHO_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P65140" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "PAONDKHO_00003" } ,
+                location
+                  int {
+                    from 1254 ,
+                    to 1454 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "PAONDKHO_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q2YTB0" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "PAONDKHO_00004" } ,
+                location
+                  int {
+                    from 1501 ,
+                    to 1857 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "PAONDKHO_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P66108" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "PAONDKHO_00005" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 2607 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "PAONDKHO_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "PAONDKHO_00006" } ,
+                location
+                  int {
+                    from 2626 ,
+                    to 3555 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "PAONDKHO_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } } } } } } }

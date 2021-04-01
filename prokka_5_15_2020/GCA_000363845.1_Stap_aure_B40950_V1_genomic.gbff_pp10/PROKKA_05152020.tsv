@@ -1,0 +1,27 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+OCFEKFOI_00001	gene	76				
+OCFEKFOI_00001	tRNA	76				tRNA-Ala(tgc)
+OCFEKFOI_00002	gene	74				
+OCFEKFOI_00002	tRNA	74				tRNA-Pro(tgg)
+OCFEKFOI_00003	gene	77				
+OCFEKFOI_00003	tRNA	77				tRNA-Arg(acg)
+OCFEKFOI_00004	gene	89				
+OCFEKFOI_00004	tRNA	89				tRNA-Leu(taa)
+OCFEKFOI_00005	gene	75				
+OCFEKFOI_00005	tRNA	75				tRNA-Gly(gcc)
+OCFEKFOI_00006	gene	75				
+OCFEKFOI_00006	tRNA	75				tRNA-Lys(ttt)
+OCFEKFOI_00007	gene	76				
+OCFEKFOI_00007	tRNA	76				tRNA-Thr(tgt)
+OCFEKFOI_00008	gene	76				
+OCFEKFOI_00008	tRNA	76				tRNA-Val(tac)
+OCFEKFOI_00009	gene	78				
+OCFEKFOI_00009	rRNA	78				5S ribosomal RNA (partial)
+OCFEKFOI_00010	gene	1548	lysS			
+OCFEKFOI_00010	CDS	1548	lysS	6.1.1.6		Lysine--tRNA ligase
+OCFEKFOI_00011	gene	477	folK			
+OCFEKFOI_00011	CDS	477	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+OCFEKFOI_00012	gene	366	folB			
+OCFEKFOI_00012	CDS	366	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+OCFEKFOI_00013	gene	636	folP			
+OCFEKFOI_00013	CDS	636	folP	2.5.1.15	COG0294	Dihydropteroate synthase

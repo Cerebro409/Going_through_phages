@@ -1,0 +1,609 @@
+>Feature gnl|X|EHOOANAO_1
+1262	816	gene
+			gene	perR
+			locus_tag	EHOOANAO_00001
+1262	816	CDS
+			db_xref	COG:COG0735
+			gene	perR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G282
+			locus_tag	EHOOANAO_00001
+			product	Peroxide-responsive repressor PerR
+			protein_id	gnl|X|EHOOANAO_00001
+2309	1359	gene
+			gene	ghrB
+			locus_tag	EHOOANAO_00002
+2309	1359	CDS
+			EC_number	1.1.1.79
+			db_xref	COG:COG1052
+			gene	ghrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37666
+			locus_tag	EHOOANAO_00002
+			product	Glyoxylate/hydroxypyruvate reductase B
+			protein_id	gnl|X|EHOOANAO_00002
+2770	2315	gene
+			gene	bcp
+			locus_tag	EHOOANAO_00003
+2770	2315	CDS
+			EC_number	1.11.1.15
+			db_xref	COG:COG1225
+			gene	bcp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q83CY8
+			locus_tag	EHOOANAO_00003
+			product	Putative peroxiredoxin bcp
+			protein_id	gnl|X|EHOOANAO_00003
+2851	4140	gene
+			gene	hemL2
+			locus_tag	EHOOANAO_00004
+2851	4140	CDS
+			EC_number	5.4.3.8
+			gene	hemL2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A4T5
+			locus_tag	EHOOANAO_00004
+			product	Glutamate-1-semialdehyde 2,1-aminomutase 2
+			protein_id	gnl|X|EHOOANAO_00004
+4382	5527	gene
+			locus_tag	EHOOANAO_00005
+4382	5527	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00005
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00005
+7454	5718	gene
+			locus_tag	EHOOANAO_00006
+7454	5718	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1132
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99T13
+			locus_tag	EHOOANAO_00006
+			product	Putative multidrug export ATP-binding/permease protein
+			protein_id	gnl|X|EHOOANAO_00006
+8287	7745	gene
+			locus_tag	EHOOANAO_00007
+8287	7745	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97NV6
+			locus_tag	EHOOANAO_00007
+			note	UPF0374 protein SP_1903
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00007
+9626	8589	gene
+			gene	mutY
+			locus_tag	EHOOANAO_00008
+9626	8589	CDS
+			EC_number	3.2.2.31
+			gene	mutY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P83847
+			locus_tag	EHOOANAO_00008
+			product	Adenine DNA glycosylase
+			protein_id	gnl|X|EHOOANAO_00008
+9778	10755	gene
+			gene	yfhP
+			locus_tag	EHOOANAO_00009
+9778	10755	CDS
+			db_xref	COG:COG1988
+			gene	yfhP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31583
+			locus_tag	EHOOANAO_00009
+			product	putative protein YfhP
+			protein_id	gnl|X|EHOOANAO_00009
+10859	11089	gene
+			locus_tag	EHOOANAO_00010
+10859	11089	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00010
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00010
+11852	11016	gene
+			locus_tag	EHOOANAO_00011
+11852	11016	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00011
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00011
+13378	11861	gene
+			gene	tagH
+			locus_tag	EHOOANAO_00012
+13378	11861	CDS
+			EC_number	7.5.2.4
+			db_xref	COG:COG1134
+			gene	tagH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42954
+			locus_tag	EHOOANAO_00012
+			product	Teichoic acids export ATP-binding protein TagH
+			protein_id	gnl|X|EHOOANAO_00012
+13707	13393	gene
+			gene	yfhH
+			locus_tag	EHOOANAO_00013
+13707	13393	CDS
+			gene	yfhH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31576
+			locus_tag	EHOOANAO_00013
+			product	putative protein YfhH
+			protein_id	gnl|X|EHOOANAO_00013
+14503	13685	gene
+			gene	recX
+			locus_tag	EHOOANAO_00014
+14503	13685	CDS
+			gene	recX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66003
+			locus_tag	EHOOANAO_00014
+			product	Regulatory protein RecX
+			protein_id	gnl|X|EHOOANAO_00014
+15573	14764	gene
+			gene	mgt
+			locus_tag	EHOOANAO_00015
+15573	14764	CDS
+			EC_number	2.4.1.129
+			gene	mgt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A0I6
+			locus_tag	EHOOANAO_00015
+			product	Monofunctional glycosyltransferase
+			protein_id	gnl|X|EHOOANAO_00015
+16429	15914	gene
+			locus_tag	EHOOANAO_00016
+16429	15914	CDS
+			db_xref	COG:COG0693
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A0K0
+			locus_tag	EHOOANAO_00016
+			product	putative protein
+			protein_id	gnl|X|EHOOANAO_00016
+16721	16560	gene
+			locus_tag	EHOOANAO_00017
+16721	16560	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00017
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00017
+17660	17475	gene
+			locus_tag	EHOOANAO_00018
+17660	17475	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00018
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00018
+19683	18238	gene
+			gene	lytO
+			locus_tag	EHOOANAO_00019
+19683	18238	CDS
+			EC_number	3.5.1.28
+			gene	lytO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FX77
+			locus_tag	EHOOANAO_00019
+			product	putative autolysin LytO
+			protein_id	gnl|X|EHOOANAO_00019
+20101	19664	gene
+			locus_tag	EHOOANAO_00020
+20101	19664	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00020
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00020
+20552	20157	gene
+			locus_tag	EHOOANAO_00021
+20552	20157	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00021
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00021
+21730	20558	gene
+			locus_tag	EHOOANAO_00022
+21730	20558	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00022
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00022
+23641	21743	gene
+			locus_tag	EHOOANAO_00023
+23641	21743	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00023
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00023
+24077	23778	gene
+			locus_tag	EHOOANAO_00024
+24077	23778	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00024
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00024
+24294	24118	gene
+			locus_tag	EHOOANAO_00025
+24294	24118	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00025
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00025
+24672	24295	gene
+			locus_tag	EHOOANAO_00026
+24672	24295	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00026
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00026
+26495	24672	gene
+			locus_tag	EHOOANAO_00027
+26495	24672	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00027
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00027
+28405	26495	gene
+			locus_tag	EHOOANAO_00028
+28405	26495	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00028
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00028
+30321	28420	gene
+			locus_tag	EHOOANAO_00029
+30321	28420	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00029
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00029
+31277	30330	gene
+			locus_tag	EHOOANAO_00030
+31277	30330	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00030
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00030
+34757	31290	gene
+			locus_tag	EHOOANAO_00031
+34757	31290	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00031
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00031
+35118	34774	gene
+			locus_tag	EHOOANAO_00032
+35118	34774	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00032
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00032
+35513	35148	gene
+			locus_tag	EHOOANAO_00033
+35513	35148	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00033
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00033
+36156	35575	gene
+			locus_tag	EHOOANAO_00034
+36156	35575	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00034
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00034
+36558	36175	gene
+			locus_tag	EHOOANAO_00035
+36558	36175	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00035
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00035
+36917	36570	gene
+			locus_tag	EHOOANAO_00036
+36917	36570	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00036
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00036
+37219	36917	gene
+			locus_tag	EHOOANAO_00037
+37219	36917	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00037
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00037
+37548	37216	gene
+			locus_tag	EHOOANAO_00038
+37548	37216	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00038
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00038
+37844	37557	gene
+			locus_tag	EHOOANAO_00039
+37844	37557	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00039
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00039
+38840	37866	gene
+			locus_tag	EHOOANAO_00040
+38840	37866	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00040
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00040
+39474	38854	gene
+			locus_tag	EHOOANAO_00041
+39474	38854	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00041
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00041
+39753	39583	gene
+			locus_tag	EHOOANAO_00042
+39753	39583	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00042
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00042
+40821	39826	gene
+			locus_tag	EHOOANAO_00043
+40821	39826	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00043
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00043
+42363	40828	gene
+			locus_tag	EHOOANAO_00044
+42363	40828	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00044
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00044
+43651	42374	gene
+			locus_tag	EHOOANAO_00045
+43651	42374	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00045
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00045
+44078	43638	gene
+			locus_tag	EHOOANAO_00046
+44078	43638	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00046
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00046
+44687	44265	gene
+			locus_tag	EHOOANAO_00047
+44687	44265	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00047
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00047
+45031	44858	gene
+			locus_tag	EHOOANAO_00048
+45031	44858	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00048
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00048
+45417	45031	gene
+			locus_tag	EHOOANAO_00049
+45417	45031	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00049
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00049
+45643	45407	gene
+			locus_tag	EHOOANAO_00050
+45643	45407	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00050
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00050
+45904	45668	gene
+			locus_tag	EHOOANAO_00051
+45904	45668	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00051
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00051
+46074	45901	gene
+			locus_tag	EHOOANAO_00052
+46074	45901	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00052
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00052
+46692	46183	gene
+			gene	dut
+			locus_tag	EHOOANAO_00053
+46692	46183	CDS
+			EC_number	3.6.1.23
+			db_xref	COG:COG0756
+			gene	dut
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QW08
+			locus_tag	EHOOANAO_00053
+			product	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+			protein_id	gnl|X|EHOOANAO_00053
+46927	46685	gene
+			locus_tag	EHOOANAO_00054
+46927	46685	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00054
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00054
+47153	46917	gene
+			locus_tag	EHOOANAO_00055
+47153	46917	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00055
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00055
+47517	47146	gene
+			locus_tag	EHOOANAO_00056
+47517	47146	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00056
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00056
+47768	47526	gene
+			locus_tag	EHOOANAO_00057
+47768	47526	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00057
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00057
+48140	47772	gene
+			locus_tag	EHOOANAO_00058
+48140	47772	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00058
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00058
+48557	48153	gene
+			locus_tag	EHOOANAO_00059
+48557	48153	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00059
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00059
+48784	48566	gene
+			locus_tag	EHOOANAO_00060
+48784	48566	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00060
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00060
+49684	48791	gene
+			locus_tag	EHOOANAO_00061
+49684	48791	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00061
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00061
+50184	49714	gene
+			gene	ssbA
+			locus_tag	EHOOANAO_00062
+50184	49714	CDS
+			db_xref	COG:COG0629
+			gene	ssbA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37455
+			locus_tag	EHOOANAO_00062
+			product	Single-stranded DNA-binding protein A
+			protein_id	gnl|X|EHOOANAO_00062
+50670	50185	gene
+			locus_tag	EHOOANAO_00063
+50670	50185	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00063
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00063
+51803	50883	gene
+			locus_tag	EHOOANAO_00064
+51803	50883	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00064
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00064
+53748	51805	gene
+			locus_tag	EHOOANAO_00065
+53748	51805	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00065
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00065
+54020	53757	gene
+			locus_tag	EHOOANAO_00066
+54020	53757	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00066
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00066
+54289	54029	gene
+			locus_tag	EHOOANAO_00067
+54289	54029	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00067
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00067
+54589	54329	gene
+			locus_tag	EHOOANAO_00068
+54589	54329	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00068
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00068
+55162	54842	gene
+			locus_tag	EHOOANAO_00069
+55162	54842	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00069
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00069
+55221	55451	gene
+			locus_tag	EHOOANAO_00070
+55221	55451	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00070
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00070
+55624	55448	gene
+			locus_tag	EHOOANAO_00071
+55624	55448	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00071
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00071
+56392	55640	gene
+			locus_tag	EHOOANAO_00072
+56392	55640	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00072
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00072
+56443	56772	gene
+			locus_tag	EHOOANAO_00073
+56443	56772	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00073
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00073
+56976	56761	gene
+			locus_tag	EHOOANAO_00074
+56976	56761	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00074
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00074
+57255	56992	gene
+			locus_tag	EHOOANAO_00075
+57255	56992	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EHOOANAO_00075
+			product	hypothetical protein
+			protein_id	gnl|X|EHOOANAO_00075
+57388	58101	gene
+			gene	lexA
+			locus_tag	EHOOANAO_00076
+57388	58101	CDS
+			EC_number	3.4.21.88
+			gene	lexA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00015
+			locus_tag	EHOOANAO_00076
+			product	LexA repressor
+			protein_id	gnl|X|EHOOANAO_00076
+58117	59049	gene
+			gene	dinG
+			locus_tag	EHOOANAO_00077
+58117	59049	CDS
+			EC_number	3.1.-.-
+			gene	dinG
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02206
+			locus_tag	EHOOANAO_00077
+			product	3'-5' exonuclease DinG
+			protein_id	gnl|X|EHOOANAO_00077

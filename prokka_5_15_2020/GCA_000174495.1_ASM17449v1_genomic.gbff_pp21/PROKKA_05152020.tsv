@@ -1,0 +1,13 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LKIPDCDL_00001	gene	1077				
+LKIPDCDL_00001	CDS	1077				hypothetical protein
+LKIPDCDL_00002	gene	384	panD			
+LKIPDCDL_00002	CDS	384	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+LKIPDCDL_00003	gene	852	panC			
+LKIPDCDL_00003	CDS	852	panC	6.3.2.1		Pantothenate synthetase
+LKIPDCDL_00004	gene	819	panB			
+LKIPDCDL_00004	CDS	819	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+LKIPDCDL_00005	gene	861				
+LKIPDCDL_00005	CDS	861		1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+LKIPDCDL_00006	gene	705	aldC			
+LKIPDCDL_00006	CDS	705	aldC	4.1.1.5	COG3527	Alpha-acetolactate decarboxylase

@@ -1,0 +1,184 @@
+LOCUS       LIJEKHFH_1              5419 bp    DNA     linear       15-MAY-2020
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..5419
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     gene            35..1216
+                     /gene="sdrM"
+                     /locus_tag="LIJEKHFH_00001"
+     CDS             35..1216
+                     /gene="sdrM"
+                     /locus_tag="LIJEKHFH_00001"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:Q99S97"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Multidrug efflux pump SdrM"
+                     /protein_id="X:LIJEKHFH_00001"
+                     /translation="MIANPIVGELLTRFKIIYIAIAGLTLFTVGSLMSGLSTHFSMLI
+                     ISRVIQGFGSGVMMSLSQIVPKLAFEIPLRYKIMGIVGSVWGISSIIGPLLGGGILEF
+                     ATWHWLFFINIPIAIIAIILVVWTFHFSEEETVAKSKFDTKGITLFYIFIGLIMFALL
+                     NQQHLYLNIIGFVLAILIALRLFNVEKKVSSPFLPVAEFNRMITLVFITDLLTAVCLM
+                     GFNLYIPVYLQEQLGLSPLQSGLVIFPLSVAWITLNFNLHHIEAKLSRKVIYLSSFTL
+                     LLLSSIIIAFGIKLPILIACVLILSGISFGYIYTKDSVIVQEETSPIQMKKMMSFYGL
+                     TKNLGASIGSTIMGYLYALKSGLFGANLHNILGVVSLISVGLIVVWLIFYREAASQTN
+                     E"
+     gene            1344..1811
+                     /gene="sepA"
+                     /locus_tag="LIJEKHFH_00002"
+     CDS             1344..1811
+                     /gene="sepA"
+                     /locus_tag="LIJEKHFH_00002"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:Q99S98"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Multidrug resistance efflux pump SepA"
+                     /protein_id="X:LIJEKHFH_00002"
+                     /translation="MNYLKHKFYNLLTTIIVLFIFVLSGAIFLTFLGFGLYGLSRILI
+                     YFRLGDFTYNRSMYDNLLYYGSYIIFGYFIIFAVEHLMDYFRKMLPENAYFRGATFHL
+                     ISYMVATTLFYFIIHLNYVYINIDFWVIMVIIGFLYVCKLQFYPESKNLNNRK"
+     gene            1997..3442
+                     /gene="farB"
+                     /locus_tag="LIJEKHFH_00003"
+     CDS             1997..3442
+                     /gene="farB"
+                     /locus_tag="LIJEKHFH_00003"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:Q9RQ29"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Fatty acid resistance protein FarB"
+                     /protein_id="X:LIJEKHFH_00003"
+                     /translation="MVANVELTTRRRNFIVAVMLISAFVAILNQTLLNTALPSIMREL
+                     NINESTSQWLVTGFMLVNGVMIPLTAYLMDRIKTRPLYLAALGTFLLGSIVAALAPNF
+                     GVLMLARVIQAMGAGVLMPLMQFTLFTLFSKEHRGFAMGLAGLVIQFAPAIGPTVTGL
+                     IIDQASWRVPFIIIVGIALVAFIFGLISISSYNEVKYTKLDKRSVMYSTIGFGLMLYA
+                     FSSAGDLGFTSPIVIGALIISMVIIYLFIRRQFNISNALLNLRVFKNRTFALCTISSM
+                     IIMMSMVGPALLIPLYVQNSLSLSALLSGLVIMPGAIINGIMSVFTGKFYDKYGPRPL
+                     IYTGFTILTITTIMLCFLHTDTSYTYLIVVYAIRMFSVSLLMMPINTTGINSLRNEEI
+                     SHGTAIMNFGRVMAGSLGTALMVTLMSFGAKIFSSTSPSHLTATEIKQQSIAIGVDIS
+                     FAFVAVLVMAAYVIALFIREPKEIESNRRKF"
+     gene            3590..4654
+                     /gene="salA"
+                     /locus_tag="LIJEKHFH_00004"
+     CDS             3590..4654
+                     /gene="salA"
+                     /locus_tag="LIJEKHFH_00004"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:P50863"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Iron-sulfur cluster carrier protein"
+                     /protein_id="X:LIJEKHFH_00004"
+                     /db_xref="COG:COG0489"
+                     /translation="MLTVDQVKELVGEIKDPIIDVPLKETEGIVEVSIKEEKEHVSVK
+                     LAMAQLGGAPQLDLQMAVVNVLKENGAKTVGIRFETLPEEKVNQFKPKEENKPKTIEG
+                     LLSQNNPVEFIAIASGKGGVGKSTVAVNLAVALAREGKKVGLVDADIYGFSVPDMMGI
+                     DEKPGIKGKEVIPVERHGVKVISMAFFVEENAPVIWRGPMLGKMLTNFFTEVKWGDIE
+                     YLILDLPPGTGDVALDVHTMLPSSKEIIVTTPHPTAAFVAARAGAMAKHTDHSILGVI
+                     ENMSYFESKETGNKEYVFGKGGGTKLADELNTQLLGELPLEQPSWNPKDFAPSIYQSD
+                     DRLGKIYSSIAQKVIAATNK"
+ORIGIN      
+        1 ttcattaata tttacggctt actttattgc attagtgatt gcgaatccaa tagtaggtga
+       61 attattaact cgatttaaaa ttatttatat tgctatcgca ggtcttacac tattcacggt
+      121 tggtagttta atgtcaggtt taagcacaca ttttagtatg ttgattatat cacgtgtaat
+      181 tcaagggttt ggatctggtg tcatgatgtc cttgtcgcaa attgtgccta aactagcgtt
+      241 tgaaattcca ttacgctata aaataatggg tatcgttggt agcgtttggg ggatttcaag
+      301 tatcattggt ccgttactag gaggcggtat acttgaattt gcaacttggc attggttatt
+      361 ttttattaat attccgatag caattattgc aataatattg gttgtctgga catttcattt
+      421 ttcagaagaa gaaactgtgg ctaaatcaaa attcgatact aaaggtatca ccttgtttta
+      481 tattttcatt ggtttaatta tgtttgcatt gttaaaccaa cagcatctat atttaaatat
+      541 cataggtttt gttttagcaa tattaattgc acttcgatta tttaatgttg agaaaaaagt
+      601 ttcatcccca ttcttaccag tagcagaatt taatcgaatg attactttgg tctttattac
+      661 agatcttctt acagctgttt gtttaatggg ctttaattta tatattcctg tgtatcttca
+      721 agaacaactg ggattatcgc cattgcaaag tggattagtt atttttccac tttctgtagc
+      781 gtggattaca ttgaatttta atttgcacca tattgaagcg aagttatcaa gaaaagttat
+      841 ctatttgtcg tcttttacat tattattatt aagtagtata atcattgcgt ttggtataaa
+      901 attaccaatc cttatagcat gtgtcttaat tttaagtgga ataagctttg gatatattta
+      961 tacaaaagat agtgtaattg tccaagagga aacaagtcca atacaaatga agaaaatgat
+     1021 gtcgttttat ggattaacaa aaaaccttgg cgcatcaata ggttcgacga ttatgggata
+     1081 cctttatgca ttaaaatcag gattatttgg tgcaaacttg cataatattt taggcgttgt
+     1141 atccttgata agtgtagggc tcatcgttgt atggctcata ttttatagag aagcggcgtc
+     1201 acaaacaaat gaatagaatt atcattaaaa ttgatgtagt gtaaataaag taagaaataa
+     1261 tcattttact aggtttgaag tgtaatcaac tatcttaaaa tgaaaagcaa tataaattat
+     1321 ttatggtaag gaggacaata gttatgaatt atcttaaaca taagttttat aatttattaa
+     1381 caacaattat tgttctcttt atctttgtgc tttctggtgc gatattttta acgtttttag
+     1441 gattcggact atatggatta agtagaattc ttatttattt taggttaggt gacttcacat
+     1501 ataacagaag tatgtacgac aacctattgt attatggcag ttatataatc tttgggtact
+     1561 tcatcatatt tgcagtcgag catttaatgg attattttag aaaaatgtta cctgaaaatg
+     1621 cttattttag aggtgcaact tttcatttaa tctcttatat ggttgcaaca acgttatttt
+     1681 attttattat tcatctgaac tatgtatata tcaatattga tttttgggtc atcatggtta
+     1741 ttataggctt tttatatgtt tgtaagttgc agttttaccc tgaaagtaaa aatctaaaca
+     1801 atagaaaata gagttttgaa gttgggggca atgatgtgtt ccaacttctt tttattcata
+     1861 tagtagaaaa tgagttgttt tgcttcaatt aatcacggtt aataataacc attgatataa
+     1921 atagttggta ctgtaatctg aaatatattt taagtatata tgctaataaa cgtaaatttg
+     1981 ttacaaagga ggaattgtgg tggctaatgt tgaattaaca acgcgaagac gaaattttat
+     2041 agtagctgtg atgttaatca gtgcttttgt agctatttta aatcaaacat tattaaatac
+     2101 agcgttacct agtattatga gagagttaaa tatcaatgaa agtacttcac aatggttagt
+     2161 tactggtttt atgcttgtta atggcgtcat gatacctcta actgcatact taatggacag
+     2221 gattaaaact agacctttat acttagcagc gttgggaaca tttttattag gttctattgt
+     2281 tgcagcctta gctccgaatt ttggagtttt aatgttagca cgtgtaattc aagcgatggg
+     2341 tgcaggggta cttatgcctt taatgcaatt cacattgttt acgttattca gtaaagaaca
+     2401 tagaggattt gcaatgggat tagctggttt agttattcaa tttgcaccag caattgggcc
+     2461 tactgttact ggattaatca ttgatcaagc aagttggcgt gtacctttta ttataattgt
+     2521 aggaattgct ttagtcgcat ttatcttcgg tttaatttca atctctagtt acaatgaagt
+     2581 gaaatatacg aaattagata agcgctctgt aatgtattcg acgattggat ttgggttaat
+     2641 gttatatgca ttcagtagtg caggcgactt aggatttact agcccgatag ttataggtgc
+     2701 attgataata agtatggtta ttatctattt atttatacgt agacaattta atattagtaa
+     2761 tgcactttta aatttaaggg tttttaagaa tagaacattt gcattatgta cgattagttc
+     2821 aatgattata atgatgtcaa tggttggacc tgcactgctt ataccgctat atgttcaaaa
+     2881 tagtttgtct ttatctgcct tgttatcagg acttgttatc atgccaggtg caatcataaa
+     2941 tggtattatg tcggttttta caggtaaatt ttatgataag tatggtccta gaccactgat
+     3001 ttatactggt tttacgattt taacaattac tactattatg ttgtgtttct tgcatacaga
+     3061 cacatcttat acgtatttaa tagtcgtata tgcaattaga atgttttcag tttctttact
+     3121 catgatgccg ataaatacta caggaattaa ttctttgaga aatgaagaaa tctcacatgg
+     3181 cacggctatt atgaactttg gtcgtgtaat ggctggttca ctaggcacag ctttaatggt
+     3241 tactttgatg agttttggcg caaaaatatt ttcatctaca tcgccatcgc atttaactgc
+     3301 aactgaaatt aaacagcaat caattgctat aggggtggat atctcatttg cttttgtagc
+     3361 cgtgcttgtt atggcagctt atgtgatagc actttttata agagaaccta aagaaataga
+     3421 aagtaataga aggaaatttt aaaataatta tagtagttgg tctattgaaa ataataggct
+     3481 aacttctttt tttatttaat aaaaagtttt atacttttag tgatagacta agcaaaaatt
+     3541 gttatttgct atgatgtaga tgtcttaaaa tgattaaggg ggatttgctt tgttaacggt
+     3601 agatcaagtg aaagaattgg taggagaaat taaagaccct attatagatg tgcctttaaa
+     3661 agaaacagaa ggtattgttg aagtttctat taaggaagaa aaagaacatg tgagtgttaa
+     3721 attagcaatg gcacaattag gtggtgcacc gcaattagat ttacaaatgg ctgttgttaa
+     3781 cgtattaaaa gaaaacggtg cgaaaacggt cggtatacga tttgaaacat tgccggaaga
+     3841 aaaagtaaat caatttaaac caaaagaaga aaataaacct aaaacgatag aaggcttatt
+     3901 atctcaaaat aatccagtcg aatttattgc tattgcttca ggtaaaggtg gcgtcggtaa
+     3961 atccactgtt gcagtaaatt tagccgttgc cttagcccgt gaagggaaaa aagtcggatt
+     4021 agtagatgcc gatatatatg gatttagtgt accagatatg atgggtattg atgaaaaacc
+     4081 tggaattaaa gggaaggaag taattccagt tgaacgtcat ggcgttaaag ttatatcaat
+     4141 ggcctttttt gtggaagaaa atgcgccagt tatatggaga gggccaatgt taggtaaaat
+     4201 gttgacgaat ttctttacag aagttaaatg gggagacatt gaatatttaa tactcgatct
+     4261 tccacctgga acaggagatg tagctttaga tgttcatacg atgttacctt caagtaagga
+     4321 aattattgta acgacacctc atcctacagc agcatttgtt gcagctcgcg caggtgcgat
+     4381 ggcaaaacat acggatcatt ctattcttgg cgtaattgaa aacatgagtt attttgaaag
+     4441 taaagagacg ggtaataaag aatatgtctt tggcaaaggt ggcggtacta agttagctga
+     4501 tgaacttaat actcaattac ttggggaatt acctttagag caaccatctt ggaatccaaa
+     4561 agattttgca ccgtcaatat atcaatcaga tgatcgtcta ggtaaaattt atagctcgat
+     4621 tgcacaaaaa gttatagctg ctacaaataa ataggtataa tatatgctaa acgtacaaaa
+     4681 ttacttttat tttgtacgtt tttatgttga tttgttttgg aatgctggta aaataagttc
+     4741 ttgtgttaag caataaacgc gttgaaaaag aagcgggttg tgaacacaaa aagtttttaa
+     4801 aaaagttatt gactttaaat tccaaagttg ataatatgat aaagtcgtca aaaacgacgc
+     4861 agttgttttt aaagaagaat ttcaaaagtg taaaacttac cattgaaata actataaaaa
+     4921 caatatagaa taaataaagt aatcgttcaa aaagttattg acttcaagaa acaaatgaag
+     4981 tagaataaaa gagattgaac attaatgaac attgaaaact gaatgacaat atgtcaacgt
+     5041 taattccaaa aaacgtaact ataagttaca aacattattt agtatttatg agctaatcaa
+     5101 acatcataat ttttatggag agtttgatcc tggctcagga tgaacgctgg cggcgtgcct
+     5161 aatacatgca agtcgagcga acggacgaga agcttgcttc tctgatgtta gcggcggacg
+     5221 ggtgagtaac acgtggataa cctacctata agactgggat aacttcggga aaccggagct
+     5281 aataccggat aatattttga gccgcatggt tcaaaagtga aagacggtct tgctgtcact
+     5341 tatagatgga tccgcgctgc attagctagt tggtaaggta acggcttacc aaggcaacga
+     5401 tgcatagccg acctgagag
+//

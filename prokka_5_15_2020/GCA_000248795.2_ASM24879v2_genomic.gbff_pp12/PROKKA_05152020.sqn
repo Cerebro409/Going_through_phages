@@ -1,0 +1,709 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "ADGJDBML_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 6402 ,
+            seq-data
+              iupacna "CATTGCAATTAGACTAGTAATAATCATTAACGCTAGTCCAATATAATTGCCATTT
+TGCAATGCGCCTTGGAAAATAAGTACTTTCCCCGGAAAGCCACTAAATGGGGGCACGCCGCCAATAGCAAAAATCATT
+ATAATAAACGCAACTCCAAATAAAGGTTCTTTTTTAGCTAAGCCATTCAAATATTGATATTGTCGATAGCCTGTAATG
+TAAACTAAACTACCAATAATAAAGAATAGCAATGTTTTTACAACAATGTCATTTACCAAATAAAATATTGCACCATTA
+ATACCTGCAAACGTGTTTGTTCCCAAACCTAAAATGATAAATCCTATTGAGATTATGACTTGGTAAGCTGCAATCTTT
+TTAATATCTTTATAAGCAATGACACCTATAGCGCCGATGACCATAGTTATAGCAGCCATAGTTGCTAGCAATGGATGT
+ATGAGATCATTATGTTGATCGAATAGTAAAGTGAAGAATCGAATTAATGCATAGGCCCCTACTTTGGTCATTAACGCT
+GCAAATAATGCTGCAAGCTCAGTATTTAACACTGCGTATGCTTTGGGTAGCCACATAAAAAGAACCAGCGCTGCTTTC
+GCACTAAATGCGACTAAGAAGATTAATGAAATCATTGTTACAGTGCGATTATCTCCCATATCATTCAAACGCATTGCA
+ATATGTGAAAAGTTTAATGTACCTACTGTTTTATAAAGTAAACCTATACCTAATAAGAATAGCCATGAACCAATAATA
+TTCAAGACAACATAAATAATTGCGGCACGTAATTGTTCAACAGATTGTCCAAGTGTAATGAGTACAAATGACGCAAGT
+AACATAATTTCAAACATGACGTATAAATTAAATAAATCTGATGTTAGAAAAGAGCCTATCACGCCAACGCTTAAAAAT
+AATATGAACGATGGCAAGTGATAACGATTTGCTTTATGTTCGCCACGCCCAAATCCGTATGCCATAATTAAAGTAATC
+ACAAATGAAGCGGTTGTAACCATAATTAAACTTAAAGAATCTCCTAAAAACTGTATACCAAAGGGCGCTGACCATCCT
+CCAAAGTCTAGCGTAATTGGACGGTGACGCTGAACATAAATTAATAACATTAATGAAATAATTGTGGTGATAGTCATT
+GTACCTAAGTATAAATATTTAGAAATACGATCATTATTTTTTAAAAATACAAGGATTAAGGCACAAAGGAATGGTAAT
+AACATTGGTAAAATCAATAAGTTACTTAGCATCATCTTCCCCCCTTAGGCCTTCAATTTCATCTTCTTTTGTTACTTT
+ATAAGTTCTATAAACAAGTACAAGTAAAAACGCAGTCATCCCAAACCCTATAACTATTGCAGTTAGTACAATAGCTTG
+TAACAAGGGATCAACAAACAATTGGTTTCCACCAGTTATTAATGGTTCTGATCTACTAGAACCATACGTTCCCATACT
+CATAATAATGAGATTACCAGCATGAGTATATATTGAAATTCCAATTACAATACGAATTAAATTGATTGATAAAATCAT
+ATATGTTCCTATAAACACTAAAAATCCTATAACTAGTAATAATATTAAATTCATGATCGACCTCCGCTAAGCGACAAC
+ATCACTGTGACAATAACACCAACAACTGAGAATAAAATACCTAATTCAAAAAGTGTTATTGTACTTACATGAATTTGC
+CCTAAAATTGGAAGTAACCAAGTTGTTTCATATTGAGACAAAAATGGTTTTCCAAAAAACATAGGTATTATCGCAGTA
+ATAGATGATACCAATGCTCCAATAATCATTAAAATTCTAAAATCAATCGGTAAACTTTCTAAAACCTCTTCAACATTA
+AAAGCCAGAAACATTAAAATAAACGCTGAACTAAATATTAAACCACCAATAAAGCCACCACCAGGATTATTATGACCT
+GCGAAGAAGACATAGAATCCGAAAGTCAATAAAATAAATACAACAAGTTTCGTGACCGTTCTTAACACGACATCATTC
+TCTTTCATCTTGTCCCCTCCGATCTTGATAATTTAATAATGTGTAAATACCTAGCCCAGTAATAATTAACACTAATCC
+TTCAAATAATGTATCTAATGCTCTAAAGTCACCAAGTATCGCATTTACAATATTTTTACCACCTGTTAGTTTGTCAGC
+TTTTAAATAAAAGTCTGATATTGATGATAAACCATCTGTTTGTTGTGTAATAAAAATTAATGATACAACAATAAGTGC
+CATCAAGAGTGATACAGAAATTTTAATTATTTCTCTTTTTTTGTTAGCGTTAGATCTTGGCACGTTTGGTAATCTTGA
+AAAACTAACAATAAATAGTATCGTCGTTATTGTTTCAACTACTAGCTGAGTCAATGCTAAATCAGGGGCTTTCATTGC
+TATAAAGAATAAGGTCACAACAAATCCGATGACTCCATTTAAAATGACCATTGTCAGTCGTTGACGTATAAAAATTAA
+AGAAATACCAATTGTGACAGTTACGATTGCTAATATAATTTCTAATGCCCCAAATTCAGAAACATGTAACTGATGTAC
+TTTTGGAAGTCCAATTCGAATATAACCATATCCAATGATAATCATAAATATGCCTAAGGTCATAATAATGTATTGGTT
+TAAACGATCTTGCATAACACGTTTAAATCGCTTCGTAGCAAACTTTTCAAAATGTCGATATACCATCTCATAGCTTTT
+TGAAACTGAAATCTGTCTAATTTTACCTGTGAACACTTTTTTCCAATCTACTTTGATTGCTAGTACACTACCCAATAA
+AATAATGATGATGGTTAAAAGAAGCGGTATGTTAAATCCATGCCATTGCGAAACATGTGGTGCCAATTGATCAATTTG
+ATGATTACCACCTGATACAGCTCTTAATGCTGGAACGATAATCCCCTTCCCAAATATATTTGGTACAAAAAAGATTAC
+AGGTACTAGCACCATTAATATAAGAGATGGTAAACTAAACAACCATGGTTCGTGGATATTTTTTTTAGTAAAAACCTT
+AGAATCATATTTTGTCCAAAATACTTCTTTTACCATGTATAATGCATATGTGAATGTAAAAACACTCGCAATAACACC
+AACAAACACAATACTTATCATTGAAATCAAACTAAATTGGGATAATTGTCCAGTTTGTGTTAATGCATCTAAGAACAT
+TTCTTTACTTAAAAATCCATTTAAAAATGGTACTCCAGCCATAGATAGAGCCGCTATCGTCATGACTAGATTCATTTT
+AGGAAATAGTTGACGCATTCCACTTAAAATTCGTATATCCCTTGAACCTGCTTCATGATCTAAAATACCTACTCCCAT
+GAAAAGCGCACATTTAAAGATGGCATGATTCATTAGATGAAATAGCGCACCAAATAATACAAATACATAAATAGATGC
+TATTGCGTTTTGTTGGTGTTGAGCATATCCACCACCGATACCGACCATTGCCATAATCATTCCTAGTTGACTGATTGT
+TGAATATGCTAGGATTCCTTTTAAATCCCATTGTTTTAAAGCTGTGATTGAACCAAATAACATTGTTATTAACCCGAC
+AAAGGTTACGATATAAATATACATATTGCTTAGACCTAACAAAGGTGTAAATCTAAGTAATAAAAAGATACCAGCTTT
+AACCATAGTGGCTGAATGTAAATATGCACTTACAGGTGTAGGCGCTGCCATTGCCCTTGGTAACCAAATATGAAATGG
+GAATTGTGCAGACTTTGTAAATGCACCTAATAAAAACATGATAATCATAGGGATAAATAAAGCATGGTTCTTAATATG
+ATCTGCTTGTCCTAATATCTCTGTGATGTTATTCGTTCCTGTCATGATATACAACATGATAAAACCAACTAATAATGC
+CAAACCACCAAATACTGTAATCATAAATGATTGCATCGCACCAAATTGACTATCTCCGTTGTTATACCAATATGAAAT
+TAATAGAAATGATGATACGCTAGTTAGTTCCCAAAACACATACATTAATATTGTATTATCAGCTAATACAATACCGAG
+CATGCTAAACATAAATAGCGTTAAGTATAAGTAAAACCTTGGTAAATTATCTTTACGAGAGGATAAATATTGTGTTGC
+ATAGAAGAATACAGCAATTCCAATAAGTGAAATAATAAGAGAAAACATTAAACTCAAACCATCTAAACGTAAATCTAC
+ATTAATATCTAATGAGGTCATCCACGGAACGGAAACAGACAAATAATGCTGTTTAATTACTGATGGAACTTGTAACAA
+AAAATAAATAGATGCTATTACAGGTGCAGTCAGTGCTATGTATCCTGCATATTTAGCCATTGCTCTACGTTTAGATGT
+TAATAATATCATCGCCATAATTACTAGTACGGCAATTAATAGATAAACCAAACTCATTATTAGCCTCCTTTGTCGTTA
+TAATTGTAATGAAATATAAATACTGTGTTCACATTCATTTTCTAAACCGATAAAATTTAGTGTTTCAATAGCAGATTG
+ATGCCCTAAATACTTTTGAATGACAGGAATAGGTATGCCCTTTTGATATGCATGATACGCAAATGTCTTACGCAATGT
+CGTTAGTCCTACATTCTCTATGCCAGCCTTAATTGCTGCTTGATGAATAATACGATAGGCTTGTTGCCTAGATAATAC
+TTGATTAGTTCTCAATGATTGAAATAATACATCTTCATTTGACAGACTTTTGTTTTCAATATAGTGAAGTAACTCATT
+AGATAATGTTTCTGGCAATCTAATTTTAATCAATGAGTGATAATGGGCTTTACACAATTCGCTTAGTGTCCCCTTTTC
+AATCAGTCGTTTAGTATCTTTAACAGTAATTGTTAATAATTCTGTAATTTTCATACCACTATGTATAGCTAATTTAAA
+AAACAAATAATCCCTATCAGATCGAGCTTTGAGTGCGTCATACATTTTATTAATATCATCATTGCATTTAATTACTTC
+TACCTTGTTCATATGTCCCACCTCGCTTTAAGTGTCTTAATCATAAACATTAAGTATTTAAGTCACATATAATTATAA
+CCTTTTTTATAGAATTTAAACAAGAATAATAAAATTAACCCAATTATTTTTTTCTTTCGATATATAGTGTGAAAGGAG
+GTTTTAAAATATGAGTAAAACAAATCACATTACAATTGTATTATCATTTACAAAACTAGATACAAATGGTAAACAAAC
+AGAATTTAAGCGTCGATTCGCCAATATTAATCCTGAAGTATCAAACGACCAAATTAAAACATTTAGCAAACTTATCGA
+ACGACTTACTGGAGAAACATACAACAACATCGAAGTCATCAAATCTGTATCAATTTAATCAGGAGGACACTTTCATGA
+CCAAAACACTTGAATTAAGTTTTAAATCTTCACTAGACAAACCTGTCAAATTGCAATTACCACAATTAAACAACATCG
+TAACCGAGCAAGTTGCACGTGATAGTATGAATGCATTAGTAGATTTAAATATTATAAAGTCAAATAGTGGCGCTATCA
+CCAAAGTACATTCTGCTCAAATTATTGATAAAACGACGACCGTTTTATTTGAAGCAAAGAAATAGATATAAAGAAAGC
+GCAATTAATTTAGTATAAATACTAACACCCTAGACTTTCATGATGATTGTCTAGGGTGTTTTTGTTGTGTTAATGCCC
+TGTTTTTTTCAACATTATTGTAAATGAGTTGTATATTTTCTCTATAATGATAATGTATACATATGATTTTTATTATTA
+ACTTTGGAAAGTGAGACTTTATTCATATGCTTCTTTTCTATATCATTGGTGTCCTAGTTGGAATGCTTATTCCTATCC
+AAACATCTGTCAATTCAAGACTATCACTGTATACTAAATCGCCTTTCTATACTTCATTCATTTCATTTTCAGTTGGAA
+CAATTTGTTTAATTATTTTAAATATCATTATCAATCCAGAAGTATTTACTATTCACTTTTACAATAATCAATCATTTA
+ACAATACATGGATAGTCGGTGGTTTGCTTGGGGTTAGCTTTTTAACTGGCAATTTATTGTTATTGCCAAAATTAGGTG
+CAACATTAACTGTAATTGCAACAGTTGCGGGTCAAATTATTATGGGTGTCATAATTGATACATTTGGCTTATTTGGTG
+CTACAATTCATGATTTTAATTTAATTAAAGCAATTGGTGTATTGTTACTCATTATCGGTATCGTCATAATGAATCAAT
+TTAACAAGAATAATTTATTACTAACTGATCAAAAGTATTTACTGTTTTGGCTTCTATTAGGATTTATTTTTGGTTTCT
+TTCCACCTATTCAAACGACAATTAATAGTGCTTTAGCAAGTCATACTCATTCACCAGCCTTTGCATCATTAGTATCAT
+TTACAATTGGGTCAATAACGCTATTGATT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 7 ,
+                    data
+                      gene {
+                        locus "mrpC" ,
+                        locus-tag "ADGJDBML_00001" } ,
+                    location
+                      int {
+                        from 1246 ,
+                        to 1590 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ADGJDBML_1" } } } ,
+                  {
+                    id
+                      local
+                        id 8 ,
+                    data
+                      gene {
+                        locus "mrpB" ,
+                        locus-tag "ADGJDBML_00002" } ,
+                    location
+                      int {
+                        from 1587 ,
+                        to 2012 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ADGJDBML_1" } } } ,
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      gene {
+                        locus "mrpA" ,
+                        locus-tag "ADGJDBML_00003" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 4401 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ADGJDBML_1" } } } ,
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      gene {
+                        locus "xerD" ,
+                        locus-tag "ADGJDBML_00004" } ,
+                    location
+                      int {
+                        from 4420 ,
+                        to 4980 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ADGJDBML_1" } } } ,
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus-tag "ADGJDBML_00005" } ,
+                    location
+                      int {
+                        from 5135 ,
+                        to 5338 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ADGJDBML_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus-tag "ADGJDBML_00006" } ,
+                    location
+                      int {
+                        from 5355 ,
+                        to 5579 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ADGJDBML_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "ADGJDBML_00001" } } ,
+          descr {
+            title "Na(+)/H(+) antiporter subunit C [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 114 ,
+            seq-data
+              ncbieaa "MNLILLLVIGFLVFIGTYMILSINLIRIVIGISIYTHAGNLIIMSMGTYGSSRSE
+PLITGGNQLFVDPLLQAIVLTAIVIGFGMTAFLLVLVYRTYKVTKEDEIEGLRGEDDAK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      prot {
+                        name {
+                          "Na(+)/H(+) antiporter subunit C" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 113 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ADGJDBML_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "ADGJDBML_00002" } } ,
+          descr {
+            title "Na(+)/H(+) antiporter subunit B [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 141 ,
+            seq-data
+              ncbieaa "MKENDVVLRTVTKLVVFILLTFGFYVFFAGHNNPGGGFIGGLIFSSAFILMFLAF
+NVEEVLESLPIDFRILMIIGALVSSITAIIPMFFGKPFLSQYETTWLLPILGQIHVSTITLFELGILFSVVGVIVTVM
+LSLSGGRS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      prot {
+                        name {
+                          "Na(+)/H(+) antiporter subunit B" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 140 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ADGJDBML_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "ADGJDBML_00003" } } ,
+          descr {
+            title "Na(+)/H(+) antiporter subunit A [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 800 ,
+            seq-data
+              ncbieaa "MSLVYLLIAVLVIMAMILLTSKRRAMAKYAGYIALTAPVIASIYFLLQVPSVIKQ
+HYLSVSVPWMTSLDINVDLRLDGLSLMFSLIISLIGIAVFFYATQYLSSRKDNLPRFYLYLTLFMFSMLGIVLADNTI
+LMYVFWELTSVSSFLLISYWYNNGDSQFGAMQSFMITVFGGLALLVGFIMLYIMTGTNNITEILGQADHIKNHALFIP
+MIIMFLLGAFTKSAQFPFHIWLPRAMAAPTPVSAYLHSATMVKAGIFLLLRFTPLLGLSNMYIYIVTFVGLITMLFGS
+ITALKQWDLKGILAYSTISQLGMIMAMVGIGGGYAQHQQNAIASIYVFVLFGALFHLMNHAIFKCALFMGVGILDHEA
+GSRDIRILSGMRQLFPKMNLVMTIAALSMAGVPFLNGFLSKEMFLDALTQTGQLSQFSLISMISIVFVGVIASVFTFT
+YALYMVKEVFWTKYDSKVFTKKNIHEPWLFSLPSLILMVLVPVIFFVPNIFGKGIIVPALRAVSGGNHQIDQLAPHVS
+QWHGFNIPLLLTIIIILLGSVLAIKVDWKKVFTGKIRQISVSKSYEMVYRHFEKFATKRFKRVMQDRLNQYIIMTLGI
+FMIIIGYGYIRIGLPKVHQLHVSEFGALEIILAIVTVTIGISLIFIRQRLTMVILNGVIGFVVTLFFIAMKAPDLALT
+QLVVETITTILFIVSFSRLPNVPRSNANKKREIIKISVSLLMALIVVSLIFITQQTDGLSSISDFYLKADKLTGGKNI
+VNAILGDFRALDTLFEGLVLIITGLGIYTLLNYQDRRGQDERE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      prot {
+                        name {
+                          "Na(+)/H(+) antiporter subunit A" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 799 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ADGJDBML_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "ADGJDBML_00004" } } ,
+          descr {
+            title "Tyrosine recombinase XerD [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 186 ,
+            seq-data
+              ncbieaa "MNKVEVIKCNDDINKMYDALKARSDRDYLFFKLAIHSGMKITELLTITVKDTKRL
+IEKGTLSELCKAHYHSLIKIRLPETLSNELLHYIENKSLSNEDVLFQSLRTNQVLSRQQAYRIIHQAAIKAGIENVGL
+TTLRKTFAYHAYQKGIPIPVIQKYLGHQSAIETLNFIGLENECEHSIYISLQL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      prot {
+                        name {
+                          "Tyrosine recombinase XerD" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 185 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ADGJDBML_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "ADGJDBML_00005" } } ,
+          descr {
+            title "hypothetical protein ADGJDBML_00005 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 67 ,
+            seq-data
+              ncbieaa "MSKTNHITIVLSFTKLDTNGKQTEFKRRFANINPEVSNDQIKTFSKLIERLTGET
+YNNIEVIKSVSI" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 66 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ADGJDBML_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "ADGJDBML_00006" } } ,
+          descr {
+            title "hypothetical protein ADGJDBML_00006 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 74 ,
+            seq-data
+              ncbieaa "MTKTLELSFKSSLDKPVKLQLPQLNNIVTEQVARDSMNALVDLNIIKSNSGAITK
+VHSAQIIDKTTTVLFEAKK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 73 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ADGJDBML_00006" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "ADGJDBML_00001" } ,
+                location
+                  int {
+                    from 1246 ,
+                    to 1590 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "ADGJDBML_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q9RGZ3" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG1006" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "ADGJDBML_00002" } ,
+                location
+                  int {
+                    from 1587 ,
+                    to 2012 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "ADGJDBML_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q9RGZ4" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG2111" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "ADGJDBML_00003" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 4401 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "ADGJDBML_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q9K2S2" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG1009" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "ADGJDBML_00004" } ,
+                location
+                  int {
+                    from 4420 ,
+                    to 4980 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "ADGJDBML_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "protein motif:HAMAP:MF_01807" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "ADGJDBML_00005" } ,
+                location
+                  int {
+                    from 5135 ,
+                    to 5338 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "ADGJDBML_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "ADGJDBML_00006" } ,
+                location
+                  int {
+                    from 5355 ,
+                    to 5579 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "ADGJDBML_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } } } } } } }

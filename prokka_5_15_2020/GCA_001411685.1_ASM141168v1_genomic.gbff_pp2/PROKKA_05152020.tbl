@@ -1,0 +1,87 @@
+>Feature gnl|X|HOHICCDL_1
+11	355	gene
+			gene	menA
+			locus_tag	HOHICCDL_00001
+11	355	CDS
+			EC_number	2.5.1.74
+			gene	menA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01937
+			locus_tag	HOHICCDL_00001
+			product	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+			protein_id	gnl|X|HOHICCDL_00001
+958	407	gene
+			locus_tag	HOHICCDL_00002
+958	407	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HOHICCDL_00002
+			product	hypothetical protein
+			protein_id	gnl|X|HOHICCDL_00002
+1123	1338	gene
+			locus_tag	HOHICCDL_00003
+1123	1338	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HOHICCDL_00003
+			product	hypothetical protein
+			protein_id	gnl|X|HOHICCDL_00003
+1417	1533	gene
+			locus_tag	HOHICCDL_00004
+1417	1533	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HOHICCDL_00004
+			product	hypothetical protein
+			protein_id	gnl|X|HOHICCDL_00004
+1938	1579	gene
+			gene	yfmC_1
+			locus_tag	HOHICCDL_00005
+1938	1579	CDS
+			db_xref	COG:COG4594
+			gene	yfmC_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34348
+			locus_tag	HOHICCDL_00005
+			product	Fe(3+)-citrate-binding protein YfmC
+			protein_id	gnl|X|HOHICCDL_00005
+2536	2000	gene
+			gene	yfmC_2
+			locus_tag	HOHICCDL_00006
+2536	2000	CDS
+			db_xref	COG:COG4594
+			gene	yfmC_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34348
+			locus_tag	HOHICCDL_00006
+			product	Fe(3+)-citrate-binding protein YfmC
+			protein_id	gnl|X|HOHICCDL_00006
+3006	3383	gene
+			locus_tag	HOHICCDL_00007
+3006	3383	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HOHICCDL_00007
+			product	hypothetical protein
+			protein_id	gnl|X|HOHICCDL_00007
+3609	3472	gene
+			gene	tarM
+			locus_tag	HOHICCDL_00008
+3609	3472	CDS
+			EC_number	2.4.1.70
+			gene	tarM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H2WWV6
+			locus_tag	HOHICCDL_00008
+			product	Poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase
+			protein_id	gnl|X|HOHICCDL_00008
+3937	3806	gene
+			locus_tag	HOHICCDL_00009
+3937	3806	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HOHICCDL_00009
+			product	hypothetical protein
+			protein_id	gnl|X|HOHICCDL_00009
+4334	4128	gene
+			locus_tag	HOHICCDL_00010
+4334	4128	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HOHICCDL_00010
+			product	hypothetical protein
+			protein_id	gnl|X|HOHICCDL_00010

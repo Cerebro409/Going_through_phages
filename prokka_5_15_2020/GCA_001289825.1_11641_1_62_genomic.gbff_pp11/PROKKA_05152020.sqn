@@ -1,0 +1,1183 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KLDBMHLK_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 11944 ,
+            seq-data
+              iupacna "AGAAGTACCCATCCCGGCTATTATATCTGCATTTGAAATTGCCAAGTCACATGGT
+GTGACGACAGTATTAAATCCTGCACCAGCGAAAGCATTACCTAATGAATTATTGTCACTAATCGATATTATTGTGCCA
+AACGAAACAGAAGCCGAATTGTTATCTGGGATTAAAGTAACTAATGAACAATCTATGAAAGACAATGCTAATTACTTT
+TTATCTTTAGGCATTAAGACTGTTTTGATTACGTTAGGTAAGCAAGGTACATATTTTGCTACTAAAAATCAAAGCCAA
+CACATCGAAGCTTATAAAGTAAATGCGATTGATACAACTGCTGCAGGCGACACATTTATTGGTGCATTTGTCAGTCGC
+TTAAACAAGTCGCAAGATAACTTAGCAGATGCTATTGATTTTGGTAATAAAGCGAGCTCACTCACTGTACAAAAACAC
+GGCGCGCAAGCATCTATTCCTCTACTAGAAGAAGTAAATCAAGTTTAAATGAATCAAACACAGCTATGATTTGAAGGT
+TTAGCATATAACATGCAACATTCGTATATCATGGCTGTGCTTTTTATCTTTATAAAACATCATCTACTAGAAATAATT
+TTCCACTAAACCTATGCTTGATGACTCATGTTTAGTTATAAATGAAGTGACAATTTTTTGTCATCTGTTTAACTTTCA
+AATTATCGCATATAAATATGCTATATTAATGATAATGATTATCAATTAATAAGGAGGTTATGTTATGTCTAAAGAAGC
+CGGTCATACATTTTTAGCTAAATTAGGAAAAACTCGTCTACGCCCCGGTGGTAAAGAAGCAACAGATTGGTTAATACA
+ACAAGGGGCATTTTCACAAGATAAACAAGTGTTAGAAGTGGCATGTAATATGTGTACGACATCTATTTATCTAGCTCA
+TACATATGGCTGTCACATTCAAGGCGTTGATATAAATAAGAAAGCATTAGAAAAAGCACAAGAAAATATCTCAGCAGC
+AGGTCTTGAATCATATATTCAAGTTCAACAAGCGAATGCTGTTAAATTGCCCTTTGATGACAATCAATTCGATATCGT
+TTTAAATGAAGCAATGTTAACAATGTTACCCATCGCCATAAAGGAAAAAGCATTACGCGAGTACTACCGAGTCTTAAA
+GCCTGGGGGTATCTTGTTAACACATGATATTGTCATCGTTAATGAATCACATGCCACACATGTAGTTAAATCATTATC
+TGCAGCAATTAATGTCAATGTCTCACCGCAGACGAAACTTGGCTGGTTAGATTTATATCATCAAGCTGGTTTTAATCA
+TGTACATTATCATACTGGTCCAATGAGTTTAATGACACCTAAAGGTTTAATTTATGATGAAGGTATTGTCGGAACTTT
+AAAGATTATCAACAATGCTTTAAAAAAAGAAAATCGACCAATGTTTTGTAAAATGTTTAAAACGATGACTAAACTGCG
+AAAAGATATGAATTATATTACTTTTGTCGCTAAAAAAGAGCACTAAATATAATGCCACTAACTGTACTTTATATCTAT
+GTTTGACTGTTACTTTAATTTCTTTGTGACACTAATCATCTACTTAACAATATCGTTATCGTTGATTAGTAGGTCATC
+AATTTTGGTTAAAGACTTTTATAAACACTCAAACATTAACACTATACATACTTAGTTAGTGGCATTATTTTTTTCTTA
+AAATTTTAACATCACGGGATTGGAACAGAAATGATATTTTCGCAAAATTTATTTATGTCCCTCCCCAACTTGCACATT
+ATTGTAAGCTGACTTTCCGCCAGCTTCTATGTTGGGGCCCCGCCAACTTGCATTGCCTGTAGAATTTCTTTTCGAAAT
+TCTCTATGTTGGGGCCCCGCCAACTTGCACATTATTGTAAGCTGACTTTCCGCCAGCTTTTGCGTTGGGGGCCCGCCA
+ATACAACACTTTAGGTCCTACTATATTAATTTATGTCTCGGGCTCTAACTCTAAAATACTTATAATATACCTTTATAA
+TTTATCTCCATTTGATGCTATCACTTGTTTATACCAATAGAACGAATCTTTTTTCAAGCGTTCCATCGTGCCATGACC
+ATCATTATCTCGATCAACATATATTAAACCATAGCGTTTCTTCATTTCACCAGTTGTAAATGAAACAATATCAATGAT
+TCCCCACGGCGTATAACCGATTAAATCTACACCATCTTGATCAACTGCTTCTATCGCTGCTGTAATATGTACTTTTAA
+ATATTCAATGCGATAATCATCATGAATATGTCCATCTACCACTTCATCAACTGCACCAAAACCATTTTCCACAATAAA
+AAGTGGCAACTGATAACGATCATATAACACATTCAATGTATATCTTAAGCCATCTGGATCAATCGCCCAACCCCAATC
+ACTCGTTGCGATATGCGGATTCTCCACAGAATGATTCAAACCACCGTTGACGATGTTGTTTTCAACTGTAGTATCAAC
+ATCATGTTTTACAGCCGTAGACATGTAATAACTAAAGCCAATATAATCAACCGTGCCCTGCTGTAAAATACTGTCGTC
+CCCTTCTTGCCATCCAAAATCATATCCTTTTCGTGCCAACATTTTTTTAGCATAGCTTGGATAATAACCTCTTACTTG
+AACATCCGGGAAAAAGAAACGTAAGCGATTCGCAATTTGTGCTTCCATCATATCTTTCGGATGACACGAATATGGATA
+AATGGGTACATGTGAAATCATTGTTCCAATCTTAAATTTCGGATTAATCTCTTTACCAAGACGAACCGCTAAAGCACT
+GGCTAAAAGTTCATGATGTGCTACTTGATACAAGACTTCTTCGGGATTATCATTTTCTGTTAATGCTACCCCAGAATT
+TGTCCATAAAAAGATAGGATTTGATGTGTCCATCTGATTATTAATTTCATTAAACGTCATCCAATATGTCACTTTATC
+TTTATATCTTTCAAATACAACACGCGCAAAATGCACAAAATAATCGACAACTTCTCTATTTCTAAATCCACCATAATG
+TTTCGCTAAATGAAGTGGCATCTCAAAATGTGATAACGTCACAACAGGTTCAATACCTTGTGCAATTAATTCATCAAA
+GATACGATCATAAAAGGCAAGTCCTTCTTCATTTGGCACATCTTCATCCCCATTCGGAAAGATACGTGTCCACGCAAT
+CGACGTACGTAAACATTTCAATCCCATTTCTTTAAACAAGGCAATATCTTCCTTATAACGATGATAAAAATCAATACC
+TTCATGATTTGGATAATAGTGATTTGGATCTATAGATTCTGTAATCTGACGTGCTTTGCCATGTGCACCACTCGTCAT
+AACATCAATTACACTTAATCCTTTGCCACCTTTATCATATCCACCTTCAAATTGATTTGCGGCAAGAGCGCCACCCCA
+CATAAAATTTTGCGGTAATTTTGTCATTATTACAACACACTCCTAGTTTTTAAATATTTTAAAAATAACATCTTCAGT
+CGTAATGATTTCATTCATTGTCAGTTCTACTTTTCCTAAATCGGCAGAGTTGCTAATAACGACAATAACGTCTGAGTT
+ATAACCTTGTTCCTGAATATATTGTTGATCGAATTGTAACAGTGTTTGCCCAGCTTCAACACGATCATTTTGCTTTAC
+AAAGCACTTGAATCCTTTACCTTCCAAGTCAACTGTATTCACGCCAATATGAATGACTATGTCCACACCTTCTTCTGA
+ACGAATACCGATAGCATGTTTAGTAGGTACAATCATAGATATTAAACCATTGAACGGTGCGATTACTTTGGATTCTTC
+ATGAGCTTTGATTGCCAAGCCTTCACCTACCATTTTCTCTCTAAAAATTGAATCTCTTACTTCTTTAAGTAAAATACG
+ACGACCAGCGATTGGTGCTTTCACTAAAATCGGTGTTGTCACTTTTGCTTGAGGTGTATAACTTGTATCTTGGCTATT
+AATATTGTCAGTATTCGCACCCTCTTCAACATTAGCATCCTTAATTAATCGCTGTAATTGCTGATACACTTCATCGAC
+ATTTCCGTTTAATTTTATGACTAACTGCGCATCATTTTCTGCTACAGATGTCACATCAACTATTTGTTTCACTTCATT
+TGCTGTAGAAGGAATTGTATGTTGCATATGAATTGTAATGCCCTTCGTGTCATACGTTACATCAACAATGTTTTCGAC
+ACCACCCACAGCTGTAAGAATGTCTTGGGCTTGGTCTTTATATTTATTACTCATAAATATTACCCCCTCAACTTGATA
+GTAGAATGAAAATGTATTTACTTACCTCCAATTATAATTGTACCGGTTCATTTTGTAAATGACGATACAATTATAATA
+TTTTGTGCTATAATAATTACAGACAAAGTGAAATGAGGATAAAATATTGTTAAAGTACGAACATATTGCTAAGCAACT
+TAATGCGTTTATACATCATTCTAATTTCAAACCTGGTGATAAGTTGCCAAGTGTAACGCAATTAAAAGAACGTTATCA
+AGTAAGTAAGAGTACTATCATTAAAGCATTAGGCTTATTGGAACAAGATGGTTTGATCTATCAGGCACAAGGTAGCGG
+TATATATGTGAGAAATATTGCAGATGCAAATCGTATCAATGTTTTTAAGACCAATGGTTTTTCTAAAAGTTTAGGCGA
+ACATCGAATGACAAGTAAGGTGCTTGTTTTTAAGGAGATTGCAACGCCACCTAAATCTGTACAAGATGAACTCCAATT
+AAATGCAGATGATACCGTCTACTATTTAGAGCGATTAAGATTCGTGGACGATGATGTTTTATGTATCGAATATTCTTA
+TTATCATAAAGAAATCGTGAAATATTTAAATGATGATATTGCTAAGGGCTCTATCTTCGACTATTTAGAATCAAACAT
+GAAACTTCGTATTGGTTTTTCAGATATTTTCTTTAATGTAGATCAACTCAATTCAAGTGAAGCGGCATTACTACAATT
+ATCTAAGGGCGAACCATGTTTACGTTATCACCAAACGTTTTATACAATGACTGGCAAACCTTTTGATTCGTCTGACAT
+CGTATTTCATTATCGTCATGCACAGTTTTATATTCCTAGTAAAAAGTAATACATACATCAAAACGTCTATATTCCAGT
+TATAAACCGGAGTATAGACGTTTTATAAGACATAATTTCTTTAAAAACAGTGAGAAGTACATTTTTAATCAGAAAATT
+ACTTTATACTGTTCTTTATGTTTACATGATCTAAGAACTTATAGTTTGAATCCTATTGTATAATATCTCTTCCCCTCA
+AACGTTAAAACACACTAAAATCACTCGGTAATATGATGATCTATACTCTGTATTTTGGTTTTAAGTGTCTGTATCCCC
+TTATAAAAATAACTACTAATATAATGACACCTACTGTGAATATAATGTCCCAAGGCATTCTCCCCCACATGATTGCTT
+TTACAAGTGGTTGTTCATAAAATGACGTTAGTCTTGAATGCCAATAACCATGTTCTAATGCATCTTTAAGTTGGATAT
+AACCTACTGGCATTAATGTAACGAACACCATACCTGCCAAGCCAATATTTAAAGCCCAACATGATATTTTAATCCATT
+TTTCAACTTTCGGTGTCCAAAATTCTTTTTTAGTAATATTTTTAAAAACATACAACGCAATTGCAATTGAGAACATAC
+CATACACGCCAGCCATAGAACCATGGGCATGTGCTGCAGTCCATTGCGTACCATGTTCAAAGTAGTTAACTGCTGGTG
+TGTTAATTAAAAAGCCTAATGCTCCAGCACCAATTGCATTCCACAATCCTGTTGAAGCAAGAAAAATAAATGTACCTT
+TGTAAGGAAAAGCGATGTCACTATTCTTATATAAGCGATAGTGTGTGTATGCTTCCCAAATTAATAAACAAAGCGGCA
+CGACTTCTAATGCTGAAAAACAAGAACCCAGTGCTAGCCATATGGAATGATCACCTTGCCAATAGTAATGATGACCCA
+TACCAACAATACCTGTACCTAGTAATAAGATTAATTGAAAATATAATGCACGAATCGTCGTTTCAATGGTAGTTAATT
+TCATATTAACCATTAAGAAACCAATCAACACTACGGCAAATGCTTCAAATATACCTTCAACCCATAAGTGAACAATCC
+ACCATCGCCAGTAATCGGCAAACGTCACATGTGAATTCGGCATTATAAATAATGATGCAAGATAAAATAACGGAATTG
+CAATTGCTCCAACAAACAATAGCGTCAATAAGTGACGTTTATCATGATTCACTTGTACTTTGTTGCGAATAGCTGGTA
+AAAAACCTCGACAAAGAATGATAACCCATAAGACCATACCTACTATAAATAATATTTGCCAAAATTTACCTAATTCTA
+TATATTCCCAACCAAAGTGCCCGAATAGCCACCAATGAGAATCAATCCAACCTAAAATATGACCCCATTCTCCAATCA
+TGCTGCCCATCACAACTATGATTAAGGCCCAAAACAAGATATCTACTAATACGCCTTGTTTCTTTGGTTCTTTGCCCA
+ATACTTTAGGTACAATGTATATTCCTGCTGCTAACCAAGTCGTAGCAACCCAGAAAATAACTAATTGCACATGCCATG
+TCTTCGCAATATTAAATGGAAAGAGCCTTTGTATTTCTATACCAAAAAATTTATTCTCTACATAATAATGTGCCAGTA
+ATTCGCCTAATAATATTTGAACCAAAAATAGTAACATGACAACGACTAAATATTTCCCAACTTTTCGTTGACTATCAG
+TGATTTTACGATCCACTTCAATCTTTGGTAGTTCCCGTTCCGACTCATACGTCGGCTTCATGTCAAATTGATAACGCT
+TTTGAATATATATAATGAATGCCAAGCCTGCAATCAGTAATGTTACAGATATAGCAGTCCATAAAATCCCTGCACTAG
+GCAACGTATTTCCTGCATCCACATCGTATGGCCAATTATTTGTATATGAAAATGTTTTTCCAGGTCTATCTGTTGACG
+ATAGCCAAGCACCCCAGAAAAAGAATTGACTTAAATGTTCAACTTTATTTCCTGCGACCATATAATCATCATTTTGAA
+ACTGTTTAATCATATTTTCATTTAACCCTACTTGTTTAGGGTTATTAACAAACTCTTTTTTATAATAATCTTGCAAAT
+ATTTTAGACCGTATACTTGTCCTGGCGTTAATACAAGTTGATCTTCTTTTTCAGAATAACGATTAATCCGTATTTCTT
+TCATCACTTTATCTTTAACTACGGCTAACTCTGCATGATTTAATTTATGAAGTTGCTTATGATAAATATCTTGTGCAT
+AATATTTACGCATGCCAATCAGGTAATGATGTAATGCCTCTGCTGTATAATCTGGACCTAAATAGGAACCATTGCCTA
+GGTAGGAGCCATAATCTGTTAACCCATATTTCTCATATATCGCTTGCCCACTGATCAGCTCGCCTTTTGTAACAAGCG
+TATGACCTTGTTGATCTACTATCTTTGTTGGACGAGGTGCTTCATTTTTAAAAATATACCAACCACCTACTAGTAAAA
+TTGAAAACACAATCACTAAAATCGTTAGTAGCACTTTAACTAAACGTTTATATGAACTTTGCATACTCATTTATAAAA
+TCTCCTCTTAATTGCATTCTTACATATAAGCATACGCCGTTTTTTTATAAAGTGTTGATGACATTAAGTAATTTCAAG
+AATTTGTCGAAAAATATTTAATTGAAATTTCACAAATGATATAACTTACATTTTAATTCTTGTTTAAATTAATTCGTT
+CTACCATTTTTCAAAAGTGGCAATACATAAAACGAACGCCTAAATACCATAATTCCTAGTAAAAAGTAATACATACAT
+AAAAACGTCTATATCCCAGTTATAAACCGGAGTATAGACGTTTTTTTACGATAATAACAATGGCTCAAATTGCTATTA
+TCTTGCTTAGGTTTTTCGTTTTAGAAGAATATTGCTACAAAGACAGGCACAACTGCTACAACAACTACACCAACTAAC
+ACTAAAGCTATACTTGCCATTGATTCTTCTACAGGTCCTAATTCTTTGGCTGGTGCTACACCTAATGTGTGACCACTT
+GTTCCAAGTGCTAATCCTCGGGCAATAGGGTTAGTAATTCGGAAAAGCTTCAAGAATTTATTACCTAGGGCATAAATA
+ATGACACCATTTAAAATAACTGCTAATGATGTTAATTCTTTTATACCACCGATACCAGCTGATACTGGTAACGCAATC
+GCTGTAGTTGCTGCTTGAGGTAACATTGATAAAATAACATCATTGGCAAATTGTGCTAACTTCGCAAAAGTTAAAATA
+ATTAATAACGCTACAACTGTACCGATACCAATACCTCCGATGATACGATGCCAATGTTTAACAAGCACTTCACGCTTT
+TTATATAACGGAATCGCAAAACAGATTGTTGCCGGTTCTAAGAAGAAGTAAATAATATCTCCACCTATTTTGTAAGTC
+TTATACGGAATGCCTGTTAAATAGAGGAAGGCCACACCAAATACCATACTGACAAATAGCGGTGCGAATAAGAAGAAA
+CGATTAGTTTTTTCAAATAATATGGTCGCTAAGAAAAATGGTATAACGGATAACAGTATTCCGAAGTAAGGTGTGTTT
+AGTGCTAAGTGGTTAATCATGAGCTTGTGCCTCCTCTATTTTGATCTTTTTTGTGACTTTGTCACCTTTAGATCTCGA
+AGTAACTTTCATAATAATTTGTGTGACATAGCCAGTACAAATAAGTAATAGTATTGTTGAGACGATTATTAGTCCAAT
+GATTAAAAATGGTGCTTGGCTAATGACACCTAAAGAGTTAACAACTGAGATACCGGCTGGTACGAAGAGTAAGCCAAT
+GTTATTTGTTAGTGTCGTTCCTACTTTTTCGACTTCGCCTAACTTAACAGCACCAGTACATAATAATACAAATAATAA
+TACTAAACCGATTACTGATGCAGGCATAGGAATTGGCATAAATGATTCAATTATTTTCGATACAAAGAGTACTAAAGC
+AATTACAATGACTTGGTGAAAAAAGTGTGCTGGTTTTGATGCGTCTTTTTGTTGTTTCACGACCATTGCCTCCTACGT
+TTGATTTAACTAAAGTATAGATGGCTCACTTCGATTTGCGTGATTTTTAGTCCGAAATACAAAATATCATAGGTAAAA
+TGCATAAAAAAAAGGATTACTGTTAAAGTAATCCTATCGACGCTTTAAAATCTTTCATAAATGAACGTCCAACTTGCA
+TCTTGACACCATTTGTCAATATTACCATATAAGTGTAGTTAAACCATTGTTGCACTTCTTTAATGTGTTTCGTGTTAA
+TAATATATGAACGATGAATACGTATGAAATAAGCGGGATTCAATCGTTTTTCATAACGATTCAATGGCTCTGTTGTTT
+CGTATTTATGATTTGTTGTATGTATGGTTGTAATACCATTATGTGTGCCAATCCCAATAATATTTTGTTGCTTTAACA
+TGTGAATTTTATCGTCAATTTCAACAGGTAAACTTTGATCAAAATTCGCCGACATATCATTCGCAATTGCACTTGCGC
+TATTATCATCTTTGGCTTTAGTCGCACGAACTTTATTGACTGCTTGTTCAATACGTTTTTGACCAAACGGTTTCAAAA
+TATAATCTGTCGCATTTAATTCAAATGCCTGTACTGCGTATTGGTCATGTGCAGTTGCAAAAATAATCGCAGGTGGCT
+CTTTCATCTTTTGAATTTTAGCTCCTAATTCGATACCATTTTCATCCATTAAATTGACATCTAAAAATATAATGTCAT
+ATTGATTTATCAGTAGTGCTTCCAATGTTTCTTTTACATTTTCTGCCTCATTAATTTCTTCAAAACCACCAATTTCAT
+TTAATAAATATGTTAATTCATTACGTGCTAATGGCTCATCATCTATGATTAATGCTTTCATATTTATTCCTCCTCTTG
+TCTTTCATAAGGAAGTACACACCAAAAAGTGGTACCGCTCGATGTCGATTCAAATTGTAATGCTGCGGATTTTCCAAA
+TAATCCTTTTAGGCGTAAGTTTAAATTTTCTAAAGCACTACCAGTTCCAGACTCTGATTCTACAGATGTTTCTCCCAA
+CAAATGCATTTTATCTTTAGAAATACCCTGACCATTATCTTGTACAATAATACGTACATGTGTTGCAGTTTCTTTAAT
+CACTGACACGTCAATATCGTTACCTTGCTTTCGATTCGTAAACGCATGTTTGATGGCATTTTCAACTAAAATTTGAAT
+TAAAAATGGTGGTACAAGCACATCGCGATACTTGTCTTCAACATTAATATTGATATTAAATCTTCCTGGATAACGTGC
+TTGTTCGAGTGATAAGTATGCACGCACTTGACTTAACTCTTTATCTAAAGTAATCGTATGTTGCTTTGAGCCTTGTAA
+ATTCGCTCTGAAAAAATAACTCAATTCTAATAGTAACTCTCGTGCCTTTTCGCTATTTATTCTAACTAAAGCTGAAAT
+CGTGTTAATTGAATTGAAGAAAAAATGCGGACTCACTTGTGCCTGCAATGACTTAATTTCAGCATCTTTCAATAACTT
+ACTTTGCGTTTCGGCTTCACCAAGTTCAATTTGGCTACTAAAAATATTTGCCAATCCTTCTGCAAGTTGACGTTCCAC
+AAAAGTTAAATCATTAGGGTTTGTAAAATACATCTTCAATGTACCGACGATAGAACCATGCATCTCAAGTGGTATCAC
+GATAGCTGCTCTAAGCGGGCAATTCGGATGACTACAACCAATCTCTTCTTTAGTATGAACTTCTTTCAACTTTCCTGA
+TTTCAATACATCTTTAGACAGACTTGTTAATATTTCATTTGTTGGTATGTGATGATCACTACCTGCACCTACATGCGA
+TAAGATTTCATTTTTGCTTGTAATTGCTACGGCAGATACTTTCATTAAATTTTTAATAATCATCGCAATTTGCTGTGC
+CGATTCTCTATTCAATCCTTCTTTAAAATACGGCAATGTCTGGTTCATCAATTGCAGTACATCATGTGTTTGAACAGC
+CTTCATTTGCTCCTCTTGCTTTAATGTTGAAATGATAATAGACATAAAAATCGCCGTACCAACGCTATTAACAATAAT
+CATTGGTAGTGCAATTAATGATATGAGGTCAACCGCATATGCTTTGTCGTGGGAAAATGTTAAAATGCTCAACATTTG
+AATCATTTCCATAACAATTCCAATCATGGCACTTTTCGCAATACTCGGGTAACGCTTGCGTCTTTGAGCTTGTAAACC
+AAAATAACCAGCAATTATACCGATAAATATAGATGAGATAAGATAAACTTGTGCATCCGCCCCACCCATATACACTCT
+GAAAATACCTGAAATAACGCCAACAAATAGACCTACAAAAGGGCCACCAACTAATCCTGCGACACCTATTGTCAATAC
+ACGTGTGTTAGCTAAAGATACATCATCATCTAAACGGAAGTACACACTTCCTGACAAACTATGTTGATGATCGATGAC
+GATACCAGTTAAATTAGACATTAAGGCAAACAAACTGAAAATAATACATAATTGCCAACGTGCTTTCCATGTACGTCG
+ACGATTCATTAAGTTTTTAAAATATGGAATATTCATCAACACATAGGCCAAAATAATAATTAAACCTACACGCTCAAG
+TAATAACATTGTTAGCGATAGCACGATAGCACCTCAGTGAATTATAATTATGTTTATTTTATCATAATAGTGCATGTA
+AAATTCATGAATAAATTATTAAAAAAACACGATACTATTTAATTACCTATACCATTAAAATTTCATATCAATTCTTAT
+GCTAAGTTGACAATTTTCCTTTTCAAAATAATGACTATCATGTCACTAAATTTCTGTTAAGTATAGCGAAAAACTGCT
+GACATTACTTTGCCAACAGTTTCTAATCGCGTT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus "rbsK" ,
+                        locus-tag "KLDBMHLK_00001" } ,
+                    location
+                      int {
+                        from 55 ,
+                        to 492 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus "COQ5" ,
+                        locus-tag "KLDBMHLK_00002" } ,
+                    location
+                      int {
+                        from 743 ,
+                        to 1504 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      gene {
+                        locus "bglA" ,
+                        locus-tag "KLDBMHLK_00003" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 3435 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      gene {
+                        locus-tag "KLDBMHLK_00004" } ,
+                    location
+                      int {
+                        from 3451 ,
+                        to 4242 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      gene {
+                        locus "yydK" ,
+                        locus-tag "KLDBMHLK_00005" } ,
+                    location
+                      int {
+                        from 4391 ,
+                        to 5095 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      gene {
+                        locus-tag "KLDBMHLK_00006" } ,
+                    location
+                      int {
+                        from 5321 ,
+                        to 7612 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      gene {
+                        locus "lrgB" ,
+                        locus-tag "KLDBMHLK_00007" } ,
+                    location
+                      int {
+                        from 7953 ,
+                        to 8654 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      gene {
+                        locus "lrgA" ,
+                        locus-tag "KLDBMHLK_00008" } ,
+                    location
+                      int {
+                        from 8647 ,
+                        to 9084 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      gene {
+                        locus "lytR" ,
+                        locus-tag "KLDBMHLK_00009" } ,
+                    location
+                      int {
+                        from 9203 ,
+                        to 9943 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_1" } } } ,
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      gene {
+                        locus "ypdA" ,
+                        locus-tag "KLDBMHLK_00010" } ,
+                    location
+                      int {
+                        from 9946 ,
+                        to 11700 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KLDBMHLK_00001" } } ,
+          descr {
+            title "Ribokinase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 145 ,
+            seq-data
+              ncbieaa "MTTVLNPAPAKALPNELLSLIDIIVPNETEAELLSGIKVTNEQSMKDNANYFLSL
+GIKTVLITLGKQGTYFATKNQSQHIEAYKVNAIDTTAAGDTFIGAFVSRLNKSQDNLADAIDFGNKASSLTVQKHGAQ
+ASIPLLEEVNQV" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      prot {
+                        name {
+                          "Ribokinase" } ,
+                        ec {
+                          "2.7.1.15" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 144 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KLDBMHLK_00002" } } ,
+          descr {
+            title "2-methoxy-6-polyprenyl-1,4-benzoquinol methylase,
+ mitochondrial [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 253 ,
+            seq-data
+              ncbieaa "MSKEAGHTFLAKLGKTRLRPGGKEATDWLIQQGAFSQDKQVLEVACNMCTTSIYL
+AHTYGCHIQGVDINKKALEKAQENISAAGLESYIQVQQANAVKLPFDDNQFDIVLNEAMLTMLPIAIKEKALREYYRV
+LKPGGILLTHDIVIVNESHATHVVKSLSAAINVNVSPQTKLGWLDLYHQAGFNHVHYHTGPMSLMTPKGLIYDEGIVG
+TLKIINNALKKENRPMFCKMFKTMTKLRKDMNYITFVAKKEH" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 22 ,
+                    data
+                      prot {
+                        name {
+                          "2-methoxy-6-polyprenyl-1,4-benzoquinol methylase,
+ mitochondrial" } ,
+                        ec {
+                          "2.1.1.163" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 252 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KLDBMHLK_00003" } } ,
+          descr {
+            title "Aryl-phospho-beta-D-glucosidase BglA [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 478 ,
+            seq-data
+              ncbieaa "MTKLPQNFMWGGALAANQFEGGYDKGGKGLSVIDVMTSGAHGKARQITESIDPNH
+YYPNHEGIDFYHRYKEDIALFKEMGLKCLRTSIAWTRIFPNGDEDVPNEEGLAFYDRIFDELIAQGIEPVVTLSHFEM
+PLHLAKHYGGFRNREVVDYFVHFARVVFERYKDKVTYWMTFNEINNQMDTSNPIFLWTNSGVALTENDNPEEVLYQVA
+HHELLASALAVRLGKEINPKFKIGTMISHVPIYPYSCHPKDMMEAQIANRLRFFFPDVQVRGYYPSYAKKMLARKGYD
+FGWQEGDDSILQQGTVDYIGFSYYMSTAVKHDVDTTVENNIVNGGLNHSVENPHIATSDWGWAIDPDGLRYTLNVLYD
+RYQLPLFIVENGFGAVDEVVDGHIHDDYRIEYLKVHITAAIEAVDQDGVDLIGYTPWGIIDIVSFTTGEMKKRYGLIY
+VDRDNDGHGTMERLKKDSFYWYKQVIASNGDKL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 23 ,
+                    data
+                      prot {
+                        name {
+                          "Aryl-phospho-beta-D-glucosidase BglA" } ,
+                        ec {
+                          "3.2.1.86" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 477 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KLDBMHLK_00004" } } ,
+          descr {
+            title "hypothetical protein KLDBMHLK_00004 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 263 ,
+            seq-data
+              ncbieaa "MSNKYKDQAQDILTAVGGVENIVDVTYDTKGITIHMQHTIPSTANEVKQIVDVTS
+VAENDAQLVIKLNGNVDEVYQQLQRLIKDANVEEGANTDNINSQDTSYTPQAKVTTPILVKAPIAGRRILLKEVRDSI
+FREKMVGEGLAIKAHEESKVIAPFNGLISMIVPTKHAIGIRSEEGVDIVIHIGVNTVDLEGKGFKCFVKQNDRVEAGQ
+TLLQFDQQYIQEQGYNSDVIVVISNSADLGKVELTMNEIITTEDVIFKIFKN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 24 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 262 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KLDBMHLK_00005" } } ,
+          descr {
+            title "putative HTH-type transcriptional regulator YydK [Genus
+ species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 234 ,
+            seq-data
+              ncbieaa "MLKYEHIAKQLNAFIHHSNFKPGDKLPSVTQLKERYQVSKSTIIKALGLLEQDGL
+IYQAQGSGIYVRNIADANRINVFKTNGFSKSLGEHRMTSKVLVFKEIATPPKSVQDELQLNADDTVYYLERLRFVDDD
+VLCIEYSYYHKEIVKYLNDDIAKGSIFDYLESNMKLRIGFSDIFFNVDQLNSSEAALLQLSKGEPCLRYHQTFYTMTG
+KPFDSSDIVFHYRHAQFYIPSKK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 25 ,
+                    data
+                      prot {
+                        name {
+                          "putative HTH-type transcriptional regulator YydK" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 233 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KLDBMHLK_00006" } } ,
+          descr {
+            title "hypothetical protein KLDBMHLK_00006 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 763 ,
+            seq-data
+              ncbieaa "MSMQSSYKRLVKVLLTILVIVFSILLVGGWYIFKNEAPRPTKIVDQQGHTLVTKG
+ELISGQAIYEKYGLTDYGSYLGNGSYLGPDYTAEALHHYLIGMRKYYAQDIYHKQLHKLNHAELAVVKDKVMKEIRIN
+RYSEKEDQLVLTPGQVYGLKYLQDYYKKEFVNNPKQVGLNENMIKQFQNDDYMVAGNKVEHLSQFFFWGAWLSSTDRP
+GKTFSYTNNWPYDVDAGNTLPSAGILWTAISVTLLIAGLAFIIYIQKRYQFDMKPTYESERELPKIEVDRKITDSQRK
+VGKYLVVVMLLFLVQILLGELLAHYYVENKFFGIEIQRLFPFNIAKTWHVQLVIFWVATTWLAAGIYIVPKVLGKEPK
+KQGVLVDILFWALIIVVMGSMIGEWGHILGWIDSHWWLFGHFGWEYIELGKFWQILFIVGMVLWVIILCRGFLPAIRN
+KVQVNHDKRHLLTLLFVGAIAIPLFYLASLFIMPNSHVTFADYWRWWIVHLWVEGIFEAFAVVLIGFLMVNMKLTTIE
+TTIRALYFQLILLLGTGIVGMGHHYYWQGDHSIWLALGSCFSALEVVPLCLLIWEAYTHYRLYKNSDIAFPYKGTFIF
+LASTGLWNAIGAGALGFLINTPAVNYFEHGTQWTAAHAHGSMAGVYGMFSIAIALYVFKNITKKEFWTPKVEKWIKIS
+CWALNIGLAGMVFVTLMPVGYIQLKDALEHGYWHSRLTSFYEQPLVKAIMWGRMPWDIIFTVGVIILVVIFIRGYRHL
+KPKYRV" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 26 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 762 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KLDBMHLK_00007" } } ,
+          descr {
+            title "Antiholin-like protein LrgB [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 233 ,
+            seq-data
+              ncbieaa "MINHLALNTPYFGILLSVIPFFLATILFEKTNRFFLFAPLFVSMVFGVAFLYLTG
+IPYKTYKIGGDIIYFFLEPATICFAIPLYKKREVLVKHWHRIIGGIGIGTVVALLIILTFAKLAQFANDVILSMLPQA
+ATTAIALPVSAGIGGIKELTSLAVILNGVIIYALGNKFLKLFRITNPIARGLALGTSGHTLGVAPAKELGPVEESMAS
+IALVLVGVVVVAVVPVFVAIFF" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 27 ,
+                    data
+                      prot {
+                        name {
+                          "Antiholin-like protein LrgB" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 232 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_00007" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KLDBMHLK_00008" } } ,
+          descr {
+            title "Antiholin-like protein LrgA [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 145 ,
+            seq-data
+              ncbieaa "MKQQKDASKPAHFFHQVIVIALVLFVSKIIESFMPIPMPASVIGLVLLFVLLCTG
+AVKLGEVEKVGTTLTNNIGLLFVPAGISVVNSLGVISQAPFLIIGLIIVSTILLLICTGYVTQIIMKVTSRSKGDKVT
+KKIKIEEAQAHD" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 28 ,
+                    data
+                      prot {
+                        name {
+                          "Antiholin-like protein LrgA" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 144 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_00008" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KLDBMHLK_00009" } } ,
+          descr {
+            title "Sensory transduction protein LytR [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 246 ,
+            seq-data
+              ncbieaa "MKALIIDDEPLARNELTYLLNEIGGFEEINEAENVKETLEALLINQYDIIFLDVN
+LMDENGIELGAKIQKMKEPPAIIFATAHDQYAVQAFELNATDYILKPFGQKRIEQAVNKVRATKAKDDNSASAIANDM
+SANFDQSLPVEIDDKIHMLKQQNIIGIGTHNGITTIHTTNHKYETTEPLNRYEKRLNPAYFIRIHRSYIINTKHIKEV
+QQWFNYTYMVILTNGVKMQVGRSFMKDFKASIGLL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 29 ,
+                    data
+                      prot {
+                        name {
+                          "Sensory transduction protein LytR" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 245 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_00009" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KLDBMHLK_00010" } } ,
+          descr {
+            title "Sensor histidine kinase YpdA [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 584 ,
+            seq-data
+              ncbieaa "MLSLTMLLLERVGLIIILAYVLMNIPYFKNLMNRRRTWKARWQLCIIFSLFALMS
+NLTGIVIDHQHSLSGSVYFRLDDDVSLANTRVLTIGVAGLVGGPFVGLFVGVISGIFRVYMGGADAQVYLISSIFIGI
+IAGYFGLQAQRRKRYPSIAKSAMIGIVMEMIQMLSILTFSHDKAYAVDLISLIALPMIIVNSVGTAIFMSIIISTLKQ
+EEQMKAVQTHDVLQLMNQTLPYFKEGLNRESAQQIAMIIKNLMKVSAVAITSKNEILSHVGAGSDHHIPTNEILTSLS
+KDVLKSGKLKEVHTKEEIGCSHPNCPLRAAIVIPLEMHGSIVGTLKMYFTNPNDLTFVERQLAEGLANIFSSQIELGE
+AETQSKLLKDAEIKSLQAQVSPHFFFNSINTISALVRINSEKARELLLELSYFFRANLQGSKQHTITLDKELSQVRAY
+LSLEQARYPGRFNININVEDKYRDVLVPPFLIQILVENAIKHAFTNRKQGNDIDVSVIKETATHVRIIVQDNGQGISK
+DKMHLLGETSVESESGTGSALENLNLRLKGLFGKSAALQFESTSSGTTFWCVLPYERQEEE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 30 ,
+                    data
+                      prot {
+                        name {
+                          "Sensor histidine kinase YpdA" } ,
+                        ec {
+                          "2.7.13.3" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 583 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KLDBMHLK_00010" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KLDBMHLK_00001" } ,
+                location
+                  int {
+                    from 55 ,
+                    to 492 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KLDBMHLK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:A0A0H2WZY4" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KLDBMHLK_00002" } ,
+                location
+                  int {
+                    from 743 ,
+                    to 1504 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KLDBMHLK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "protein motif:HAMAP:MF_01813" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KLDBMHLK_00003" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 3435 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KLDBMHLK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P42973" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG2723" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KLDBMHLK_00004" } ,
+                location
+                  int {
+                    from 3451 ,
+                    to 4242 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KLDBMHLK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KLDBMHLK_00005" } ,
+                location
+                  int {
+                    from 4391 ,
+                    to 5095 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KLDBMHLK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q45591" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG2188" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KLDBMHLK_00006" } ,
+                location
+                  int {
+                    from 5321 ,
+                    to 7612 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KLDBMHLK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KLDBMHLK_00007" } ,
+                location
+                  int {
+                    from 7953 ,
+                    to 8654 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KLDBMHLK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P60643" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG1346" } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KLDBMHLK_00008" } ,
+                location
+                  int {
+                    from 8647 ,
+                    to 9084 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KLDBMHLK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P72358" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG1380" } } } ,
+              {
+                id
+                  local
+                    id 9 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KLDBMHLK_00009" } ,
+                location
+                  int {
+                    from 9203 ,
+                    to 9943 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KLDBMHLK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P60611" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG3279" } } } ,
+              {
+                id
+                  local
+                    id 10 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KLDBMHLK_00010" } ,
+                location
+                  int {
+                    from 9946 ,
+                    to 11700 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KLDBMHLK_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P0AA93" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG3275" } } } } } } } } }

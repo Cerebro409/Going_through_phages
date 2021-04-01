@@ -1,0 +1,559 @@
+>Feature gnl|X|AHBMAPJE_1
+235	137	gene
+			locus_tag	AHBMAPJE_00001
+235	137	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00001
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00001
+435	1721	gene
+			gene	hisC
+			locus_tag	AHBMAPJE_00002
+435	1721	CDS
+			EC_number	2.6.1.9
+			gene	hisC
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01023
+			locus_tag	AHBMAPJE_00002
+			product	Histidinol-phosphate aminotransferase
+			protein_id	gnl|X|AHBMAPJE_00002
+4048	2000	gene
+			gene	map
+			locus_tag	AHBMAPJE_00003
+4048	2000	CDS
+			gene	map
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q53599
+			locus_tag	AHBMAPJE_00003
+			product	Protein map
+			protein_id	gnl|X|AHBMAPJE_00003
+4434	4634	gene
+			gene	hlb_1
+			locus_tag	AHBMAPJE_00004
+4434	4634	CDS
+			EC_number	3.1.4.3
+			gene	hlb_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09978
+			locus_tag	AHBMAPJE_00004
+			product	Phospholipase C
+			protein_id	gnl|X|AHBMAPJE_00004
+6159	5809	gene
+			gene	scn
+			locus_tag	AHBMAPJE_00005
+6159	5809	CDS
+			gene	scn
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6GFB4
+			locus_tag	AHBMAPJE_00005
+			product	Staphylococcal complement inhibitor
+			protein_id	gnl|X|AHBMAPJE_00005
+6844	7293	gene
+			gene	chp
+			locus_tag	AHBMAPJE_00006
+6844	7293	CDS
+			gene	chp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A6QIG7
+			locus_tag	AHBMAPJE_00006
+			product	Chemotaxis inhibitory protein
+			protein_id	gnl|X|AHBMAPJE_00006
+7684	7388	gene
+			locus_tag	AHBMAPJE_00007
+7684	7388	CDS
+			EC_number	3.5.1.28
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FYD8
+			locus_tag	AHBMAPJE_00007
+			product	putative autolysin PH
+			protein_id	gnl|X|AHBMAPJE_00007
+8864	8373	gene
+			gene	sak
+			locus_tag	AHBMAPJE_00008
+8864	8373	CDS
+			gene	sak
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68802
+			locus_tag	AHBMAPJE_00008
+			product	Staphylokinase
+			protein_id	gnl|X|AHBMAPJE_00008
+9810	9055	gene
+			locus_tag	AHBMAPJE_00009
+9810	9055	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00009
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00009
+10076	9822	gene
+			locus_tag	AHBMAPJE_00010
+10076	9822	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00010
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00010
+10910	10614	gene
+			locus_tag	AHBMAPJE_00011
+10910	10614	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00011
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00011
+11255	10968	gene
+			locus_tag	AHBMAPJE_00012
+11255	10968	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00012
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00012
+11454	11302	gene
+			locus_tag	AHBMAPJE_00013
+11454	11302	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00013
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00013
+15229	11444	gene
+			locus_tag	AHBMAPJE_00014
+15229	11444	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00014
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00014
+16729	15245	gene
+			locus_tag	AHBMAPJE_00015
+16729	15245	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00015
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00015
+21255	16726	gene
+			locus_tag	AHBMAPJE_00016
+21255	16726	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00016
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00016
+21449	21312	gene
+			locus_tag	AHBMAPJE_00017
+21449	21312	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00017
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00017
+21850	21500	gene
+			locus_tag	AHBMAPJE_00018
+21850	21500	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00018
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00018
+22808	22167	gene
+			locus_tag	AHBMAPJE_00019
+22808	22167	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00019
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00019
+23216	22809	gene
+			locus_tag	AHBMAPJE_00020
+23216	22809	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00020
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00020
+23617	23213	gene
+			locus_tag	AHBMAPJE_00021
+23617	23213	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00021
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00021
+23976	23614	gene
+			locus_tag	AHBMAPJE_00022
+23976	23614	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00022
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00022
+24256	23960	gene
+			locus_tag	AHBMAPJE_00023
+24256	23960	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00023
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00023
+24518	24234	gene
+			locus_tag	AHBMAPJE_00024
+24518	24234	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00024
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00024
+25758	24538	gene
+			locus_tag	AHBMAPJE_00025
+25758	24538	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00025
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00025
+26449	25706	gene
+			gene	clpP
+			locus_tag	AHBMAPJE_00026
+26449	25706	CDS
+			EC_number	3.4.21.92
+			gene	clpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00444
+			locus_tag	AHBMAPJE_00026
+			product	ATP-dependent Clp protease proteolytic subunit
+			protein_id	gnl|X|AHBMAPJE_00026
+27590	26427	gene
+			locus_tag	AHBMAPJE_00027
+27590	26427	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00027
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00027
+28652	27606	gene
+			locus_tag	AHBMAPJE_00028
+28652	27606	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00028
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00028
+29267	28698	gene
+			locus_tag	AHBMAPJE_00029
+29267	28698	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00029
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00029
+29653	29264	gene
+			locus_tag	AHBMAPJE_00030
+29653	29264	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00030
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00030
+29745	29596	gene
+			locus_tag	AHBMAPJE_00031
+29745	29596	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00031
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00031
+30039	29761	gene
+			locus_tag	AHBMAPJE_00032
+30039	29761	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00032
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00032
+30687	30271	gene
+			locus_tag	AHBMAPJE_00033
+30687	30271	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00033
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00033
+30915	30715	gene
+			locus_tag	AHBMAPJE_00034
+30915	30715	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00034
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00034
+31064	30915	gene
+			locus_tag	AHBMAPJE_00035
+31064	30915	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00035
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00035
+31450	31061	gene
+			locus_tag	AHBMAPJE_00036
+31450	31061	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00036
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00036
+31676	31440	gene
+			locus_tag	AHBMAPJE_00037
+31676	31440	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00037
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00037
+31956	31669	gene
+			locus_tag	AHBMAPJE_00038
+31956	31669	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00038
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00038
+32526	31993	gene
+			gene	dut
+			locus_tag	AHBMAPJE_00039
+32526	31993	CDS
+			EC_number	3.6.1.23
+			db_xref	COG:COG0756
+			gene	dut
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QW08
+			locus_tag	AHBMAPJE_00039
+			product	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+			protein_id	gnl|X|AHBMAPJE_00039
+32689	32519	gene
+			locus_tag	AHBMAPJE_00040
+32689	32519	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00040
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00040
+32930	32676	gene
+			locus_tag	AHBMAPJE_00041
+32930	32676	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00041
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00041
+33207	32923	gene
+			locus_tag	AHBMAPJE_00042
+33207	32923	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00042
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00042
+33653	33204	gene
+			locus_tag	AHBMAPJE_00043
+33653	33204	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00043
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00043
+33844	33650	gene
+			locus_tag	AHBMAPJE_00044
+33844	33650	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00044
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00044
+34227	33841	gene
+			locus_tag	AHBMAPJE_00045
+34227	33841	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00045
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00045
+34483	34241	gene
+			locus_tag	AHBMAPJE_00046
+34483	34241	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00046
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00046
+34855	34487	gene
+			locus_tag	AHBMAPJE_00047
+34855	34487	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00047
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00047
+35272	34868	gene
+			locus_tag	AHBMAPJE_00048
+35272	34868	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00048
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00048
+35499	35281	gene
+			locus_tag	AHBMAPJE_00049
+35499	35281	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00049
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00049
+36069	35506	gene
+			locus_tag	AHBMAPJE_00050
+36069	35506	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00050
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00050
+36868	36398	gene
+			gene	ssbA
+			locus_tag	AHBMAPJE_00051
+36868	36398	CDS
+			db_xref	COG:COG0629
+			gene	ssbA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37455
+			locus_tag	AHBMAPJE_00051
+			product	Single-stranded DNA-binding protein A
+			protein_id	gnl|X|AHBMAPJE_00051
+37354	36869	gene
+			locus_tag	AHBMAPJE_00052
+37354	36869	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00052
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00052
+38487	37567	gene
+			locus_tag	AHBMAPJE_00053
+38487	37567	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00053
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00053
+40432	38489	gene
+			locus_tag	AHBMAPJE_00054
+40432	38489	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00054
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00054
+40704	40441	gene
+			locus_tag	AHBMAPJE_00055
+40704	40441	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00055
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00055
+40973	40713	gene
+			locus_tag	AHBMAPJE_00056
+40973	40713	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00056
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00056
+41544	41224	gene
+			locus_tag	AHBMAPJE_00057
+41544	41224	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00057
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00057
+41757	41620	gene
+			locus_tag	AHBMAPJE_00058
+41757	41620	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00058
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00058
+42037	41777	gene
+			locus_tag	AHBMAPJE_00059
+42037	41777	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00059
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00059
+42799	42050	gene
+			locus_tag	AHBMAPJE_00060
+42799	42050	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00060
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00060
+42856	43065	gene
+			locus_tag	AHBMAPJE_00061
+42856	43065	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00061
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00061
+43198	43058	gene
+			locus_tag	AHBMAPJE_00062
+43198	43058	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00062
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00062
+43659	43213	gene
+			locus_tag	AHBMAPJE_00063
+43659	43213	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00063
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00063
+43914	43672	gene
+			locus_tag	AHBMAPJE_00064
+43914	43672	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00064
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00064
+44078	44794	gene
+			gene	lexA
+			locus_tag	AHBMAPJE_00065
+44078	44794	CDS
+			EC_number	3.4.21.88
+			gene	lexA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00015
+			locus_tag	AHBMAPJE_00065
+			product	LexA repressor
+			protein_id	gnl|X|AHBMAPJE_00065
+44806	45660	gene
+			locus_tag	AHBMAPJE_00066
+44806	45660	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00066
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00066
+45734	45880	gene
+			locus_tag	AHBMAPJE_00067
+45734	45880	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00067
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00067
+45877	46062	gene
+			locus_tag	AHBMAPJE_00068
+45877	46062	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00068
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00068
+46133	46315	gene
+			locus_tag	AHBMAPJE_00069
+46133	46315	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00069
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00069
+46351	47106	gene
+			locus_tag	AHBMAPJE_00070
+46351	47106	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AHBMAPJE_00070
+			product	hypothetical protein
+			protein_id	gnl|X|AHBMAPJE_00070
+47297	48334	gene
+			gene	xerC
+			locus_tag	AHBMAPJE_00071
+47297	48334	CDS
+			gene	xerC
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01808
+			locus_tag	AHBMAPJE_00071
+			product	Tyrosine recombinase XerC
+			protein_id	gnl|X|AHBMAPJE_00071
+48391	49215	gene
+			gene	hlb_2
+			locus_tag	AHBMAPJE_00072
+48391	49215	CDS
+			EC_number	3.1.4.3
+			gene	hlb_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09978
+			locus_tag	AHBMAPJE_00072
+			product	Phospholipase C
+			protein_id	gnl|X|AHBMAPJE_00072
+50325	49453	gene
+			locus_tag	AHBMAPJE_00073
+50325	49453	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21224
+			locus_tag	AHBMAPJE_00073
+			product	putative leukocidin-like protein 1
+			protein_id	gnl|X|AHBMAPJE_00073

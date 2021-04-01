@@ -1,0 +1,52 @@
+# BLASTN 2.9.0+
+# Query: ADGJDBML_00001 Na(+)/H(+) antiporter subunit C
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+ADGJDBML_00001	ADGJDBML_00001	100.000	345	100	345	345	0	0.0	638
+ADGJDBML_00001	MDFJFFIF_00062	99.420	345	100	345	345	2	1.33e-180	627
+ADGJDBML_00001	PDHDOIKH_00053	99.420	345	100	345	345	2	1.33e-180	627
+# BLASTN 2.9.0+
+# Query: ADGJDBML_00002 Na(+)/H(+) antiporter subunit B
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+ADGJDBML_00002	ADGJDBML_00002	100.000	426	100	426	426	0	0.0	787
+ADGJDBML_00002	MDFJFFIF_00061	99.296	426	100	426	426	3	0.0	771
+ADGJDBML_00002	PDHDOIKH_00052	99.296	426	100	426	426	3	0.0	771
+# BLASTN 2.9.0+
+# Query: ADGJDBML_00003 Na(+)/H(+) antiporter subunit A
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+ADGJDBML_00003	ADGJDBML_00003	100.000	2403	100	2403	2403	0	0.0	4438
+ADGJDBML_00003	MDFJFFIF_00060	94.840	2403	100	2403	2403	124	0.0	3751
+ADGJDBML_00003	PDHDOIKH_00051	94.840	2403	100	2403	2403	124	0.0	3751
+# BLASTN 2.9.0+
+# Query: ADGJDBML_00004 Tyrosine recombinase XerD
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+ADGJDBML_00004	ADGJDBML_00004	100.000	561	100	561	561	0	0.0	1037
+ADGJDBML_00004	LGJHLHJI_00001	100.000	561	100	561	561	0	0.0	1037
+ADGJDBML_00004	MDFJFFIF_00059	83.865	561	99	561	564	83	1.78e-151	531
+ADGJDBML_00004	PDHDOIKH_00050	83.865	561	99	561	564	83	1.78e-151	531
+# BLASTN 2.9.0+
+# Query: ADGJDBML_00005 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+ADGJDBML_00005	ADGJDBML_00005	100.000	204	100	204	204	0	8.39e-106	377
+ADGJDBML_00005	LGJHLHJI_00002	100.000	204	100	204	204	0	8.39e-106	377
+ADGJDBML_00005	MDFJFFIF_00058	88.235	204	100	204	204	24	8.88e-66	244
+ADGJDBML_00005	PDHDOIKH_00049	88.235	204	100	204	204	24	8.88e-66	244
+# BLASTN 2.9.0+
+# Query: ADGJDBML_00006 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+ADGJDBML_00006	ADGJDBML_00006	100.000	225	100	225	225	0	1.98e-117	416
+ADGJDBML_00006	LGJHLHJI_00003	100.000	225	100	225	225	0	1.98e-117	416
+ADGJDBML_00006	MDFJFFIF_00057	93.778	225	100	225	225	14	4.41e-94	339
+ADGJDBML_00006	PDHDOIKH_00048	93.778	225	100	225	225	14	4.41e-94	339
+# BLAST processed 6 queries

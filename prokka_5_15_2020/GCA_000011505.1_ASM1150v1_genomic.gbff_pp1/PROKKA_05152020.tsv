@@ -1,0 +1,19 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+DELJAAJL_00001	gene	525				
+DELJAAJL_00001	CDS	525				hypothetical protein
+DELJAAJL_00002	gene	1239	glyA			
+DELJAAJL_00002	CDS	1239	glyA	2.1.2.1		Serine hydroxymethyltransferase
+DELJAAJL_00003	gene	630	upp			
+DELJAAJL_00003	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+DELJAAJL_00004	gene	1128	mnaA			
+DELJAAJL_00004	CDS	1128	mnaA	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+DELJAAJL_00005	gene	387				
+DELJAAJL_00005	CDS	387				hypothetical protein
+DELJAAJL_00006	gene	729	atpB			
+DELJAAJL_00006	CDS	729	atpB			ATP synthase subunit a
+DELJAAJL_00007	gene	213	atpE			
+DELJAAJL_00007	CDS	213	atpE			ATP synthase subunit c
+DELJAAJL_00008	gene	522	atpF			
+DELJAAJL_00008	CDS	522	atpF			ATP synthase subunit b
+DELJAAJL_00009	gene	540	atpH			
+DELJAAJL_00009	CDS	540	atpH			ATP synthase subunit delta

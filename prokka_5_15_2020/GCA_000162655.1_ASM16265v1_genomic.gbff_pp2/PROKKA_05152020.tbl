@@ -1,0 +1,31 @@
+>Feature gnl|X|JKDDPJPH_1
+657	376	gene
+			locus_tag	JKDDPJPH_00001
+657	376	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JKDDPJPH_00001
+			product	hypothetical protein
+			protein_id	gnl|X|JKDDPJPH_00001
+946	1641	gene
+			locus_tag	JKDDPJPH_00002
+946	1641	CDS
+			EC_number	1.-.-.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A3L9
+			locus_tag	JKDDPJPH_00002
+			product	putative oxidoreductase
+			protein_id	gnl|X|JKDDPJPH_00002
+1893	2315	gene
+			locus_tag	JKDDPJPH_00003
+1893	2315	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JKDDPJPH_00003
+			product	hypothetical protein
+			protein_id	gnl|X|JKDDPJPH_00003
+2628	2407	gene
+			locus_tag	JKDDPJPH_00004
+2628	2407	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JKDDPJPH_00004
+			product	hypothetical protein
+			protein_id	gnl|X|JKDDPJPH_00004

@@ -1,0 +1,52 @@
+# BLASTN 2.9.0+
+# Query: PAONDKHO_00001 Lysine-specific permease
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PAONDKHO_00001	PAONDKHO_00001	100.000	444	100	444	444	0	0.0	821
+PAONDKHO_00001	MOFEPKCN_00001	100.000	444	100	444	444	0	0.0	821
+PAONDKHO_00001	KOPLHBGH_00001	100.000	444	100	444	444	0	0.0	821
+# BLASTN 2.9.0+
+# Query: PAONDKHO_00002 Translation initiation factor IF-3
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PAONDKHO_00002	PAONDKHO_00002	100.000	561	100	561	561	0	0.0	1037
+PAONDKHO_00002	MOFEPKCN_00002	100.000	561	100	561	561	0	0.0	1037
+PAONDKHO_00002	KOPLHBGH_00002	100.000	561	100	561	561	0	0.0	1037
+# BLASTN 2.9.0+
+# Query: PAONDKHO_00003 50S ribosomal protein L35
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PAONDKHO_00003	PAONDKHO_00003	100.000	201	100	201	201	0	3.84e-104	372
+PAONDKHO_00003	MOFEPKCN_00003	100.000	201	100	201	201	0	3.84e-104	372
+PAONDKHO_00003	KOPLHBGH_00003	100.000	201	100	201	201	0	3.84e-104	372
+# BLASTN 2.9.0+
+# Query: PAONDKHO_00004 50S ribosomal protein L20
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+PAONDKHO_00004	PAONDKHO_00004	100.000	357	100	357	357	0	0.0	660
+PAONDKHO_00004	MOFEPKCN_00004	100.000	357	100	357	357	0	0.0	660
+PAONDKHO_00004	KOPLHBGH_00004	100.000	357	100	357	357	0	0.0	660
+PAONDKHO_00004	PIMDMHEP_00001	100.000	357	39	138	138	0	7.48e-69	255
+# BLASTN 2.9.0+
+# Query: PAONDKHO_00005 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+PAONDKHO_00005	PAONDKHO_00005	100.000	609	100	609	609	0	0.0	1125
+PAONDKHO_00005	MOFEPKCN_00005	100.000	609	100	609	609	0	0.0	1125
+PAONDKHO_00005	PIMDMHEP_00002	100.000	609	100	609	609	0	0.0	1125
+PAONDKHO_00005	KOPLHBGH_00005	100.000	609	100	609	609	0	0.0	1125
+# BLASTN 2.9.0+
+# Query: PAONDKHO_00006 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+PAONDKHO_00006	PAONDKHO_00006	100.000	930	100	930	930	0	0.0	1718
+PAONDKHO_00006	MOFEPKCN_00006	100.000	930	100	930	930	0	0.0	1718
+PAONDKHO_00006	PIMDMHEP_00003	100.000	930	100	930	930	0	0.0	1718
+PAONDKHO_00006	KOPLHBGH_00006	100.000	930	100	930	930	0	0.0	1718
+# BLAST processed 6 queries

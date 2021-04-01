@@ -1,0 +1,57 @@
+>Feature gnl|X|AGELIOHP_1
+718	326	gene
+			locus_tag	AGELIOHP_00001
+718	326	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AGELIOHP_00001
+			product	hypothetical protein
+			protein_id	gnl|X|AGELIOHP_00001
+1109	720	gene
+			locus_tag	AGELIOHP_00002
+1109	720	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AGELIOHP_00002
+			product	hypothetical protein
+			protein_id	gnl|X|AGELIOHP_00002
+1501	1127	gene
+			locus_tag	AGELIOHP_00003
+1501	1127	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AGELIOHP_00003
+			product	hypothetical protein
+			protein_id	gnl|X|AGELIOHP_00003
+1989	1516	gene
+			locus_tag	AGELIOHP_00004
+1989	1516	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AGELIOHP_00004
+			product	hypothetical protein
+			protein_id	gnl|X|AGELIOHP_00004
+2413	2000	gene
+			locus_tag	AGELIOHP_00005
+2413	2000	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AGELIOHP_00005
+			product	hypothetical protein
+			protein_id	gnl|X|AGELIOHP_00005
+3688	2426	gene
+			locus_tag	AGELIOHP_00006
+3688	2426	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AGELIOHP_00006
+			product	hypothetical protein
+			protein_id	gnl|X|AGELIOHP_00006
+3991	3701	gene
+			locus_tag	AGELIOHP_00007
+3991	3701	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AGELIOHP_00007
+			product	hypothetical protein
+			protein_id	gnl|X|AGELIOHP_00007
+4341	3994	gene
+			locus_tag	AGELIOHP_00008
+4341	3994	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AGELIOHP_00008
+			product	hypothetical protein
+			protein_id	gnl|X|AGELIOHP_00008

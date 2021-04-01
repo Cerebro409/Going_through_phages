@@ -1,0 +1,15 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+OONAPPJM_00001	gene	573				
+OONAPPJM_00001	CDS	573				hypothetical protein
+OONAPPJM_00002	gene	726	menG			
+OONAPPJM_00002	CDS	726	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+OONAPPJM_00003	gene	945	hepT			
+OONAPPJM_00003	CDS	945	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+OONAPPJM_00004	gene	450	ndk			
+OONAPPJM_00004	CDS	450	ndk	2.7.4.6		Nucleoside diphosphate kinase
+OONAPPJM_00005	gene	201				
+OONAPPJM_00005	CDS	201				hypothetical protein
+OONAPPJM_00006	gene	1167	aroC			
+OONAPPJM_00006	CDS	1167	aroC	4.2.3.5	COG0082	Chorismate synthase
+OONAPPJM_00007	gene	1065	aroB			
+OONAPPJM_00007	CDS	1065	aroB	4.2.3.4		3-dehydroquinate synthase

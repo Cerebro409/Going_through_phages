@@ -1,0 +1,40 @@
+>Feature gnl|X|CIENGLJJ_1
+164	334	gene
+			locus_tag	CIENGLJJ_00001
+164	334	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CIENGLJJ_00001
+			product	hypothetical protein
+			protein_id	gnl|X|CIENGLJJ_00001
+1871	1251	gene
+			locus_tag	CIENGLJJ_00002
+1871	1251	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CIENGLJJ_00002
+			product	hypothetical protein
+			protein_id	gnl|X|CIENGLJJ_00002
+2371	2000	gene
+			locus_tag	CIENGLJJ_00003
+2371	2000	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CIENGLJJ_00003
+			product	hypothetical protein
+			protein_id	gnl|X|CIENGLJJ_00003
+2505	2368	gene
+			locus_tag	CIENGLJJ_00004
+2505	2368	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CIENGLJJ_00004
+			product	hypothetical protein
+			protein_id	gnl|X|CIENGLJJ_00004
+2624	3628	gene
+			gene	gloB
+			locus_tag	CIENGLJJ_00005
+2624	3628	CDS
+			EC_number	3.1.2.6
+			gene	gloB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01374
+			locus_tag	CIENGLJJ_00005
+			product	Hydroxyacylglutathione hydrolase
+			protein_id	gnl|X|CIENGLJJ_00005

@@ -1,0 +1,72 @@
+Discrepancy Report Results
+
+Summary
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:gene: 10 present
+DISC_FEATURE_COUNT:CDS: 10 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+SUSPECT_PRODUCT_NAMES:1 product_names contain suspect phrase or characters
+	FATAL: Remove organism from product name
+		1 features contains 'staphylococcal'
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:11 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::gene: 10 present
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 10 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_1 (length 6665)
+
+DiscRep_ALL:SUSPECT_PRODUCT_NAMES::1 product_names contain suspect phrase or characters
+FATAL: DiscRep_SUB:SUSPECT_PRODUCT_NAMES::Remove organism from product name
+DiscRep_SUB:DISC_PRODUCT_NAME_QUICKFIX::1 features contains 'staphylococcal'
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:CDS	Staphylococcal complement inhibitor	DCLJHIOD_1:c6036-5686	DCLJHIOD_00009
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_1 (length 6665)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_1 (length 6665)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_1 (length 6665)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_1 (length 6665)
+
+DiscRep_ALL:MISSING_PROJECT::11 sequences do not include project.
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_1 (length 6665)
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_00001 (length 241)
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_00002 (length 248)
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_00003 (length 65)
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_00004 (length 65)
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_00005 (length 319)
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_00006 (length 77)
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_00007 (length 61)
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_00008 (length 73)
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_00009 (length 116)
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_00010 (length 135)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+1_ASM14495v1_genomic.gbff_pp20/PROKKA_05152020:X:DCLJHIOD_1 (length 6665)
+

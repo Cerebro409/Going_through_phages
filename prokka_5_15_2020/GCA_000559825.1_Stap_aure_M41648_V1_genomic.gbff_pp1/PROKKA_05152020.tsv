@@ -1,0 +1,17 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+JKGLGNOA_00001	gene	1065	rsbU			
+JKGLGNOA_00001	CDS	1065	rsbU	3.1.3.3	COG2208	Phosphoserine phosphatase RsbU
+JKGLGNOA_00002	gene	327	rsbV			
+JKGLGNOA_00002	CDS	327	rsbV			Anti-sigma-B factor antagonist
+JKGLGNOA_00003	gene	510	rsbW			
+JKGLGNOA_00003	CDS	510	rsbW	2.7.11.1		Serine-protein kinase RsbW
+JKGLGNOA_00004	gene	771	sigB			
+JKGLGNOA_00004	CDS	771	sigB		COG1191	RNA polymerase sigma-B factor
+JKGLGNOA_00005	gene	2151	yhgF			
+JKGLGNOA_00005	CDS	2151	yhgF		COG2183	Protein YhgF
+JKGLGNOA_00006	gene	456				
+JKGLGNOA_00006	CDS	456				Protein SprT-like protein
+JKGLGNOA_00007	gene	83				
+JKGLGNOA_00007	tRNA	83				tRNA-Leu(gag)
+JKGLGNOA_00008	gene	74				
+JKGLGNOA_00008	tRNA	74				tRNA-Gly(tcc)

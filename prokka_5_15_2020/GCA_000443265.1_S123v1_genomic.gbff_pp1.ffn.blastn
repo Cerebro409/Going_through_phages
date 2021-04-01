@@ -1,0 +1,37 @@
+# BLASTN 2.9.0+
+# Query: CNAOMDFN_00001 Protein YhgF
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+CNAOMDFN_00001	OGDJKJFC_00006	100.000	1968	100	2151	1968	0	0.0	3635
+CNAOMDFN_00001	COABHCKC_00004	100.000	1968	100	2151	1968	0	0.0	3635
+CNAOMDFN_00001	JKGLGNOA_00005	100.000	1968	100	2151	1968	0	0.0	3635
+CNAOMDFN_00001	CNAOMDFN_00001	100.000	1968	100	1968	1968	0	0.0	3635
+# BLASTN 2.9.0+
+# Query: CNAOMDFN_00002 Protein SprT-like protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+CNAOMDFN_00002	OGDJKJFC_00007	100.000	456	100	456	456	0	0.0	843
+CNAOMDFN_00002	COABHCKC_00005	100.000	456	100	456	456	0	0.0	843
+CNAOMDFN_00002	JKGLGNOA_00006	100.000	456	100	456	456	0	0.0	843
+CNAOMDFN_00002	CNAOMDFN_00002	100.000	456	100	456	456	0	0.0	843
+# BLASTN 2.9.0+
+# Query: CNAOMDFN_00003 tRNA-Leu(gag)
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+CNAOMDFN_00003	OGDJKJFC_00008	100.000	83	100	83	83	0	5.36e-39	154
+CNAOMDFN_00003	COABHCKC_00006	100.000	83	100	83	83	0	5.36e-39	154
+CNAOMDFN_00003	JKGLGNOA_00007	100.000	83	100	83	83	0	5.36e-39	154
+CNAOMDFN_00003	CNAOMDFN_00003	100.000	83	100	83	83	0	5.36e-39	154
+# BLASTN 2.9.0+
+# Query: CNAOMDFN_00004 tRNA-Gly(tcc)
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+CNAOMDFN_00004	OGDJKJFC_00009	100.000	74	100	74	74	0	4.64e-34	137
+CNAOMDFN_00004	COABHCKC_00007	100.000	74	100	74	74	0	4.64e-34	137
+CNAOMDFN_00004	JKGLGNOA_00008	100.000	74	100	74	74	0	4.64e-34	137
+CNAOMDFN_00004	CNAOMDFN_00004	100.000	74	100	74	74	0	4.64e-34	137
+# BLAST processed 4 queries

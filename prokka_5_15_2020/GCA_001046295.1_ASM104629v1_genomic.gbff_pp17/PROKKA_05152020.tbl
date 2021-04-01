@@ -1,0 +1,212 @@
+>Feature gnl|X|HFFEDDFJ_1
+427	1941	gene
+			gene	ebh
+			locus_tag	HFFEDDFJ_00001
+427	1941	CDS
+			gene	ebh
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FYJ6
+			locus_tag	HFFEDDFJ_00001
+			product	Extracellular matrix-binding protein ebh
+			protein_id	gnl|X|HFFEDDFJ_00001
+2401	2000	gene
+			gene	rnhA
+			locus_tag	HFFEDDFJ_00002
+2401	2000	CDS
+			db_xref	COG:COG0328
+			gene	rnhA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54162
+			locus_tag	HFFEDDFJ_00002
+			product	14.7 kDa ribonuclease H-like protein
+			protein_id	gnl|X|HFFEDDFJ_00002
+3485	2781	gene
+			locus_tag	HFFEDDFJ_00003
+3485	2781	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02088
+			locus_tag	HFFEDDFJ_00003
+			product	queuosine precursor transporter
+			protein_id	gnl|X|HFFEDDFJ_00003
+3936	4187	gene
+			locus_tag	HFFEDDFJ_00004
+3936	4187	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HFFEDDFJ_00004
+			product	hypothetical protein
+			protein_id	gnl|X|HFFEDDFJ_00004
+4225	5349	gene
+			locus_tag	HFFEDDFJ_00005
+4225	5349	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HFFEDDFJ_00005
+			product	hypothetical protein
+			protein_id	gnl|X|HFFEDDFJ_00005
+5365	5802	gene
+			locus_tag	HFFEDDFJ_00006
+5365	5802	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5M6
+			locus_tag	HFFEDDFJ_00006
+			note	UPF0403 protein SA1261
+			product	hypothetical protein
+			protein_id	gnl|X|HFFEDDFJ_00006
+6226	7182	gene
+			gene	thyA
+			locus_tag	HFFEDDFJ_00007
+6226	7182	CDS
+			EC_number	2.1.1.45
+			db_xref	COG:COG0207
+			gene	thyA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67046
+			locus_tag	HFFEDDFJ_00007
+			product	Thymidylate synthase
+			protein_id	gnl|X|HFFEDDFJ_00007
+7382	7861	gene
+			gene	folA
+			locus_tag	HFFEDDFJ_00008
+7382	7861	CDS
+			EC_number	1.5.1.3
+			db_xref	COG:COG0262
+			gene	folA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A017
+			locus_tag	HFFEDDFJ_00008
+			product	Dihydrofolate reductase
+			protein_id	gnl|X|HFFEDDFJ_00008
+7876	8715	gene
+			locus_tag	HFFEDDFJ_00009
+7876	8715	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8NWR0
+			locus_tag	HFFEDDFJ_00009
+			product	DegV domain-containing protein
+			protein_id	gnl|X|HFFEDDFJ_00009
+8801	9334	gene
+			gene	msrA2
+			locus_tag	HFFEDDFJ_00010
+8801	9334	CDS
+			EC_number	1.8.4.11
+			db_xref	COG:COG0225
+			gene	msrA2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A086
+			locus_tag	HFFEDDFJ_00010
+			product	Peptide methionine sulfoxide reductase MsrA 2
+			protein_id	gnl|X|HFFEDDFJ_00010
+9327	9755	gene
+			gene	msrB
+			locus_tag	HFFEDDFJ_00011
+9327	9755	CDS
+			EC_number	1.8.4.12
+			gene	msrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99065
+			locus_tag	HFFEDDFJ_00011
+			product	Peptide methionine sulfoxide reductase MsrB
+			protein_id	gnl|X|HFFEDDFJ_00011
+9767	10267	gene
+			gene	crr
+			locus_tag	HFFEDDFJ_00012
+9767	10267	CDS
+			gene	crr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60857
+			locus_tag	HFFEDDFJ_00012
+			product	PTS system glucose-specific EIIA component
+			protein_id	gnl|X|HFFEDDFJ_00012
+10267	10488	gene
+			locus_tag	HFFEDDFJ_00013
+10267	10488	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A0W3
+			locus_tag	HFFEDDFJ_00013
+			note	UPF0346 protein MW1311
+			product	hypothetical protein
+			protein_id	gnl|X|HFFEDDFJ_00013
+10677	12167	gene
+			locus_tag	HFFEDDFJ_00014
+10677	12167	CDS
+			EC_number	3.4.21.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5M9
+			locus_tag	HFFEDDFJ_00014
+			product	putative CtpA-like serine protease
+			protein_id	gnl|X|HFFEDDFJ_00014
+12564	13073	gene
+			locus_tag	HFFEDDFJ_00015
+12564	13073	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HFFEDDFJ_00015
+			product	hypothetical protein
+			protein_id	gnl|X|HFFEDDFJ_00015
+13085	14155	gene
+			gene	murG
+			locus_tag	HFFEDDFJ_00016
+13085	14155	CDS
+			EC_number	2.4.1.227
+			gene	murG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65482
+			locus_tag	HFFEDDFJ_00016
+			product	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+			protein_id	gnl|X|HFFEDDFJ_00016
+14172	14786	gene
+			locus_tag	HFFEDDFJ_00017
+14172	14786	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HFFEDDFJ_00017
+			product	hypothetical protein
+			protein_id	gnl|X|HFFEDDFJ_00017
+14903	15103	gene
+			locus_tag	HFFEDDFJ_00018
+14903	15103	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HFFEDDFJ_00018
+			product	hypothetical protein
+			protein_id	gnl|X|HFFEDDFJ_00018
+15574	16233	gene
+			gene	arlR
+			locus_tag	HFFEDDFJ_00019
+15574	16233	CDS
+			db_xref	COG:COG0745
+			gene	arlR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9KJN4
+			locus_tag	HFFEDDFJ_00019
+			product	Response regulator ArlR
+			protein_id	gnl|X|HFFEDDFJ_00019
+16230	17585	gene
+			gene	arlS
+			locus_tag	HFFEDDFJ_00020
+16230	17585	CDS
+			EC_number	2.7.13.3
+			gene	arlS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5N3
+			locus_tag	HFFEDDFJ_00020
+			product	Signal transduction histidine-protein kinase ArlS
+			protein_id	gnl|X|HFFEDDFJ_00020
+18110	20908	gene
+			gene	odhA
+			locus_tag	HFFEDDFJ_00021
+18110	20908	CDS
+			EC_number	1.2.4.2
+			gene	odhA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99U74
+			locus_tag	HFFEDDFJ_00021
+			product	2-oxoglutarate dehydrogenase E1 component
+			protein_id	gnl|X|HFFEDDFJ_00021
+20922	22190	gene
+			gene	odhB
+			locus_tag	HFFEDDFJ_00022
+20922	22190	CDS
+			EC_number	2.3.1.61
+			gene	odhB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5N4
+			locus_tag	HFFEDDFJ_00022
+			product	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+			protein_id	gnl|X|HFFEDDFJ_00022

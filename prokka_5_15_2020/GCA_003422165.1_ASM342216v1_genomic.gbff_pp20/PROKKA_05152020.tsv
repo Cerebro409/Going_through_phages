@@ -1,0 +1,15 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CKIFJHEA_00001	gene	1239				
+CKIFJHEA_00001	CDS	1239				hypothetical protein
+CKIFJHEA_00002	gene	636				
+CKIFJHEA_00002	CDS	636				hypothetical protein
+CKIFJHEA_00003	gene	1077				
+CKIFJHEA_00003	CDS	1077				hypothetical protein
+CKIFJHEA_00004	gene	384	panD			
+CKIFJHEA_00004	CDS	384	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+CKIFJHEA_00005	gene	852	panC			
+CKIFJHEA_00005	CDS	852	panC	6.3.2.1		Pantothenate synthetase
+CKIFJHEA_00006	gene	819	panB			
+CKIFJHEA_00006	CDS	819	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+CKIFJHEA_00007	gene	861				
+CKIFJHEA_00007	CDS	861		1.1.1.169	COG1893	2-dehydropantoate 2-reductase

@@ -1,0 +1,285 @@
+>Feature gnl|X|OOHHBMED_1
+1986	820	gene
+			locus_tag	OOHHBMED_00001
+1986	820	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OOHHBMED_00001
+			product	hypothetical protein
+			protein_id	gnl|X|OOHHBMED_00001
+3109	2000	gene
+			locus_tag	OOHHBMED_00002
+3109	2000	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OOHHBMED_00002
+			product	hypothetical protein
+			protein_id	gnl|X|OOHHBMED_00002
+3740	3114	gene
+			gene	dapH
+			locus_tag	OOHHBMED_00003
+3740	3114	CDS
+			EC_number	2.3.1.89
+			gene	dapH
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01691
+			locus_tag	OOHHBMED_00003
+			product	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+			protein_id	gnl|X|OOHHBMED_00003
+4867	3743	gene
+			gene	wbpI
+			locus_tag	OOHHBMED_00004
+4867	3743	CDS
+			EC_number	5.1.3.23
+			db_xref	COG:COG0381
+			gene	wbpI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:G3XD61
+			locus_tag	OOHHBMED_00004
+			product	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+			protein_id	gnl|X|OOHHBMED_00004
+5980	4871	gene
+			gene	wbjC
+			locus_tag	OOHHBMED_00005
+5980	4871	CDS
+			EC_number	1.1.1.367
+			gene	wbjC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9XC60
+			locus_tag	OOHHBMED_00005
+			product	UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
+			protein_id	gnl|X|OOHHBMED_00005
+7021	5993	gene
+			gene	capD
+			locus_tag	OOHHBMED_00006
+7021	5993	CDS
+			EC_number	5.1.3.2
+			db_xref	COG:COG1086
+			gene	capD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9ZDJ5
+			locus_tag	OOHHBMED_00006
+			product	UDP-glucose 4-epimerase
+			protein_id	gnl|X|OOHHBMED_00006
+7865	7011	gene
+			gene	pglF_1
+			locus_tag	OOHHBMED_00007
+7865	7011	CDS
+			EC_number	4.2.1.135
+			db_xref	COG:COG1086
+			gene	pglF_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q0P9D4
+			locus_tag	OOHHBMED_00007
+			product	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+			protein_id	gnl|X|OOHHBMED_00007
+8835	7831	gene
+			gene	pglF_2
+			locus_tag	OOHHBMED_00008
+8835	7831	CDS
+			EC_number	4.2.1.135
+			db_xref	COG:COG1086
+			gene	pglF_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q0P9D4
+			locus_tag	OOHHBMED_00008
+			product	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+			protein_id	gnl|X|OOHHBMED_00008
+9619	8855	gene
+			gene	ywqE
+			locus_tag	OOHHBMED_00009
+9619	8855	CDS
+			EC_number	3.1.3.48
+			db_xref	COG:COG4464
+			gene	ywqE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P96717
+			locus_tag	OOHHBMED_00009
+			product	Tyrosine-protein phosphatase YwqE
+			protein_id	gnl|X|OOHHBMED_00009
+10308	9622	gene
+			gene	ywqD
+			locus_tag	OOHHBMED_00010
+10308	9622	CDS
+			EC_number	2.7.10.2
+			db_xref	COG:COG0489
+			gene	ywqD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P96716
+			locus_tag	OOHHBMED_00010
+			product	Tyrosine-protein kinase YwqD
+			protein_id	gnl|X|OOHHBMED_00010
+10992	10324	gene
+			gene	cap8A
+			locus_tag	OOHHBMED_00011
+10992	10324	CDS
+			db_xref	COG:COG3944
+			gene	cap8A
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P72367
+			locus_tag	OOHHBMED_00011
+			product	Capsular polysaccharide type 8 biosynthesis protein cap8A
+			protein_id	gnl|X|OOHHBMED_00011
+13946	11337	gene
+			gene	adhE
+			locus_tag	OOHHBMED_00012
+13946	11337	CDS
+			db_xref	COG:COG1012
+			gene	adhE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9Q7
+			locus_tag	OOHHBMED_00012
+			product	Aldehyde-alcohol dehydrogenase
+			protein_id	gnl|X|OOHHBMED_00012
+14617	14396	gene
+			locus_tag	OOHHBMED_00013
+14617	14396	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISSep3
+			locus_tag	OOHHBMED_00013
+			product	IS200/IS605 family transposase ISSep3
+			protein_id	gnl|X|OOHHBMED_00013
+15510	15184	gene
+			locus_tag	OOHHBMED_00014
+15510	15184	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OOHHBMED_00014
+			product	hypothetical protein
+			protein_id	gnl|X|OOHHBMED_00014
+15884	15594	gene
+			gene	repE
+			locus_tag	OOHHBMED_00015
+15884	15594	CDS
+			gene	repE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P12053
+			locus_tag	OOHHBMED_00015
+			product	Replication initiation protein
+			protein_id	gnl|X|OOHHBMED_00015
+16414	15869	gene
+			gene	repN
+			locus_tag	OOHHBMED_00016
+16414	15869	CDS
+			gene	repN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P19529
+			locus_tag	OOHHBMED_00016
+			product	Replication initiation protein
+			protein_id	gnl|X|OOHHBMED_00016
+16921	16727	gene
+			locus_tag	OOHHBMED_00017
+16921	16727	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OOHHBMED_00017
+			product	hypothetical protein
+			protein_id	gnl|X|OOHHBMED_00017
+18549	17014	gene
+			gene	yfkN
+			locus_tag	OOHHBMED_00018
+18549	17014	CDS
+			db_xref	COG:COG0737
+			gene	yfkN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34313
+			locus_tag	OOHHBMED_00018
+			product	Trifunctional nucleotide phosphoesterase protein YfkN
+			protein_id	gnl|X|OOHHBMED_00018
+20144	18600	gene
+			locus_tag	OOHHBMED_00019
+20144	18600	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OOHHBMED_00019
+			product	hypothetical protein
+			protein_id	gnl|X|OOHHBMED_00019
+20373	21329	gene
+			gene	phnD2
+			locus_tag	OOHHBMED_00020
+20373	21329	CDS
+			db_xref	COG:COG3221
+			gene	phnD2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A3PDP9
+			locus_tag	OOHHBMED_00020
+			product	putative ABC transporter phosphonate/phosphite binding protein PhnD2
+			protein_id	gnl|X|OOHHBMED_00020
+21543	22316	gene
+			gene	glnQ
+			locus_tag	OOHHBMED_00021
+21543	22316	CDS
+			gene	glnQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27675
+			locus_tag	OOHHBMED_00021
+			product	Glutamine transport ATP-binding protein GlnQ
+			protein_id	gnl|X|OOHHBMED_00021
+22318	23118	gene
+			gene	phnE_1
+			locus_tag	OOHHBMED_00022
+22318	23118	CDS
+			db_xref	COG:COG3639
+			gene	phnE_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QQ68
+			locus_tag	OOHHBMED_00022
+			product	Phosphate-import permease protein PhnE
+			protein_id	gnl|X|OOHHBMED_00022
+23115	23930	gene
+			gene	phnE_2
+			locus_tag	OOHHBMED_00023
+23115	23930	CDS
+			db_xref	COG:COG3639
+			gene	phnE_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QQ68
+			locus_tag	OOHHBMED_00023
+			product	Phosphate-import permease protein PhnE
+			protein_id	gnl|X|OOHHBMED_00023
+25239	24061	gene
+			gene	deoB
+			locus_tag	OOHHBMED_00024
+25239	24061	CDS
+			EC_number	5.4.2.7
+			gene	deoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99100
+			locus_tag	OOHHBMED_00024
+			product	Phosphopentomutase
+			protein_id	gnl|X|OOHHBMED_00024
+25929	25267	gene
+			gene	deoC1
+			locus_tag	OOHHBMED_00025
+25929	25267	CDS
+			EC_number	4.1.2.4
+			gene	deoC1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99102
+			locus_tag	OOHHBMED_00025
+			product	Deoxyribose-phosphate aldolase 1
+			protein_id	gnl|X|OOHHBMED_00025
+27368	26010	gene
+			gene	tet(38)
+			locus_tag	OOHHBMED_00026
+27368	26010	CDS
+			gene	tet(38)
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:BARRGD:NG_048134.1
+			locus_tag	OOHHBMED_00026
+			product	tetracycline efflux MFS transporter Tet(38)
+			protein_id	gnl|X|OOHHBMED_00026
+28076	27369	gene
+			gene	deoD
+			locus_tag	OOHHBMED_00027
+28076	27369	CDS
+			EC_number	2.4.2.1
+			db_xref	COG:COG0813
+			gene	deoD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5EEL8
+			locus_tag	OOHHBMED_00027
+			product	Purine nucleoside phosphorylase DeoD-type
+			protein_id	gnl|X|OOHHBMED_00027
+28312	29067	gene
+			locus_tag	OOHHBMED_00028
+28312	29067	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OOHHBMED_00028
+			product	hypothetical protein
+			protein_id	gnl|X|OOHHBMED_00028

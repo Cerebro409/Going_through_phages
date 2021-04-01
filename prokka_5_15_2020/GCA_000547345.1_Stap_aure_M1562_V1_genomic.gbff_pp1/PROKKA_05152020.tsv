@@ -1,0 +1,21 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CDKBLHKE_00001	gene	126				
+CDKBLHKE_00001	CDS	126				hypothetical protein
+CDKBLHKE_00002	gene	507				
+CDKBLHKE_00002	CDS	507				hypothetical protein
+CDKBLHKE_00003	gene	396	flr			
+CDKBLHKE_00003	CDS	396	flr			FPRL1 inhibitory protein
+CDKBLHKE_00004	gene	330				
+CDKBLHKE_00004	CDS	330				hypothetical protein
+CDKBLHKE_00005	gene	168				
+CDKBLHKE_00005	CDS	168				hypothetical protein
+CDKBLHKE_00006	gene	504				
+CDKBLHKE_00006	CDS	504		3.1.4.-		Putative metallophosphoesterase MG207 
+CDKBLHKE_00007	gene	588				
+CDKBLHKE_00007	CDS	588		3.6.1.66		dITP/XTP pyrophosphatase
+CDKBLHKE_00008	gene	801	murI			
+CDKBLHKE_00008	CDS	801	murI	5.1.1.3		Glutamate racemase
+CDKBLHKE_00009	gene	816	frdB			
+CDKBLHKE_00009	CDS	816	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+CDKBLHKE_00010	gene	846	frdA			
+CDKBLHKE_00010	CDS	846	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit

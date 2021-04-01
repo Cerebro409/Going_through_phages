@@ -1,0 +1,69 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1          745         1941            +         1197      0.40482
+
+     2         2000         2401            -          402      0.35976
+
+     3         2570         2734            -          165      0.20259
+
+     4         2781         3485            -          705      0.36150
+
+     5         3695         4285            -          591      0.25213
+
+     6         3936         4187            +          252      0.35265
+
+     7         4225         5349            +         1125      0.45754
+
+     8         5365         5802            +          438      0.43940
+
+     9         6226         7182            +          957      0.45580
+     (bit_score:591.267;e-value:0.0;identity:84.9%;gi|985761245|ref|YP_009226831.1| thymidylate synthase [Staphylococcus phage SPbeta-like])
+     (bit_score:306.22;e-value:3.02831e-103;identity:52.7%;gi|849060217|ref|YP_009151583.1| thymidylate synthase [Bacillus phage Moonbeam])
+     (bit_score:295.434;e-value:4.24704e-99;identity:54.4%;gi|1068358928|ref|YP_009275258.1| thymidylate synthase-like protein [Bacillus phage Shbh1])
+
+    10         7382         7861            +          480      0.42612
+     (bit_score:274.248;e-value:2.74237e-95;identity:78.8%;gi|985761244|ref|YP_009226830.1| dihydrofolate reductase type 1 [Staphylococcus phage SPbeta-like])
+
+    11         7876         8715            +          840      0.37472
+     (bit_score:202.601;e-value:2.89791e-65;identity:68.9%;gi|985761237|ref|YP_009226823.1| DegV domain-containing protein [Staphylococcus phage SPbeta-like])
+
+    12         8801         9334            +          534      0.40237
+
+    13         9327         9755            +          429      0.41635
+     (bit_score:165.622;e-value:3.40041e-50;identity:21.1%;gi|16271776|ref|NP_438113.1| putative methionine sulfoxide reductase [Streptococcus pyogenes])
+
+    14         9767        10267            +          501      0.33914
+
+    15        10267        10488            +          222      0.33980
+
+    16        10677        12167            +         1491      0.41539
+
+    17        12564        13073            +          510      0.42148
+
+    18        13085        14155            +         1071      0.41608
+
+    19        14172        14786            +          615      0.33427
+
+    20        14903        15103            +          201      0.20621
+
+    21        15574        16311            +          738      0.42303
+
+    22        16230        17585            +         1356      0.39621
+
+    23        17835        17966            +          132      0.19993
+
+    24        18110        20908            +         2799      0.50000
+
+    25        20922        22190            +         1269      0.44625
+

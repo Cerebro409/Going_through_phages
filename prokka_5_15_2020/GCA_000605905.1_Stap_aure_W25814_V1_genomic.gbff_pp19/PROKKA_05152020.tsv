@@ -1,0 +1,47 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MKPCJEJK_00001	gene	1941	ebh			
+MKPCJEJK_00001	CDS	1941	ebh			Extracellular matrix-binding protein ebh
+MKPCJEJK_00002	gene	4272	ebhA			
+MKPCJEJK_00002	CDS	4272	ebhA			Extracellular matrix-binding protein EbhA
+MKPCJEJK_00003	gene	402	rnhA			
+MKPCJEJK_00003	CDS	402	rnhA		COG0328	14.7 kDa ribonuclease H-like protein
+MKPCJEJK_00004	gene	705				
+MKPCJEJK_00004	CDS	705				queuosine precursor transporter
+MKPCJEJK_00005	gene	252				
+MKPCJEJK_00005	CDS	252				hypothetical protein
+MKPCJEJK_00006	gene	1125				
+MKPCJEJK_00006	CDS	1125				hypothetical protein
+MKPCJEJK_00007	gene	438				
+MKPCJEJK_00007	CDS	438				hypothetical protein
+MKPCJEJK_00008	gene	957	thyA			
+MKPCJEJK_00008	CDS	957	thyA	2.1.1.45	COG0207	Thymidylate synthase
+MKPCJEJK_00009	gene	480	folA			
+MKPCJEJK_00009	CDS	480	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+MKPCJEJK_00010	gene	840				
+MKPCJEJK_00010	CDS	840				DegV domain-containing protein
+MKPCJEJK_00011	gene	534	msrA2			
+MKPCJEJK_00011	CDS	534	msrA2	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA 2
+MKPCJEJK_00012	gene	429	msrB			
+MKPCJEJK_00012	CDS	429	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+MKPCJEJK_00013	gene	501	crr			
+MKPCJEJK_00013	CDS	501	crr			PTS system glucose-specific EIIA component
+MKPCJEJK_00014	gene	222				
+MKPCJEJK_00014	CDS	222				hypothetical protein
+MKPCJEJK_00015	gene	1491				
+MKPCJEJK_00015	CDS	1491		3.4.21.-		putative CtpA-like serine protease
+MKPCJEJK_00016	gene	510				
+MKPCJEJK_00016	CDS	510				hypothetical protein
+MKPCJEJK_00017	gene	1071	murG			
+MKPCJEJK_00017	CDS	1071	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+MKPCJEJK_00018	gene	615				
+MKPCJEJK_00018	CDS	615				hypothetical protein
+MKPCJEJK_00019	gene	201				
+MKPCJEJK_00019	CDS	201				hypothetical protein
+MKPCJEJK_00020	gene	660	arlR			
+MKPCJEJK_00020	CDS	660	arlR		COG0745	Response regulator ArlR
+MKPCJEJK_00021	gene	1356	arlS			
+MKPCJEJK_00021	CDS	1356	arlS	2.7.13.3		Signal transduction histidine-protein kinase ArlS
+MKPCJEJK_00022	gene	2799	odhA			
+MKPCJEJK_00022	CDS	2799	odhA	1.2.4.2		2-oxoglutarate dehydrogenase E1 component
+MKPCJEJK_00023	gene	1269	odhB			
+MKPCJEJK_00023	CDS	1269	odhB	2.3.1.61		Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex

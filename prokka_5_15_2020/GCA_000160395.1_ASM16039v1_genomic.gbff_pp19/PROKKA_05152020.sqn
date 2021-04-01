@@ -1,0 +1,655 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OCDLMJCJ_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 4267 ,
+            seq-data
+              iupacna "AGATTATCTTATAACGCCTATAACTAGAAGTCTGCATTTTATCTTGTATATAACA
+TTTTATAATGTTACACTACACCTTTTTATATTTTTCACAAGAAGTTTTCACGAATTATTATATTTAAACTCACCCATA
+TTCCAACACAATTAATTTTTCTCTATTCATAATTGATTGATCATACTAGTTAATATACAGTTAACTTTTATTTAATAG
+TTAATTAATTGATTTAATTCTAAGATATTTGTATTTTTATATTGTAATCGATTACATTTTAAAGTTAAATAAATACCT
+AGTTTTAAAGAAATTAATCAATAAAATTAGCTTTGTCTTTTCCTTGGTTCATAAAGAGTTCATTCAACTTTGACTAAG
+CCTCGAAATTGAAATGCTTCCTTTCAAATATTAATTAAAAGTTAAAAACATATTCTTAAAATATTCACTCATCATCAC
+TCAATCATTTAACAGTTGCTACATTAAATATACTAATATAAACGATGATAAATATTTGATATGTCTCAACTGCATTAT
+TCTAAATTGACATATTGATTATTGTTTCCTCAAATCGTTTTAAAAAATAGAAGGATGATGAAAATGAAAACACGTATA
+GTCAGCTCAGTAACAACAACACTATTGCTAGGTTCCATATTAATGAATCCTGTCGCTAATGCCGCAGATTCTGATATT
+AATATTAAAACCGGTACTACAGATATAGGAAGCAATACTATAGTAAAAACAGGTGATTTAGTCACTTATGATAAAGAA
+AATGGCATGCACAAAAAAGTATTTTATAGTTTTATCGATGATAAAAATCACAATAAAAAAATATTAGTCATCAGAACG
+AAAGGTACCATTGCTGGTCAGTATAGAGTTTATAGCGAAGAAGGCGCTAATAAAAGTGGTTTAGCCTGGCCTTCAGCC
+TTTAAGGTACAGTTGCAACTACCTGATAATGAAGTAGCACAAATTTCTGATTACTATCCTAGAAATTCAATTGATACT
+AAAGAATATATGAGTACATTAACTTATGGATTCAACGGTAATGTGACTGGTGATGATTCTGGAAAAATTGGCGGTTTG
+ATTGGTGCAAATGTTTCAATTGGTCATACACTCAAATATGTTCAACCAGATTTCAAAACAATTTTAGAAAGTCCAACT
+GATAAAAAAGTAGGTTGGAAAGTTATATTTAACAATATGGTGAATCAAAATTGGGGACCATACGACAGAGATTCTTGG
+AACCCAGTATACGGCAATCAACTTTTCATGAAAACAAGAAACGGTTCAATGAAAGCAGCAGATAACTTCCTTGATCCT
+AACAAAGCAAGTTCTCTATTATCTTCAGGGTTTTCACCAGACTTCGCTACAGTTATTACTATGGATAGGAAAGCAACC
+AAACAACAATCAAATATAGATGTAATATACGAACGAGTTCGTGATGACTATCAATTACATTGGACTTCAACAAATTGG
+AAAGGTACTAATACTAAAGATAAATGGACGGATCGTTCTTCAGAAAGATATAAAATCGATTGGGAAAAAGAAGAAATG
+ACAAATTAATGGTCATGCACACTCAAATATTCAAATTTTAACATTAGCCGATAACATCAGAAATGATGTGTGTCGGCT
+ATTTTAGTTGCAGTATAAAATTAAACATCGATGAATAGTAATATATATATTATGCTTTTCAATATATATTCATGCTTA
+TAAACACGATATAAGATTTAATTTTTCAGTTTCAAACATTTTTAATTCATATTGTCAAACCCTTTATTTAAAAGTTTT
+GAAATTGTTCAAAACTTATCGAACACATTATGTGTTAATATATTTGCAGAATTATTTTAAAATCGTTTTAAAACTATA
+CTGAAATAAGAAGATAAAAAGTATAATAAGTACATATAATTGAAAATAACTTCTAGAAATCTATTTATCTCTAATCTA
+GATATTGTAAGAAGTTGTATGAATAAGTTAAACTTAAATTGAATCAGTTTAAATGTTCAAGGAGGATGACAAATGGTT
+TTTAAAGATTGGAAAGTTAATGTTGTTTACACTGGGAAACATGAAGTTGTTACAAATGAAAATAATTTATTTGTCATA
+GATGAAGATTATGATGTCGCAATCGCAATCAATTATATAGACAATAAATTAAAGGTCAGTCATGTTAACTATGGATCT
+GAATTTACAATTGACTCATCTAACAAAGTACTTGAATTGATGATTCATAATCCAAATATTGACGAGAATTAAATATTA
+AAAAACATTTAGAAATATAAAGGCATACTATATATAGTCTTTTAAACGAAAAACAAACGGTAATCAAAGATTCAGATA
+ATCATTACACTTAAAAATGCACGATTTCCAAGCATTTAAAATATAACAGCTAAGGTGGTGACCAAAAATTAACATTGT
+GTATAACATCATTGTATATATAGCATGCATGATTAACTTCGGACTAATTATAGTACCGCTGTTAACTACGACAGACGC
+AGATTTTGTATGGACATCTTCGTCATTAATATATATGGTTCTTTTAACACTGCTTATCTTAATTGTTTATATTAAAAC
+TAAAGATAGTTTACAGTTAACAATATTTATACTTAGTGTTGCATTAATAATTCTATACTGCGCACCTTTATTATTCAT
+TTATGTGTTCTAGTGTTTCATTAATATTTTAATGCGTCAGTTTAAAAACTATCAATTTTAAAAATAAGCGAAACATGT
+TATCATCAAATTAACTTATTTACAGTTAATTTTGCTTAAATTTAAAATAACACTCTTCTCAACTTTAGCTTTATATCT
+TTATTTCAAGGTATGTTTTCAACTATTTTAATGCAATTTACATTTAGATTAAGGAGTAAACATCATGAATAAACATAT
+AAATAAAAAGACCACAAAGCATCTTGAAGATTATAAAAAGGTTCAACAAAGAAATTCGGAAGAAACAAATAGAGGTTG
+TTTAAAAAGTGTCGCCATGCTTATCGTCTTATTTTTATTCATTATATTTGGTATTGTGGCATGTTCTACACACGTTAA
+CTTTTTCTTCCAATAATATGCTGATTGAGTAATATTCACTACGTTTCTTACAGCATTTGATTTTATCTATGGGAGCAT
+TATAAATATTTTTTAGATTGTACAAAGCAATTTTGTGCATAACATTTCTAACTATTATATTTGTATTAGTCTCCCCTA
+TTATTGTATATTCATTGCTCATACATAAATATTAAATTGTAGAATTTTTAACTATACAAATTAAAAAACAGGCGAAGA
+CAATGATATTTATTGTCTCAACCTGTTTTCTTTATTATCTATTTATAATTTCATCAATTTCTTTGTAAATGTTTTCTA
+ATCCAACTTTAGCTTCAGCCATTGATTTGAAATCATTTTTCTTTAGTGCTGCTTTTGCTCTATATTCATTCATCATAA
+TCGTACGTTTGTAATATCGATTTAAGCTACCTGCAGCCAAGTCATATACGTTCGATTGTCTAAGTAGTGATTTCAACT
+CTTCAGCAATTTTTTTATCGTGATATTTACTTTGAGTTAAATAATTGTCATAACTACTTGCTTCTGCTTTGTTCCCGT
+TTAACGTTGATACTGCTGTTGTTGATAATAGTACTGCTAATGTTCCTGCTACTATATATTTTTTAATTTTCATTGTAA
+ATTCTCCTTTAAAAATTGATACTTAATGATTATATAGTCAATTTTAGGAAAGTTACATTAACCTACTATTAAATAGCA
+TAGTCTTTTTATTAATAGAAATTAATATTAGATTAAATTATTTTGAACTTATAATAATGACAGAAGTATTATCTCACT
+AATCCTTGCTTTAATACTTCATCAATTCGCTCTTGCAATATCATTTTCTTAACATTGTATTCAAATGATACTAAGTTG
+ACTGCCTTTTGTGCTTTTCTATGTGCGCTCACAGTATGGGTCTTTTCAAATTCTCTCACAAGATTTTGAGCTTGAATC
+AATTTTTGTTCTTTTTTTATAGTTGCATCAGTTTTCGCTGCTGGTTTATTAAAATGCGGACGTGGTCCATATCCAAAT
+GTACCGTCATTATATTCCACAATGTTATAATCATGTCTAAACTTAATATATTTAGGTGTTGAGTTAAATTTTGGTCTA
+GATTGATATTTAAAAGTACCATCATTGTACTCTACGATATTGTGATTAATACTCACTGGTTTCTTTTCTCTTGGACCG
+TATGTCAATAGCGGTTTAAAAATGCTGTTTTATGGCGGTTTGAAAATGTCGTTTTTTAGCGGTTTAAGATTGTCGTAT
+" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 7 ,
+                    data
+                      gene {
+                        locus "hly" ,
+                        locus-tag "OCDLMJCJ_00001" } ,
+                    location
+                      int {
+                        from 580 ,
+                        to 1545 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OCDLMJCJ_1" } } } ,
+                  {
+                    id
+                      local
+                        id 8 ,
+                    data
+                      gene {
+                        locus-tag "OCDLMJCJ_00002" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 2232 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OCDLMJCJ_1" } } } ,
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      gene {
+                        locus-tag "OCDLMJCJ_00003" } ,
+                    location
+                      int {
+                        from 2849 ,
+                        to 3034 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OCDLMJCJ_1" } } } ,
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      gene {
+                        locus-tag "OCDLMJCJ_00004" } ,
+                    location
+                      int {
+                        from 2975 ,
+                        to 3196 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OCDLMJCJ_1" } } } ,
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus "scn" ,
+                        locus-tag "OCDLMJCJ_00005" } ,
+                    location
+                      int {
+                        from 3287 ,
+                        to 3637 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OCDLMJCJ_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus "fib" ,
+                        locus-tag "OCDLMJCJ_00006" } ,
+                    location
+                      int {
+                        from 3789 ,
+                        to 4166 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OCDLMJCJ_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OCDLMJCJ_00001" } } ,
+          descr {
+            title "Alpha-hemolysin [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 321 ,
+            seq-data
+              ncbieaa "MKMKTRIVSSVTTTLLLGSILMNPVANAADSDINIKTGTTDIGSNTIVKTGDLVT
+YDKENGMHKKVFYSFIDDKNHNKKILVIRTKGTIAGQYRVYSEEGANKSGLAWPSAFKVQLQLPDNEVAQISDYYPRN
+SIDTKEYMSTLTYGFNGNVTGDDSGKIGGLIGANVSIGHTLKYVQPDFKTILESPTDKKVGWKVIFNNMVNQNWGPYD
+RDSWNPVYGNQLFMKTRNGSMKAADNFLDPNKASSLLSSGFSPDFATVITMDRKATKQQSNIDVIYERVRDDYQLHWT
+STNWKGTNTKDKWTDRSSERYKIDWEKEEMTN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      prot {
+                        name {
+                          "Alpha-hemolysin" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 320 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OCDLMJCJ_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OCDLMJCJ_00002" } } ,
+          descr {
+            title "hypothetical protein OCDLMJCJ_00002 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 77 ,
+            seq-data
+              ncbieaa "MVFKDWKVNVVYTGKHEVVTNENNLFVIDEDYDVAIAINYIDNKLKVSHVNYGSE
+FTIDSSNKVLELMIHNPNIDEN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 76 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OCDLMJCJ_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OCDLMJCJ_00003" } } ,
+          descr {
+            title "hypothetical protein OCDLMJCJ_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 61 ,
+            seq-data
+              ncbieaa "MNKHINKKTTKHLEDYKKVQQRNSEETNRGCLKSVAMLIVLFLFIIFGIVACSTH
+VNFFFQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 60 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OCDLMJCJ_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OCDLMJCJ_00004" } } ,
+          descr {
+            title "hypothetical protein OCDLMJCJ_00004 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 73 ,
+            seq-data
+              ncbieaa "MSNEYTIIGETNTNIIVRNVMHKIALYNLKNIYNAPIDKIKCCKKRSEYYSISIL
+LEEKVNVCRTCHNTKYNE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 72 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OCDLMJCJ_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OCDLMJCJ_00005" } } ,
+          descr {
+            title "Staphylococcal complement inhibitor [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 116 ,
+            seq-data
+              ncbieaa "MKIKKYIVAGTLAVLLSTTAVSTLNGNKAEASSYDNYLTQSKYHDKKIAEELKSL
+LRQSNVYDLAAGSLNRYYKRTIMMNEYRAKAALKKNDFKSMAEAKVGLENIYKEIDEIINR" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      prot {
+                        name {
+                          "Staphylococcal complement inhibitor" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 115 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OCDLMJCJ_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OCDLMJCJ_00006" } } ,
+          descr {
+            title "Fibrinogen-binding protein [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 125 ,
+            seq-data
+              ncbieaa "MSINHNIVEYNDGTFKYQSRPKFNSTPKYIKFRHDYNIVEYNDGTFGYGPRPHFN
+KPAAKTDATIKKEQKLIQAQNLVREFEKTHTVSAHRKAQKAVNLVSFEYNVKKMILQERIDEVLKQGLVR" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      prot {
+                        name {
+                          "Fibrinogen-binding protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 124 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OCDLMJCJ_00006" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OCDLMJCJ_00001" } ,
+                location
+                  int {
+                    from 580 ,
+                    to 1545 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OCDLMJCJ_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q2G1X0" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OCDLMJCJ_00002" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 2232 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OCDLMJCJ_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OCDLMJCJ_00003" } ,
+                location
+                  int {
+                    from 2849 ,
+                    to 3034 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OCDLMJCJ_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OCDLMJCJ_00004" } ,
+                location
+                  int {
+                    from 2975 ,
+                    to 3196 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OCDLMJCJ_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OCDLMJCJ_00005" } ,
+                location
+                  int {
+                    from 3287 ,
+                    to 3637 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OCDLMJCJ_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q2FWV6" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OCDLMJCJ_00006" } ,
+                location
+                  int {
+                    from 3789 ,
+                    to 4166 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OCDLMJCJ_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P0C6P2" } } } } } } } } }

@@ -1,0 +1,17 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MFMLEMAL_00001	gene	816				
+MFMLEMAL_00001	CDS	816		3.1.1.23	COG2267	Monoacylglycerol lipase
+MFMLEMAL_00002	gene	246				
+MFMLEMAL_00002	CDS	246				hypothetical protein
+MFMLEMAL_00003	gene	432				
+MFMLEMAL_00003	CDS	432				hypothetical protein
+MFMLEMAL_00004	gene	447	argR			
+MFMLEMAL_00004	CDS	447	argR			Arginine repressor
+MFMLEMAL_00005	gene	1236	arcA			
+MFMLEMAL_00005	CDS	1236	arcA	3.5.3.6		Arginine deiminase
+MFMLEMAL_00006	gene	1422	arcD			
+MFMLEMAL_00006	CDS	1422	arcD		COG0531	Arginine/ornithine antiporter
+MFMLEMAL_00007	gene	690	arcR			
+MFMLEMAL_00007	CDS	690	arcR			HTH-type transcriptional regulator ArcR
+MFMLEMAL_00008	gene	999	argF			
+MFMLEMAL_00008	CDS	999	argF	2.1.3.3		Ornithine carbamoyltransferase

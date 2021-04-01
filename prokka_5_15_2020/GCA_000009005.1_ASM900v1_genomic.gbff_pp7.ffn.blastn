@@ -1,0 +1,510 @@
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00001 Recombination protein RecR
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00001	DCPLLAOP_00001	100.000	597	100	597	597	0	0.0	1103
+COBEFPMI_00001	COBEFPMI_00001	100.000	597	100	597	597	0	0.0	1103
+COBEFPMI_00001	GFNEAOIK_00002	99.330	597	100	597	597	4	0.0	1081
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00002 Nucleoid-associated protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00002	DCPLLAOP_00002	100.000	318	100	318	318	0	5.74e-169	588
+COBEFPMI_00002	COBEFPMI_00002	100.000	318	100	318	318	0	5.74e-169	588
+COBEFPMI_00002	GFNEAOIK_00003	99.686	318	100	318	318	1	2.67e-167	582
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00003 Holliday junction ATP-dependent DNA helicase RuvB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00003	DCPLLAOP_00003	100.000	1698	100	1698	1698	0	0.0	3136
+COBEFPMI_00003	COBEFPMI_00003	100.000	1698	100	1698	1698	0	0.0	3136
+COBEFPMI_00003	GFNEAOIK_00004	99.117	1698	100	1698	1698	15	0.0	3053
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00004 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00004	DCPLLAOP_00004	100.000	525	100	525	525	0	0.0	970
+COBEFPMI_00004	GFNEAOIK_00005	100.000	525	100	525	525	0	0.0	970
+COBEFPMI_00004	COBEFPMI_00004	100.000	525	100	525	525	0	0.0	970
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00005 HTH-type transcriptional regulator TreR
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00005	DCPLLAOP_00005	100.000	729	100	729	729	0	0.0	1347
+COBEFPMI_00005	COBEFPMI_00005	100.000	729	100	729	729	0	0.0	1347
+COBEFPMI_00005	GFNEAOIK_00006	99.726	729	100	729	729	2	0.0	1336
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00006 Trehalose-6-phosphate hydrolase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00006	COBEFPMI_00006	100.000	1641	100	1641	1641	0	0.0	3031
+COBEFPMI_00006	GFNEAOIK_00007	99.147	1641	100	1641	1641	14	0.0	2953
+COBEFPMI_00006	DCPLLAOP_00006	100.000	1641	36	585	585	0	0.0	1081
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00007 PTS system trehalose-specific EIIBC component
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+COBEFPMI_00007	COBEFPMI_00007	100.000	1428	100	1428	1428	0	0.0	2638
+COBEFPMI_00007	GFNEAOIK_00008	99.720	1428	100	1428	1428	4	0.0	2615
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00008 tRNA-Ser(tga)
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00008	FANIDGOH_00001	100.000	93	100	93	93	0	1.71e-44	172
+COBEFPMI_00008	GFNEAOIK_00009	100.000	93	100	93	93	0	1.71e-44	172
+COBEFPMI_00008	COBEFPMI_00008	100.000	93	100	93	93	0	1.71e-44	172
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00009 Glutamate synthase [NADPH] small chain
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00009	FANIDGOH_00002	100.000	1464	100	1464	1464	0	0.0	2704
+COBEFPMI_00009	COBEFPMI_00009	100.000	1464	100	1464	1464	0	0.0	2704
+COBEFPMI_00009	GFNEAOIK_00010	99.317	1464	100	1464	1464	10	0.0	2649
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00010 Glutamate synthase [NADPH] large chain
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00010	FANIDGOH_00003	100.000	4500	100	4500	4500	0	0.0	8311
+COBEFPMI_00010	COBEFPMI_00010	100.000	4500	100	4500	4500	0	0.0	8311
+COBEFPMI_00010	GFNEAOIK_00011	99.445	4500	100	4503	4503	22	0.0	8174
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00011 HTH-type transcriptional regulator HdfR
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00011	FANIDGOH_00004	100.000	885	100	885	885	0	0.0	1635
+COBEFPMI_00011	COBEFPMI_00011	100.000	885	100	885	885	0	0.0	1635
+COBEFPMI_00011	GFNEAOIK_00012	99.435	885	100	885	885	5	0.0	1607
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00012 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00012	FANIDGOH_00005	100.000	1113	100	1113	1113	0	0.0	2056
+COBEFPMI_00012	COBEFPMI_00012	100.000	1113	100	1113	1113	0	0.0	2056
+COBEFPMI_00012	GFNEAOIK_00013	99.191	1113	100	1113	1113	9	0.0	2006
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00013 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00013	FANIDGOH_00006	100.000	783	100	783	783	0	0.0	1447
+COBEFPMI_00013	COBEFPMI_00013	100.000	783	100	783	783	0	0.0	1447
+COBEFPMI_00013	GFNEAOIK_00014	99.489	783	100	783	783	4	0.0	1424
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00014 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00014	FANIDGOH_00007	100.000	498	100	498	498	0	0.0	920
+COBEFPMI_00014	COBEFPMI_00014	100.000	498	100	498	498	0	0.0	920
+COBEFPMI_00014	GFNEAOIK_00015	99.799	498	100	498	498	1	0.0	915
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00015 NADH pyrophosphatase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00015	FANIDGOH_00008	100.000	396	100	396	396	0	0.0	732
+COBEFPMI_00015	COBEFPMI_00015	100.000	396	100	396	396	0	0.0	732
+COBEFPMI_00015	GFNEAOIK_00016	98.737	396	100	396	396	5	0.0	704
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00016 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00016	FANIDGOH_00009	100.000	270	100	270	270	0	2.33e-142	499
+COBEFPMI_00016	COBEFPMI_00016	100.000	270	100	270	270	0	2.33e-142	499
+COBEFPMI_00016	GFNEAOIK_00017	99.630	270	100	270	270	1	1.08e-140	494
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00017 N-acetylmuramoyl-L-alanine amidase sle1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 8 hits found
+COBEFPMI_00017	FANIDGOH_00010	100.000	1119	100	1119	1119	0	0.0	2067
+COBEFPMI_00017	FANIDGOH_00010	91.089	1119	100	1119	202	16	2.42e-73	272
+COBEFPMI_00017	FANIDGOH_00010	91.089	1119	100	1119	202	16	2.42e-73	272
+COBEFPMI_00017	COBEFPMI_00017	100.000	1119	100	1119	1119	0	0.0	2067
+COBEFPMI_00017	COBEFPMI_00017	91.089	1119	100	1119	202	16	2.42e-73	272
+COBEFPMI_00017	COBEFPMI_00017	91.089	1119	100	1119	202	16	2.42e-73	272
+COBEFPMI_00017	GFNEAOIK_00018	97.222	1119	90	1005	1008	25	0.0	1703
+COBEFPMI_00017	GFNEAOIK_00018	90.196	1119	90	1005	204	18	4.05e-71	265
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00018 putative D-methionine-binding lipoprotein MetQ
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00018	FANIDGOH_00011	100.000	843	100	843	843	0	0.0	1557
+COBEFPMI_00018	COBEFPMI_00018	100.000	843	100	843	843	0	0.0	1557
+COBEFPMI_00018	GFNEAOIK_00019	98.339	843	100	843	843	14	0.0	1480
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00019 Methionine import system permease protein MetP
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00019	FANIDGOH_00012	100.000	660	100	660	660	0	0.0	1219
+COBEFPMI_00019	COBEFPMI_00019	100.000	660	100	660	660	0	0.0	1219
+COBEFPMI_00019	GFNEAOIK_00020	99.545	660	100	660	660	3	0.0	1203
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00020 Methionine import ATP-binding protein MetN
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00020	FANIDGOH_00013	100.000	1029	100	1029	1029	0	0.0	1901
+COBEFPMI_00020	COBEFPMI_00020	100.000	1029	100	1029	1029	0	0.0	1901
+COBEFPMI_00020	GFNEAOIK_00021	97.864	1029	100	1029	1030	20	0.0	1779
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00021 Cystathionine gamma-lyase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00021	FANIDGOH_00014	100.000	1143	100	1143	1143	0	0.0	2111
+COBEFPMI_00021	COBEFPMI_00021	100.000	1143	100	1143	1143	0	0.0	2111
+COBEFPMI_00021	GFNEAOIK_00022	98.425	1143	100	1143	1143	18	0.0	2012
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00022 O-acetylserine dependent cystathionine beta-synthase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00022	FANIDGOH_00015	100.000	957	100	957	957	0	0.0	1768
+COBEFPMI_00022	COBEFPMI_00022	100.000	957	100	957	957	0	0.0	1768
+COBEFPMI_00022	GFNEAOIK_00023	99.581	957	99	966	954	4	0.0	1740
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00023 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00023	FANIDGOH_00016	100.000	1341	100	1341	1341	0	0.0	2477
+COBEFPMI_00023	COBEFPMI_00023	100.000	1341	100	1341	1341	0	0.0	2477
+COBEFPMI_00023	GFNEAOIK_00024	99.403	1341	100	1341	1341	8	0.0	2433
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00024 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00024	FANIDGOH_00017	100.000	114	100	114	114	0	4.66e-56	211
+COBEFPMI_00024	COBEFPMI_00024	100.000	114	100	114	114	0	4.66e-56	211
+COBEFPMI_00024	GFNEAOIK_00025	98.246	114	100	114	114	2	1.01e-52	200
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00025 Carboxylesterase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00025	FANIDGOH_00018	100.000	735	100	735	735	0	0.0	1358
+COBEFPMI_00025	COBEFPMI_00025	100.000	735	100	735	735	0	0.0	1358
+COBEFPMI_00025	GFNEAOIK_00026	99.456	735	100	735	735	4	0.0	1336
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00026 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00026	FANIDGOH_00019	100.000	675	100	675	675	0	0.0	1247
+COBEFPMI_00026	COBEFPMI_00026	100.000	675	100	675	675	0	0.0	1247
+COBEFPMI_00026	GFNEAOIK_00027	98.667	675	100	675	675	9	0.0	1197
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00027 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00027	FANIDGOH_00020	100.000	417	100	417	417	0	0.0	771
+COBEFPMI_00027	COBEFPMI_00027	100.000	417	100	417	417	0	0.0	771
+COBEFPMI_00027	GFNEAOIK_00028	99.041	417	100	417	417	4	0.0	749
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00028 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00028	FANIDGOH_00021	100.000	363	100	363	363	0	0.0	671
+COBEFPMI_00028	COBEFPMI_00028	100.000	363	100	363	363	0	0.0	671
+COBEFPMI_00028	GFNEAOIK_00029	98.898	363	100	363	363	4	0.0	649
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00029 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00029	FANIDGOH_00022	100.000	2706	100	2706	2706	0	0.0	4998
+COBEFPMI_00029	COBEFPMI_00029	100.000	2706	100	2706	2706	0	0.0	4998
+COBEFPMI_00029	GFNEAOIK_00030	98.633	2706	100	2706	2707	35	0.0	4793
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00030 NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00030	FANIDGOH_00023	100.000	1485	100	1485	1485	0	0.0	2743
+COBEFPMI_00030	COBEFPMI_00030	100.000	1485	100	1485	1485	0	0.0	2743
+COBEFPMI_00030	GFNEAOIK_00031	98.452	1485	100	1485	1486	21	0.0	2615
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00031 Putative metal chaperone YciC
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00031	FANIDGOH_00024	100.000	1203	100	1203	1203	0	0.0	2222
+COBEFPMI_00031	COBEFPMI_00031	100.000	1203	100	1203	1203	0	0.0	2222
+COBEFPMI_00031	GFNEAOIK_00032	98.587	1203	100	1203	1203	17	0.0	2128
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00032 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00032	FANIDGOH_00025	100.000	195	100	195	195	0	8.04e-101	361
+COBEFPMI_00032	COBEFPMI_00032	100.000	195	100	195	195	0	8.04e-101	361
+COBEFPMI_00032	GFNEAOIK_00033	97.949	195	100	195	195	4	3.77e-94	339
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00033 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00033	FANIDGOH_00026	100.000	315	100	315	315	0	2.64e-167	582
+COBEFPMI_00033	COBEFPMI_00033	100.000	315	100	315	315	0	2.64e-167	582
+COBEFPMI_00033	GFNEAOIK_00034	97.460	315	100	315	315	8	5.80e-154	538
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00034 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00034	FANIDGOH_00027	100.000	324	100	324	324	0	2.71e-172	599
+COBEFPMI_00034	COBEFPMI_00034	100.000	324	100	324	324	0	2.71e-172	599
+COBEFPMI_00034	GFNEAOIK_00035	99.383	324	100	324	324	2	5.86e-169	588
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00035 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00035	FANIDGOH_00028	100.000	1329	100	1329	1329	0	0.0	2455
+COBEFPMI_00035	COBEFPMI_00035	100.000	1329	100	1329	1329	0	0.0	2455
+COBEFPMI_00035	GFNEAOIK_00036	98.814	1329	89	1329	1180	12	0.0	2100
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00036 putative protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+COBEFPMI_00036	FANIDGOH_00029	100.000	858	100	858	858	0	0.0	1585
+COBEFPMI_00036	COBEFPMI_00036	100.000	858	100	858	858	0	0.0	1585
+COBEFPMI_00036	GFNEAOIK_00041	94.428	858	79	792	682	38	0.0	1050
+COBEFPMI_00036	GFNEAOIK_00037	90.850	858	35	861	306	23	1.74e-113	405
+COBEFPMI_00036	GFNEAOIK_00038	74.574	858	81	786	704	159	5.10e-79	291
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00037 putative protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+COBEFPMI_00037	FANIDGOH_00030	100.000	798	100	798	798	0	0.0	1474
+COBEFPMI_00037	COBEFPMI_00037	100.000	798	100	798	798	0	0.0	1474
+COBEFPMI_00037	GFNEAOIK_00040	89.640	798	87	777	695	70	0.0	883
+COBEFPMI_00037	GFNEAOIK_00038	84.165	798	87	786	701	97	0.0	667
+COBEFPMI_00037	GFNEAOIK_00045	88.177	798	25	474	203	21	1.74e-63	239
+COBEFPMI_00037	GFNEAOIK_00042	90.511	798	17	771	137	11	1.07e-45	180
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00038 putative lipoprotein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 15 hits found
+COBEFPMI_00038	FANIDGOH_00031	100.000	816	100	816	816	0	0.0	1507
+COBEFPMI_00038	COBEFPMI_00038	100.000	816	100	816	816	0	0.0	1507
+COBEFPMI_00038	GFNEAOIK_00037	81.211	816	78	861	644	111	3.41e-145	510
+COBEFPMI_00038	GFNEAOIK_00043	83.140	816	63	804	516	80	2.69e-131	464
+COBEFPMI_00038	FANIDGOH_00033	79.656	816	78	813	639	121	2.10e-127	451
+COBEFPMI_00038	COBEFPMI_00040	79.656	816	78	813	639	121	2.10e-127	451
+COBEFPMI_00038	GFNEAOIK_00046	77.062	816	94	801	776	155	1.27e-119	425
+COBEFPMI_00038	GFNEAOIK_00047	77.493	816	85	804	702	139	5.96e-113	403
+COBEFPMI_00038	GFNEAOIK_00039	81.557	816	59	816	488	79	1.29e-109	392
+COBEFPMI_00038	GFNEAOIK_00042	76.990	816	84	771	691	138	1.30e-104	375
+COBEFPMI_00038	GFNEAOIK_00041	84.279	816	28	792	229	36	4.98e-59	224
+COBEFPMI_00038	GFNEAOIK_00038	90.441	816	17	786	136	13	1.09e-45	180
+COBEFPMI_00038	FANIDGOH_00032	88.971	816	17	783	136	15	2.37e-42	169
+COBEFPMI_00038	COBEFPMI_00039	88.971	816	17	783	136	15	2.37e-42	169
+COBEFPMI_00038	GFNEAOIK_00040	83.212	816	17	777	137	21	5.19e-29	124
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00039 putative lipoprotein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 11 hits found
+COBEFPMI_00039	FANIDGOH_00032	100.000	783	100	783	783	0	0.0	1447
+COBEFPMI_00039	COBEFPMI_00039	100.000	783	100	783	783	0	0.0	1447
+COBEFPMI_00039	GFNEAOIK_00038	76.455	783	95	786	756	152	5.75e-108	387
+COBEFPMI_00039	GFNEAOIK_00042	91.284	783	28	771	218	19	2.77e-81	298
+COBEFPMI_00039	GFNEAOIK_00041	74.586	783	84	792	665	149	4.67e-74	274
+COBEFPMI_00039	GFNEAOIK_00047	82.328	783	29	804	232	35	1.04e-50	196
+COBEFPMI_00039	GFNEAOIK_00037	92.647	783	17	861	136	10	1.04e-50	196
+COBEFPMI_00039	GFNEAOIK_00039	91.176	783	17	816	136	12	2.25e-47	185
+COBEFPMI_00039	GFNEAOIK_00046	89.706	783	17	801	136	14	4.87e-44	174
+COBEFPMI_00039	FANIDGOH_00031	88.971	783	17	816	136	15	2.27e-42	169
+COBEFPMI_00039	COBEFPMI_00038	88.971	783	17	816	136	15	2.27e-42	169
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00040 putative lipoprotein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 10 hits found
+COBEFPMI_00040	FANIDGOH_00033	100.000	813	100	813	813	0	0.0	1502
+COBEFPMI_00040	COBEFPMI_00040	100.000	813	100	813	813	0	0.0	1502
+COBEFPMI_00040	GFNEAOIK_00037	91.924	813	83	861	681	49	0.0	948
+COBEFPMI_00040	FANIDGOH_00031	79.719	813	78	816	641	117	2.09e-127	451
+COBEFPMI_00040	COBEFPMI_00038	79.719	813	78	816	641	117	2.09e-127	451
+COBEFPMI_00040	GFNEAOIK_00047	77.165	813	93	804	762	154	1.27e-119	425
+COBEFPMI_00040	FANIDGOH_00030	87.755	813	18	798	147	17	6.55e-43	171
+COBEFPMI_00040	COBEFPMI_00037	87.755	813	18	798	147	17	6.55e-43	171
+COBEFPMI_00040	GFNEAOIK_00038	88.971	813	17	786	136	15	2.36e-42	169
+COBEFPMI_00040	GFNEAOIK_00045	86.486	813	18	474	148	18	3.94e-40	161
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00041 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00041	FANIDGOH_00034	100.000	309	100	309	309	0	5.63e-164	571
+COBEFPMI_00041	COBEFPMI_00041	100.000	309	100	309	309	0	5.63e-164	571
+COBEFPMI_00041	GFNEAOIK_00048	99.676	309	100	309	309	1	2.62e-162	566
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00042 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+COBEFPMI_00042	FANIDGOH_00035	100.000	1485	100	1485	1485	0	0.0	2743
+COBEFPMI_00042	COBEFPMI_00042	100.000	1485	100	1485	1485	0	0.0	2743
+COBEFPMI_00042	GFNEAOIK_00049	86.667	1485	84	1509	1155	137	0.0	1264
+COBEFPMI_00042	GFNEAOIK_00049	95.146	1485	84	1509	103	5	2.03e-40	163
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00043 Staphylococcal superantigen-like 5
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+COBEFPMI_00043	FANIDGOH_00036	100.000	687	100	687	687	0	0.0	1269
+COBEFPMI_00043	COBEFPMI_00043	100.000	687	100	687	687	0	0.0	1269
+COBEFPMI_00043	GFNEAOIK_00051	81.602	687	48	345	337	38	4.12e-69	257
+COBEFPMI_00043	GFNEAOIK_00050	86.916	687	16	111	107	13	2.03e-27	119
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00044 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00044	FANIDGOH_00037	100.000	1260	100	1260	1260	0	0.0	2327
+COBEFPMI_00044	COBEFPMI_00044	100.000	1260	100	1260	1260	0	0.0	2327
+COBEFPMI_00044	GFNEAOIK_00052	98.233	1260	54	1212	679	12	0.0	1188
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00045 putative type I restriction enzymeP M protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+COBEFPMI_00045	GLEPIHLP_00001	100.000	1557	100	1557	1557	0	0.0	2876
+COBEFPMI_00045	FANIDGOH_00038	100.000	1557	100	1557	1557	0	0.0	2876
+COBEFPMI_00045	COBEFPMI_00045	100.000	1557	100	1557	1557	0	0.0	2876
+COBEFPMI_00045	GFNEAOIK_00053	96.146	1557	100	1557	1557	60	0.0	2543
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00046 Staphylococcal superantigen-like 10
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 7 hits found
+COBEFPMI_00046	GLEPIHLP_00002	100.000	684	100	684	684	0	0.0	1264
+COBEFPMI_00046	COBEFPMI_00046	100.000	684	100	684	684	0	0.0	1264
+COBEFPMI_00046	GFNEAOIK_00054	87.427	684	100	684	684	86	0.0	787
+COBEFPMI_00046	APJBKKBE_00001	94.643	684	8	699	56	3	5.70e-18	87.9
+COBEFPMI_00046	GLEPIHLP_00003	94.643	684	8	699	56	3	5.70e-18	87.9
+COBEFPMI_00046	LPJIBDKK_00001	94.643	684	8	699	56	3	5.70e-18	87.9
+COBEFPMI_00046	COBEFPMI_00047	94.643	684	8	699	56	3	5.70e-18	87.9
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00047 Staphylococcal superantigen-like 7
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 7 hits found
+COBEFPMI_00047	APJBKKBE_00001	100.000	699	100	699	699	0	0.0	1291
+COBEFPMI_00047	GLEPIHLP_00003	100.000	699	100	699	699	0	0.0	1291
+COBEFPMI_00047	LPJIBDKK_00001	100.000	699	100	699	699	0	0.0	1291
+COBEFPMI_00047	COBEFPMI_00047	100.000	699	100	699	699	0	0.0	1291
+COBEFPMI_00047	GFNEAOIK_00055	90.831	699	99	699	698	64	0.0	935
+COBEFPMI_00047	GLEPIHLP_00002	94.643	699	8	684	56	3	5.83e-18	87.9
+COBEFPMI_00047	COBEFPMI_00046	94.643	699	8	684	56	3	5.83e-18	87.9
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00048 Staphylococcal superantigen-like 7
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+COBEFPMI_00048	APJBKKBE_00002	100.000	696	100	696	696	0	0.0	1286
+COBEFPMI_00048	GLEPIHLP_00004	100.000	696	100	696	696	0	0.0	1286
+COBEFPMI_00048	LPJIBDKK_00002	100.000	696	100	696	696	0	0.0	1286
+COBEFPMI_00048	COBEFPMI_00048	100.000	696	100	696	696	0	0.0	1286
+COBEFPMI_00048	GFNEAOIK_00057	88.252	696	99	696	698	76	0.0	830
+COBEFPMI_00048	GFNEAOIK_00058	89.583	696	14	696	96	10	1.59e-28	122
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00049 Staphylococcal superantigen-like 5
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+COBEFPMI_00049	APJBKKBE_00003	100.000	705	100	705	705	0	0.0	1303
+COBEFPMI_00049	GLEPIHLP_00005	100.000	705	100	705	705	0	0.0	1303
+COBEFPMI_00049	LPJIBDKK_00003	100.000	705	100	705	705	0	0.0	1303
+COBEFPMI_00049	COBEFPMI_00049	100.000	705	100	705	705	0	0.0	1303
+COBEFPMI_00049	GFNEAOIK_00059	91.489	705	100	705	705	60	0.0	970
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00050 Staphylococcal superantigen-like 3
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+COBEFPMI_00050	GLEPIHLP_00006	100.000	1032	100	1128	1032	0	0.0	1906
+COBEFPMI_00050	LPJIBDKK_00004	100.000	1032	100	1128	1032	0	0.0	1906
+COBEFPMI_00050	COBEFPMI_00050	100.000	1032	100	1032	1032	0	0.0	1906
+COBEFPMI_00050	APJBKKBE_00004	100.000	1032	47	579	483	0	0.0	893
+COBEFPMI_00050	GFNEAOIK_00061	87.979	1032	55	1059	574	66	0.0	675
+COBEFPMI_00050	GFNEAOIK_00060	84.615	1032	60	927	624	89	3.22e-176	614
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00051 Staphylococcal superantigen-like 4
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+COBEFPMI_00051	GLEPIHLP_00007	100.000	702	100	702	702	0	0.0	1297
+COBEFPMI_00051	LPJIBDKK_00005	100.000	702	100	702	702	0	0.0	1297
+COBEFPMI_00051	COBEFPMI_00051	100.000	702	100	702	702	0	0.0	1297
+COBEFPMI_00051	GFNEAOIK_00062	87.482	702	100	696	703	80	0.0	804
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00052 Staphylococcal superantigen-like 1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+COBEFPMI_00052	GLEPIHLP_00008	100.000	681	100	681	681	0	0.0	1258
+COBEFPMI_00052	LPJIBDKK_00006	100.000	681	100	681	681	0	0.0	1258
+COBEFPMI_00052	COBEFPMI_00052	100.000	681	100	681	681	0	0.0	1258
+COBEFPMI_00052	GFNEAOIK_00063	82.029	681	100	681	690	106	1.28e-163	571
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00053 Quinone oxidoreductase 2
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00053	GLEPIHLP_00009	100.000	846	100	846	846	0	0.0	1563
+COBEFPMI_00053	COBEFPMI_00053	100.000	846	100	846	846	0	0.0	1563
+COBEFPMI_00053	GFNEAOIK_00064	97.991	846	100	846	846	17	0.0	1469
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00054 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+COBEFPMI_00054	GLEPIHLP_00010	100.000	360	100	360	360	0	0.0	665
+COBEFPMI_00054	COBEFPMI_00054	100.000	360	100	360	360	0	0.0	665
+COBEFPMI_00054	GFNEAOIK_00065	97.500	360	100	360	360	9	3.01e-177	616
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00055 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+COBEFPMI_00055	COBEFPMI_00055	100.000	153	100	153	153	0	1.36e-77	283
+COBEFPMI_00055	GFNEAOIK_00066	98.039	153	100	153	153	3	1.37e-72	267
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00056 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+COBEFPMI_00056	COBEFPMI_00056	100.000	585	100	585	585	0	0.0	1081
+COBEFPMI_00056	GFNEAOIK_00067	97.949	585	33	240	195	4	1.21e-93	339
+# BLASTN 2.9.0+
+# Query: COBEFPMI_00057 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+COBEFPMI_00057	COBEFPMI_00057	100.000	333	100	333	333	0	2.77e-177	616
+# BLAST processed 57 queries

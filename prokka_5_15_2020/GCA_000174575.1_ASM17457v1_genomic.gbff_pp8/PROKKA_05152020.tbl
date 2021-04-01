@@ -1,0 +1,65 @@
+>Feature gnl|X|GMIBJNNK_1
+201	968	gene
+			locus_tag	GMIBJNNK_00001
+201	968	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:IS712
+			locus_tag	GMIBJNNK_00001
+			product	IS21 family transposase IS712
+			protein_id	gnl|X|GMIBJNNK_00001
+1591	1199	gene
+			locus_tag	GMIBJNNK_00002
+1591	1199	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GMIBJNNK_00002
+			product	hypothetical protein
+			protein_id	gnl|X|GMIBJNNK_00002
+1982	1593	gene
+			locus_tag	GMIBJNNK_00003
+1982	1593	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GMIBJNNK_00003
+			product	hypothetical protein
+			protein_id	gnl|X|GMIBJNNK_00003
+2374	2000	gene
+			locus_tag	GMIBJNNK_00004
+2374	2000	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GMIBJNNK_00004
+			product	hypothetical protein
+			protein_id	gnl|X|GMIBJNNK_00004
+2862	2389	gene
+			locus_tag	GMIBJNNK_00005
+2862	2389	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GMIBJNNK_00005
+			product	hypothetical protein
+			protein_id	gnl|X|GMIBJNNK_00005
+3286	2873	gene
+			locus_tag	GMIBJNNK_00006
+3286	2873	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GMIBJNNK_00006
+			product	hypothetical protein
+			protein_id	gnl|X|GMIBJNNK_00006
+4561	3299	gene
+			locus_tag	GMIBJNNK_00007
+4561	3299	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GMIBJNNK_00007
+			product	hypothetical protein
+			protein_id	gnl|X|GMIBJNNK_00007
+4864	4574	gene
+			locus_tag	GMIBJNNK_00008
+4864	4574	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GMIBJNNK_00008
+			product	hypothetical protein
+			protein_id	gnl|X|GMIBJNNK_00008
+5214	4867	gene
+			locus_tag	GMIBJNNK_00009
+5214	4867	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GMIBJNNK_00009
+			product	hypothetical protein
+			protein_id	gnl|X|GMIBJNNK_00009

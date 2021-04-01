@@ -1,0 +1,15 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+COABHCKC_00001	gene	327	rsbV			
+COABHCKC_00001	CDS	327	rsbV			Anti-sigma-B factor antagonist
+COABHCKC_00002	gene	510	rsbW			
+COABHCKC_00002	CDS	510	rsbW	2.7.11.1		Serine-protein kinase RsbW
+COABHCKC_00003	gene	771	sigB			
+COABHCKC_00003	CDS	771	sigB		COG1191	RNA polymerase sigma-B factor
+COABHCKC_00004	gene	2151	yhgF			
+COABHCKC_00004	CDS	2151	yhgF		COG2183	Protein YhgF
+COABHCKC_00005	gene	456				
+COABHCKC_00005	CDS	456				Protein SprT-like protein
+COABHCKC_00006	gene	83				
+COABHCKC_00006	tRNA	83				tRNA-Leu(gag)
+COABHCKC_00007	gene	74				
+COABHCKC_00007	tRNA	74				tRNA-Gly(tcc)

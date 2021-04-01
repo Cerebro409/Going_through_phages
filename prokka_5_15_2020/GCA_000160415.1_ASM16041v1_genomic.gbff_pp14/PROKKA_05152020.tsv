@@ -1,0 +1,103 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+IOJIKLIK_00001	gene	153				
+IOJIKLIK_00001	CDS	153				hypothetical protein
+IOJIKLIK_00002	gene	177				
+IOJIKLIK_00002	CDS	177				hypothetical protein
+IOJIKLIK_00003	gene	231				
+IOJIKLIK_00003	CDS	231				hypothetical protein
+IOJIKLIK_00004	gene	222				
+IOJIKLIK_00004	CDS	222				hypothetical protein
+IOJIKLIK_00005	gene	261				
+IOJIKLIK_00005	CDS	261				hypothetical protein
+IOJIKLIK_00006	gene	222				
+IOJIKLIK_00006	CDS	222				hypothetical protein
+IOJIKLIK_00007	gene	624				
+IOJIKLIK_00007	CDS	624				hypothetical protein
+IOJIKLIK_00008	gene	429	ssbA			
+IOJIKLIK_00008	CDS	429	ssbA		COG0629	Single-stranded DNA-binding protein A
+IOJIKLIK_00009	gene	669				
+IOJIKLIK_00009	CDS	669				hypothetical protein
+IOJIKLIK_00010	gene	780				
+IOJIKLIK_00010	CDS	780				hypothetical protein
+IOJIKLIK_00011	gene	798				
+IOJIKLIK_00011	CDS	798				hypothetical protein
+IOJIKLIK_00012	gene	774				
+IOJIKLIK_00012	CDS	774				hypothetical protein
+IOJIKLIK_00013	gene	159				
+IOJIKLIK_00013	CDS	159				hypothetical protein
+IOJIKLIK_00014	gene	222				
+IOJIKLIK_00014	CDS	222				hypothetical protein
+IOJIKLIK_00015	gene	405				
+IOJIKLIK_00015	CDS	405				hypothetical protein
+IOJIKLIK_00016	gene	186				
+IOJIKLIK_00016	CDS	186				hypothetical protein
+IOJIKLIK_00017	gene	363				
+IOJIKLIK_00017	CDS	363				hypothetical protein
+IOJIKLIK_00018	gene	255				
+IOJIKLIK_00018	CDS	255				hypothetical protein
+IOJIKLIK_00019	gene	249				
+IOJIKLIK_00019	CDS	249				hypothetical protein
+IOJIKLIK_00020	gene	168				
+IOJIKLIK_00020	CDS	168				hypothetical protein
+IOJIKLIK_00021	gene	237				
+IOJIKLIK_00021	CDS	237				hypothetical protein
+IOJIKLIK_00022	gene	243				
+IOJIKLIK_00022	CDS	243				hypothetical protein
+IOJIKLIK_00023	gene	534	dut			
+IOJIKLIK_00023	CDS	534	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+IOJIKLIK_00024	gene	237				
+IOJIKLIK_00024	CDS	237				hypothetical protein
+IOJIKLIK_00025	gene	207				
+IOJIKLIK_00025	CDS	207				hypothetical protein
+IOJIKLIK_00026	gene	387				
+IOJIKLIK_00026	CDS	387				hypothetical protein
+IOJIKLIK_00027	gene	150				
+IOJIKLIK_00027	CDS	150				hypothetical protein
+IOJIKLIK_00028	gene	201				
+IOJIKLIK_00028	CDS	201				hypothetical protein
+IOJIKLIK_00029	gene	417				
+IOJIKLIK_00029	CDS	417				hypothetical protein
+IOJIKLIK_00030	gene	300				
+IOJIKLIK_00030	CDS	300				hypothetical protein
+IOJIKLIK_00031	gene	345				
+IOJIKLIK_00031	CDS	345				hypothetical protein
+IOJIKLIK_00032	gene	1662				
+IOJIKLIK_00032	CDS	1662				hypothetical protein
+IOJIKLIK_00033	gene	1188				
+IOJIKLIK_00033	CDS	1188				hypothetical protein
+IOJIKLIK_00034	gene	744	clpP			
+IOJIKLIK_00034	CDS	744	clpP	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+IOJIKLIK_00035	gene	1146				
+IOJIKLIK_00035	CDS	1146				hypothetical protein
+IOJIKLIK_00036	gene	285				
+IOJIKLIK_00036	CDS	285				hypothetical protein
+IOJIKLIK_00037	gene	297				
+IOJIKLIK_00037	CDS	297				hypothetical protein
+IOJIKLIK_00038	gene	363				
+IOJIKLIK_00038	CDS	363				hypothetical protein
+IOJIKLIK_00039	gene	405				
+IOJIKLIK_00039	CDS	405				hypothetical protein
+IOJIKLIK_00040	gene	405				
+IOJIKLIK_00040	CDS	405				hypothetical protein
+IOJIKLIK_00041	gene	645				
+IOJIKLIK_00041	CDS	645				hypothetical protein
+IOJIKLIK_00042	gene	351				
+IOJIKLIK_00042	CDS	351				hypothetical protein
+IOJIKLIK_00043	gene	138				
+IOJIKLIK_00043	CDS	138				hypothetical protein
+IOJIKLIK_00044	gene	4530				
+IOJIKLIK_00044	CDS	4530				hypothetical protein
+IOJIKLIK_00045	gene	1485				
+IOJIKLIK_00045	CDS	1485				hypothetical protein
+IOJIKLIK_00046	gene	3786				
+IOJIKLIK_00046	CDS	3786				hypothetical protein
+IOJIKLIK_00047	gene	153				
+IOJIKLIK_00047	CDS	153				hypothetical protein
+IOJIKLIK_00048	gene	288				
+IOJIKLIK_00048	CDS	288				hypothetical protein
+IOJIKLIK_00049	gene	297				
+IOJIKLIK_00049	CDS	297				hypothetical protein
+IOJIKLIK_00050	gene	255				
+IOJIKLIK_00050	CDS	255				hypothetical protein
+IOJIKLIK_00051	gene	756				
+IOJIKLIK_00051	CDS	756				hypothetical protein

@@ -1,0 +1,89 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MBJHDCJA_00001	gene	138				
+MBJHDCJA_00001	CDS	138				hypothetical protein
+MBJHDCJA_00002	gene	1170	narT			
+MBJHDCJA_00002	CDS	1170	narT		COG2223	putative nitrate transporter NarT
+MBJHDCJA_00003	gene	915				
+MBJHDCJA_00003	CDS	915				hypothetical protein
+MBJHDCJA_00004	gene	741	tipA			
+MBJHDCJA_00004	CDS	741	tipA			HTH-type transcriptional activator TipA
+MBJHDCJA_00005	gene	654	nreC			
+MBJHDCJA_00005	CDS	654	nreC		COG2197	Oxygen regulatory protein NreC
+MBJHDCJA_00006	gene	1035	nreB			
+MBJHDCJA_00006	CDS	1035	nreB	2.7.13.3		Oxygen sensor histidine kinase NreB
+MBJHDCJA_00007	gene	453				
+MBJHDCJA_00007	CDS	453				hypothetical protein
+MBJHDCJA_00008	gene	678	narX			
+MBJHDCJA_00008	CDS	678	narX		COG2180	Nitrate reductase-like protein NarX
+MBJHDCJA_00009	gene	591				
+MBJHDCJA_00009	CDS	591				hypothetical protein
+MBJHDCJA_00010	gene	1560	narH			
+MBJHDCJA_00010	CDS	1560	narH	1.7.5.1	COG1140	Respiratory nitrate reductase 1 beta chain
+MBJHDCJA_00011	gene	3690	narG			
+MBJHDCJA_00011	CDS	3690	narG	1.7.5.1	COG5013	Respiratory nitrate reductase 1 alpha chain
+MBJHDCJA_00012	gene	978	nasF			
+MBJHDCJA_00012	CDS	978	nasF	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+MBJHDCJA_00013	gene	315	nasE			
+MBJHDCJA_00013	CDS	315	nasE	1.7.1.4	COG2146	Assimilatory nitrite reductase [NAD(P)H] small subunit
+MBJHDCJA_00014	gene	2406	nasD			
+MBJHDCJA_00014	CDS	2406	nasD	1.7.1.4	COG1251	Nitrite reductase [NAD(P)H]
+MBJHDCJA_00015	gene	771	sirB			
+MBJHDCJA_00015	CDS	771	sirB	4.99.1.4	COG2138	Sirohydrochlorin ferrochelatase
+MBJHDCJA_00016	gene	537	ytmI			
+MBJHDCJA_00016	CDS	537	ytmI	2.3.1.-		putative N-acetyltransferase YtmI
+MBJHDCJA_00017	gene	852	nirC			
+MBJHDCJA_00017	CDS	852	nirC		COG2116	Nitrite transporter NirC
+MBJHDCJA_00018	gene	183				
+MBJHDCJA_00018	CDS	183				hypothetical protein
+MBJHDCJA_00019	gene	468				
+MBJHDCJA_00019	CDS	468				hypothetical protein
+MBJHDCJA_00020	gene	1551				
+MBJHDCJA_00020	CDS	1551				hypothetical protein
+MBJHDCJA_00021	gene	267	yoeB			
+MBJHDCJA_00021	CDS	267	yoeB	3.1.-.-	COG4115	Toxin YoeB
+MBJHDCJA_00022	gene	252	yefM			
+MBJHDCJA_00022	CDS	252	yefM		COG2161	Antitoxin YefM
+MBJHDCJA_00023	gene	600	bdbD			
+MBJHDCJA_00023	CDS	600	bdbD		COG1651	Disulfide bond formation protein D
+MBJHDCJA_00024	gene	372				
+MBJHDCJA_00024	CDS	372				hypothetical protein
+MBJHDCJA_00025	gene	1251	femA			
+MBJHDCJA_00025	CDS	1251	femA	2.3.2.17	COG2348	Aminoacyltransferase FemA
+MBJHDCJA_00026	gene	732	tcyC			
+MBJHDCJA_00026	CDS	732	tcyC	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyC
+MBJHDCJA_00027	gene	720	tcyB			
+MBJHDCJA_00027	CDS	720	tcyB		COG0765	L-cystine transport system permease protein TcyB
+MBJHDCJA_00028	gene	780				
+MBJHDCJA_00028	CDS	780			COG0834	putative amino-acid ABC transporter-binding protein
+MBJHDCJA_00029	gene	1440	farB			
+MBJHDCJA_00029	CDS	1440	farB			Fatty acid resistance protein FarB
+MBJHDCJA_00030	gene	105				
+MBJHDCJA_00030	CDS	105				hypothetical protein
+MBJHDCJA_00031	gene	687	gpmA			
+MBJHDCJA_00031	CDS	687	gpmA	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+MBJHDCJA_00032	gene	867	mneS			
+MBJHDCJA_00032	CDS	867	mneS		COG0053	Manganese efflux system protein MneS
+MBJHDCJA_00033	gene	1311	sbi			
+MBJHDCJA_00033	CDS	1311	sbi			Immunoglobulin-binding protein Sbi
+MBJHDCJA_00034	gene	966	hlgA			
+MBJHDCJA_00034	CDS	966	hlgA			Gamma-hemolysin component A
+MBJHDCJA_00035	gene	948	hlgC			
+MBJHDCJA_00035	CDS	948	hlgC			Gamma-hemolysin component C
+MBJHDCJA_00036	gene	978	hlgB			
+MBJHDCJA_00036	CDS	978	hlgB			Gamma-hemolysin component B
+MBJHDCJA_00037	gene	468				
+MBJHDCJA_00037	CDS	468				hypothetical protein
+MBJHDCJA_00038	gene	693	bioW			
+MBJHDCJA_00038	CDS	693	bioW	6.2.1.14		6-carboxyhexanoate--CoA ligase
+MBJHDCJA_00039	gene	1116				
+MBJHDCJA_00039	CDS	1116		2.3.1.29	COG0156	8-amino-7-oxononanoate synthase/2-amino-3-ketobutyrate coenzyme A ligase
+MBJHDCJA_00040	gene	1008	bioB			
+MBJHDCJA_00040	CDS	1008	bioB	2.8.1.6		Biotin synthase
+MBJHDCJA_00041	gene	1359	bioK			
+MBJHDCJA_00041	CDS	1359	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+MBJHDCJA_00042	gene	687	bioD			
+MBJHDCJA_00042	CDS	687	bioD	6.3.3.3		ATP-dependent dethiobiotin synthetase BioD
+MBJHDCJA_00043	gene	561				
+MBJHDCJA_00043	CDS	561				IS1182 family transposase ISSau3
+MBJHDCJA_00044	gene	357				
+MBJHDCJA_00044	CDS	357				IS1182 family transposase ISSau3

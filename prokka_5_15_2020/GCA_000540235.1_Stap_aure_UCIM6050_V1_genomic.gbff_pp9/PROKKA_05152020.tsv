@@ -1,0 +1,91 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EJFJIICA_00001	gene	1197				
+EJFJIICA_00001	CDS	1197				hypothetical protein
+EJFJIICA_00002	gene	768				
+EJFJIICA_00002	CDS	768				IS21 family transposase IS712
+EJFJIICA_00003	gene	393				
+EJFJIICA_00003	CDS	393				hypothetical protein
+EJFJIICA_00004	gene	390				
+EJFJIICA_00004	CDS	390				hypothetical protein
+EJFJIICA_00005	gene	375				
+EJFJIICA_00005	CDS	375				hypothetical protein
+EJFJIICA_00006	gene	474				
+EJFJIICA_00006	CDS	474				hypothetical protein
+EJFJIICA_00007	gene	414				
+EJFJIICA_00007	CDS	414				hypothetical protein
+EJFJIICA_00008	gene	1263				
+EJFJIICA_00008	CDS	1263				hypothetical protein
+EJFJIICA_00009	gene	291				
+EJFJIICA_00009	CDS	291				hypothetical protein
+EJFJIICA_00010	gene	1080				
+EJFJIICA_00010	CDS	1080				hypothetical protein
+EJFJIICA_00011	gene	4449	essC			
+EJFJIICA_00011	CDS	4449	essC		COG1674	Type VII secretion system protein EssC
+EJFJIICA_00012	gene	1335	essB			
+EJFJIICA_00012	CDS	1335	essB		COG4499	Type VII secretion system protein EssB
+EJFJIICA_00013	gene	243	esaB			
+EJFJIICA_00013	CDS	243	esaB			Type VII secretion system accessory factor EsaB
+EJFJIICA_00014	gene	459				
+EJFJIICA_00014	CDS	459				hypothetical protein
+EJFJIICA_00015	gene	3030	esaA			
+EJFJIICA_00015	CDS	3030	esaA		COG1511	Type VII secretion system accessory factor EsaA
+EJFJIICA_00016	gene	294	esxA			
+EJFJIICA_00016	CDS	294	esxA			Type VII secretion system extracellular protein A
+EJFJIICA_00017	gene	903				
+EJFJIICA_00017	CDS	903				hypothetical protein
+EJFJIICA_00018	gene	1524				
+EJFJIICA_00018	CDS	1524				hypothetical protein
+EJFJIICA_00019	gene	1167				
+EJFJIICA_00019	CDS	1167				hypothetical protein
+EJFJIICA_00020	gene	921				
+EJFJIICA_00020	CDS	921				hypothetical protein
+EJFJIICA_00021	gene	660	lnrL			
+EJFJIICA_00021	CDS	660	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+EJFJIICA_00022	gene	966	lytM			
+EJFJIICA_00022	CDS	966	lytM	3.4.24.75	COG0739	Glycyl-glycine endopeptidase LytM
+EJFJIICA_00023	gene	993	yxeI			
+EJFJIICA_00023	CDS	993	yxeI		COG3049	putative protein YxeI
+EJFJIICA_00024	gene	1377	norB			
+EJFJIICA_00024	CDS	1377	norB			Quinolone resistance protein NorB
+EJFJIICA_00025	gene	393				
+EJFJIICA_00025	CDS	393				hypothetical protein
+EJFJIICA_00026	gene	999	degA			
+EJFJIICA_00026	CDS	999	degA		COG1609	HTH-type transcriptional regulator DegA
+EJFJIICA_00027	gene	882	glcU			
+EJFJIICA_00027	CDS	882	glcU		COG4975	putative glucose uptake protein GlcU
+EJFJIICA_00028	gene	405	rbsD			
+EJFJIICA_00028	CDS	405	rbsD	5.4.99.62	COG1869	D-ribose pyranase
+EJFJIICA_00029	gene	915	rbsK			
+EJFJIICA_00029	CDS	915	rbsK	2.7.1.15		Ribokinase
+EJFJIICA_00030	gene	762	COQ5			
+EJFJIICA_00030	CDS	762	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+EJFJIICA_00031	gene	1437	bglA			
+EJFJIICA_00031	CDS	1437	bglA	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglA
+EJFJIICA_00032	gene	792				
+EJFJIICA_00032	CDS	792				hypothetical protein
+EJFJIICA_00033	gene	705	yydK			
+EJFJIICA_00033	CDS	705	yydK		COG2188	putative HTH-type transcriptional regulator YydK
+EJFJIICA_00034	gene	2292				
+EJFJIICA_00034	CDS	2292				hypothetical protein
+EJFJIICA_00035	gene	702	lrgB			
+EJFJIICA_00035	CDS	702	lrgB		COG1346	Antiholin-like protein LrgB
+EJFJIICA_00036	gene	444	lrgA			
+EJFJIICA_00036	CDS	444	lrgA		COG1380	Antiholin-like protein LrgA
+EJFJIICA_00037	gene	741	lytR			
+EJFJIICA_00037	CDS	741	lytR		COG3279	Sensory transduction protein LytR
+EJFJIICA_00038	gene	1740	ypdA			
+EJFJIICA_00038	CDS	1740	ypdA	2.7.13.3	COG3275	Sensor histidine kinase YpdA
+EJFJIICA_00039	gene	675	scdA			
+EJFJIICA_00039	CDS	675	scdA		COG2846	Iron-sulfur cluster repair protein ScdA
+EJFJIICA_00040	gene	1722	tarS			
+EJFJIICA_00040	CDS	1722	tarS	2.4.1.355		Poly(ribitol-phosphate) beta-N-acetylglucosaminyltransferase TarS
+EJFJIICA_00041	gene	1689	tarL			
+EJFJIICA_00041	CDS	1689	tarL	2.7.8.14	COG1887	Teichoic acid ribitol-phosphate polymerase TarL
+EJFJIICA_00042	gene	1053	tarJ			
+EJFJIICA_00042	CDS	1053	tarJ	1.1.1.405	COG1063	Ribulose-5-phosphate reductase 1
+EJFJIICA_00043	gene	717	tarI1			
+EJFJIICA_00043	CDS	717	tarI1	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase 1
+EJFJIICA_00044	gene	1170	tarF			
+EJFJIICA_00044	CDS	1170	tarF	2.7.8.45	COG1887	Teichoic acid glycerol-phosphate transferase
+EJFJIICA_00045	gene	123	tarK			
+EJFJIICA_00045	CDS	123	tarK	2.7.8.14	COG1887	Teichoic acid ribitol-phosphate polymerase TarK

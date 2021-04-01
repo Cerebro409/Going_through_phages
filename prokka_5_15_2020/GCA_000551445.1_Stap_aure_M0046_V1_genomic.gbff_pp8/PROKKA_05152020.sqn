@@ -1,0 +1,970 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHCIEDJE_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 8389 ,
+            seq-data
+              iupacna "TAACACCTGTTGCAAATCTTATACGCTTAATTAATTTAGAAAGAATATTTTTTGG
+ATCTACCTTGCTACCTAACAAACGATAATTACAATCTAAATTTTCCAATCGCTTATTAGTAGCTTGTGAATTATTCAT
+TCCAACAATTTTATAATCATTCGTAACGCCTTTAATTGTTTCTATTTGTTTAAGTACCCTTGGGTCTTGAACAATATT
+ACTCGATACAATATTTAAAATTCTCATATCATTAAGTATCCTTTTTATTTAAATATTCAACCGAAAATCCTTTTAGTT
+TGTCAGGCGTTTTCTCCCACCACTTGCTTTCCAAAAGTTTTTCAATTGTTTTATTGTCAAATCGCTTCTTAATCACTT
+TTGCAGGAACCCCACCAACAACCTCATATGCTCCTACATTTTTAGTAACAACTGAGCCGGCTGCTATGACTGCACCAG
+TATTTATTGTTAATCCATCCATAATAATTACATTTGCACCAATCCACACATCATTTTTAATTGTTGTACGGCTTGGTT
+GGTCATTAAAGTCTATAAACTTTTGCTTTATGTTAAATGGATTATTATTAGAATAAAAAATCGGTGATGAGCTAAAAA
+AGTGTGTAGGATGTTTTCCTAACCCAATTTTTACATCCGAAGATATCGAACAATATCTTCCTACTTCTACATTATTAA
+AATCACTACCAAATCCAATATAACTGTATTCACCAATGTGAGAATTCCTGATTTTACACCATCTATCTATATAGTTAT
+TGCCATCAAATTTTGAGTTTGTAATATACGCCAAGCGATGAATCTTAACATTCGATTCTTTAGAGGACTGGTTTTTCA
+GCAAACCAATTATCTTTTCAATCGCTATCCTCATCGTCATTTCCTCCAAGTATTTCGATTGATAATATCTTTATAGCT
+TTGAATAATTTTAACTACCTTTGTCGAAACATTAGTGTCTTTATAATCAATAGCATCAATCATCGGTTCGTTATTGTT
+TTGCATCTCTCTTGCTAGTTCAACGGATTGGATTAGATTGTTATAGGTAATACCACCTACAATAACCGTACCTTTATC
+TAGTACTTCCGGTCTTTCTGTGGAAGTTCGAATAAGGACACCAGGGAACTTCAAAATAGACGACTCTTCTGACAATGT
+TCCACTATCTGATAGCACAACAAATGCATCTTTTTGCAATGCATTATAATCAAAGAAACCAAATGGCTTTAACTGTTT
+AACTAGTGGATCAAATTCAAATTTACTTTCTTCAATTTTCTTCCAACTTCTTGGATGCGTTGAATAAATCACAGGCAT
+TTTATACTTTTTGGCAATATCATTTATCGCATTCATTAATGATTTAAAATTCTTTTCATTATCGATATTCTCTTCTCT
+ATGCGCAGATACTAAAATGTATTGTTGCGGTTCTAATCCTAGTTTATTTAAAACGTCACTGTGATTAATTTTATCTCG
+ATGCGCTTCTATCACTTCTGTCATCGGTGATCCTGTCACAAAGATATTCGCTTTATTGAAGCCTTCATCTAATAAATA
+ACGTCTGCTATGTTCCGTATAAGGTAGATTCACATCACTGACATGGTCAACAATTTTACGATTGATTTCTTCAGGTAC
+ATTCTGATCAAAGCATCTATTACCCGCTTCCATGTGGAATACAGGAATTTTTAATCGTTTAGCAGATACTGCTGCTAA
+ACAACTATTTGTATCACCAAGAATTAAAAGTGCATCTGGTTGTTCGCGTAATAAAACGTCATATGTCTTCGCAATAAT
+ATTCCCCATCGTTTCTCCAAGGTTACTTCCAACTGCCTCTAAGTAGTGGTCCGGTTGTCTTAATTCCAAATCATCAAA
+GAAAATTTGATTCAATGTATAATCATAATTTTGACCAGTGTGTACTAATATCTGATTAAAATATTGATCACATGCTTT
+AATCGTTGATGATAAACGAATGATTTCAGGCCTTGTACCAACTATTGTCATTAATTTCAGTTTTTCCATGCGCTATAC
+CTCCAAGAAATACGTATCTGGCTGATTTGGATCAAACATTTCATTCACCCACATAATAGTTACCATATCTGTGTCGCC
+TAAATTTTCAATATTATGTGTGTATCCTACTGGTATGTCTACAACTTCTAATTTGTCGCCAGAAACGTAATATTCAAT
+GATTTCATCATCATTAACATGTCTAAAACGAATTACCCCTTTACCTGATACGACTAGAAATTTTTCGTTTTTAGTATG
+ATGCCAGTGATTACCTTTAGTAATACCTGGTTTAGAAATATTTACAGAAACTTGACCACGATCCGGTGTTTTTATAAA
+TTCTGTAAAAGAACCCCTATCATCCACATTCATAAGTAAGGGATAACTAAAGTCTGTACTAGGTAGATAGCTTAAATA
+CGTACTATACAAATCTTTTTCAAACAAGTTATCTAATTTCGGCAATGTTCGATCGAGACGTGACTGTTTGAACTTGTA
+TAATAAATCTACAATTTCTCCCAATGTCACTTTAAATACGTTTGGTACTGTAGGTACACCATTTTCAATCGTTGGAGT
+TCCTTCAATAGCACGTTTTATTTCAGCGACGATATCATCCACGTAGTTTAGCGTCAGTTCAACATTCCGATCATTAAC
+TTGAATCTCTTCGTTACGTGCAATTTTGTAACAAAATGTTGCAATCACTGAGTTATAATTCGGCTTACACCACTTACC
+GAATAAATTTGGCCATCGATAAATATAAACCGTATTGCCATACTCTTCGGAATACTCTCTTAATAGCTGTTCCCCTTG
+CAACTTACTCTCACCATAAGGATTATCTTGTGTTGCTTGTATTGAAGACGATAATAATATCGCCGGCTTTTTCTTATT
+TCTAGTTAATATATCAAGTACATGATCTAAATAACTCACGTTTCCTAAGCTGAATTCTTTGTCGTGTTCAGGTCGATT
+AACACCTGCTAAATGCACGACAAAGTCTGCTTTCAACAACGCTGACTCTAATTCTTCCTCTTTAGTTTGTCGATGTAC
+TTCGAAAATATGATAATCTGTCGTTGATGTTAAATCTGCTTTCAAGTTTTTTCCTACAAAACCCTTTGCTCCTGTAAT
+TACAATATTCAACGTCAATCTCTCCTATCTCATTGAAGCTTTATAATCGTTCAATTCGTTTCTAACATATTCTAGTGT
+TAAAAGTTTTTCTTTTATCTCTTCCACCGTTAAAATATGTGTATTATCGGAGTTATATTCATAAGATTGCGTAATCTT
+TTCGTTACCGGTTTCAACATAATTACTATAATTTAAATCTCTGGAGTCTGCCGGCACTCTAAAATAATCACCCATATC
+TTCACATTGTGCGTATTCTTCTCTCGTCAACAATGTTTCTGCTTTTTTCTCTCCATGTCGCGTACCAATGATTTCAAT
+TGCATTATCAGCTTCAAACAATTCTAATAATGCGGTCGCAAGATCCCCTACTGTTGAGCTTGGTGCTTTTTGAACCAT
+GATATCGCCTGTCTCTGCATGCTTAAATGCATGAACAACTAGTTCCACGGCATCTTCTAAACTCATTAAAAATCTTGT
+CATATCAGGATCTGTAATCGTTAAAGGTTCTCCAGCTTTGATTTTGTCGATAAACAAAGGAATTACTGATCCTCTTGA
+AGCCATCACATTACCGTATCTTGTACCACAAATAAGCGTTTGTTCACTACGAATATTTCTTGATTTGGCTATGAATAC
+TTTTTCCATCATTGCTTTCGAAATACCCATAGCATTAATAGGATACGCTGCCTTATCTGTAGATAAACATATGACTTT
+TTTAACATTTTGATGAATAGCACTTTGTAAGACATTTTCTGTACCAATAATATTTGTCTTCACTGCCTCAACTGGAAA
+GAATTCACATGACGGCACTTGTTTTAAAGCTGCTGCATGGAATACGTAATCAACATCTCGCATTGCTGTTTCTACACT
+TTGACTATCACGCACATCACCAATGTAGAACTTTAATTTTGAATTATTATATTTTTTTCGAATGTCATCTTGTTTTTT
+CTCATCGCGTGAAAAAATACGAATTTCTTTAATATTAGAATCTAAAAACCGTTTCATAACAGCATTACCGAATGATCC
+TGTGCCCCCAGTAATTAATAAAATTTTGTCATCGAACATAATTATCTCCCTTTTTGCCATTGGCATAGTTAATAATTT
+TTTCTTTACTAAAGTCATTGACGATGTCTTGAATAATGGCTTCAACTTCATTACATTTCATATGTTGTACTTTGCCAC
+GATAAATTTTTTCAAATACTTGTTCAGGATGAACTTCATCTTTATTCATAAGCTCTTCAAACATTTTTTCGCCGGATC
+TAATCCCTGTATAAGTAATGCGTATGTCGTCTTCTTTTTTACCACTTAGCTTAATTAAATTACGTGCCAAATCTACAA
+TTTTCACTGGTTCTCCCATATCTAGCACAAATACTTCGCCACCTTCTGCTAATGCCCCTGCCTGCAAAACTAGTCTAG
+AAGCTTCAGGAATTGTCATAAAGTAACGTGTCATTTCAGGATGTGTCACAGTAACTGGCCCACCTTCTTCAATTTGAC
+TTTTGAAAAGTGGAATCACAGACCCTCTCGATCCAAGTACATTACCAAATCTCACTGCAACAAAATTTGTTTGATGTG
+TTTCATCATTTAAACTTTGAATAATCATTTCTGCAATTCGCTTTGAAGCTCCCATGACATTAGGCGGATTAACGGCTT
+TATCCGTCGAAATCATAACGAATTTCTTTACCTCTGCATTTTTAGCAGCTTCAGCAGTATTTTTCGTACCTAAAATAT
+TATTACGTACTGCTTCTTCAGGGTTGTCTTCCATTAACGGCACGTGCTTGTGTGCTGCTGCATGATAAACTGCGTATG
+GTTTATACATTTCCAAAATTTCAAACATACGCGCTCTATTTTGCACATCCGCTATAATAGGAACGATATCAACATTTT
+TTCCGAAGCGATTTCGCAATTCACGATTGATTAAATAAATACTGTTTTCACCATGGCCAAGTAGAATAATACGTTCTG
+GATAGAAATTACAAACTTGTCTACAAATTTCTGATCCTATTGAACCACCTGCACCCGTAACTAAAATAGTTTTATTCG
+TCAATTCATTTGATATCATATCCATATCTAATTCAACAGGATCTCTGCCTAGTAAATCTTCTACTTCAACTTTTTTAA
+GTTGGTTCACTTCTAACTCACCAGACATGACGTCTTCTATATTTGGCATTTTCAATAACTCAACGCCATCCATATGGC
+AAATATTATTAATTTCTTTCAAACGCTCTTGACCAATAGTTGGAATTGCAATGATGATTTTTTTAATCTTATATTTCC
+TCACTAGTTCTGGAATATCCGCAATTTCACCTTGGACTTTTACACCCTCAGTAATTGTGATATTGCGTTTATGTTCGT
+CATCATCGACTGCTAATACCGGTTCAAGTTTCATTTCGTCACTTTTCAACATTTGTCTAATCAGCATTGAACCTGCTT
+GGCCAGCACCAACAACTAAAGTTGGCTTCTTATTAAATGACTTACCTCCAAGGTATTTCCGATAAATACGCCAAAATA
+ACCTTGAGCCACCTATTAAAATCAAGTGCATCATCCAAGTAATTAAATACAATCTAAAAAACGGTCTATTGCCTGTAA
+CAATTGTCACGACCACCATCGTAATAACGATAGATGTCGTCACAGCTTTAACAATTAAAATCAATTCACTCACACTGG
+CATATTCCCACGCTCGATGATACATATTAAAAATAAATGCTGAAATATGATGCGATATGAATAGTGATATAGCTGCCA
+ATATTAATAATTTGACAGAATATGTTTTGAAATACGGTTCTAAAATGTAATACGAATACTGAAAATGTCACTATCAGT
+GAATCGATTAATGCTAGTATTAAAAGCCGCAATTTCACAGATAAATGTGCCATAAAACCCCTCATTTGCTGTTTATAA
+CCCAAACCATCTTTTCTGTTTATAATCTTGTTGTGGCATTCGTTTAGGAATTTTTTTATCATCAACAACTAACTTCGC
+ATTACTAATAAATCCGTTCATATCTTCATAATAATCACGTAATTTCTTATCATTAAATAAGTCTTTCATTAAGAACGG
+TCTGATTTCTGTGTTATGCGCATCTGAACCGATGAAATGTGTCAGATTGTTTTCAATCATTTGAATTGCTAATTTTCT
+AATTTTTTTACCGGAAATACCCGCTAATGACGCCGTTGTCACTTGACTTAAAGCACCTTTGTTAATTAAATCGTATAG
+TATGTCAAGGTTTTGACTTATTGCTTTATTCCGCTCTGGATGTGCAATAATCGGTACAAAGCCTTTACTTTGTAATTC
+GAAAAATAATTGATCAGTATAGTGTGGAACTTCATTTGATGGAAATTCTATTAGTAAATAGCGTGAATCATTAATACC
+GGTAATAACTTTTCGATCAATATCATTAAGGATTTGATCGGTAATTCTTATTTCCTGACCATAATAAAACTTTAGATT
+CAGTGCTTGTACTTCCTCTAAGCTTTCAATATGGTTTAAACATGATTTCACTTTTTCTATAGGTGTGGTATATCGAGG
+ATGTAAGTGATGTGATGTTACAATGATTTCTGTAACACCTTGTGTTGTCGCTTGTTTTAAAAGATCTAGCATCTCTGT
+TTCATTTGTCGGACCGTCATCGATATTAGGCAATATATGATTATGAATATCAATCATACTTATTCATCTCCATAATAG
+TGATAATAACTAGAAGATTTATCTACTTTTGCCTTATTTAAAATGACGCCCAGAATGTTACTGCCTGCTTTTTCCATA
+AGTATTTTAGCTTTTTTAACTTCATTTTTATCATTTTTTTCACTATCAATGACTAACAGACTATCTTTAATAGCACGC
+GCATATAGTTGTGCATCAGTCACGGTATTAACTGGCGGTGTATCGACAATAATAATGTCGTAACGTTTATTGAAAAGA
+TCAACTAACTCTTTAAATCTTTCAGAACCAATTAATTCTGTTGGATTAGGAGGTACAGGACCAGCTGTTAGTAAATCT
+AAATTATCAATTTCTGTCGTCGTAATAGCTTCTGACATAGTCGTTCTACCAATGATTAAATTCGATAATCCATTATTA
+TTTTGTTCATTAAAAATATAGTTTTGTGTTGGCTTACGCATATCCCCATCGATAATTAACGTTTTATAACCTGCTTGT
+GCATACGTAATCGCTACATTGGATACGACTGTACTTTTACCTGCACCAGGTTTTTCAGAAGTAACTAATAAGCGCTTT
+ACTTCGCCATTTGCTTTTGAAAACATGATGTTTGAACGTATACCCCGAAACTTTTCACTAATTGTTGATTTTGGTTTT
+TCATACACAAATAGTGTTGTTGTCGTATTTTCCTTTTTTGACATAAGTAGCAACCATCCTTAATTAAATTTTTGAATT
+GAACCCAATACAGGCAATCCTAATTCTTTCTCTACATCTTCTTCATCTTTAATTCGCTTATCGAAAATTACTTTGAAG
+AAGATATATATAAGCGCGACAACTAATCCTAAAAAGAATGCACCGATTAGATTCACTACAGTTTTTGGTGCGACTTTA
+ACTGCTGTACCGTCTGCTTTAGATAAAATTGATACGTTATCTACACTCATAATCTTCGGAATTTGTTTACTTGTCACT
+TTGGCAAAGCTATTCGCAATTTTTTCCGAATCTTCCTTATGACCACTTTTAACTTGGATGTTGATAAGTTGTGTATTT
+TCTTGATTCGTAATTGTCAACATGCTCGACAATTTAGATGGTGAATACTTATCATTTAAGTCCTTTGACACTTCATCT
+AAAATTCTAGGACTTTTAACAATTTCTTTATACGTATTTACAAGTTGAATATTACTTTGAACCTCTTGTGCCATAAAC
+TGAGGATTGTCACCCTTAGTTTGATTCACTAAGATTTGAGTATTAGCTTGATATTTAGGTGATAAGACGAAAAATGTA
+ACAATAGCGCTAATTATTAAAAATAATAGCGGTAAAATAATTAAAATTTTCAAGTTTTTTGTAATACTTCTTTAATTT
+TTGTTAATTCTAATGTACTTTCCATTATTTACCTCCCTTAAAAATTTTCATTAAAATTGGTATTATATATATAGTATT
+TACATATTACATATCATTTAAACAATTAATTACTTTTAAATCGCATTATTTACGCATATTCATTTATATGAAATTAAA
+AATAATTATACTCTAAAGTAGTAATAGTTTGTGAAATGAGTATCAATCTTAATATTTTCTTTATTTAATCAAAACCAC
+CCGTGTGAACGGGTGGTTTGTTCTGCGGCTATAAGCCTTCCTTACTGGCCAGCCCTAAAAGGGCAC" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      gene {
+                        locus "dapH" ,
+                        locus-tag "GHCIEDJE_00001" } ,
+                    location
+                      int {
+                        from 242 ,
+                        to 868 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      gene {
+                        locus "wbpI" ,
+                        locus-tag "GHCIEDJE_00002" } ,
+                    location
+                      int {
+                        from 871 ,
+                        to 1995 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus "wbjC" ,
+                        locus-tag "GHCIEDJE_00003" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 3108 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus "capD" ,
+                        locus-tag "GHCIEDJE_00004" } ,
+                    location
+                      int {
+                        from 3121 ,
+                        to 4149 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      gene {
+                        locus "pglF" ,
+                        locus-tag "GHCIEDJE_00005" } ,
+                    location
+                      int {
+                        from 4139 ,
+                        to 5773 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      gene {
+                        locus "ywqE" ,
+                        locus-tag "GHCIEDJE_00006" } ,
+                    location
+                      int {
+                        from 5977 ,
+                        to 6741 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      gene {
+                        locus "ywqD" ,
+                        locus-tag "GHCIEDJE_00007" } ,
+                    location
+                      int {
+                        from 6744 ,
+                        to 7430 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      gene {
+                        locus "cap8A" ,
+                        locus-tag "GHCIEDJE_00008" } ,
+                    location
+                      int {
+                        from 7446 ,
+                        to 8063 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHCIEDJE_00001" } } ,
+          descr {
+            title "2,3,4,5-tetrahydropyridine-2,6-dicarboxylate
+ N-acetyltransferase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 208 ,
+            seq-data
+              ncbieaa "MRIAIEKIIGLLKNQSSKESNVKIHRLAYITNSKFDGNNYIDRWCKIRNSHIGEY
+SYIGFGSDFNNVEVGRYCSISSDVKIGLGKHPTHFFSSSPIFYSNNNPFNIKQKFIDFNDQPSRTTIKNDVWIGANVI
+IMDGLTINTGAVIAAGSVVTKNVGAYEVVGGVPAKVIKKRFDNKTIEKLLESKWWEKTPDKLKGFSVEYLNKKDT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      prot {
+                        name {
+                          "2,3,4,5-tetrahydropyridine-2,6-dicarboxylate
+ N-acetyltransferase" } ,
+                        ec {
+                          "2.3.1.89" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 207 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHCIEDJE_00002" } } ,
+          descr {
+            title "UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+ [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 374 ,
+            seq-data
+              ncbieaa "MEKLKLMTIVGTRPEIIRLSSTIKACDQYFNQILVHTGQNYDYTLNQIFFDDLEL
+RQPDHYLEAVGSNLGETMGNIIAKTYDVLLREQPDALLILGDTNSCLAAVSAKRLKIPVFHMEAGNRCFDQNVPEEIN
+RKIVDHVSDVNLPYTEHSRRYLLDEGFNKANIFVTGSPMTEVIEAHRDKINHSDVLNKLGLEPQQYILVSAHREENID
+NEKNFKSLMNAINDIAKKYKMPVIYSTHPRSWKKIEESKFEFDPLVKQLKPFGFFDYNALQKDAFVVLSDSGTLSEES
+SILKFPGVLIRTSTERPEVLDKGTVIVGGITYNNLIQSVELAREMQNNNEPMIDAIDYKDTNVSTKVVKIIQSYKDII
+NRNTWRK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      prot {
+                        name {
+                          "UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate
+ 2-epimerase" } ,
+                        ec {
+                          "5.1.3.23" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 373 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHCIEDJE_00003" } } ,
+          descr {
+            title "UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
+ [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 369 ,
+            seq-data
+              ncbieaa "MNIVITGAKGFVGKNLKADLTSTTDYHIFEVHRQTKEEELESALLKADFVVHLAG
+VNRPEHDKEFSLGNVSYLDHVLDILTRNKKKPAILLSSSIQATQDNPYGESKLQGEQLLREYSEEYGNTVYIYRWPNL
+FGKWCKPNYNSVIATFCYKIARNEEIQVNDRNVELTLNYVDDIVAEIKRAIEGTPTIENGVPTVPNVFKVTLGEIVDL
+LYKFKQSRLDRTLPKLDNLFEKDLYSTYLSYLPSTDFSYPLLMNVDDRGSFTEFIKTPDRGQVSVNISKPGITKGNHW
+HHTKNEKFLVVSGKGVIRFRHVNDDEIIEYYVSGDKLEVVDIPVGYTHNIENLGDTDMVTIMWVNEMFDPNQPDTYFL
+EV" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      prot {
+                        name {
+                          "UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose
+ reductase" } ,
+                        ec {
+                          "1.1.1.367" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 368 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHCIEDJE_00004" } } ,
+          descr {
+            title "UDP-glucose 4-epimerase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 342 ,
+            seq-data
+              ncbieaa "MFDDKILLITGGTGSFGNAVMKRFLDSNIKEIRIFSRDEKKQDDIRKKYNNSKLK
+FYIGDVRDSQSVETAMRDVDYVFHAAALKQVPSCEFFPVEAVKTNIIGTENVLQSAIHQNVKKVICLSTDKAAYPINA
+MGISKAMMEKVFIAKSRNIRSEQTLICGTRYGNVMASRGSVIPLFIDKIKAGEPLTITDPDMTRFLMSLEDAVELVVH
+AFKHAETGDIMVQKAPSSTVGDLATALLELFEADNAIEIIGTRHGEKKAETLLTREEYAQCEDMGDYFRVPADSRDLN
+YSNYVETGNEKITQSYEYNSDNTHILTVEEIKEKLLTLEYVRNELNDYKASMR" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      prot {
+                        name {
+                          "UDP-glucose 4-epimerase" } ,
+                        ec {
+                          "5.1.3.2" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 341 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHCIEDJE_00005" } } ,
+          descr {
+            title "UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase [Genus
+ species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 544 ,
+            seq-data
+              ncbieaa "MYHRAWEYASVSELILIVKAVTTSIVITMVVVTIVTGNRPFFRLYLITWMMHLIL
+IGGSRLFWRIYRKYLGGKSFNKKPTLVVGAGQAGSMLIRQMLKSDEMKLEPVLAVDDDEHKRNITITEGVKVQGEIAD
+IPELVRKYKIKKIIIAIPTIGQERLKEINNICHMDGVELLKMPNIEDVMSGELEVNQLKKVEVEDLLGRDPVELDMDM
+ISNELTNKTILVTGAGGSIGSEICRQVCNFYPERIILLGHGENSIYLINRELRNRFGKNVDIVPIIADVQNRARMFEI
+LEMYKPYAVYHAAAHKHVPLMEDNPEEAVRNNILGTKNTAEAAKNAEVKKFVMISTDKAVNPPNVMGASKRIAEMIIQ
+SLNDETHQTNFVAVRFGNVLGSRGSVIPLFKSQIEEGGPVTVTHPEMTRYFMTIPEASRLVLQAGALAEGGEVFVLDM
+GEPVKIVDLARNLIKLSGKKEDDIRITYTGIRSGEKMFEELMNKDEVHPEQVFEKIYRGKVQHMKCNEVEAIIQDIVN
+DFSKEKIINYANGKKGDNYVR" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      prot {
+                        name {
+                          "UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase" } ,
+                        ec {
+                          "4.2.1.135" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 543 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHCIEDJE_00006" } } ,
+          descr {
+            title "Tyrosine-protein phosphatase YwqE [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 254 ,
+            seq-data
+              ncbieaa "MIDIHNHILPNIDDGPTNETEMLDLLKQATTQGVTEIIVTSHHLHPRYTTPIEKV
+KSCLNHIESLEEVQALNLKFYYGQEIRITDQILNDIDRKVITGINDSRYLLIEFPSNEVPHYTDQLFFELQSKGFVPI
+IAHPERNKAISQNLDILYDLINKGALSQVTTASLAGISGKKIRKLAIQMIENNLTHFIGSDAHNTEIRPFLMKDLFND
+KKLRDYYEDMNGFISNAKLVVDDKKIPKRMPQQDYKQKRWFGL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 22 ,
+                    data
+                      prot {
+                        name {
+                          "Tyrosine-protein phosphatase YwqE" } ,
+                        ec {
+                          "3.1.3.48" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 253 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHCIEDJE_00007" } } ,
+          descr {
+            title "Tyrosine-protein kinase YwqD [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 228 ,
+            seq-data
+              ncbieaa "MSKKENTTTTLFVYEKPKSTISEKFRGIRSNIMFSKANGEVKRLLVTSEKPGAGK
+STVVSNVAITYAQAGYKTLIIDGDMRKPTQNYIFNEQNNNGLSNLIIGRTTMSEAITTTEIDNLDLLTAGPVPPNPTE
+LIGSERFKELVDLFNKRYDIIIVDTPPVNTVTDAQLYARAIKDSLLVIDSEKNDKNEVKKAKILMEKAGSNILGVILN
+KAKVDKSSSYYHYYGDE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 23 ,
+                    data
+                      prot {
+                        name {
+                          "Tyrosine-protein kinase YwqD" } ,
+                        ec {
+                          "2.7.10.2" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 227 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_00007" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHCIEDJE_00008" } } ,
+          descr {
+            title "Capsular polysaccharide type 8 biosynthesis protein cap8A
+ [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 205 ,
+            seq-data
+              ncbieaa "MKILIILPLLFLIISAIVTFFVLSPKYQANTQILVNQTKGDNPQFMAQEVQSNIQ
+LVNTYKEIVKSPRILDEVSKDLNDKYSPSKLSSMLTITNQENTQLINIQVKSGHKEDSEKIANSFAKVTSKQIPKIMS
+VDNVSILSKADGTAVKVAPKTVVNLIGAFFLGLVVALIYIFFKVIFDKRIKDEEDVEKELGLPVLGSIQKFN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 24 ,
+                    data
+                      prot {
+                        name {
+                          "Capsular polysaccharide type 8 biosynthesis protein
+ cap8A" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 204 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHCIEDJE_00008" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHCIEDJE_00001" } ,
+                location
+                  int {
+                    from 242 ,
+                    to 868 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHCIEDJE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "protein motif:HAMAP:MF_01691" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHCIEDJE_00002" } ,
+                location
+                  int {
+                    from 871 ,
+                    to 1995 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHCIEDJE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:G3XD61" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG0381" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHCIEDJE_00003" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 3108 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHCIEDJE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q9XC60" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHCIEDJE_00004" } ,
+                location
+                  int {
+                    from 3121 ,
+                    to 4149 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHCIEDJE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q9ZDJ5" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG1086" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHCIEDJE_00005" } ,
+                location
+                  int {
+                    from 4139 ,
+                    to 5773 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHCIEDJE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q0P9D4" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG1086" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHCIEDJE_00006" } ,
+                location
+                  int {
+                    from 5977 ,
+                    to 6741 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHCIEDJE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P96717" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG4464" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHCIEDJE_00007" } ,
+                location
+                  int {
+                    from 6744 ,
+                    to 7430 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHCIEDJE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P96716" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG0489" } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHCIEDJE_00008" } ,
+                location
+                  int {
+                    from 7446 ,
+                    to 8063 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHCIEDJE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P72367" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG3944" } } } } } } } } }

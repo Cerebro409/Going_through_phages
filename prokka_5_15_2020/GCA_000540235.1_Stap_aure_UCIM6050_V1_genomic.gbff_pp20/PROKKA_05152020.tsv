@@ -1,0 +1,21 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MJNGFAHC_00001	gene	402	ftsL			
+MJNGFAHC_00001	CDS	402	ftsL			Cell division protein FtsL
+MJNGFAHC_00002	gene	936	rsmH			
+MJNGFAHC_00002	CDS	936	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+MJNGFAHC_00003	gene	432	mraZ			
+MJNGFAHC_00003	CDS	432	mraZ			Transcriptional regulator MraZ
+MJNGFAHC_00004	gene	1614	bshC			
+MJNGFAHC_00004	CDS	1614	bshC	6.-.-.-	COG4365	Putative cysteine ligase BshC
+MJNGFAHC_00005	gene	441				
+MJNGFAHC_00005	CDS	441		2.3.1.-		putative N-acetyltransferase
+MJNGFAHC_00006	gene	696	yfnB			
+MJNGFAHC_00006	CDS	696	yfnB	3.-.-.-	COG1011	Putative HAD-hydrolase YfnB
+MJNGFAHC_00007	gene	135				
+MJNGFAHC_00007	CDS	135				Antibacterial protein 3
+MJNGFAHC_00008	gene	135				
+MJNGFAHC_00008	CDS	135				Antibacterial protein 3
+MJNGFAHC_00009	gene	76				
+MJNGFAHC_00009	tRNA	76				tRNA-Arg(tct)
+MJNGFAHC_00010	gene	189				
+MJNGFAHC_00010	CDS	189				hypothetical protein

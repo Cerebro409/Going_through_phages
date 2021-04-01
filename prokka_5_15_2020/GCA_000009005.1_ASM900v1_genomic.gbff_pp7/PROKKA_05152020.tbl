@@ -1,0 +1,518 @@
+>Feature gnl|X|COBEFPMI_1
+1398	802	gene
+			gene	recR
+			locus_tag	COBEFPMI_00001
+1398	802	CDS
+			db_xref	COG:COG0353
+			gene	recR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0CB76
+			locus_tag	COBEFPMI_00001
+			product	Recombination protein RecR
+			protein_id	gnl|X|COBEFPMI_00001
+1722	1405	gene
+			locus_tag	COBEFPMI_00002
+1722	1405	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99126
+			locus_tag	COBEFPMI_00002
+			product	Nucleoid-associated protein
+			protein_id	gnl|X|COBEFPMI_00002
+3509	1812	gene
+			gene	ruvB
+			locus_tag	COBEFPMI_00003
+3509	1812	CDS
+			EC_number	3.6.4.12
+			gene	ruvB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00016
+			locus_tag	COBEFPMI_00003
+			product	Holliday junction ATP-dependent DNA helicase RuvB
+			protein_id	gnl|X|COBEFPMI_00003
+4102	3578	gene
+			locus_tag	COBEFPMI_00004
+4102	3578	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00004
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00004
+5473	4745	gene
+			gene	treR
+			locus_tag	COBEFPMI_00005
+5473	4745	CDS
+			db_xref	COG:COG2188
+			gene	treR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39796
+			locus_tag	COBEFPMI_00005
+			product	HTH-type transcriptional regulator TreR
+			protein_id	gnl|X|COBEFPMI_00005
+7138	5498	gene
+			gene	treA
+			locus_tag	COBEFPMI_00006
+7138	5498	CDS
+			EC_number	3.2.1.93
+			db_xref	COG:COG0366
+			gene	treA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39795
+			locus_tag	COBEFPMI_00006
+			product	Trehalose-6-phosphate hydrolase
+			protein_id	gnl|X|COBEFPMI_00006
+8629	7202	gene
+			gene	treP
+			locus_tag	COBEFPMI_00007
+8629	7202	CDS
+			db_xref	COG:COG1263
+			gene	treP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39794
+			locus_tag	COBEFPMI_00007
+			product	PTS system trehalose-specific EIIBC component
+			protein_id	gnl|X|COBEFPMI_00007
+9192	9100	gene
+			locus_tag	COBEFPMI_00008
+9192	9100	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	COBEFPMI_00008
+			product	tRNA-Ser(tga)
+10924	9461	gene
+			gene	gltB
+			locus_tag	COBEFPMI_00009
+10924	9461	CDS
+			EC_number	1.4.1.13
+			db_xref	COG:COG0493
+			gene	gltB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34399
+			locus_tag	COBEFPMI_00009
+			product	Glutamate synthase [NADPH] small chain
+			protein_id	gnl|X|COBEFPMI_00009
+15441	10942	gene
+			gene	gltA
+			locus_tag	COBEFPMI_00010
+15441	10942	CDS
+			EC_number	1.4.1.13
+			db_xref	COG:COG0067
+			gene	gltA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39812
+			locus_tag	COBEFPMI_00010
+			product	Glutamate synthase [NADPH] large chain
+			protein_id	gnl|X|COBEFPMI_00010
+15622	16506	gene
+			gene	hdfR
+			locus_tag	COBEFPMI_00011
+15622	16506	CDS
+			gene	hdfR
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01233
+			locus_tag	COBEFPMI_00011
+			product	HTH-type transcriptional regulator HdfR
+			protein_id	gnl|X|COBEFPMI_00011
+16627	17739	gene
+			locus_tag	COBEFPMI_00012
+16627	17739	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00012
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00012
+17736	18518	gene
+			locus_tag	COBEFPMI_00013
+17736	18518	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00013
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00013
+19184	18687	gene
+			locus_tag	COBEFPMI_00014
+19184	18687	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00014
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00014
+19557	19162	gene
+			gene	nudC
+			locus_tag	COBEFPMI_00015
+19557	19162	CDS
+			EC_number	3.6.1.22
+			gene	nudC
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00297
+			locus_tag	COBEFPMI_00015
+			product	NADH pyrophosphatase
+			protein_id	gnl|X|COBEFPMI_00015
+19706	19975	gene
+			locus_tag	COBEFPMI_00016
+19706	19975	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00016
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00016
+21278	20160	gene
+			gene	sle1
+			locus_tag	COBEFPMI_00017
+21278	20160	CDS
+			EC_number	3.5.1.28
+			gene	sle1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A7E0
+			locus_tag	COBEFPMI_00017
+			product	N-acetylmuramoyl-L-alanine amidase sle1
+			protein_id	gnl|X|COBEFPMI_00017
+22342	21500	gene
+			gene	metQ
+			locus_tag	COBEFPMI_00018
+22342	21500	CDS
+			db_xref	COG:COG1464
+			gene	metQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31728
+			locus_tag	COBEFPMI_00018
+			product	putative D-methionine-binding lipoprotein MetQ
+			protein_id	gnl|X|COBEFPMI_00018
+23038	22379	gene
+			gene	metP
+			locus_tag	COBEFPMI_00019
+23038	22379	CDS
+			db_xref	COG:COG2011
+			gene	metP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32168
+			locus_tag	COBEFPMI_00019
+			product	Methionine import system permease protein MetP
+			protein_id	gnl|X|COBEFPMI_00019
+24070	23042	gene
+			gene	metN
+			locus_tag	COBEFPMI_00020
+24070	23042	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1135
+			gene	metN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q87RS1
+			locus_tag	COBEFPMI_00020
+			product	Methionine import ATP-binding protein MetN
+			protein_id	gnl|X|COBEFPMI_00020
+25503	24361	gene
+			gene	mccB
+			locus_tag	COBEFPMI_00021
+25503	24361	CDS
+			EC_number	4.4.1.1
+			db_xref	COG:COG0626
+			gene	mccB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O05394
+			locus_tag	COBEFPMI_00021
+			product	Cystathionine gamma-lyase
+			protein_id	gnl|X|COBEFPMI_00021
+26452	25496	gene
+			gene	mccA
+			locus_tag	COBEFPMI_00022
+26452	25496	CDS
+			EC_number	2.5.1.134
+			db_xref	COG:COG0031
+			gene	mccA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O05393
+			locus_tag	COBEFPMI_00022
+			product	O-acetylserine dependent cystathionine beta-synthase
+			protein_id	gnl|X|COBEFPMI_00022
+27958	26618	gene
+			locus_tag	COBEFPMI_00023
+27958	26618	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00023
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00023
+28233	28120	gene
+			locus_tag	COBEFPMI_00024
+28233	28120	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00024
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00024
+29096	28362	gene
+			gene	est
+			locus_tag	COBEFPMI_00025
+29096	28362	CDS
+			EC_number	3.1.1.1
+			db_xref	COG:COG1647
+			gene	est
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32232
+			locus_tag	COBEFPMI_00025
+			product	Carboxylesterase
+			protein_id	gnl|X|COBEFPMI_00025
+29807	29133	gene
+			locus_tag	COBEFPMI_00026
+29807	29133	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00026
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00026
+29845	30261	gene
+			locus_tag	COBEFPMI_00027
+29845	30261	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00027
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00027
+30852	30490	gene
+			locus_tag	COBEFPMI_00028
+30852	30490	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00028
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00028
+33719	31014	gene
+			locus_tag	COBEFPMI_00029
+33719	31014	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00029
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00029
+35216	33732	gene
+			gene	ndhB
+			locus_tag	COBEFPMI_00030
+35216	33732	CDS
+			EC_number	7.1.1.-
+			gene	ndhB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00445
+			locus_tag	COBEFPMI_00030
+			product	NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+			protein_id	gnl|X|COBEFPMI_00030
+38005	36803	gene
+			gene	yciC
+			locus_tag	COBEFPMI_00031
+38005	36803	CDS
+			db_xref	COG:COG0523
+			gene	yciC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P94400
+			locus_tag	COBEFPMI_00031
+			product	Putative metal chaperone YciC
+			protein_id	gnl|X|COBEFPMI_00031
+38190	38384	gene
+			locus_tag	COBEFPMI_00032
+38190	38384	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00032
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00032
+39026	38712	gene
+			locus_tag	COBEFPMI_00033
+39026	38712	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00033
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00033
+39368	39045	gene
+			locus_tag	COBEFPMI_00034
+39368	39045	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00034
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00034
+40693	39365	gene
+			locus_tag	COBEFPMI_00035
+40693	39365	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00035
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00035
+41553	40696	gene
+			locus_tag	COBEFPMI_00036
+41553	40696	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FVD0
+			locus_tag	COBEFPMI_00036
+			product	putative protein
+			protein_id	gnl|X|COBEFPMI_00036
+42483	41686	gene
+			locus_tag	COBEFPMI_00037
+42483	41686	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FVD0
+			locus_tag	COBEFPMI_00037
+			product	putative protein
+			protein_id	gnl|X|COBEFPMI_00037
+43337	42522	gene
+			gene	lpl2_1
+			locus_tag	COBEFPMI_00038
+43337	42522	CDS
+			gene	lpl2_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A7G5
+			locus_tag	COBEFPMI_00038
+			product	putative lipoprotein
+			protein_id	gnl|X|COBEFPMI_00038
+44159	43377	gene
+			locus_tag	COBEFPMI_00039
+44159	43377	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G1Q0
+			locus_tag	COBEFPMI_00039
+			product	putative lipoprotein
+			protein_id	gnl|X|COBEFPMI_00039
+45016	44204	gene
+			gene	lpl2_2
+			locus_tag	COBEFPMI_00040
+45016	44204	CDS
+			gene	lpl2_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A7G5
+			locus_tag	COBEFPMI_00040
+			product	putative lipoprotein
+			protein_id	gnl|X|COBEFPMI_00040
+45353	45661	gene
+			locus_tag	COBEFPMI_00041
+45353	45661	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00041
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00041
+47252	45768	gene
+			locus_tag	COBEFPMI_00042
+47252	45768	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00042
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00042
+47960	47274	gene
+			gene	ssl5_1
+			locus_tag	COBEFPMI_00043
+47960	47274	CDS
+			gene	ssl5_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3K6Z6
+			locus_tag	COBEFPMI_00043
+			product	Staphylococcal superantigen-like 5
+			protein_id	gnl|X|COBEFPMI_00043
+49632	48373	gene
+			locus_tag	COBEFPMI_00044
+49632	48373	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00044
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00044
+51181	49625	gene
+			locus_tag	COBEFPMI_00045
+51181	49625	CDS
+			EC_number	2.1.1.72
+			db_xref	COG:COG0286
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q89Z59
+			locus_tag	COBEFPMI_00045
+			product	putative type I restriction enzymeP M protein
+			protein_id	gnl|X|COBEFPMI_00045
+52123	51440	gene
+			locus_tag	COBEFPMI_00046
+52123	51440	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G2X7
+			locus_tag	COBEFPMI_00046
+			product	Staphylococcal superantigen-like 10
+			protein_id	gnl|X|COBEFPMI_00046
+53188	52490	gene
+			gene	ssl7_1
+			locus_tag	COBEFPMI_00047
+53188	52490	CDS
+			gene	ssl7_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3K6Z8
+			locus_tag	COBEFPMI_00047
+			product	Staphylococcal superantigen-like 7
+			protein_id	gnl|X|COBEFPMI_00047
+54224	53529	gene
+			gene	ssl7_2
+			locus_tag	COBEFPMI_00048
+54224	53529	CDS
+			gene	ssl7_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3K6Z8
+			locus_tag	COBEFPMI_00048
+			product	Staphylococcal superantigen-like 7
+			protein_id	gnl|X|COBEFPMI_00048
+55376	54672	gene
+			gene	ssl5_2
+			locus_tag	COBEFPMI_00049
+55376	54672	CDS
+			gene	ssl5_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3K6Z6
+			locus_tag	COBEFPMI_00049
+			product	Staphylococcal superantigen-like 5
+			protein_id	gnl|X|COBEFPMI_00049
+56768	55737	gene
+			gene	ssl3
+			locus_tag	COBEFPMI_00050
+56768	55737	CDS
+			gene	ssl3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G0X7
+			locus_tag	COBEFPMI_00050
+			product	Staphylococcal superantigen-like 3
+			protein_id	gnl|X|COBEFPMI_00050
+57759	57058	gene
+			gene	ssl4
+			locus_tag	COBEFPMI_00051
+57759	57058	CDS
+			gene	ssl4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G1S8
+			locus_tag	COBEFPMI_00051
+			product	Staphylococcal superantigen-like 4
+			protein_id	gnl|X|COBEFPMI_00051
+58723	58043	gene
+			gene	ssl1
+			locus_tag	COBEFPMI_00052
+58723	58043	CDS
+			EC_number	3.4.21.-
+			gene	ssl1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3KAV3
+			locus_tag	COBEFPMI_00052
+			product	Staphylococcal superantigen-like 1
+			protein_id	gnl|X|COBEFPMI_00052
+59195	60040	gene
+			gene	qorB
+			locus_tag	COBEFPMI_00053
+59195	60040	CDS
+			EC_number	1.6.5.2
+			db_xref	COG:COG0702
+			gene	qorB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39315
+			locus_tag	COBEFPMI_00053
+			product	Quinone oxidoreductase 2
+			protein_id	gnl|X|COBEFPMI_00053
+60059	60418	gene
+			locus_tag	COBEFPMI_00054
+60059	60418	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00054
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00054
+60947	61099	gene
+			locus_tag	COBEFPMI_00055
+60947	61099	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00055
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00055
+61080	61664	gene
+			locus_tag	COBEFPMI_00056
+61080	61664	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00056
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00056
+62584	62252	gene
+			locus_tag	COBEFPMI_00057
+62584	62252	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	COBEFPMI_00057
+			product	hypothetical protein
+			protein_id	gnl|X|COBEFPMI_00057

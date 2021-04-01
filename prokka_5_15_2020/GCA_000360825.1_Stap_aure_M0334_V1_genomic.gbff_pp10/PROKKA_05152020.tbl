@@ -1,0 +1,23 @@
+>Feature gnl|X|GBJONDLN_1
+2674	2000	gene
+			gene	scdA
+			locus_tag	GBJONDLN_00001
+2674	2000	CDS
+			db_xref	COG:COG2846
+			gene	scdA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5HJB7
+			locus_tag	GBJONDLN_00001
+			product	Iron-sulfur cluster repair protein ScdA
+			protein_id	gnl|X|GBJONDLN_00001
+4539	2818	gene
+			gene	tarS
+			locus_tag	GBJONDLN_00002
+4539	2818	CDS
+			EC_number	2.4.1.355
+			gene	tarS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3JPC6
+			locus_tag	GBJONDLN_00002
+			product	Poly(ribitol-phosphate) beta-N-acetylglucosaminyltransferase TarS
+			protein_id	gnl|X|GBJONDLN_00002

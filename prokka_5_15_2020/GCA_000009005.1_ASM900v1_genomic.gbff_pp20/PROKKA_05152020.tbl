@@ -1,0 +1,263 @@
+>Feature gnl|X|AIALGFFB_1
+30	884	gene
+			locus_tag	AIALGFFB_00001
+30	884	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00001
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00001
+1599	1027	gene
+			gene	nucH
+			locus_tag	AIALGFFB_00002
+1599	1027	CDS
+			EC_number	3.1.31.1
+			gene	nucH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P43270
+			locus_tag	AIALGFFB_00002
+			product	Thermonuclease
+			protein_id	gnl|X|AIALGFFB_00002
+1699	1887	gene
+			locus_tag	AIALGFFB_00003
+1699	1887	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00003
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00003
+2602	2000	gene
+			gene	desR
+			locus_tag	AIALGFFB_00004
+2602	2000	CDS
+			db_xref	COG:COG2197
+			gene	desR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34723
+			locus_tag	AIALGFFB_00004
+			product	Transcriptional regulatory protein DesR
+			protein_id	gnl|X|AIALGFFB_00004
+3690	2599	gene
+			locus_tag	AIALGFFB_00005
+3690	2599	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00005
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00005
+4425	3694	gene
+			locus_tag	AIALGFFB_00006
+4425	3694	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00006
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00006
+5293	4394	gene
+			gene	lnrL
+			locus_tag	AIALGFFB_00007
+5293	4394	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1131
+			gene	lnrL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P94440
+			locus_tag	AIALGFFB_00007
+			product	Linearmycin resistance ATP-binding protein LnrL
+			protein_id	gnl|X|AIALGFFB_00007
+6955	5474	gene
+			gene	cls
+			locus_tag	AIALGFFB_00008
+6955	5474	CDS
+			EC_number	2.7.8.-
+			gene	cls
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63801
+			locus_tag	AIALGFFB_00008
+			product	Cardiolipin synthase
+			protein_id	gnl|X|AIALGFFB_00008
+7209	7012	gene
+			locus_tag	AIALGFFB_00009
+7209	7012	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00009
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00009
+7449	8504	gene
+			gene	ltaE
+			locus_tag	AIALGFFB_00010
+7449	8504	CDS
+			EC_number	4.1.2.48
+			gene	ltaE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O50584
+			locus_tag	AIALGFFB_00010
+			product	Low specificity L-threonine aldolase
+			protein_id	gnl|X|AIALGFFB_00010
+9244	9053	gene
+			locus_tag	AIALGFFB_00011
+9244	9053	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00011
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00011
+9601	9251	gene
+			locus_tag	AIALGFFB_00012
+9601	9251	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00012
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00012
+9836	9642	gene
+			locus_tag	AIALGFFB_00013
+9836	9642	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00013
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00013
+10137	9847	gene
+			locus_tag	AIALGFFB_00014
+10137	9847	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00014
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00014
+10362	10228	gene
+			locus_tag	AIALGFFB_00015
+10362	10228	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00015
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00015
+10702	10565	gene
+			locus_tag	AIALGFFB_00016
+10702	10565	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00016
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00016
+10965	10699	gene
+			locus_tag	AIALGFFB_00017
+10965	10699	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00017
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00017
+11112	11011	gene
+			locus_tag	AIALGFFB_00018
+11112	11011	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00018
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00018
+12562	11267	gene
+			locus_tag	AIALGFFB_00019
+12562	11267	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00019
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00019
+14029	13142	gene
+			locus_tag	AIALGFFB_00020
+14029	13142	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00020
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00020
+14496	14272	gene
+			locus_tag	AIALGFFB_00021
+14496	14272	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00021
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00021
+14617	15165	gene
+			gene	sigS
+			locus_tag	AIALGFFB_00022
+14617	15165	CDS
+			db_xref	COG:COG1595
+			gene	sigS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FXF2
+			locus_tag	AIALGFFB_00022
+			product	RNA polymerase sigma factor SigS
+			protein_id	gnl|X|AIALGFFB_00022
+15278	15721	gene
+			locus_tag	AIALGFFB_00023
+15278	15721	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00023
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00023
+16151	15708	gene
+			locus_tag	AIALGFFB_00024
+16151	15708	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00024
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00024
+16449	17084	gene
+			locus_tag	AIALGFFB_00025
+16449	17084	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00025
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00025
+17251	17871	gene
+			locus_tag	AIALGFFB_00026
+17251	17871	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00026
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00026
+18229	18083	gene
+			locus_tag	AIALGFFB_00027
+18229	18083	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00027
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00027
+18981	18268	gene
+			gene	tal
+			locus_tag	AIALGFFB_00028
+18981	18268	CDS
+			EC_number	2.2.1.2
+			db_xref	COG:COG0176
+			gene	tal
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9WYD1
+			locus_tag	AIALGFFB_00028
+			product	Transaldolase
+			protein_id	gnl|X|AIALGFFB_00028
+19240	19542	gene
+			locus_tag	AIALGFFB_00029
+19240	19542	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AIALGFFB_00029
+			product	hypothetical protein
+			protein_id	gnl|X|AIALGFFB_00029
+19798	20163	gene
+			gene	crcB_1
+			locus_tag	AIALGFFB_00030
+19798	20163	CDS
+			gene	crcB_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00454
+			locus_tag	AIALGFFB_00030
+			product	Putative fluoride ion transporter CrcB
+			protein_id	gnl|X|AIALGFFB_00030
+20160	20513	gene
+			gene	crcB_2
+			locus_tag	AIALGFFB_00031
+20160	20513	CDS
+			db_xref	COG:COG0239
+			gene	crcB_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37002
+			locus_tag	AIALGFFB_00031
+			product	Putative fluoride ion transporter CrcB
+			protein_id	gnl|X|AIALGFFB_00031
+21071	21244	gene
+			locus_tag	AIALGFFB_00032
+21071	21244	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISSau3
+			locus_tag	AIALGFFB_00032
+			product	IS1182 family transposase ISSau3
+			protein_id	gnl|X|AIALGFFB_00032

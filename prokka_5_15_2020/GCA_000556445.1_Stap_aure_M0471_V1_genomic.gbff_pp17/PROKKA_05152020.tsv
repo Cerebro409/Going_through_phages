@@ -1,0 +1,51 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+KHDAMHGJ_00001	gene	615	der			
+KHDAMHGJ_00001	CDS	615	der			GTPase Der
+KHDAMHGJ_00002	gene	999	gpsA			
+KHDAMHGJ_00002	CDS	999	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+KHDAMHGJ_00003	gene	273	hup			
+KHDAMHGJ_00003	CDS	273	hup			DNA-binding protein HU
+KHDAMHGJ_00004	gene	573				
+KHDAMHGJ_00004	CDS	573				hypothetical protein
+KHDAMHGJ_00005	gene	726	menG			
+KHDAMHGJ_00005	CDS	726	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+KHDAMHGJ_00006	gene	945	hepT			
+KHDAMHGJ_00006	CDS	945	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+KHDAMHGJ_00007	gene	450	ndk			
+KHDAMHGJ_00007	CDS	450	ndk	2.7.4.6		Nucleoside diphosphate kinase
+KHDAMHGJ_00008	gene	201				
+KHDAMHGJ_00008	CDS	201				hypothetical protein
+KHDAMHGJ_00009	gene	1167	aroC			
+KHDAMHGJ_00009	CDS	1167	aroC	4.2.3.5	COG0082	Chorismate synthase
+KHDAMHGJ_00010	gene	1065	aroB			
+KHDAMHGJ_00010	CDS	1065	aroB	4.2.3.4		3-dehydroquinate synthase
+KHDAMHGJ_00011	gene	1299	aroA			
+KHDAMHGJ_00011	CDS	1299	aroA	2.5.1.19		3-phosphoshikimate 1-carboxyvinyltransferase
+KHDAMHGJ_00012	gene	1245	bepA			
+KHDAMHGJ_00012	CDS	1245	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+KHDAMHGJ_00013	gene	588				
+KHDAMHGJ_00013	CDS	588				hypothetical protein
+KHDAMHGJ_00014	gene	588				
+KHDAMHGJ_00014	CDS	588				hypothetical protein
+KHDAMHGJ_00015	gene	699				
+KHDAMHGJ_00015	CDS	699				hypothetical protein
+KHDAMHGJ_00016	gene	318	ypjD			
+KHDAMHGJ_00016	CDS	318	ypjD		COG1694	putative protein YpjD
+KHDAMHGJ_00017	gene	1143	bshA			
+KHDAMHGJ_00017	CDS	1143	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+KHDAMHGJ_00018	gene	1203	cca			
+KHDAMHGJ_00018	CDS	1203	cca	2.7.7.72		CCA-adding enzyme
+KHDAMHGJ_00019	gene	972	birA			
+KHDAMHGJ_00019	CDS	972	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+KHDAMHGJ_00020	gene	2694	dinG			
+KHDAMHGJ_00020	CDS	2694	dinG	3.1.-.-		3'-5' exonuclease DinG
+KHDAMHGJ_00021	gene	1293	asnS			
+KHDAMHGJ_00021	CDS	1293	asnS	6.1.1.22		Asparagine--tRNA ligase
+KHDAMHGJ_00022	gene	687	dnaD			
+KHDAMHGJ_00022	CDS	687	dnaD		COG3935	DNA replication protein DnaD
+KHDAMHGJ_00023	gene	660	nth			
+KHDAMHGJ_00023	CDS	660	nth	4.2.99.18	COG0177	Endonuclease III
+KHDAMHGJ_00024	gene	342				
+KHDAMHGJ_00024	CDS	342				hypothetical protein
+KHDAMHGJ_00025	gene	447				
+KHDAMHGJ_00025	CDS	447				hypothetical protein

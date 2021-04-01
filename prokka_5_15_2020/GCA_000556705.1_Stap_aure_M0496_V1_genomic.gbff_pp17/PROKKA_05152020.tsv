@@ -1,0 +1,13 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LEMLAGCJ_00001	gene	285	menG			
+LEMLAGCJ_00001	CDS	285	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+LEMLAGCJ_00002	gene	945	hepT			
+LEMLAGCJ_00002	CDS	945	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+LEMLAGCJ_00003	gene	450	ndk			
+LEMLAGCJ_00003	CDS	450	ndk	2.7.4.6		Nucleoside diphosphate kinase
+LEMLAGCJ_00004	gene	201				
+LEMLAGCJ_00004	CDS	201				hypothetical protein
+LEMLAGCJ_00005	gene	1167	aroC			
+LEMLAGCJ_00005	CDS	1167	aroC	4.2.3.5	COG0082	Chorismate synthase
+LEMLAGCJ_00006	gene	1065	aroB			
+LEMLAGCJ_00006	CDS	1065	aroB	4.2.3.4		3-dehydroquinate synthase

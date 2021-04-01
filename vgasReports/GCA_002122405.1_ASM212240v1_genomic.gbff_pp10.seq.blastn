@@ -1,0 +1,25 @@
+# BLASTN 2.9.0+
+# Query: GCA_002122405.1_ASM212240v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_1
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+GCA_002122405.1_ASM212240v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_1	GCA_002122405.1_ASM212240v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_1	100.000	171	100	171	171	0	1.54e-87	316
+GCA_002122405.1_ASM212240v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_1	GCA_000547705.1_Stap_aure_M0758_V1_genomic.gbff_pp11.nucleotide.seq.txt.fa_6	100.000	171	100	171	171	0	1.54e-87	316
+# BLASTN 2.9.0+
+# Query: GCA_002122405.1_ASM212240v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_2
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+GCA_002122405.1_ASM212240v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_2	GCA_002127025.1_ASM212702v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_1	100.000	621	100	621	621	0	0.0	1147
+GCA_002122405.1_ASM212240v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_2	GCA_002122405.1_ASM212240v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_2	100.000	621	100	621	621	0	0.0	1147
+GCA_002122405.1_ASM212240v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_2	GCA_000547705.1_Stap_aure_M0758_V1_genomic.gbff_pp11.nucleotide.seq.txt.fa_7	100.000	621	100	621	621	0	0.0	1147
+# BLASTN 2.9.0+
+# Query: GCA_002122405.1_ASM212240v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_3
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+GCA_002122405.1_ASM212240v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_3	GCA_900040545.1_7469_7_44_genomic.gbff_pp11.nucleotide.seq.txt.fa_1	100.000	1005	100	1005	1005	0	0.0	1857
+GCA_002122405.1_ASM212240v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_3	GCA_002127025.1_ASM212702v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_2	100.000	1005	100	1005	1005	0	0.0	1857
+GCA_002122405.1_ASM212240v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_3	GCA_002122405.1_ASM212240v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_3	100.000	1005	100	1005	1005	0	0.0	1857
+GCA_002122405.1_ASM212240v1_genomic.gbff_pp10.nucleotide.seq.txt.fa_3	GCA_000547705.1_Stap_aure_M0758_V1_genomic.gbff_pp11.nucleotide.seq.txt.fa_9	100.000	1005	100	1005	1005	0	0.0	1857
+# BLAST processed 3 queries

@@ -1,0 +1,300 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1          435         1721            +         1287      0.44262
+
+     2         2000         4048            -         2049      0.36993
+
+     3         4434         4634            +          201      0.22823
+
+     4         5603         5812            +          210      0.13608
+
+     5         5809         6159            -          351      0.30720
+     (bit_score:228.024;e-value:1.99596e-78;identity:100.%;gi|118725117|ref|YP_908853.1| Staphylococcal complement inhibitor [Staphylococcus phage phiNM3])
+     (bit_score:228.024;e-value:1.99596e-78;identity:100.%;gi|971742300|ref|YP_009196769.1| complement inhibitor [Staphylococcus phage 23MRA])
+     (bit_score:228.024;e-value:1.99596e-78;identity:100.%;gi|588498305|ref|YP_009002819.1| complement inhibitor SCIN [Staphylococcus phage StauST398-4])
+
+     6         6844         7293            +          450      0.29084
+     (bit_score:298.901;e-value:2.74109e-105;identity:100.%;gi|118725116|ref|YP_908852.1| chemotaxis-inhibiting protein CHIPS [Staphylococcus phage phiNM3])
+     (bit_score:298.901;e-value:2.74109e-105;identity:100.%;gi|971742301|ref|YP_009196770.1| chemotaxis-inhibiting protein CHIPS [Staphylococcus phage 23MRA])
+     (bit_score:298.901;e-value:2.74109e-105;identity:100.%;gi|588498304|ref|YP_009002818.1| chemotaxis-inhibiting protein CHIPS [Staphylococcus phage StauST398-4])
+
+     7         8373         8864            -          492      0.34188
+     (bit_score:325.479;e-value:2.14298e-115;identity:99.3%;gi|118725114|ref|YP_908850.1| staphylokinase precursor [Staphylococcus phage phiNM3])
+     (bit_score:325.479;e-value:2.14298e-115;identity:99.3%;gi|971742303|ref|YP_009196772.1| staphylokinase [Staphylococcus phage 23MRA])
+     (bit_score:323.168;e-value:1.61425e-114;identity:98.7%;gi|29028715|ref|NP_803403.1| staphylokinase [Staphylococcus phage 13])
+
+     8         9055         9810            -          756      0.41757
+     (bit_score:518.85;e-value:0.0;identity:99.6%;gi|304443264|ref|YP_003857094.1| amidase [Staphylococcus phage Sap26])
+     (bit_score:518.85;e-value:0.0;identity:99.6%;gi|257136423|ref|YP_003169697.1| endolysin [Staphylococcus phage P954])
+     (bit_score:518.85;e-value:0.0;identity:99.6%;gi|118725113|ref|YP_908849.1| amidase [Staphylococcus phage phiNM3])
+
+     9         9822        10076            -          255      0.31204
+     (bit_score:174.866;e-value:2.76138e-58;identity:100.%;gi|304443263|ref|YP_003857093.1| phage holin [Staphylococcus phage Sap26])
+     (bit_score:174.866;e-value:2.76138e-58;identity:100.%;gi|118725112|ref|YP_908848.1| holin [Staphylococcus phage phiNM3])
+     (bit_score:174.866;e-value:2.76138e-58;identity:100.%;gi|66395267|ref|YP_239516.1| ORF063 [Staphylococcus phage 187])
+
+    10        10614        10844            -          231      0.24805
+
+    11        10953        11255            -          303      0.31380
+     (bit_score:191.43;e-value:2.02184e-64;identity:100.%;gi|257136419|ref|YP_003169693.1| hypothetical protein [Staphylococcus phage P954])
+     (bit_score:191.43;e-value:2.02184e-64;identity:100.%;gi|41189555|ref|NP_958619.1| 77ORF044 [Staphylococcus phage 77])
+     (bit_score:191.43;e-value:2.02184e-64;identity:100.%;gi|29028711|ref|NP_803399.1| phi PVL orf 22-like protein [Staphylococcus phage 13])
+
+    12        11444        15121            -         3678      0.43612
+     (bit_score:2490.69;e-value:0.0;identity:99.8%;gi|971742309|ref|YP_009196778.1| minor structural protein [Staphylococcus phage 23MRA])
+     (bit_score:2481.44;e-value:0.0;identity:96.4%;gi|118725107|ref|YP_908843.1| phage minor structural protein [Staphylococcus phage phiNM3])
+     (bit_score:2481.06;e-value:0.0;identity:96.3%;gi|41189517|ref|NP_958617.1| 77ORF002 [Staphylococcus phage 77])
+
+    13        15245        16729            -         1485      0.42693
+     (bit_score:1010.75;e-value:0.0;identity:99.7%;gi|725916007|ref|YP_009103477.1| hypothetical protein [Staphylococcus phage phiSa119])
+     (bit_score:1006.9;e-value:0.0;identity:99.1%;gi|41189519|ref|NP_958616.1| 77ORF004 [Staphylococcus phage 77])
+     (bit_score:1005.74;e-value:0.0;identity:99.1%;gi|30043942|ref|NP_835565.1| hypothetical protein SA1765 [Staphylococcus phage phiN315])
+
+    14        16723        21255            -         4533      0.50000
+     (bit_score:3010.32;e-value:0.0;identity:97.7%;gi|118725105|ref|YP_908841.1| phage tail tape measure protein [Staphylococcus phage phiNM3])
+     (bit_score:3005.31;e-value:0.0;identity:97.4%;gi|588498295|ref|YP_009002809.1| tail tape measure protein [Staphylococcus phage StauST398-4])
+     (bit_score:2988.75;e-value:0.0;identity:97.2%;gi|30043943|ref|NP_835564.1| hypothetical protein SA1766 [Staphylococcus phage phiN315])
+
+    15        19730        20032            +          303      0.22673
+     (bit_score:168.703;e-value:8.3575e-55;identity:59.5%;gi|971742313|ref|YP_009196782.1| hypothetical protein [Staphylococcus phage 23MRA])
+
+    16        21312        21473            -          162      0.17476
+
+    17        21500        21850            -          351      0.32921
+     (bit_score:238.039;e-value:2.77397e-82;identity:100.%;gi|431810277|ref|YP_007237162.1| hypothetical protein [Staphylococcus phage phi5967PVL])
+     (bit_score:238.039;e-value:2.77397e-82;identity:100.%;gi|257136413|ref|YP_003169687.1| hypothetical protein [Staphylococcus phage P954])
+     (bit_score:238.039;e-value:2.77397e-82;identity:100.%;gi|118725103|ref|YP_908839.1| hypothetical protein [Staphylococcus phage phiNM3])
+
+    18        22167        22808            -          642      0.44149
+     (bit_score:431.795;e-value:8.57813e-156;identity:99.0%;gi|257136412|ref|YP_003169686.1| phage tail superfamily [Staphylococcus phage P954])
+     (bit_score:425.246;e-value:2.64391e-153;identity:96.7%;gi|588498291|ref|YP_009002805.1| tail superfamily protein [Staphylococcus phage StauST398-4])
+     (bit_score:419.853;e-value:4.84868e-151;identity:95.7%;gi|431810276|ref|YP_007237161.1| phi13 family phage major tail protein [Staphylococcus phage phi5967PVL])
+
+    19        23150        23617            -          468      0.36652
+     (bit_score:266.159;e-value:1.51637e-92;identity:100.%;gi|257136410|ref|YP_003169684.1| hypothetical protein [Staphylococcus phage P954])
+     (bit_score:266.159;e-value:1.51637e-92;identity:100.%;gi|41189542|ref|NP_958610.1| 77ORF029 [Staphylococcus phage 77])
+     (bit_score:266.159;e-value:1.51637e-92;identity:100.%;gi|744692812|ref|YP_009113118.1| hypothetical protein [Staphylococcus phage phiBU01])
+
+    20        23584        23976            -          393      0.34997
+     (bit_score:250.366;e-value:5.75022e-87;identity:100.%;gi|431810273|ref|YP_007237158.1| hypothetical protein [Staphylococcus phage phi5967PVL])
+     (bit_score:250.366;e-value:5.75022e-87;identity:100.%;gi|257136409|ref|YP_003169683.1| hypothetical protein [Staphylococcus phage P954])
+     (bit_score:250.366;e-value:5.75022e-87;identity:100.%;gi|118725098|ref|YP_908834.1| hypothetical protein [Staphylococcus phage phiNM3])
+
+    21        23960        24256            -          297      0.30162
+     (bit_score:197.208;e-value:1.01693e-66;identity:100.%;gi|971742319|ref|YP_009196788.1| hypothetical protein [Staphylococcus phage 23MRA])
+     (bit_score:188.734;e-value:1.82951e-63;identity:100.%;gi|257136408|ref|YP_003169682.1| hypothetical protein [Staphylococcus phage P954])
+     (bit_score:188.734;e-value:1.82951e-63;identity:100.%;gi|118725097|ref|YP_908833.1| hypothetical protein [Staphylococcus phage phiNM3])
+
+    22        24213        24518            -          306      0.33327
+     (bit_score:190.66;e-value:3.94741e-64;identity:100.%;gi|257136407|ref|YP_003169681.1| hypothetical protein [Staphylococcus phage P954])
+     (bit_score:190.66;e-value:3.94741e-64;identity:100.%;gi|41189556|ref|NP_958607.1| 77ORF045 [Staphylococcus phage 77])
+     (bit_score:188.348;e-value:3.39529e-63;identity:97.8%;gi|118725096|ref|YP_908832.1| hypothetical protein [Staphylococcus phage phiNM3])
+
+    23        24538        25758            -         1221      0.42477
+     (bit_score:829.321;e-value:0.0;identity:100.%;gi|744692789|ref|YP_009113120.1| capsid protein [Staphylococcus phage phiBU01])
+     (bit_score:775.778;e-value:0.0;identity:100.%;gi|41189521|ref|NP_958606.1| 77ORF006 [Staphylococcus phage 77])
+     (bit_score:768.459;e-value:0.0;identity:98.9%;gi|257136406|ref|YP_003169680.1| major capsid protein a [Staphylococcus phage P954])
+
+    24        25706        26473            -          768      0.39653
+     (bit_score:503.827;e-value:0.0;identity:99.5%;gi|744692790|ref|YP_009113121.1| protease [Staphylococcus phage phiBU01])
+     (bit_score:495.738;e-value:7.88318e-180;identity:97.9%;gi|431810271|ref|YP_007237156.1| S14 family endopeptidase ClpP [Staphylococcus phage phi5967PVL])
+     (bit_score:495.738;e-value:7.88318e-180;identity:97.9%;gi|971742322|ref|YP_009196791.1| clp protease [Staphylococcus phage 23MRA])
+
+    25        26427        27590            -         1164      0.41460
+     (bit_score:786.178;e-value:0.0;identity:100.%;gi|257136404|ref|YP_003169678.1| HK97 family phage portal protein [Staphylococcus phage P954])
+     (bit_score:785.408;e-value:0.0;identity:99.7%;gi|744692791|ref|YP_009113122.1| portal protein [Staphylococcus phage phiBU01])
+     (bit_score:768.459;e-value:0.0;identity:96.4%;gi|118725093|ref|YP_908829.1| phage portal protein [Staphylococcus phage phiNM3])
+
+    26        27606        28652            -         1047      0.39239
+     (bit_score:714.531;e-value:0.0;identity:62.9%;gi|744692792|ref|YP_009113123.1| terminase [Staphylococcus phage phiBU01])
+     (bit_score:714.146;e-value:0.0;identity:62.9%;gi|257136403|ref|YP_003169677.1| terminase large subunit [Staphylococcus phage P954])
+     (bit_score:714.146;e-value:0.0;identity:62.9%;gi|41189518|ref|NP_958603.1| 77ORF003 [Staphylococcus phage 77])
+
+    27        28698        29267            -          570      0.42576
+     (bit_score:387.497;e-value:9.07128e-134;identity:33.9%;gi|118725092|ref|YP_908828.1| phage terminase [Staphylococcus phage phiNM3])
+     (bit_score:387.497;e-value:9.07128e-134;identity:33.9%;gi|30043954|ref|NP_835553.1| hypothetical protein SA1777 [Staphylococcus phage phiN315])
+     (bit_score:387.497;e-value:9.07128e-134;identity:33.9%;gi|725915993|ref|YP_009103463.1| terminase large subunit [Staphylococcus phage phiSa119])
+
+    28        29234        29653            -          420      0.28889
+     (bit_score:261.536;e-value:5.5082e-91;identity:100.%;gi|431810268|ref|YP_007237153.1| hypothetical protein [Staphylococcus phage phi5967PVL])
+     (bit_score:261.536;e-value:5.5082e-91;identity:100.%;gi|744692813|ref|YP_009113124.1| hypothetical protein [Staphylococcus phage phiBU01])
+     (bit_score:254.988;e-value:2.41306e-88;identity:94.7%;gi|971742325|ref|YP_009196794.1| hypothetical protein [Staphylococcus phage 23MRA])
+
+    29        29627        29956            +          330      0.18442
+
+    30        29761        30039            -          279      0.16109
+     (bit_score:184.111;e-value:1.24607e-61;identity:89.8%;gi|30043956|ref|NP_835551.1| hypothetical protein SA1779 [Staphylococcus phage phiN315])
+     (bit_score:181.415;e-value:1.33267e-60;identity:88.0%;gi|744692793|ref|YP_009113125.1| HNH endonuclease [Staphylococcus phage phiBU01])
+     (bit_score:181.415;e-value:1.60885e-60;identity:88.8%;gi|118725090|ref|YP_908826.1| hypothetical protein [Staphylococcus phage phiNM3])
+
+    31        30271        30687            -          417      0.31874
+     (bit_score:284.263;e-value:5.4462e-100;identity:100.%;gi|431810266|ref|YP_007237151.1| hypothetical protein [Staphylococcus phage phi5967PVL])
+     (bit_score:284.263;e-value:5.4462e-100;identity:100.%;gi|257136400|ref|YP_003169674.1| phage transcriptional activator [Staphylococcus phage P954])
+     (bit_score:284.263;e-value:5.4462e-100;identity:100.%;gi|118725089|ref|YP_908825.1| hypothetical protein [Staphylococcus phage phiNM3])
+
+    32        30715        30915            -          201      0.15919
+
+    33        31046        31456            -          411      0.30708
+     (bit_score:256.144;e-value:6.16517e-89;identity:97.6%;gi|9635708|ref|NP_061621.1| hypothetical protein phiPV83p33 [Staphylococcus prophage phiPV83])
+     (bit_score:255.373;e-value:1.37447e-88;identity:96.1%;gi|156603985|ref|YP_001429931.1| hypothetical protein [Staphylococcus phage tp310-2])
+     (bit_score:253.832;e-value:4.35105e-88;identity:95.4%;gi|509139904|ref|YP_008058790.1| hypothetical protein StauST398-2_0026 [Staphylococcus phage StauST398-2])
+
+    34        31993        32526            -          534      0.42359
+     (bit_score:352.058;e-value:1.49494e-125;identity:97.1%;gi|658608059|ref|YP_009045023.1| putative SaPIbov1 derepressor [Staphylococcus phage DW2])
+     (bit_score:350.132;e-value:1.77628e-124;identity:90.4%;gi|971742267|ref|YP_009196736.1| dUTP pyrophosphatase [Staphylococcus phage 23MRA])
+     (bit_score:345.125;e-value:8.12949e-123;identity:94.9%;gi|66395608|ref|YP_239989.1| ORF020 [Staphylococcus phage 3A])
+
+    35        32519        32707            -          189      0.18459
+
+    36        32676        32930            -          255      0.23171
+     (bit_score:160.999;e-value:7.15062e-53;identity:96.4%;gi|66396092|ref|YP_240444.1| ORF062 [Staphylococcus phage 71])
+     (bit_score:160.999;e-value:7.40568e-53;identity:93.1%;gi|971755315|ref|YP_009209152.1| hypothetical protein [Staphylococcus phage B236])
+     (bit_score:158.303;e-value:7.77264e-52;identity:95.1%;gi|118725082|ref|YP_908818.1| hypothetical protein [Staphylococcus phage phiNM3])
+
+    37        32923        33207            -          285      0.27434
+     (bit_score:188.734;e-value:1.9084e-63;identity:100.%;gi|118430753|ref|YP_873978.1| hypothetical protein SAPPV1_gp29 [Staphylococcus phage phiNM])
+     (bit_score:188.734;e-value:1.9084e-63;identity:100.%;gi|971750292|ref|YP_009204398.1| hypothetical protein [Staphylococcus phage phinm4])
+     (bit_score:188.734;e-value:1.9084e-63;identity:100.%;gi|971755140|ref|YP_009209004.1| hypothetical protein [Staphylococcus phage phinm2])
+
+    38        33180        33653            -          474      0.32009
+     (bit_score:303.523;e-value:5.62415e-107;identity:100.%;gi|122891814|ref|YP_001004359.1| hypothetical protein phiETA3_gp30 [Staphylococcus phage phiETA3])
+     (bit_score:303.523;e-value:5.62415e-107;identity:100.%;gi|118430752|ref|YP_873977.1| hypothetical protein SAPPV1_gp28 [Staphylococcus phage phiNM])
+     (bit_score:303.523;e-value:5.62415e-107;identity:100.%;gi|971750291|ref|YP_009204397.1| hypothetical protein [Staphylococcus phage phinm4])
+
+    39        33596        33844            -          249      0.19655
+
+    40        33823        34227            -          405      0.27010
+     (bit_score:258.84;e-value:4.90769e-90;identity:100.%;gi|388570355|ref|YP_006382295.1| hypothetical protein [Staphylococcus phage TEM123])
+     (bit_score:258.84;e-value:4.90769e-90;identity:100.%;gi|526003560|ref|YP_008239528.1| hypothetical protein JS01_038 [Staphylococcus phage JS01])
+     (bit_score:151.369;e-value:1.54542e-47;identity:57.7%;gi|509140967|ref|YP_008059844.1| hypothetical protein StauST398-3_0028 [Staphylococcus phage StauST398-3])
+
+    41        34241        34483            -          243      0.25807
+     (bit_score:168.318;e-value:7.54417e-56;identity:100.%;gi|526003592|ref|YP_008239527.1| hypothetical protein JS01_037 [Staphylococcus phage JS01])
+     (bit_score:166.007;e-value:6.2838e-55;identity:98.7%;gi|304443290|ref|YP_003857120.1| hypothetical protein SAP26_gp52 [Staphylococcus phage Sap26])
+     (bit_score:166.007;e-value:6.2838e-55;identity:98.7%;gi|12719418|ref|NP_075489.1| phi PVL ORF 51 analogue [Staphylococcus phage Slt])
+
+    42        34487        34855            -          369      0.30709
+     (bit_score:250.751;e-value:3.91509e-87;identity:100.%;gi|526003591|ref|YP_008239526.1| PhiPVL ORF050 family protein [Staphylococcus phage JS01])
+     (bit_score:250.751;e-value:3.96201e-87;identity:97.6%;gi|971749893|ref|YP_009204050.1| hypothetical protein [Staphylococcus phage B166])
+     (bit_score:247.284;e-value:8.47281e-86;identity:96.0%;gi|744692816|ref|YP_009113130.1| hypothetical protein [Staphylococcus phage phiBU01])
+
+    43        34868        35284            -          417      0.33535
+     (bit_score:285.804;e-value:1.33624e-100;identity:99.2%;gi|971749892|ref|YP_009204049.1| RusA-like crossover junction endodeoxyribonuclease [Staphylococcus phage B166])
+     (bit_score:284.263;e-value:7.7554e-100;identity:97.1%;gi|744692796|ref|YP_009113131.1| DNA replication, recombination, and repair [Staphylococcus phage phiBU01])
+     (bit_score:276.944;e-value:4.1089e-97;identity:99.2%;gi|526003590|ref|YP_008239525.1| crossover junction endodeoxyribonuclease RusA superfamily protein [Staphylococcus phage JS01])
+
+    44        35263        35499            -          237      0.21995
+     (bit_score:150.984;e-value:3.52413e-49;identity:100.%;gi|30043968|ref|NP_835539.1| hypothetical protein SA1790 [Staphylococcus phage phiN315])
+     (bit_score:150.984;e-value:3.52413e-49;identity:100.%;gi|526003559|ref|YP_008239524.1| hypothetical protein JS01_034 [Staphylococcus phage JS01])
+     (bit_score:150.984;e-value:3.52413e-49;identity:100.%;gi|526178047|ref|YP_008241872.1| hypothetical protein SA12_011 [Staphylococcus phage SA12])
+
+    45        35961        36368            -          408      0.36000
+     (bit_score:272.707;e-value:3.79465e-93;identity:44.5%;gi|388570358|ref|YP_006382298.1| phage regulatory protein [Staphylococcus phage TEM123])
+     (bit_score:269.626;e-value:5.96493e-92;identity:44.2%;gi|118725076|ref|YP_908812.1| hypothetical protein [Staphylococcus phage phiNM3])
+     (bit_score:266.159;e-value:1.38838e-90;identity:43.3%;gi|526178046|ref|YP_008241871.1| putative regulatory protein [Staphylococcus phage SA12])
+
+    46        36398        36868            -          471      0.38429
+     (bit_score:315.849;e-value:8.65911e-112;identity:99.3%;gi|30043970|ref|NP_835537.1| single-strand DNA-binding protein [Staphylococcus phage phiN315])
+     (bit_score:315.849;e-value:8.65911e-112;identity:99.3%;gi|744692798|ref|YP_009113133.1| single-stranded DNA binding protein [Staphylococcus phage phiBU01])
+     (bit_score:313.923;e-value:5.01305e-111;identity:98.7%;gi|971749889|ref|YP_009204046.1| ssDNA-binding protein [Staphylococcus phage B166])
+
+    47        36869        37354            -          486      0.38698
+     (bit_score:334.339;e-value:4.84689e-119;identity:99.3%;gi|118725074|ref|YP_908810.1| hypothetical protein [Staphylococcus phage phiNM3])
+     (bit_score:334.339;e-value:4.84689e-119;identity:99.3%;gi|588498263|ref|YP_009002777.1| hypothetical protein StauST398-4_0021 [Staphylococcus phage StauST398-4])
+     (bit_score:334.339;e-value:4.84689e-119;identity:99.3%;gi|526003558|ref|YP_008239521.1| hypothetical protein JS01_031 [Staphylococcus phage JS01])
+
+    48        37567        38487            -          921      0.37054
+     (bit_score:629.787;e-value:0.0;identity:99.6%;gi|388570318|ref|YP_006382258.1| RecT protein [Staphylococcus phage TEM123])
+     (bit_score:629.787;e-value:0.0;identity:99.6%;gi|9635208|ref|NP_058482.1| unnamed protein product [Staphylococcus phage PVL])
+     (bit_score:629.787;e-value:0.0;identity:99.6%;gi|971749887|ref|YP_009204044.1| DNA single-strand annealing protein RecT [Staphylococcus phage B166])
+
+    49        37653        38147            -          495      0.06099
+
+    50        38489        40444            -         1956      0.37514
+     (bit_score:1300.8;e-value:0.0;identity:100.%;gi|388570319|ref|YP_006382259.1| RecF/RecN/SMC N terminal domain protein [Staphylococcus phage TEM123])
+     (bit_score:1275.77;e-value:0.0;identity:98.1%;gi|588498261|ref|YP_009002775.1| hypothetical protein StauST398-4_0019 [Staphylococcus phage StauST398-4])
+     (bit_score:1274.61;e-value:0.0;identity:98.1%;gi|971749886|ref|YP_009204043.1| ATPase [Staphylococcus phage B166])
+
+    51        40423        40719            -          297      0.28428
+     (bit_score:187.193;e-value:7.91109e-63;identity:100.%;gi|118725071|ref|YP_908807.1| hypothetical protein [Staphylococcus phage phiNM3])
+     (bit_score:187.193;e-value:7.91109e-63;identity:100.%;gi|971742281|ref|YP_009196750.1| hypothetical protein [Staphylococcus phage 23MRA])
+     (bit_score:187.193;e-value:7.91109e-63;identity:100.%;gi|156603902|ref|YP_001429849.1| hypothetical protein [Staphylococcus phage tp310-1])
+
+    52        40713        40973            -          261      0.16069
+     (bit_score:171.014;e-value:8.69618e-57;identity:100.%;gi|29028677|ref|NP_803365.1| phi PVL orf 39-like protein [Staphylococcus phage 13])
+     (bit_score:171.014;e-value:8.69618e-57;identity:100.%;gi|156603901|ref|YP_001429848.1| hypothetical protein [Staphylococcus phage tp310-1])
+     (bit_score:171.014;e-value:8.69618e-57;identity:100.%;gi|526003586|ref|YP_008239517.1| phi PVL orf 39-like protein [Staphylococcus phage JS01])
+
+    53        41197        41553            -          357      0.24302
+     (bit_score:216.083;e-value:9.47942e-74;identity:98.1%;gi|66395334|ref|YP_239609.1| ORF045 [Staphylococcus phage 69])
+     (bit_score:215.312;e-value:1.65926e-73;identity:97.1%;gi|118725066|ref|YP_908802.1| hypothetical protein [Staphylococcus phage phiNM3])
+     (bit_score:215.312;e-value:1.65926e-73;identity:97.1%;gi|156603899|ref|YP_001429846.1| hypothetical protein [Staphylococcus phage tp310-1])
+
+    54        41750        42037            -          288      0.32184
+     (bit_score:173.326;e-value:1.64037e-57;identity:100.%;gi|239507369|ref|YP_002939679.1| hypothetical protein CUR008 [Staphylococcus phage phiPVL-CN125])
+     (bit_score:173.326;e-value:1.64037e-57;identity:100.%;gi|725915959|ref|YP_009103429.1| hypothetical protein [Staphylococcus phage phiSa119])
+     (bit_score:172.17;e-value:5.57569e-57;identity:91.3%;gi|29028672|ref|NP_803360.1| phi PVL orf 32-like protein [Staphylococcus phage 13])
+
+    55        42050        42799            -          750      0.42239
+     (bit_score:512.301;e-value:0.0;identity:99.1%;gi|66396057|ref|YP_240419.1| ORF017 [Staphylococcus phage 71])
+     (bit_score:511.531;e-value:0.0;identity:99.1%;gi|215401177|ref|YP_002332482.1| anti-repressor [Staphylococcus phage Ipla88])
+     (bit_score:511.146;e-value:0.0;identity:99.1%;gi|9635199|ref|NP_058473.1| anti repressor [Staphylococcus phage PVL])
+
+    56        42856        43065            +          210      0.21080
+
+    57        43058        43198            -          141      0.17162
+
+    58        43213        43659            -          447      0.37960
+     (bit_score:303.138;e-value:3.79732e-107;identity:100.%;gi|257136364|ref|YP_003169638.1| hypothetical protein [Staphylococcus phage P954])
+     (bit_score:301.982;e-value:1.40194e-106;identity:99.3%;gi|744692802|ref|YP_009113141.1| antA/B anti-repressor [Staphylococcus phage phiBU01])
+     (bit_score:191.43;e-value:6.76498e-63;identity:65.9%;gi|41189538|ref|NP_958630.1| 77ORF023 [Staphylococcus phage 77])
+
+    59        43672        43914            -          243      0.31960
+     (bit_score:168.703;e-value:6.05634e-56;identity:100.%;gi|257136363|ref|YP_003169637.1| cro repressor-like protein [Staphylococcus phage P954])
+     (bit_score:166.007;e-value:1.56913e-54;identity:70.5%;gi|744692803|ref|YP_009113143.1| repressor [Staphylococcus phage phiBU01])
+     (bit_score:164.081;e-value:3.72346e-54;identity:97.5%;gi|119443659|ref|YP_918897.1| putative cro-like repressor [Staphylococcus phage Pvl108])
+
+    60        44078        44794            +          717      0.40341
+     (bit_score:483.026;e-value:2.92498e-175;identity:100.%;gi|257136362|ref|YP_003169636.1| cI repressor-like protein [Staphylococcus phage P954])
+     (bit_score:482.641;e-value:3.90447e-175;identity:97.9%;gi|744692804|ref|YP_009113144.1| repressor [Staphylococcus phage phiBU01])
+     (bit_score:397.897;e-value:1.15189e-141;identity:79.8%;gi|725915956|ref|YP_009103426.1| repressor [Staphylococcus phage phiSa119])
+
+    61        44806        45669            +          864      0.36322
+     (bit_score:574.318;e-value:0.0;identity:98.2%;gi|744692805|ref|YP_009113145.1| nucleic acid binding protein [Staphylococcus phage phiBU01])
+     (bit_score:509.22;e-value:0.0;identity:91.2%;gi|526003553|ref|YP_008239508.1| hypothetical protein JS01_018 [Staphylococcus phage JS01])
+     (bit_score:500.745;e-value:0.0;identity:100.%;gi|257136360|ref|YP_003169634.1| hypothetical protein [Staphylococcus phage P954])
+
+    62        45734        45949            +          216      0.12838
+
+    63        45877        46146            +          270      0.23162
+
+    64        46133        46324            +          192      0.19185
+
+    65        46390        47172            +          783      0.35284
+     (bit_score:469.544;e-value:1.86737e-169;identity:97.1%;gi|257136358|ref|YP_003169632.1| hypothetical protein [Staphylococcus phage P954])
+     (bit_score:463.766;e-value:2.91381e-167;identity:99.5%;gi|41189532|ref|NP_958624.1| 77ORF017 [Staphylococcus phage 77])
+     (bit_score:219.164;e-value:1.3163e-70;identity:49.7%;gi|431809678|ref|YP_007236570.1| hypothetical protein [Staphylococcus phage StB27])
+
+    66        47297        48334            +         1038      0.40654
+     (bit_score:706.827;e-value:0.0;identity:97.1%;gi|744692806|ref|YP_009113147.1| integrase [Staphylococcus phage phiBU01])
+     (bit_score:706.827;e-value:0.0;identity:99.4%;gi|588498243|ref|YP_009002757.1| integrase [Staphylococcus phage StauST398-4])
+     (bit_score:706.827;e-value:0.0;identity:99.4%;gi|509140091|ref|YP_008058974.1| integrase [Staphylococcus phage StauST398-1])
+
+    67        48391        49215            +          825      0.38367
+
+    68        49453        50325            -          873      0.30789
+     (bit_score:194.512;e-value:1.54148e-59;identity:34.4%;gi|9635737|ref|NP_061650.1| LukF-PV(P83) precursor [Staphylococcus prophage phiPV83])
+     (bit_score:180.259;e-value:5.73718e-54;identity:35.3%;gi|448244685|ref|YP_007392407.1| Panton-Valentine leukocidin chain F precursor [Staphylococcus phage phi7401PVL])
+     (bit_score:179.874;e-value:8.08625e-54;identity:35.3%;gi|431810286|ref|YP_007237171.1| Panton-Valentine leukocidin chain S [Staphylococcus phage phi5967PVL])
+

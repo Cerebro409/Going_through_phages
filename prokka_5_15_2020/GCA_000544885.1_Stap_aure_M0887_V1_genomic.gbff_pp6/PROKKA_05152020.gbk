@@ -1,0 +1,136 @@
+LOCUS       HJCNAOEB_1              3829 bp    DNA     linear       15-MAY-2020
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..3829
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     gene            15..221
+                     /gene="sepA"
+                     /locus_tag="HJCNAOEB_00001"
+     CDS             15..221
+                     /gene="sepA"
+                     /locus_tag="HJCNAOEB_00001"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:Q99S98"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Multidrug resistance efflux pump SepA"
+                     /protein_id="X:HJCNAOEB_00001"
+                     /translation="MLPENAYFRGATFHLISYMVATTLFYFIIHLNYVYINIDFWVIM
+                     VIIGFLYVCKLQFYPESKNLNNRK"
+     gene            407..1852
+                     /gene="farB"
+                     /locus_tag="HJCNAOEB_00002"
+     CDS             407..1852
+                     /gene="farB"
+                     /locus_tag="HJCNAOEB_00002"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:Q9RQ29"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Fatty acid resistance protein FarB"
+                     /protein_id="X:HJCNAOEB_00002"
+                     /translation="MVANVELTTRRRNFIVAVMLISAFVAILNQTLLNTALPSIMREL
+                     NINESTSQWLVTGFMLVNGVMIPLTAYLMDRIKTRPLYLAALGTFLLGSIVAALAPNF
+                     GVLMLARVIQAMGAGVLMPLMQFTLFTLFSKEHRGFAMGLAGLVIQFAPAIGPTVTGL
+                     IIDQASWRVPFIIIVGIALVAFIFGLISISSYNEVKYTKLDKRSVMYSTIGFGLMLYA
+                     FSSAGDLGFTSPIVIGALIISMVIIYLFIRRQFNISNALLNLRVFKNRTFALCTISSM
+                     IIMMSMVGPALLIPLYVQNSLSLSALLSGLVIMPGAIINGIMSVFTGKFYDKYGPRPL
+                     IYTGFTILTITTIMLCFLHTDTSYTYLIVVYAIRMFSVSLLMMPINTTGINSLRNEEI
+                     SHGTAIMNFGRVMAGSLGTALMVTLMSFGAKIFSSTSPSHLTATEIKQQSIAIGVDIS
+                     FAFVAVLVMAAYVIALFIREPKEIESNRRKF"
+     gene            2000..3064
+                     /gene="salA"
+                     /locus_tag="HJCNAOEB_00003"
+     CDS             2000..3064
+                     /gene="salA"
+                     /locus_tag="HJCNAOEB_00003"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:P50863"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Iron-sulfur cluster carrier protein"
+                     /protein_id="X:HJCNAOEB_00003"
+                     /db_xref="COG:COG0489"
+                     /translation="MLTVDQVKELVGEIKDPIIDVPLKETEGIVEVSIKEEKEHVSVK
+                     LAMAQLGGAPQLDLQMAVVNVLKENGAKTVGIRFETLPEEKVNQFKPKEENKPKTIEG
+                     LLSQNNPVEFIAIASGKGGVGKSTVAVNLAVALAREGKKVGLVDADIYGFSVPDMMGI
+                     DEKPGIKGKEVIPVERHGVKVISMAFFVEENAPVIWRGPMLGKMLTNFFTEVKWGDIE
+                     YLILDLPPGTGDVALDVHTMLPSSKEIIVTTPHPTAAFVAARAGAMAKHTDHSILGVI
+                     ENMSYFESKETGNKEYVFGKGGGTKLADELNTQLLGELPLEQPSWNPKDFAPSIYQSD
+                     DRLGKIYSSIAQKVIAATNK"
+ORIGIN      
+        1 attattttag aaaaatgtta cctgaaaatg cttattttag aggtgcaact tttcatttaa
+       61 tctcttatat ggttgcaaca acgttatttt attttattat tcatctgaac tatgtatata
+      121 tcaatattga tttttgggtc atcatggtta ttataggctt tttatatgtt tgtaagttgc
+      181 agttttaccc tgaaagtaaa aatctaaaca atagaaaata gagttttgaa gttgggggca
+      241 atgatgtgtt ccaacttctt tttattcata tagtagaaaa tgagttgttt tgcttcaatt
+      301 aatcacggtt aataataacc attgatataa atagttggta ctgtaatctg aaatatattt
+      361 taagtatata tgctaataaa cgtaaatttg ttacaaagga ggaattgtgg tggctaatgt
+      421 tgaattaaca acgcgaagac gaaattttat agtagctgtg atgttaatca gtgcttttgt
+      481 agctatttta aatcaaacat tattaaatac agcgttacct agtattatga gagagttaaa
+      541 tatcaatgaa agtacttcac aatggttagt tactggtttt atgcttgtta atggcgtcat
+      601 gatacctcta actgcatact taatggacag gattaaaact agacctttat acttagcagc
+      661 gttgggaaca tttttattag gttctattgt tgcagcctta gctccgaatt ttggagtttt
+      721 aatgttagca cgtgtaattc aagcgatggg tgcaggggta cttatgcctt taatgcaatt
+      781 cacattgttt acgttattca gtaaagaaca tagaggattt gcaatgggat tagctggttt
+      841 agttattcaa tttgcaccag caattgggcc tactgttact ggattaatca ttgatcaagc
+      901 aagttggcgt gtacctttta ttataattgt aggaattgct ttagtcgcat ttatcttcgg
+      961 tttaatttca atctctagtt acaatgaagt gaaatatacg aaattagata agcgctctgt
+     1021 aatgtattcg acgattggat ttgggttaat gttatatgca ttcagtagtg caggcgactt
+     1081 aggatttact agcccgatag ttataggtgc attgataata agtatggtta ttatctattt
+     1141 atttatacgt agacaattta atattagtaa tgcactttta aatttaaggg tttttaagaa
+     1201 tagaacattt gcattatgta cgattagttc aatgattata atgatgtcaa tggttggacc
+     1261 tgcactgctt ataccgctat atgttcaaaa tagtttgtct ttatctgcct tgttatcagg
+     1321 acttgttatc atgccaggtg caatcataaa tggtattatg tcggttttta caggtaaatt
+     1381 ttatgataag tatggtccta gaccactgat ttatactggt tttacgattt taacaattac
+     1441 tactattatg ttgtgtttct tgcatacaga cacatcttat acgtatttaa tagtcgtata
+     1501 tgcaattaga atgttttcag tttctttact catgatgccg ataaatacta caggaattaa
+     1561 ttctttgaga aatgaagaaa tctcacatgg cacggctatt atgaactttg gtcgtgtaat
+     1621 ggctggttca ctaggcacag ctttaatggt tactttgatg agttttggcg caaaaatatt
+     1681 ttcatctaca tcgccatcgc atttaactgc aactgaaatt aaacagcaat caattgctat
+     1741 aggggtggat atctcatttg cttttgtagc cgtgcttgtt atggcagctt atgtgatagc
+     1801 actttttata agagaaccta aagaaataga aagtaataga aggaaatttt aaaataatta
+     1861 tagtagttgg tctattgaaa ataataggct aacttctttt tttatttaat aaaaagtttt
+     1921 atacttttag tgatagacta agcaaaaatt gttatttgct atgatgtaga tgtcttaaaa
+     1981 tgattaaggg ggatttgctt tgttaacggt agatcaagtg aaagaattgg taggagaaat
+     2041 taaagaccct attatagatg tgcctttaaa agaaacagaa ggtattgttg aagtttctat
+     2101 taaggaagaa aaagaacatg tgagtgttaa attagcaatg gcacaattag gtggtgcacc
+     2161 gcaattagat ttacaaatgg ctgttgttaa cgtattaaaa gaaaacggtg cgaaaacggt
+     2221 cggtatacga tttgaaacat tgccggaaga aaaagtaaat caatttaaac caaaagaaga
+     2281 aaataaacct aaaacgatag aaggcttatt atctcaaaat aatccagtcg aatttattgc
+     2341 tattgcttca ggtaaaggtg gcgtcggtaa atccactgtt gcagtaaatt tagccgttgc
+     2401 cttagcccgt gaagggaaaa aagtcggatt agtagatgcc gatatatatg gatttagtgt
+     2461 accagatatg atgggtattg atgaaaaacc tggaattaaa gggaaggaag taattccagt
+     2521 tgaacgtcat ggcgttaaag ttatatcaat ggcctttttt gtggaagaaa atgcgccagt
+     2581 tatatggaga gggccaatgt taggtaaaat gttgacgaat ttctttacag aagttaaatg
+     2641 gggagacatt gaatatttaa tactcgatct tccacctgga acaggagatg tagctttaga
+     2701 tgttcatacg atgttacctt caagtaagga aattattgta acgacacctc atcctacagc
+     2761 agcatttgtt gcagctcgcg caggtgcgat ggcaaaacat acggatcatt ctattcttgg
+     2821 cgtaattgaa aacatgagtt attttgaaag taaagagacg ggtaataaag aatatgtctt
+     2881 tggcaaaggt ggcggtacta agttagctga tgaacttaat actcaattac ttggggaatt
+     2941 acctttagag caaccatctt ggaatccaaa agattttgca ccgtcaatat atcaatcaga
+     3001 tgatcgtcta ggtaaaattt atagctcgat tgcacaaaaa gttatagctg ctacaaataa
+     3061 ataggtataa tatatgctaa acgtacaaaa ttacttttat tttgtacgtt tttatgttga
+     3121 tttgttttgg aatgctggta aaataagttc ttgtgttaag caataaacgc gttgaaaaag
+     3181 aagcgggttg tgaacacaaa aagtttttaa aaaagttatt gactttaaat tccaaagttg
+     3241 ataatatgat aaagtcgtca aaaacgacgc agttgttttt aaagaagaat ttcaaaagtg
+     3301 taaaacttac cattgaaata actataaaaa caatatagaa taaataaagt aatcgttcaa
+     3361 aaagttattg acttcaagaa acaaatgaag tagaataaaa gagattgaac attaatgaac
+     3421 attgaaaact gaatgacaat atgtcaacgt taattccaaa aaacgtaact ataagttaca
+     3481 aacattattt agtatttatg agctaatcaa acatcataat ttttatggag agtttgatcc
+     3541 tggctcagga tgaacgctgg cggcgtgcct aatacatgca agtcgagcga acggacgaga
+     3601 agcttgcttc tctgatgtta gcggcggacg ggtgagtaac acgtggataa cctacctata
+     3661 agactgggat aacttcggga aaccggagct aataccggat aatattttga gccgcatggt
+     3721 tcaaaagtga aagacggtct tgctgtcact tatagatgga tccgcgctgc attagctagt
+     3781 tggtaaggta acggcttacc aaggcaacga tgcatagccg acctgagag
+//

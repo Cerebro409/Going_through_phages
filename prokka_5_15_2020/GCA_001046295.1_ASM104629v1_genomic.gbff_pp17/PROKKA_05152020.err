@@ -1,0 +1,85 @@
+Discrepancy Report Results
+
+Summary
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:gene: 22 present
+DISC_FEATURE_COUNT:CDS: 22 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+OVERLAPPING_GENES:6 genes overlap another gene on the same strand.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:23 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::gene: 22 present
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 22 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_1 (length 22908)
+
+DiscRep_ALL:OVERLAPPING_GENES::6 genes overlap another gene on the same strand.
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:Gene	msrA2	HFFEDDFJ_1:8801-9334	HFFEDDFJ_00010
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:Gene	msrB	HFFEDDFJ_1:9327-9755	HFFEDDFJ_00011
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:Gene	crr	HFFEDDFJ_1:9767-10267	HFFEDDFJ_00012
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:Gene	HFFEDDFJ_00013	HFFEDDFJ_1:10267-10488	HFFEDDFJ_00013
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:Gene	arlR	HFFEDDFJ_1:15574-16233	HFFEDDFJ_00019
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:Gene	arlS	HFFEDDFJ_1:16230-17585	HFFEDDFJ_00020
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_1 (length 22908)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_1 (length 22908)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_1 (length 22908)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_1 (length 22908)
+
+DiscRep_ALL:MISSING_PROJECT::23 sequences do not include project.
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_1 (length 22908)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00001 (length 504)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00002 (length 133)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00003 (length 234)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00004 (length 83)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00005 (length 374)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00006 (length 145)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00007 (length 318)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00008 (length 159)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00009 (length 279)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00010 (length 177)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00011 (length 142)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00012 (length 166)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00013 (length 73)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00014 (length 496)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00015 (length 169)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00016 (length 356)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00017 (length 204)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00018 (length 66)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00019 (length 219)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00020 (length 451)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00021 (length 932)
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_00022 (length 422)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+1_ASM104629v1_genomic.gbff_pp17/PROKKA_05152020:X:HFFEDDFJ_1 (length 22908)
+

@@ -1,0 +1,32 @@
+>Feature gnl|X|HJCNAOEB_1
+15	221	gene
+			gene	sepA
+			locus_tag	HJCNAOEB_00001
+15	221	CDS
+			gene	sepA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99S98
+			locus_tag	HJCNAOEB_00001
+			product	Multidrug resistance efflux pump SepA
+			protein_id	gnl|X|HJCNAOEB_00001
+407	1852	gene
+			gene	farB
+			locus_tag	HJCNAOEB_00002
+407	1852	CDS
+			gene	farB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RQ29
+			locus_tag	HJCNAOEB_00002
+			product	Fatty acid resistance protein FarB
+			protein_id	gnl|X|HJCNAOEB_00002
+2000	3064	gene
+			gene	salA
+			locus_tag	HJCNAOEB_00003
+2000	3064	CDS
+			db_xref	COG:COG0489
+			gene	salA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P50863
+			locus_tag	HJCNAOEB_00003
+			product	Iron-sulfur cluster carrier protein
+			protein_id	gnl|X|HJCNAOEB_00003

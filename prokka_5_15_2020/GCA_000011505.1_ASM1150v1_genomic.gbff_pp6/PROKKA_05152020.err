@@ -1,0 +1,84 @@
+Discrepancy Report Results
+
+Summary
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:gene: 16 present
+DISC_FEATURE_COUNT:CDS: 7 present
+DISC_FEATURE_COUNT:tRNA: 8 present
+DISC_FEATURE_COUNT:rRNA: 1 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+OVERLAPPING_GENES:3 genes overlap another gene on the same strand.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+FATAL: DISC_SUSPECT_RRNA_PRODUCTS:1 rRNA product names contain suspect phrase
+FATAL: DISC_SHORT_RRNA:1 rRNA features are too short
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:8 sequences do not include project.
+FATAL: RRNA_NAME_CONFLICTS:1 rRNA product names are not standard. Correct the names to the standard format, eg "16S ribosomal RNA"
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::gene: 16 present
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 7 present
+DiscRep_ALL:DISC_FEATURE_COUNT::tRNA: 8 present
+DiscRep_ALL:DISC_FEATURE_COUNT::rRNA: 1 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:X:CIDHKLLJ_1 (length 9356)
+
+DiscRep_ALL:OVERLAPPING_GENES::3 genes overlap another gene on the same strand.
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:Gene	folK	CIDHKLLJ_1:c4005-3529	CIDHKLLJ_00011
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:Gene	folB	CIDHKLLJ_1:c4367-4002	CIDHKLLJ_00012
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:Gene	folP	CIDHKLLJ_1:c5148-4345	CIDHKLLJ_00013
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+FATAL: DiscRep_ALL:DISC_SUSPECT_RRNA_PRODUCTS::1 rRNA product names contain suspect phrase
+FATAL: DiscRep_SUB:DISC_SUSPECT_RRNA_PRODUCTS::1 rRNA product names contains 'partial'
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:rRNA	5S ribosomal RNA (partial)	CIDHKLLJ_1:c943-866	CIDHKLLJ_00009
+
+FATAL: DiscRep_ALL:DISC_SHORT_RRNA::1 rRNA features are too short
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:rRNA	5S ribosomal RNA (partial)	CIDHKLLJ_1:c943-866	CIDHKLLJ_00009
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:X:CIDHKLLJ_1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:X:CIDHKLLJ_1 (length 9356)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:X:CIDHKLLJ_1 (length 9356)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:X:CIDHKLLJ_1 (length 9356)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:X:CIDHKLLJ_1 (length 9356)
+
+DiscRep_ALL:MISSING_PROJECT::8 sequences do not include project.
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:X:CIDHKLLJ_1 (length 9356)
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:X:CIDHKLLJ_00010 (length 515)
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:X:CIDHKLLJ_00011 (length 158)
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:X:CIDHKLLJ_00012 (length 121)
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:X:CIDHKLLJ_00013 (length 267)
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:X:CIDHKLLJ_00014 (length 310)
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:X:CIDHKLLJ_00015 (length 293)
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:X:CIDHKLLJ_00016 (length 586)
+
+FATAL: DiscRep_ALL:RRNA_NAME_CONFLICTS::1 rRNA product names are not standard. Correct the names to the standard format, eg "16S ribosomal RNA"
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:rRNA	5S ribosomal RNA (partial)	CIDHKLLJ_1:c943-866	CIDHKLLJ_00009
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+GCA_000011505.1_ASM1150v1_genomic.gbff_pp6/PROKKA_05152020:X:CIDHKLLJ_1 (length 9356)
+

@@ -1,0 +1,81 @@
+# BLASTN 2.9.0+
+# Query: GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_1
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 11 hits found
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_1	GCA_001234105.1_5295_1_7_genomic.gbff_pp18.nucleotide.seq.txt.fa_5	100.000	1491	100	1491	1491	0	0.0	2754
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_1	GCA_001046295.1_ASM104629v1_genomic.gbff_pp17.nucleotide.seq.txt.fa_16	100.000	1491	100	1491	1491	0	0.0	2754
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_1	GCA_000605905.1_Stap_aure_W25814_V1_genomic.gbff_pp19.nucleotide.seq.txt.fa_16	100.000	1491	100	1491	1491	0	0.0	2754
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_1	GCA_000575965.1_Stap_aure_M1112_V1_genomic.gbff_pp18.nucleotide.seq.txt.fa_5	100.000	1491	100	1491	1491	0	0.0	2754
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_1	GCA_000556025.1_Stap_aure_M0437_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_1	100.000	1491	100	1491	1491	0	0.0	2754
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_1	GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_1	100.000	1491	100	1491	1491	0	0.0	2754
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_1	GCA_000547205.1_Stap_aure_M1090_V1_genomic.gbff_pp19.nucleotide.seq.txt.fa_16	100.000	1491	100	1491	1491	0	0.0	2754
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_1	GCA_000531555.1_Stap_aure_M0032_V1_genomic.gbff_pp18.nucleotide.seq.txt.fa_55	100.000	1491	100	1491	1491	0	0.0	2754
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_1	GCA_000248615.2_ASM24861v2_genomic.gbff_pp18.nucleotide.seq.txt.fa_25	100.000	1491	100	1491	1491	0	0.0	2754
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_1	GCA_000242515.2_ASM24251v2_genomic.gbff_pp16.nucleotide.seq.txt.fa_1	100.000	1491	100	1491	1491	0	0.0	2754
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_1	GCA_000009005.1_ASM900v1_genomic.gbff_pp18.nucleotide.seq.txt.fa_6	100.000	1491	100	1491	1491	0	0.0	2754
+# BLASTN 2.9.0+
+# Query: GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 12 hits found
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2	GCA_001234105.1_5295_1_7_genomic.gbff_pp18.nucleotide.seq.txt.fa_6	100.000	510	100	510	510	0	0.0	942
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2	GCA_001046295.1_ASM104629v1_genomic.gbff_pp17.nucleotide.seq.txt.fa_17	100.000	510	100	510	510	0	0.0	942
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2	GCA_000605905.1_Stap_aure_W25814_V1_genomic.gbff_pp19.nucleotide.seq.txt.fa_17	100.000	510	100	510	510	0	0.0	942
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2	GCA_000575965.1_Stap_aure_M1112_V1_genomic.gbff_pp18.nucleotide.seq.txt.fa_6	100.000	510	100	510	510	0	0.0	942
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2	GCA_000556025.1_Stap_aure_M0437_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2	100.000	510	100	510	510	0	0.0	942
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2	GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2	100.000	510	100	510	510	0	0.0	942
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2	GCA_000547205.1_Stap_aure_M1090_V1_genomic.gbff_pp19.nucleotide.seq.txt.fa_17	100.000	510	100	510	510	0	0.0	942
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2	GCA_000531555.1_Stap_aure_M0032_V1_genomic.gbff_pp18.nucleotide.seq.txt.fa_56	100.000	510	100	510	510	0	0.0	942
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2	GCA_000248615.2_ASM24861v2_genomic.gbff_pp18.nucleotide.seq.txt.fa_26	100.000	510	100	510	510	0	0.0	942
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2	GCA_000242515.2_ASM24251v2_genomic.gbff_pp16.nucleotide.seq.txt.fa_2	100.000	510	100	510	510	0	0.0	942
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2	GCA_000160355.1_ASM16035v1_genomic.gbff_pp17.nucleotide.seq.txt.fa_1	100.000	510	100	510	510	0	0.0	942
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2	GCA_000009005.1_ASM900v1_genomic.gbff_pp18.nucleotide.seq.txt.fa_7	100.000	510	100	510	510	0	0.0	942
+# BLASTN 2.9.0+
+# Query: GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 12 hits found
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3	GCA_001234105.1_5295_1_7_genomic.gbff_pp18.nucleotide.seq.txt.fa_7	100.000	1071	100	1071	1071	0	0.0	1978
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3	GCA_001046295.1_ASM104629v1_genomic.gbff_pp17.nucleotide.seq.txt.fa_18	100.000	1071	100	1071	1071	0	0.0	1978
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3	GCA_000605905.1_Stap_aure_W25814_V1_genomic.gbff_pp19.nucleotide.seq.txt.fa_18	100.000	1071	100	1071	1071	0	0.0	1978
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3	GCA_000575965.1_Stap_aure_M1112_V1_genomic.gbff_pp18.nucleotide.seq.txt.fa_7	100.000	1071	100	1071	1071	0	0.0	1978
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3	GCA_000556025.1_Stap_aure_M0437_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3	100.000	1071	100	1071	1071	0	0.0	1978
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3	GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3	100.000	1071	100	1071	1071	0	0.0	1978
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3	GCA_000547205.1_Stap_aure_M1090_V1_genomic.gbff_pp19.nucleotide.seq.txt.fa_18	100.000	1071	100	1071	1071	0	0.0	1978
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3	GCA_000531555.1_Stap_aure_M0032_V1_genomic.gbff_pp18.nucleotide.seq.txt.fa_57	100.000	1071	100	1071	1071	0	0.0	1978
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3	GCA_000248615.2_ASM24861v2_genomic.gbff_pp18.nucleotide.seq.txt.fa_27	100.000	1071	100	1071	1071	0	0.0	1978
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3	GCA_000242515.2_ASM24251v2_genomic.gbff_pp16.nucleotide.seq.txt.fa_3	100.000	1071	100	1071	1071	0	0.0	1978
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3	GCA_000160355.1_ASM16035v1_genomic.gbff_pp17.nucleotide.seq.txt.fa_2	100.000	1071	100	1071	1071	0	0.0	1978
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3	GCA_000009005.1_ASM900v1_genomic.gbff_pp18.nucleotide.seq.txt.fa_8	100.000	1071	100	1071	1071	0	0.0	1978
+# BLASTN 2.9.0+
+# Query: GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_4
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 11 hits found
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_4	GCA_001234105.1_5295_1_7_genomic.gbff_pp18.nucleotide.seq.txt.fa_8	100.000	615	100	615	615	0	0.0	1136
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_4	GCA_001046295.1_ASM104629v1_genomic.gbff_pp17.nucleotide.seq.txt.fa_19	100.000	615	100	615	615	0	0.0	1136
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_4	GCA_000605905.1_Stap_aure_W25814_V1_genomic.gbff_pp19.nucleotide.seq.txt.fa_19	100.000	615	100	615	615	0	0.0	1136
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_4	GCA_000556025.1_Stap_aure_M0437_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_4	100.000	615	100	615	615	0	0.0	1136
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_4	GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_4	100.000	615	100	615	615	0	0.0	1136
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_4	GCA_000547205.1_Stap_aure_M1090_V1_genomic.gbff_pp19.nucleotide.seq.txt.fa_19	100.000	615	100	615	615	0	0.0	1136
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_4	GCA_000531555.1_Stap_aure_M0032_V1_genomic.gbff_pp18.nucleotide.seq.txt.fa_58	100.000	615	100	615	615	0	0.0	1136
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_4	GCA_000248615.2_ASM24861v2_genomic.gbff_pp18.nucleotide.seq.txt.fa_28	100.000	615	100	615	615	0	0.0	1136
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_4	GCA_000242515.2_ASM24251v2_genomic.gbff_pp16.nucleotide.seq.txt.fa_4	100.000	615	100	615	615	0	0.0	1136
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_4	GCA_000160355.1_ASM16035v1_genomic.gbff_pp17.nucleotide.seq.txt.fa_3	100.000	615	100	615	615	0	0.0	1136
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_4	GCA_000009005.1_ASM900v1_genomic.gbff_pp18.nucleotide.seq.txt.fa_9	100.000	615	100	615	615	0	0.0	1136
+# BLASTN 2.9.0+
+# Query: GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_5
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 9 hits found
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_5	GCA_001046295.1_ASM104629v1_genomic.gbff_pp17.nucleotide.seq.txt.fa_20	100.000	201	100	201	201	0	3.88e-104	372
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_5	GCA_000605905.1_Stap_aure_W25814_V1_genomic.gbff_pp19.nucleotide.seq.txt.fa_20	100.000	201	100	201	201	0	3.88e-104	372
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_5	GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_5	100.000	201	100	201	201	0	3.88e-104	372
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_5	GCA_000547205.1_Stap_aure_M1090_V1_genomic.gbff_pp19.nucleotide.seq.txt.fa_20	100.000	201	100	201	201	0	3.88e-104	372
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_5	GCA_000531555.1_Stap_aure_M0032_V1_genomic.gbff_pp18.nucleotide.seq.txt.fa_59	100.000	201	100	201	201	0	3.88e-104	372
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_5	GCA_000248615.2_ASM24861v2_genomic.gbff_pp18.nucleotide.seq.txt.fa_29	100.000	201	100	201	201	0	3.88e-104	372
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_5	GCA_000242515.2_ASM24251v2_genomic.gbff_pp16.nucleotide.seq.txt.fa_5	100.000	201	100	201	201	0	3.88e-104	372
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_5	GCA_000160355.1_ASM16035v1_genomic.gbff_pp17.nucleotide.seq.txt.fa_4	100.000	201	100	201	201	0	3.88e-104	372
+GCA_000555085.1_Stap_aure_M0355_V1_genomic.gbff_pp17.nucleotide.seq.txt.fa_5	GCA_000009005.1_ASM900v1_genomic.gbff_pp18.nucleotide.seq.txt.fa_10	100.000	201	100	201	201	0	3.88e-104	372
+# BLAST processed 5 queries

@@ -1,0 +1,56 @@
+>Feature gnl|X|DCPLLAOP_1
+1398	802	gene
+			gene	recR
+			locus_tag	DCPLLAOP_00001
+1398	802	CDS
+			db_xref	COG:COG0353
+			gene	recR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0CB76
+			locus_tag	DCPLLAOP_00001
+			product	Recombination protein RecR
+			protein_id	gnl|X|DCPLLAOP_00001
+1722	1405	gene
+			locus_tag	DCPLLAOP_00002
+1722	1405	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99126
+			locus_tag	DCPLLAOP_00002
+			product	Nucleoid-associated protein
+			protein_id	gnl|X|DCPLLAOP_00002
+3509	1812	gene
+			gene	ruvB
+			locus_tag	DCPLLAOP_00003
+3509	1812	CDS
+			EC_number	3.6.4.12
+			gene	ruvB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00016
+			locus_tag	DCPLLAOP_00003
+			product	Holliday junction ATP-dependent DNA helicase RuvB
+			protein_id	gnl|X|DCPLLAOP_00003
+4102	3578	gene
+			locus_tag	DCPLLAOP_00004
+4102	3578	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	DCPLLAOP_00004
+			product	hypothetical protein
+			protein_id	gnl|X|DCPLLAOP_00004
+5473	4745	gene
+			gene	treR
+			locus_tag	DCPLLAOP_00005
+5473	4745	CDS
+			db_xref	COG:COG2188
+			gene	treR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39796
+			locus_tag	DCPLLAOP_00005
+			product	HTH-type transcriptional regulator TreR
+			protein_id	gnl|X|DCPLLAOP_00005
+6082	5498	gene
+			locus_tag	DCPLLAOP_00006
+6082	5498	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	DCPLLAOP_00006
+			product	hypothetical protein
+			protein_id	gnl|X|DCPLLAOP_00006

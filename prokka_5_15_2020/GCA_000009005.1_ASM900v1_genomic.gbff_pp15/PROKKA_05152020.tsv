@@ -1,0 +1,165 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CMLBKDKH_00001	gene	201	cspLA			
+CMLBKDKH_00001	CDS	201	cspLA		COG1278	Cold shock-like protein CspLA
+CMLBKDKH_00002	gene	570				
+CMLBKDKH_00002	CDS	570				hypothetical protein
+CMLBKDKH_00003	gene	396				
+CMLBKDKH_00003	CDS	396				hypothetical protein
+CMLBKDKH_00004	gene	354				
+CMLBKDKH_00004	CDS	354				hypothetical protein
+CMLBKDKH_00005	gene	486				
+CMLBKDKH_00005	CDS	486				IS200/IS605 family transposase ISSep3
+CMLBKDKH_00006	gene	840	noc			
+CMLBKDKH_00006	CDS	840	noc		COG1475	Nucleoid occlusion protein
+CMLBKDKH_00007	gene	720	rsmG			
+CMLBKDKH_00007	CDS	720	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+CMLBKDKH_00008	gene	1878	mnmG			
+CMLBKDKH_00008	CDS	1878	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+CMLBKDKH_00009	gene	1380	mnmE			
+CMLBKDKH_00009	CDS	1380	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+CMLBKDKH_00010	gene	354	rnpA			
+CMLBKDKH_00010	CDS	354	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+CMLBKDKH_00011	gene	138	rpmH			
+CMLBKDKH_00011	CDS	138	rpmH			50S ribosomal protein L34
+CMLBKDKH_00012	gene	1362	dnaA			
+CMLBKDKH_00012	CDS	1362	dnaA			Chromosomal replication initiator protein DnaA
+CMLBKDKH_00013	gene	1134	dnaN			
+CMLBKDKH_00013	CDS	1134	dnaN			Beta sliding clamp
+CMLBKDKH_00014	gene	237				
+CMLBKDKH_00014	CDS	237				hypothetical protein
+CMLBKDKH_00015	gene	1113	recF			
+CMLBKDKH_00015	CDS	1113	recF		COG1195	DNA replication and repair protein RecF
+CMLBKDKH_00016	gene	1935	gyrB			
+CMLBKDKH_00016	CDS	1935	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+CMLBKDKH_00017	gene	2670	gyrA			
+CMLBKDKH_00017	CDS	2670	gyrA	5.6.2.2		DNA gyrase subunit A
+CMLBKDKH_00018	gene	831	nnrD			
+CMLBKDKH_00018	CDS	831	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+CMLBKDKH_00019	gene	1515	hutH			
+CMLBKDKH_00019	CDS	1515	hutH	4.3.1.3		Histidine ammonia-lyase
+CMLBKDKH_00020	gene	1287	serS			
+CMLBKDKH_00020	CDS	1287	serS	6.1.1.11		Serine--tRNA ligase
+CMLBKDKH_00021	gene	696				
+CMLBKDKH_00021	CDS	696				hypothetical protein
+CMLBKDKH_00022	gene	330				
+CMLBKDKH_00022	CDS	330				hypothetical protein
+CMLBKDKH_00023	gene	969	metXA			
+CMLBKDKH_00023	CDS	969	metXA	2.3.1.31	COG2021	Homoserine O-acetyltransferase
+CMLBKDKH_00024	gene	939				
+CMLBKDKH_00024	CDS	939				hypothetical protein
+CMLBKDKH_00025	gene	1968	gdpP			
+CMLBKDKH_00025	CDS	1968	gdpP	3.1.4.59	COG3887	Cyclic-di-AMP phosphodiesterase GdpP
+CMLBKDKH_00026	gene	447	rplI			
+CMLBKDKH_00026	CDS	447	rplI			50S ribosomal protein L9
+CMLBKDKH_00027	gene	1401	dnaC			
+CMLBKDKH_00027	CDS	1401	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+CMLBKDKH_00028	gene	1284	purA			
+CMLBKDKH_00028	CDS	1284	purA	6.3.4.4		Adenylosuccinate synthetase
+CMLBKDKH_00029	gene	75				
+CMLBKDKH_00029	tRNA	75				tRNA-Glu(ttc)
+CMLBKDKH_00030	gene	73				
+CMLBKDKH_00030	tRNA	73				tRNA-Asp(gtc)
+CMLBKDKH_00031	gene	702	walR			
+CMLBKDKH_00031	CDS	702	walR		COG0745	Transcriptional regulatory protein WalR
+CMLBKDKH_00032	gene	1827	walK			
+CMLBKDKH_00032	CDS	1827	walK	2.7.13.3		Sensor protein kinase WalK
+CMLBKDKH_00033	gene	1284				
+CMLBKDKH_00033	CDS	1284				hypothetical protein
+CMLBKDKH_00034	gene	789				
+CMLBKDKH_00034	CDS	789				hypothetical protein
+CMLBKDKH_00035	gene	783	yycJ			
+CMLBKDKH_00035	CDS	783	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+CMLBKDKH_00036	gene	2361				
+CMLBKDKH_00036	CDS	2361				hypothetical protein
+CMLBKDKH_00037	gene	480	rlmH			
+CMLBKDKH_00037	CDS	480	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+CMLBKDKH_00038	gene	1257				
+CMLBKDKH_00038	CDS	1257				hypothetical protein
+CMLBKDKH_00039	gene	102				
+CMLBKDKH_00039	CDS	102				hypothetical protein
+CMLBKDKH_00040	gene	240				
+CMLBKDKH_00040	CDS	240				hypothetical protein
+CMLBKDKH_00041	gene	675				
+CMLBKDKH_00041	CDS	675				IS6 family transposase IS431mec
+CMLBKDKH_00042	gene	168				
+CMLBKDKH_00042	CDS	168				hypothetical protein
+CMLBKDKH_00043	gene	231				
+CMLBKDKH_00043	CDS	231				hypothetical protein
+CMLBKDKH_00044	gene	744	ugpQ			
+CMLBKDKH_00044	CDS	744	ugpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase, cytoplasmic
+CMLBKDKH_00045	gene	429				
+CMLBKDKH_00045	CDS	429				hypothetical protein
+CMLBKDKH_00046	gene	2007	mecA			
+CMLBKDKH_00046	CDS	2007	mecA			PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+CMLBKDKH_00047	gene	987	mecR1			
+CMLBKDKH_00047	CDS	987	mecR1			Methicillin resistance mecR1 protein
+CMLBKDKH_00048	gene	273				
+CMLBKDKH_00048	CDS	273				hypothetical protein
+CMLBKDKH_00049	gene	1524				
+CMLBKDKH_00049	CDS	1524				IS1182 family transposase ISSep1
+CMLBKDKH_00050	gene	507				
+CMLBKDKH_00050	CDS	507				hypothetical protein
+CMLBKDKH_00051	gene	312				
+CMLBKDKH_00051	CDS	312				hypothetical protein
+CMLBKDKH_00052	gene	351				
+CMLBKDKH_00052	CDS	351				hypothetical protein
+CMLBKDKH_00053	gene	1629				
+CMLBKDKH_00053	CDS	1629				hypothetical protein
+CMLBKDKH_00054	gene	1350				
+CMLBKDKH_00054	CDS	1350				hypothetical protein
+CMLBKDKH_00055	gene	1794				
+CMLBKDKH_00055	CDS	1794				hypothetical protein
+CMLBKDKH_00056	gene	297				
+CMLBKDKH_00056	CDS	297				hypothetical protein
+CMLBKDKH_00057	gene	1584				
+CMLBKDKH_00057	CDS	1584				hypothetical protein
+CMLBKDKH_00058	gene	933				
+CMLBKDKH_00058	CDS	933				hypothetical protein
+CMLBKDKH_00059	gene	378				
+CMLBKDKH_00059	CDS	378				hypothetical protein
+CMLBKDKH_00060	gene	498				
+CMLBKDKH_00060	CDS	498				hypothetical protein
+CMLBKDKH_00061	gene	1272				
+CMLBKDKH_00061	CDS	1272				hypothetical protein
+CMLBKDKH_00062	gene	477				
+CMLBKDKH_00062	CDS	477				hypothetical protein
+CMLBKDKH_00063	gene	1515	hsdM			
+CMLBKDKH_00063	CDS	1515	hsdM	2.1.1.72	COG0286	Type I restriction enzyme EcoKI M protein
+CMLBKDKH_00064	gene	1233				
+CMLBKDKH_00064	CDS	1233				hypothetical protein
+CMLBKDKH_00065	gene	3129				
+CMLBKDKH_00065	CDS	3129				hypothetical protein
+CMLBKDKH_00066	gene	708				
+CMLBKDKH_00066	CDS	708				hypothetical protein
+CMLBKDKH_00067	gene	468				
+CMLBKDKH_00067	CDS	468				hypothetical protein
+CMLBKDKH_00068	gene	558				
+CMLBKDKH_00068	CDS	558				hypothetical protein
+CMLBKDKH_00069	gene	1518	emrB			
+CMLBKDKH_00069	CDS	1518	emrB			Multidrug export protein EmrB
+CMLBKDKH_00070	gene	573				
+CMLBKDKH_00070	CDS	573				hypothetical protein
+CMLBKDKH_00071	gene	987	dus			
+CMLBKDKH_00071	CDS	987	dus	1.3.1.-		putative tRNA-dihydrouridine synthase
+CMLBKDKH_00072	gene	204				
+CMLBKDKH_00072	CDS	204				hypothetical protein
+CMLBKDKH_00073	gene	297				
+CMLBKDKH_00073	CDS	297				hypothetical protein
+CMLBKDKH_00074	gene	1221	entS			
+CMLBKDKH_00074	CDS	1221	entS			Enterobactin exporter EntS
+CMLBKDKH_00075	gene	552	ywqN			
+CMLBKDKH_00075	CDS	552	ywqN	1.-.-.-	COG0655	Putative NAD(P)H-dependent FMN-containing oxidoreductase YwqN
+CMLBKDKH_00076	gene	885	gltR			
+CMLBKDKH_00076	CDS	885	gltR		COG0583	HTH-type transcriptional regulator GltR
+CMLBKDKH_00077	gene	534				
+CMLBKDKH_00077	CDS	534				hypothetical protein
+CMLBKDKH_00078	gene	744	yofA			
+CMLBKDKH_00078	CDS	744	yofA		COG0583	HTH-type transcriptional regulator YofA
+CMLBKDKH_00079	gene	420				
+CMLBKDKH_00079	CDS	420				hypothetical protein
+CMLBKDKH_00080	gene	603				
+CMLBKDKH_00080	CDS	603				hypothetical protein
+CMLBKDKH_00081	gene	3153				
+CMLBKDKH_00081	CDS	3153				hypothetical protein
+CMLBKDKH_00082	gene	483				
+CMLBKDKH_00082	CDS	483				hypothetical protein

@@ -1,0 +1,272 @@
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00001 Deoxyguanosine kinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00001	PKFPGIHL_00001	100.000	279	100	279	279	0	2.40e-147	516
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00002 Deoxyadenosine/deoxycytidine kinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00002	PKFPGIHL_00002	100.000	663	100	663	663	0	0.0	1225
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00003 Pyrophosphatase PpaX
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00003	PKFPGIHL_00003	100.000	684	100	684	684	0	0.0	1264
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00004 putative branched-chain-amino-acid aminotransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00004	PKFPGIHL_00004	100.000	1077	100	1077	1077	0	0.0	1989
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00005 putative epimerase/dehydratase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00005	PKFPGIHL_00005	100.000	966	100	966	966	0	0.0	1784
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00006 Ribulokinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00006	PKFPGIHL_00006	100.000	1641	100	1641	1641	0	0.0	3031
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00007 Protein/nucleic acid deglycase HchA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00007	PKFPGIHL_00007	100.000	879	100	879	879	0	0.0	1624
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00008 Putative pyridoxal phosphate-dependent acyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00008	PKFPGIHL_00008	100.000	1188	100	1188	1188	0	0.0	2194
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00009 N-acetylcysteine deacetylase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00009	PKFPGIHL_00009	100.000	1176	100	1176	1176	0	0.0	2172
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00010 Elongation factor Tu
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00010	PKFPGIHL_00010	100.000	1185	100	1185	1185	0	0.0	2189
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00011 Elongation factor G
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00011	PKFPGIHL_00011	100.000	2082	100	2082	2082	0	0.0	3845
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00012 30S ribosomal protein S7
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00012	PKFPGIHL_00012	100.000	471	100	471	471	0	0.0	870
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00013 30S ribosomal protein S12
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00013	PKFPGIHL_00013	100.000	414	100	414	414	0	0.0	765
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00014 Ribosome-associated protein L7Ae-like protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00014	PKFPGIHL_00014	100.000	312	100	312	312	0	1.22e-165	577
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00015 DNA-directed RNA polymerase subunit beta'
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00015	PKFPGIHL_00015	100.000	3624	100	3624	3624	0	0.0	6693
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00016 DNA-directed RNA polymerase subunit beta
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00016	PKFPGIHL_00016	100.000	3552	100	3552	3552	0	0.0	6560
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00017 Ribosomal RNA small subunit methyltransferase C
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00017	PKFPGIHL_00017	100.000	609	100	609	609	0	0.0	1125
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00018 50S ribosomal protein L7/L12
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00018	PKFPGIHL_00018	100.000	369	100	369	369	0	0.0	682
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00019 50S ribosomal protein L10
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00019	PKFPGIHL_00019	100.000	501	100	501	501	0	0.0	926
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00020 50S ribosomal protein L1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00020	PKFPGIHL_00020	100.000	693	100	693	693	0	0.0	1280
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00021 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00021	PKFPGIHL_00021	100.000	129	100	129	129	0	2.47e-64	239
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00022 50S ribosomal protein L11
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00022	PKFPGIHL_00022	100.000	423	100	423	423	0	0.0	782
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00023 Transcription termination/antitermination protein NusG
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00023	PKFPGIHL_00023	100.000	549	100	549	549	0	0.0	1014
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00024 Protein translocase subunit SecE
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00024	PKFPGIHL_00024	100.000	183	100	183	183	0	3.51e-94	339
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00025 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00025	PKFPGIHL_00025	100.000	570	100	570	570	0	0.0	1053
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00026 putative protein YacP
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00026	PKFPGIHL_00026	100.000	525	100	525	525	0	0.0	970
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00027 Putative TrmH family tRNA/rRNA methyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00027	PKFPGIHL_00027	100.000	747	100	747	747	0	0.0	1380
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00028 Mini-ribonuclease 3
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00028	PKFPGIHL_00028	100.000	405	100	405	405	0	0.0	749
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00029 Cysteine--tRNA ligase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00029	PKFPGIHL_00029	100.000	1401	100	1401	1401	0	0.0	2588
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00030 Serine acetyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00030	PKFPGIHL_00030	100.000	681	100	681	681	0	0.0	1258
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00031 Glutamate--tRNA ligase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00031	PKFPGIHL_00031	100.000	1455	100	1455	1455	0	0.0	2687
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00032 putative PIN and TRAM-domain containing protein YacL
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00032	PKFPGIHL_00032	100.000	1074	100	1074	1074	0	0.0	1984
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00033 DNA repair protein RadA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00033	PKFPGIHL_00033	100.000	1365	100	1365	1365	0	0.0	2521
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00034 ATP-dependent Clp protease ATP-binding subunit ClpC
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00034	PKFPGIHL_00034	100.000	2457	100	2457	2457	0	0.0	4538
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00035 Protein-arginine kinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00035	PKFPGIHL_00035	100.000	1011	100	1011	1011	0	0.0	1868
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00036 Protein-arginine kinase activator protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00036	PKFPGIHL_00036	100.000	567	100	567	567	0	0.0	1048
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00037 Transcriptional regulator CtsR
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00037	PKFPGIHL_00037	100.000	462	100	462	462	0	0.0	854
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00038 Nucleoside permease NupC
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00038	PKFPGIHL_00038	100.000	1215	100	1215	1215	0	0.0	2244
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00039 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00039	PKFPGIHL_00039	100.000	153	100	153	153	0	1.36e-77	283
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00040 Pyridoxal 5'-phosphate synthase subunit PdxT
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00040	PKFPGIHL_00040	100.000	561	100	561	561	0	0.0	1037
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00041 Pyridoxal 5'-phosphate synthase subunit PdxS
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00041	PKFPGIHL_00041	100.000	888	100	888	888	0	0.0	1640
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00042 HTH-type transcriptional regulatory protein GabR
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00042	PKFPGIHL_00042	100.000	1383	100	1383	1383	0	0.0	2555
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00043 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PKFPGIHL_00043	PKFPGIHL_00043	100.000	186	100	186	186	0	7.68e-96	344
+# BLASTN 2.9.0+
+# Query: PKFPGIHL_00044 5S ribosomal RNA (partial)
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 8 hits found
+PKFPGIHL_00044	OCFEKFOI_00009	100.000	78	100	78	78	0	2.97e-36	145
+PKFPGIHL_00044	BDFALBBM_00009	100.000	78	100	78	78	0	2.97e-36	145
+PKFPGIHL_00044	OCFEKFOI_00009	100.000	78	100	78	78	0	2.97e-36	145
+PKFPGIHL_00044	PNMLNJBE_00009	100.000	78	100	78	78	0	2.97e-36	145
+PKFPGIHL_00044	CIDHKLLJ_00009	100.000	78	100	78	78	0	2.97e-36	145
+PKFPGIHL_00044	DINEAAHN_00009	100.000	78	100	78	78	0	2.97e-36	145
+PKFPGIHL_00044	MGICCDHI_00009	100.000	78	100	78	78	0	2.97e-36	145
+PKFPGIHL_00044	PKFPGIHL_00044	100.000	78	100	78	78	0	2.97e-36	145
+# BLAST processed 44 queries

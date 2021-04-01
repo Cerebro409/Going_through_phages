@@ -1,0 +1,11 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EFCNCDAE_00001	gene	282				
+EFCNCDAE_00001	CDS	282				hypothetical protein
+EFCNCDAE_00002	gene	696				
+EFCNCDAE_00002	CDS	696		1.-.-.-		putative oxidoreductase
+EFCNCDAE_00003	gene	423				
+EFCNCDAE_00003	CDS	423				hypothetical protein
+EFCNCDAE_00004	gene	420				
+EFCNCDAE_00004	CDS	420				hypothetical protein
+EFCNCDAE_00005	gene	426				
+EFCNCDAE_00005	CDS	426				hypothetical protein

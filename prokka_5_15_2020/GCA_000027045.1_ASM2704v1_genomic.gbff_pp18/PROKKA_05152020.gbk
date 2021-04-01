@@ -1,0 +1,144 @@
+LOCUS       HLMBFDGP_1              2979 bp    DNA     linear       15-MAY-2020
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..2979
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     gene            76..258
+                     /gene="hly"
+                     /locus_tag="HLMBFDGP_00001"
+     CDS             76..258
+                     /gene="hly"
+                     /locus_tag="HLMBFDGP_00001"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:P09616"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Alpha-hemolysin"
+                     /protein_id="X:HLMBFDGP_00001"
+                     /translation="MDRKATKQQSNIDVIYERVRDDYQLHWTSTNWKGTNTKDKWTDR
+                     SSERYKIDWEKEEMTN"
+     gene            712..945
+                     /locus_tag="HLMBFDGP_00002"
+     CDS             712..945
+                     /locus_tag="HLMBFDGP_00002"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:HLMBFDGP_00002"
+                     /translation="MVFKDWKVNVVYTGKHEVVTNENNLFVIDEDYDVAIAINYIDNK
+                     LKVSHVNYGSEFTIDSSNKVLELMIHNPNIDEN"
+     gene            1562..1747
+                     /locus_tag="HLMBFDGP_00003"
+     CDS             1562..1747
+                     /locus_tag="HLMBFDGP_00003"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:HLMBFDGP_00003"
+                     /translation="MNKHINKKTTKHLEDYKKVQQRNSEETNRGCLKSVAMLIVLFLF
+                     IIFGIVACSTHVNFFFQ"
+     gene            complement(1688..1909)
+                     /locus_tag="HLMBFDGP_00004"
+     CDS             complement(1688..1909)
+                     /locus_tag="HLMBFDGP_00004"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:HLMBFDGP_00004"
+                     /translation="MSNEYTIIGETNTNIIVRNVMHKIALYNLKNIYNAPIDKIKCCK
+                     KRSEYYSISILLEEKVNVCRTCHNTKYNE"
+     gene            complement(2000..2350)
+                     /gene="scn"
+                     /locus_tag="HLMBFDGP_00005"
+     CDS             complement(2000..2350)
+                     /gene="scn"
+                     /locus_tag="HLMBFDGP_00005"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:Q2FWV6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Staphylococcal complement inhibitor"
+                     /protein_id="X:HLMBFDGP_00005"
+                     /translation="MKIKKYIVAGTLAVLLSTTAVSTLNGNKAEASSYDNYLTQSKYH
+                     DKKIAEELKSLLRQSNVYDLAAGSLNRYYKRTIMMNEYRAKAALKKNDFKSMAEAKVG
+                     LENIYKEIDEIINR"
+     gene            complement(2502..2879)
+                     /gene="fib"
+                     /locus_tag="HLMBFDGP_00006"
+     CDS             complement(2502..2879)
+                     /gene="fib"
+                     /locus_tag="HLMBFDGP_00006"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:P0C6P2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Fibrinogen-binding protein"
+                     /protein_id="X:HLMBFDGP_00006"
+                     /translation="MSINHNIVEYNDGTFKYQSRPKFNSTPKYIKFRHDYNIVEYNDG
+                     TFGYGPRPHFNKPAAKTDATIKKEQKLIQAQNLVREFEKTHTVSAHRKAQKAVNLVSF
+                     EYNVKKMILQERIDEVLKQGLVR"
+ORIGIN      
+        1 aacttccttg atcctaacaa agcaagttct ctattatctt cagggttttc accagacttc
+       61 gctacagtta ttactatgga taggaaagca accaaacaac aatcaaatat agatgtaata
+      121 tacgaacgag ttcgtgatga ctatcaatta cattggactt caacaaattg gaaaggtact
+      181 aatactaaag ataaatggac ggatcgttct tcagaaagat ataaaatcga ttgggaaaaa
+      241 gaagaaatga caaattaatg gtcatgcaca ctcaaatatt caaattttaa cattagccga
+      301 taacatcaga aatgatgtgt gtcggctatt ttagttgcag tataaaatta aacatcgatg
+      361 aatagtaata tatatattat gcttttcaat atatattcat gcttataaac acgatataag
+      421 atttaatttt tcagtttcaa acatttttaa ttcatattgt caaacccttt atttaaaagt
+      481 tttgaaattg ttcaaaactt atcgaacaca ttatgtgtta atatatttgc agaattattt
+      541 taaaatcgtt ttaaaactat actgaaataa gaagataaaa agtataataa gtacatataa
+      601 ttgaaaataa cttctagaaa tctatttatc tctaatctag atattgtaag aagttgtatg
+      661 aataagttaa acttaaattg aatcagttta aatgttcaag gaggatgaca aatggttttt
+      721 aaagattgga aagttaatgt tgtttacact gggaaacatg aagttgttac aaatgaaaat
+      781 aatttatttg tcatagatga agattatgat gtcgcaatcg caatcaatta tatagacaat
+      841 aaattaaagg tcagtcatgt taactatgga tctgaattta caattgactc atctaacaaa
+      901 gtacttgaat tgatgattca taatccaaat attgacgaga attaaatatt aaaaaacatt
+      961 tagaaatata aaggcatact atatatagtc ttttaaacga aaaacaaacg gtaatcaaag
+     1021 attcagataa tcattacact taaaaatgca cgatttccaa gcatttaaaa tataacagct
+     1081 aaggtggtga ccaaaaatta acattgtgta taacatcatt gtatatatag catgcatgat
+     1141 taacttcgga ctaattatag taccgctgtt aactacgaca gacgcagatt ttgtatggac
+     1201 atcttcgtca ttaatatata tggttctttt aacactgctt atcttaattg tttatattaa
+     1261 aactaaagat agtttacagt taacaatatt tatacttagt gttgcattaa taattctata
+     1321 ctgcgcacct ttattattca tttatgtgtt ctagtgtttc attaatattt taatgcgtca
+     1381 gtttaaaaac tatcaatttt aaaaataagc gaaacatgtt atcatcaaat taacttattt
+     1441 acagttaatt ttgcttaaat ttaaaataac actcttctca actttagctt tatatcttta
+     1501 tttcaaggta tgttttcaac tattttaatg caatttacat ttagattaag gagtaaacat
+     1561 catgaataaa catataaata aaaagaccac aaagcatctt gaagattata aaaaggttca
+     1621 acaaagaaat tcggaagaaa caaatagagg ttgtttaaaa agtgtcgcca tgcttatcgt
+     1681 cttattttta ttcattatat ttggtattgt ggcatgttct acacacgtta actttttctt
+     1741 ccaataatat gctgattgag taatattcac tacgtttctt acagcatttg attttatcta
+     1801 tgggagcatt ataaatattt tttagattgt acaaagcaat tttgtgcata acatttctaa
+     1861 ctattatatt tgtattagtc tcccctatta ttgtatattc attgctcata cataaatatt
+     1921 aaattgtaga atttttaact atacaaatta aaaaacaggc gaagacaatg atatttattg
+     1981 tctcaacctg ttttctttat tatctattta taatttcatc aatttctttg taaatgtttt
+     2041 ctaatccaac tttagcttca gccattgatt tgaaatcatt tttctttagt gctgcttttg
+     2101 ctctatattc attcatcata atcgtacgtt tgtaatatcg atttaagcta cctgcagcca
+     2161 agtcatatac gttcgattgt ctaagtagtg atttcaactc ttcagcaatt tttttatcgt
+     2221 gatatttact ttgagttaaa taattgtcat aactacttgc ttctgctttg ttcccgttta
+     2281 acgttgatac tgctgttgtt gataatagta ctgctaatgt tcctgctact atatattttt
+     2341 taattttcat tgtaaattct cctttaaaaa ttgatactta atgattatat agtcaatttt
+     2401 aggaaagtta cattaaccta ctattaaata gcatagtctt tttattaata gaaattaata
+     2461 ttagattaaa ttattttgaa cttataataa tgacagaagt attatctcac taatccttgc
+     2521 tttaatactt catcaattcg ctcttgcaat atcattttct taacattgta ttcaaatgat
+     2581 actaagttga ctgccttttg tgcttttcta tgtgcgctca cagtatgggt cttttcaaat
+     2641 tctctcacaa gattttgagc ttgaatcaat ttttgttctt tttttatagt tgcatcagtt
+     2701 ttcgctgctg gtttattaaa atgcggacgt ggtccatatc caaatgtacc gtcattatat
+     2761 tccacaatgt tataatcatg tctaaactta atatatttag gtgttgagtt aaattttggt
+     2821 ctagattgat atttaaaagt accatcattg tactctacga tattgtgatt aatactcact
+     2881 ggtttctttt ctcttggacc gtatgtcaat agcggtttaa aaatgctgtt ttatggcggt
+     2941 ttgaaaatgt cgttttttag cggtttaaga ttgtcgtat
+//

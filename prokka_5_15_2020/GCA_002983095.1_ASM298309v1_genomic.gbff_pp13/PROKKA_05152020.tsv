@@ -1,0 +1,11 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LMPLBELI_00001	gene	177	dnaA			
+LMPLBELI_00001	CDS	177	dnaA			Chromosomal replication initiator protein DnaA
+LMPLBELI_00002	gene	1134	dnaN			
+LMPLBELI_00002	CDS	1134	dnaN			Beta sliding clamp
+LMPLBELI_00003	gene	246				
+LMPLBELI_00003	CDS	246				hypothetical protein
+LMPLBELI_00004	gene	1113	recF			
+LMPLBELI_00004	CDS	1113	recF		COG1195	DNA replication and repair protein RecF
+LMPLBELI_00005	gene	1935	gyrB			
+LMPLBELI_00005	CDS	1935	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B

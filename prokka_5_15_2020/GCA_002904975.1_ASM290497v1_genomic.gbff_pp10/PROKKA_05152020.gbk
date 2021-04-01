@@ -1,0 +1,159 @@
+LOCUS       AMIHLCIC_1              4092 bp    DNA     linear       15-MAY-2020
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..4092
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     gene            1657..2007
+                     /locus_tag="AMIHLCIC_00001"
+     CDS             1657..2007
+                     /locus_tag="AMIHLCIC_00001"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:AMIHLCIC_00001"
+                     /translation="MKTTTQELKQYMTRLFQLSNNETWECETLEEAAENILPKRFIND
+                     SPLAHLILETYTYYNNELHELSIYPFLMYSNNQLISIGYLDHFDMDFLYLTDTKNTII
+                     DERHLLKEGGNNHE"
+     gene            2000..2092
+                     /locus_tag="AMIHLCIC_00002"
+     CDS             2000..2092
+                     /locus_tag="AMIHLCIC_00002"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:AMIHLCIC_00002"
+                     /translation="MNNWIKVAQISVTVINEVIDIMKEKQNGGK"
+     gene            2094..2405
+                     /locus_tag="AMIHLCIC_00003"
+     CDS             2094..2405
+                     /locus_tag="AMIHLCIC_00003"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:AMIHLCIC_00003"
+                     /translation="MKINRYITRGISEQLSLDLQILLWNMVKDRDNQLNTDYLHIFKL
+                     QEDDNMLSITHEQEQPAYKLEYHYTNYIKNQNALPKKVYVIREDDVDAFYYVMLLPEE
+                     Y"
+     gene            2421..2924
+                     /locus_tag="AMIHLCIC_00004"
+     CDS             2421..2924
+                     /locus_tag="AMIHLCIC_00004"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:AMIHLCIC_00004"
+                     /translation="MNTIKSTIHTEAIFSDDEQHRYLLKKIWDDKKPACTVITMYLHL
+                     DGVLSLDLTTVLILNQLANSEQYGAVYLVNLFSNIKTPENLKHIKEPYDEHTDIHLMK
+                     AISESDTVILAYGAYAKRPVVIDRVEQVMEMLKPHKKKVKKLINPVTNEVMHPLNPKA
+                     RQKWTLK"
+     gene            2938..3162
+                     /locus_tag="AMIHLCIC_00005"
+     CDS             2938..3162
+                     /locus_tag="AMIHLCIC_00005"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:AMIHLCIC_00005"
+                     /translation="MNHDNTIQSNWRTVASCLASQNYISIVKGLVHHFTAIDDEEILD
+                     KIYEEFINDDSITTVLNNDLQTIINHYLSK"
+     gene            complement(3417..3992)
+                     /locus_tag="AMIHLCIC_00006"
+     CDS             complement(3417..3992)
+                     /locus_tag="AMIHLCIC_00006"
+                     /EC_number="1.1.1.306"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:P80094"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="S-(hydroxymethyl)mycothiol dehydrogenase"
+                     /protein_id="X:AMIHLCIC_00006"
+                     /translation="MVNTAQIRSGSNVAVVGLGGIGLNAIIGAKLAGANEIIALDINE
+                     DKFELAKQFGATATFNSSDKDIDEQIKEYIPGGVEYAFETAGVVPAMKVAYQITKRGG
+                     TTVTTGLPNPKDNFSFPQVTLAAEERTIKGSYVGSCVPDRDIPRFVNLYNQGRLNIDS
+                     LISEVITLDEINEGFDRLSNGEVGRIIMKMH"
+ORIGIN      
+        1 aagtttcaga ctttagcgag gaatggaaac tttctatcgg ggcgttatcg gcaggtgttc
+       61 cctttcggga catacttctg ataatgcctt tttcttcgca caattgataa taagcataag
+      121 atgtataaac gctgccttga tcactatgta atatacaacc ctcaggtata tcgatttgat
+      181 ttaatgtatc attaactaaa ctttggtctt gtttatcatc tattttatac gccacaattt
+      241 ctccgttata aatatccatt atcgaagata aatacaacat agaatgacca aatggtaaat
+      301 aagtaatatc ggttgttaat acttccattg gacaactcgc tttaaattgt ctttgtaata
+      361 aattgtccgt tttataatac ggtttaccta tttttgtcat ctttttaggt ctaactcggc
+      421 agttcaaatg atgcttctgc atcattctct gtactctctt atgattaatt ggtgatgtat
+      481 aacattgatt aatcaatgct gtaatcttac gataaccgta ggtatagtgg ttagctttac
+      541 ataattcaat aactttttgt gttacggtat catttttatg ggttttgttt ttccatcggt
+      601 aatatgttga tttaggtatg tttaatactt ttagtagcaa tttgattgaa tattttactt
+      661 ttaattgatc cactaaatct atgactactg ttggtaccac ttcctttcca ataccttgta
+      721 cttttttaaa atatccaatt ctatatcttt tctcttattt tctaatttta attgttctac
+      781 ttctgacagc tcttctaatc ctttaccgta ggtatattgt ttaccaactt gttgtgaaaa
+      841 tctatatgct agttttggta aaactgagga aggacgctgg atagctaaga atgcccataa
+      901 ttatggattt attataagat atcctaaaaa caaagaaagc atcacaggat atcaatatga
+      961 accttggcat ttacgttatt taggaaaaag aaggcgacaa aagtgtacaa atctggtgaa
+     1021 acattagagg gatttgtagg cttaaaatga tcaatttaaa ataatcgaaa cttcaactac
+     1081 cttattatcg acgaagtgta ttccagcact tcgtctttat ttttaccgca aacattatac
+     1141 cttactattt aataaatcta ttttatatct acatacttcc tctttctttt tctaaaaatt
+     1201 tttgagaatt ctctttatca atttcaataa cacttatcta atgaaacagt cattgtcgta
+     1261 attttttcat aactacacga ggcttatatt gaaattgcta aagaacatcc cacgatgatt
+     1321 ttttatcggg aaaggaatgg gatttgcaga ttagaagaag cagaaggatt gtgcaagcac
+     1381 aatcccaaaa tcccgttatt ctttataaat aaataatata tataaggaag cagagacccc
+     1441 accctatcat caatacttat aaataatgag ttgattgttc gtcaaaatag gcggaatttc
+     1501 gggatttcct tgtcatacca aggtttgtag cggtttttta tatggaattt tctcatattg
+     1561 tcaacgggat cagtaataaa tgacaaatca aatatatatt atctcaatga tgtatatgaa
+     1621 gtacatcact atcacactat ctagggaggc aatgatatga aaacaactac tcaagaactc
+     1681 aaacaatata tgactcgctt attccaatta tctaacaatg aaacatggga atgtgaaaca
+     1741 ctggaggaag cggcagaaaa tattctaccc aaacgtttta ttaatgattc cccacttgca
+     1801 catcttatac ttgaaactta tacctactat aataatgagc tacatgaact aagtatctat
+     1861 ccatttctaa tgtattctaa taaccaactc atcagtattg gttatctgga tcattttgat
+     1921 atggactttc tatacctcac agatactaaa aatacgatta tcgatgaacg tcatttacta
+     1981 aaagaaggag ggaataacca tgaataattg gatcaaagtg gcacaaatat ctgttacagt
+     2041 cattaacgaa gtgattgaca tcatgaaaga aaagcaaaat ggaggaaaat agtatgaaaa
+     2101 tcaatcgata catcacaaga ggcattagtg aacaactatc tctagacctt caaatcttac
+     2161 tttggaacat ggtaaaagat cgagacaatc aacttaatac agattaccta cacattttca
+     2221 aactacaaga agatgataat atgttgtcaa ttacacatga acaagaacaa cccgcataca
+     2281 aattggaata tcactataca aactatataa aaaatcaaaa tgcattacct aagaaagtct
+     2341 acgtcatccg agaagatgat gtagacgctt tttattatgt gatgcttttg ccagaagaat
+     2401 actaaaggaa gtgacgatat atgaatacaa tcaaaagtac gatacacaca gaagcgatat
+     2461 ttagcgatga tgaacaacat cgctacttac tcaaaaagat atgggatgac aagaaaccgg
+     2521 cttgtactgt gataacgatg tatcttcatt tagatggtgt attatcactc gatcttacta
+     2581 cggttctcat cctcaatcaa ttagctaatt ctgagcaata tggcgctgtt tatctcgtta
+     2641 atcttttctc taatattaaa acaccagaga accttaaaca tatcaaagag ccttatgatg
+     2701 agcacacaga tatacactta atgaaagcaa ttagtgaaag tgacacagtc attcttgctt
+     2761 atggtgccta tgcgaagcga ccagttgtta tcgaccgtgt cgaacaagtg atggaaatgt
+     2821 taaaacctca taaaaagaaa gtaaaaaagc tcataaatcc agtaacgaac gaagttatgc
+     2881 atccactcaa ccctaaagca cgtcaaaaat ggacactaaa gtaaaggagt attatctatg
+     2941 aaccatgaca acactataca atccaattgg cgaacggttg ctagttgttt agcatcacaa
+     3001 aattacattt caatagtaaa aggtctggtg catcatttca cagccatcga tgacgaggaa
+     3061 atacttgata aaatctatga agagtttata aatgatgact ctattacaac ggtacttaac
+     3121 aatgatttac aaacaattat taatcattat ctatcaaaat gaaaactata ttctaataaa
+     3181 actagagcat ccttcacttt tgcggtgaag gatgctccta tatctttttt tatctaaaaa
+     3241 aactattagt aattagtttt aaaacattta tcttctaata tatagatatg aaatgtaaaa
+     3301 atacaattag attggcagtc acaatgcaaa tgtaatattt gtcagtaatc ttcctactca
+     3361 aattgttatt cttttcatag aaatcaagag gaggaacgac ttgaattcta ttatattcaa
+     3421 tgcatcttca ttataattct acctacttca ccattagaca aacgatcaaa tccctcatta
+     3481 atttcatcta aagtgataac ctcactgatg agtgaatcaa tatttaaacg tccttggttg
+     3541 tatagattaa cgaaccttgg tatatctctg tcaggtacac aacttcctac atatgatcct
+     3601 ttaatggtac gttcttcagc cgctaaagta acttgaggga aagaaaaatt atctttagga
+     3661 ttaggcagtc ctgttgttac agttgtcccc cctcgtttag taatctgata agcaactttc
+     3721 atagctggca ctacacccgc tgtttcaaaa gcatattcta ctccgccagg aatatattct
+     3781 ttaatttgct catcgatatc tttatcgctt gaattaaatg ttgctgtagc cccaaattgc
+     3841 tttgctaatt caaatttatc ttcgttaata tctaaagcaa taatttcatt ggctcccgct
+     3901 agtttagctc caataatagc attcaatcca atacctccta aaccaacaac cgctacatta
+     3961 ctaccagaac gaatttgggc tgtattcacc acagcaccga tacctgtgat aatagcacaa
+     4021 ccaaatgcag ctgcacgttc aaaaggtatt tttttatcaa ttttaactat agagttttca
+     4081 gagacaacag aa
+//

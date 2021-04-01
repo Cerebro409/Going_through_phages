@@ -1,0 +1,24 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1           24         1478            +         1455      0.50000
+     (bit_score:171.014;e-value:6.58724e-47;identity:27.3%;gi|725950572|ref|YP_009103095.1| site-specific integrase [Enterococcus phage EFC-1])
+
+     2         1886         2350            +          465      0.31943
+
+     3         2437         2748            +          312      0.29086
+
+     4         2760         3269            +          510      0.43760
+
+     5         3582         3800            -          219      0.15944
+

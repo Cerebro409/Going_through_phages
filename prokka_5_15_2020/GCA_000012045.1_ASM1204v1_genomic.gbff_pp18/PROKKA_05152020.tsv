@@ -1,0 +1,37 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MFOEDGJP_00001	gene	192				
+MFOEDGJP_00001	CDS	192				hypothetical protein
+MFOEDGJP_00002	gene	93				
+MFOEDGJP_00002	CDS	93				hypothetical protein
+MFOEDGJP_00003	gene	795				
+MFOEDGJP_00003	CDS	795				putative protein
+MFOEDGJP_00004	gene	288				
+MFOEDGJP_00004	CDS	288				hypothetical protein
+MFOEDGJP_00005	gene	327				
+MFOEDGJP_00005	CDS	327				hypothetical protein
+MFOEDGJP_00006	gene	1275				
+MFOEDGJP_00006	CDS	1275				hypothetical protein
+MFOEDGJP_00007	gene	774				
+MFOEDGJP_00007	CDS	774				putative protein
+MFOEDGJP_00008	gene	783				
+MFOEDGJP_00008	CDS	783				putative lipoprotein
+MFOEDGJP_00009	gene	753				
+MFOEDGJP_00009	CDS	753				putative lipoprotein
+MFOEDGJP_00010	gene	2862	uvrB			
+MFOEDGJP_00010	CDS	2862	uvrB			UvrABC system protein B
+MFOEDGJP_00011	gene	393	nudG			
+MFOEDGJP_00011	CDS	393	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+MFOEDGJP_00012	gene	1836	pgcA			
+MFOEDGJP_00012	CDS	1836	pgcA	5.4.2.2	COG1109	Phosphoglucomutase
+MFOEDGJP_00013	gene	267				
+MFOEDGJP_00013	CDS	267				hypothetical protein
+MFOEDGJP_00014	gene	309				
+MFOEDGJP_00014	CDS	309				hypothetical protein
+MFOEDGJP_00015	gene	171				
+MFOEDGJP_00015	CDS	171				hypothetical protein
+MFOEDGJP_00016	gene	1194				
+MFOEDGJP_00016	CDS	1194				hypothetical protein
+MFOEDGJP_00017	gene	459				
+MFOEDGJP_00017	CDS	459				Putative surface protein
+MFOEDGJP_00018	gene	1953	sasG			
+MFOEDGJP_00018	CDS	1953	sasG			Surface protein G

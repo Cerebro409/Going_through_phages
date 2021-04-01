@@ -1,0 +1,62 @@
+>Feature gnl|X|LPJIBDKK_1
+1659	961	gene
+			gene	ssl7_1
+			locus_tag	LPJIBDKK_00001
+1659	961	CDS
+			gene	ssl7_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3K6Z8
+			locus_tag	LPJIBDKK_00001
+			product	Staphylococcal superantigen-like 7
+			protein_id	gnl|X|LPJIBDKK_00001
+2695	2000	gene
+			gene	ssl7_2
+			locus_tag	LPJIBDKK_00002
+2695	2000	CDS
+			gene	ssl7_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3K6Z8
+			locus_tag	LPJIBDKK_00002
+			product	Staphylococcal superantigen-like 7
+			protein_id	gnl|X|LPJIBDKK_00002
+3847	3143	gene
+			gene	ssl5
+			locus_tag	LPJIBDKK_00003
+3847	3143	CDS
+			gene	ssl5
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3K6Z6
+			locus_tag	LPJIBDKK_00003
+			product	Staphylococcal superantigen-like 5
+			protein_id	gnl|X|LPJIBDKK_00003
+5239	4112	gene
+			gene	ssl3
+			locus_tag	LPJIBDKK_00004
+5239	4112	CDS
+			gene	ssl3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G0X7
+			locus_tag	LPJIBDKK_00004
+			product	Staphylococcal superantigen-like 3
+			protein_id	gnl|X|LPJIBDKK_00004
+6230	5529	gene
+			gene	ssl4
+			locus_tag	LPJIBDKK_00005
+6230	5529	CDS
+			gene	ssl4
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G1S8
+			locus_tag	LPJIBDKK_00005
+			product	Staphylococcal superantigen-like 4
+			protein_id	gnl|X|LPJIBDKK_00005
+7194	6514	gene
+			gene	ssl1
+			locus_tag	LPJIBDKK_00006
+7194	6514	CDS
+			EC_number	3.4.21.-
+			gene	ssl1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3KAV3
+			locus_tag	LPJIBDKK_00006
+			product	Staphylococcal superantigen-like 1
+			protein_id	gnl|X|LPJIBDKK_00006

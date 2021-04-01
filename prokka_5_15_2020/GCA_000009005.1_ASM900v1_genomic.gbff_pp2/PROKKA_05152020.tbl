@@ -1,0 +1,26 @@
+>Feature gnl|X|FAPDFBMB_1
+878	1255	gene
+			locus_tag	FAPDFBMB_00001
+878	1255	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FAPDFBMB_00001
+			product	hypothetical protein
+			protein_id	gnl|X|FAPDFBMB_00001
+1481	1344	gene
+			gene	tarM
+			locus_tag	FAPDFBMB_00002
+1481	1344	CDS
+			EC_number	2.4.1.70
+			gene	tarM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H2WWV6
+			locus_tag	FAPDFBMB_00002
+			product	Poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase
+			protein_id	gnl|X|FAPDFBMB_00002
+2206	2000	gene
+			locus_tag	FAPDFBMB_00003
+2206	2000	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FAPDFBMB_00003
+			product	hypothetical protein
+			protein_id	gnl|X|FAPDFBMB_00003

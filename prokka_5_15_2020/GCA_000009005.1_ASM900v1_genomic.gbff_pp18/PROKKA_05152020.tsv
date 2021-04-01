@@ -1,0 +1,25 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+NDDFKPPL_00001	gene	357				
+NDDFKPPL_00001	CDS	357				DegV domain-containing protein
+NDDFKPPL_00002	gene	534	msrA2			
+NDDFKPPL_00002	CDS	534	msrA2	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA 2
+NDDFKPPL_00003	gene	429	msrB			
+NDDFKPPL_00003	CDS	429	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+NDDFKPPL_00004	gene	501	crr			
+NDDFKPPL_00004	CDS	501	crr			PTS system glucose-specific EIIA component
+NDDFKPPL_00005	gene	222				
+NDDFKPPL_00005	CDS	222				hypothetical protein
+NDDFKPPL_00006	gene	1491				
+NDDFKPPL_00006	CDS	1491		3.4.21.-		putative CtpA-like serine protease
+NDDFKPPL_00007	gene	510				
+NDDFKPPL_00007	CDS	510				hypothetical protein
+NDDFKPPL_00008	gene	1071	murG			
+NDDFKPPL_00008	CDS	1071	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+NDDFKPPL_00009	gene	615				
+NDDFKPPL_00009	CDS	615				hypothetical protein
+NDDFKPPL_00010	gene	201				
+NDDFKPPL_00010	CDS	201				hypothetical protein
+NDDFKPPL_00011	gene	660	arlR			
+NDDFKPPL_00011	CDS	660	arlR		COG0745	Response regulator ArlR
+NDDFKPPL_00012	gene	1356	arlS			
+NDDFKPPL_00012	CDS	1356	arlS	2.7.13.3		Signal transduction histidine-protein kinase ArlS

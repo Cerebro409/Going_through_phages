@@ -1,0 +1,19 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+BLNAMFJI_00001	gene	282				
+BLNAMFJI_00001	CDS	282				hypothetical protein
+BLNAMFJI_00002	gene	696				
+BLNAMFJI_00002	CDS	696		1.-.-.-		putative oxidoreductase
+BLNAMFJI_00003	gene	423				
+BLNAMFJI_00003	CDS	423				hypothetical protein
+BLNAMFJI_00004	gene	420				
+BLNAMFJI_00004	CDS	420				hypothetical protein
+BLNAMFJI_00005	gene	426				
+BLNAMFJI_00005	CDS	426				hypothetical protein
+BLNAMFJI_00006	gene	423				
+BLNAMFJI_00006	CDS	423				hypothetical protein
+BLNAMFJI_00007	gene	1539	abgT			
+BLNAMFJI_00007	CDS	1539	abgT		COG2978	p-aminobenzoyl-glutamate transport protein
+BLNAMFJI_00008	gene	819	bacC			
+BLNAMFJI_00008	CDS	819	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+BLNAMFJI_00009	gene	366				
+BLNAMFJI_00009	CDS	366				hypothetical protein

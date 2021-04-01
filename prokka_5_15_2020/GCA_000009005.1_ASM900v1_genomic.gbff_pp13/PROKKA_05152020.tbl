@@ -1,0 +1,265 @@
+>Feature gnl|X|LGJHLHJI_1
+1625	1065	gene
+			gene	xerD
+			locus_tag	LGJHLHJI_00001
+1625	1065	CDS
+			gene	xerD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01807
+			locus_tag	LGJHLHJI_00001
+			product	Tyrosine recombinase XerD
+			protein_id	gnl|X|LGJHLHJI_00001
+1780	1983	gene
+			locus_tag	LGJHLHJI_00002
+1780	1983	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LGJHLHJI_00002
+			product	hypothetical protein
+			protein_id	gnl|X|LGJHLHJI_00002
+2000	2224	gene
+			locus_tag	LGJHLHJI_00003
+2000	2224	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LGJHLHJI_00003
+			product	hypothetical protein
+			protein_id	gnl|X|LGJHLHJI_00003
+2420	3349	gene
+			locus_tag	LGJHLHJI_00004
+2420	3349	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LGJHLHJI_00004
+			product	hypothetical protein
+			protein_id	gnl|X|LGJHLHJI_00004
+4297	4671	gene
+			gene	sarA
+			locus_tag	LGJHLHJI_00005
+4297	4671	CDS
+			gene	sarA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A1N5
+			locus_tag	LGJHLHJI_00005
+			product	Transcriptional regulator SarA
+			protein_id	gnl|X|LGJHLHJI_00005
+5710	4922	gene
+			gene	pip
+			locus_tag	LGJHLHJI_00006
+5710	4922	CDS
+			EC_number	3.4.11.5
+			gene	pip
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46541
+			locus_tag	LGJHLHJI_00006
+			product	Proline iminopeptidase
+			protein_id	gnl|X|LGJHLHJI_00006
+6595	5879	gene
+			locus_tag	LGJHLHJI_00007
+6595	5879	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LGJHLHJI_00007
+			product	hypothetical protein
+			protein_id	gnl|X|LGJHLHJI_00007
+7263	6757	gene
+			locus_tag	LGJHLHJI_00008
+7263	6757	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LGJHLHJI_00008
+			product	hypothetical protein
+			protein_id	gnl|X|LGJHLHJI_00008
+8199	7399	gene
+			locus_tag	LGJHLHJI_00009
+8199	7399	CDS
+			db_xref	COG:COG0596
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WNH3
+			locus_tag	LGJHLHJI_00009
+			product	putative protein
+			protein_id	gnl|X|LGJHLHJI_00009
+8902	8183	gene
+			gene	hdl IVa
+			locus_tag	LGJHLHJI_00010
+8902	8183	CDS
+			EC_number	3.8.1.2
+			gene	hdl IVa
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q51645
+			locus_tag	LGJHLHJI_00010
+			product	(S)-2-haloacid dehalogenase 4A
+			protein_id	gnl|X|LGJHLHJI_00010
+9943	8957	gene
+			locus_tag	LGJHLHJI_00011
+9943	8957	CDS
+			db_xref	COG:COG0609
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q57130
+			locus_tag	LGJHLHJI_00011
+			product	putative ABC transporter permease protein
+			protein_id	gnl|X|LGJHLHJI_00011
+10943	10056	gene
+			gene	btuF
+			locus_tag	LGJHLHJI_00012
+10943	10056	CDS
+			db_xref	COG:COG0614
+			gene	btuF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37028
+			locus_tag	LGJHLHJI_00012
+			product	Vitamin B12-binding protein
+			protein_id	gnl|X|LGJHLHJI_00012
+11951	11316	gene
+			gene	nth
+			locus_tag	LGJHLHJI_00013
+11951	11316	CDS
+			EC_number	4.2.99.18
+			gene	nth
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00942
+			locus_tag	LGJHLHJI_00013
+			product	Endonuclease III
+			protein_id	gnl|X|LGJHLHJI_00013
+13946	12285	gene
+			gene	argS
+			locus_tag	LGJHLHJI_00014
+13946	12285	CDS
+			EC_number	6.1.1.19
+			gene	argS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99W05
+			locus_tag	LGJHLHJI_00014
+			product	Arginine--tRNA ligase
+			protein_id	gnl|X|LGJHLHJI_00014
+14371	13943	gene
+			gene	ywiB
+			locus_tag	LGJHLHJI_00015
+14371	13943	CDS
+			db_xref	COG:COG4506
+			gene	ywiB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O07624
+			locus_tag	LGJHLHJI_00015
+			product	putative beta-barrel protein YwiB
+			protein_id	gnl|X|LGJHLHJI_00015
+15646	14636	gene
+			gene	adh
+			locus_tag	LGJHLHJI_00016
+15646	14636	CDS
+			EC_number	1.1.1.1
+			gene	adh
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A742
+			locus_tag	LGJHLHJI_00016
+			product	Alcohol dehydrogenase
+			protein_id	gnl|X|LGJHLHJI_00016
+16666	16145	gene
+			locus_tag	LGJHLHJI_00017
+16666	16145	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LGJHLHJI_00017
+			product	hypothetical protein
+			protein_id	gnl|X|LGJHLHJI_00017
+17989	16694	gene
+			locus_tag	LGJHLHJI_00018
+17989	16694	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LGJHLHJI_00018
+			product	hypothetical protein
+			protein_id	gnl|X|LGJHLHJI_00018
+18505	18029	gene
+			locus_tag	LGJHLHJI_00019
+18505	18029	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LGJHLHJI_00019
+			product	hypothetical protein
+			protein_id	gnl|X|LGJHLHJI_00019
+19210	18674	gene
+			gene	ywqN
+			locus_tag	LGJHLHJI_00020
+19210	18674	CDS
+			EC_number	1.-.-.-
+			db_xref	COG:COG0655
+			gene	ywqN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P96726
+			locus_tag	LGJHLHJI_00020
+			product	Putative NAD(P)H-dependent FMN-containing oxidoreductase YwqN
+			protein_id	gnl|X|LGJHLHJI_00020
+20646	19708	gene
+			gene	iolS
+			locus_tag	LGJHLHJI_00021
+20646	19708	CDS
+			EC_number	1.1.1.-
+			db_xref	COG:COG0667
+			gene	iolS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46336
+			locus_tag	LGJHLHJI_00021
+			product	Aldo-keto reductase IolS
+			protein_id	gnl|X|LGJHLHJI_00021
+21735	21094	gene
+			locus_tag	LGJHLHJI_00022
+21735	21094	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LGJHLHJI_00022
+			product	hypothetical protein
+			protein_id	gnl|X|LGJHLHJI_00022
+22414	21866	gene
+			locus_tag	LGJHLHJI_00023
+22414	21866	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LGJHLHJI_00023
+			product	hypothetical protein
+			protein_id	gnl|X|LGJHLHJI_00023
+23165	22533	gene
+			locus_tag	LGJHLHJI_00024
+23165	22533	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LGJHLHJI_00024
+			product	hypothetical protein
+			protein_id	gnl|X|LGJHLHJI_00024
+24563	23169	gene
+			locus_tag	LGJHLHJI_00025
+24563	23169	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LGJHLHJI_00025
+			product	hypothetical protein
+			protein_id	gnl|X|LGJHLHJI_00025
+25187	25627	gene
+			locus_tag	LGJHLHJI_00026
+25187	25627	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LGJHLHJI_00026
+			product	hypothetical protein
+			protein_id	gnl|X|LGJHLHJI_00026
+25614	26936	gene
+			gene	rclA
+			locus_tag	LGJHLHJI_00027
+25614	26936	CDS
+			db_xref	COG:COG1249
+			gene	rclA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77212
+			locus_tag	LGJHLHJI_00027
+			product	putative pyridine nucleotide-disulfide oxidoreductase RclA
+			protein_id	gnl|X|LGJHLHJI_00027
+27329	26988	gene
+			locus_tag	LGJHLHJI_00028
+27329	26988	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LGJHLHJI_00028
+			product	hypothetical protein
+			protein_id	gnl|X|LGJHLHJI_00028
+28582	27506	gene
+			locus_tag	LGJHLHJI_00029
+28582	27506	CDS
+			EC_number	2.7.4.2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9KWG3
+			locus_tag	LGJHLHJI_00029
+			product	Phosphomevalonate kinase
+			protein_id	gnl|X|LGJHLHJI_00029
+29269	28595	gene
+			locus_tag	LGJHLHJI_00030
+29269	28595	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LGJHLHJI_00030
+			product	hypothetical protein
+			protein_id	gnl|X|LGJHLHJI_00030

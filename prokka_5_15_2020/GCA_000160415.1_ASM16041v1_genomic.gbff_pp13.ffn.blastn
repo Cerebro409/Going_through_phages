@@ -1,0 +1,363 @@
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00001 30S ribosomal protein S8
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00001	EFEAKEDL_00001	100.000	399	100	399	399	0	0.0	737
+EFEAKEDL_00001	DENJFJGE_00006	100.000	399	100	399	399	0	0.0	737
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00002 50S ribosomal protein L6
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00002	EFEAKEDL_00002	100.000	537	100	537	537	0	0.0	992
+EFEAKEDL_00002	DENJFJGE_00007	99.628	537	100	537	537	2	0.0	981
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00003 50S ribosomal protein L18
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00003	EFEAKEDL_00003	100.000	360	100	360	360	0	0.0	665
+EFEAKEDL_00003	DENJFJGE_00008	100.000	360	100	360	360	0	0.0	665
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00004 30S ribosomal protein S5
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00004	EFEAKEDL_00004	100.000	501	100	501	501	0	0.0	926
+EFEAKEDL_00004	DENJFJGE_00009	99.800	501	100	501	501	1	0.0	920
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00005 50S ribosomal protein L30
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00005	EFEAKEDL_00005	100.000	180	100	180	180	0	1.60e-92	333
+EFEAKEDL_00005	DENJFJGE_00010	100.000	180	100	180	180	0	1.60e-92	333
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00006 50S ribosomal protein L15
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00006	EFEAKEDL_00006	100.000	441	100	441	441	0	0.0	815
+EFEAKEDL_00006	DENJFJGE_00011	100.000	441	100	441	441	0	0.0	815
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00007 Protein translocase subunit SecY
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00007	EFEAKEDL_00007	100.000	1293	100	1293	1293	0	0.0	2388
+EFEAKEDL_00007	DENJFJGE_00012	99.923	1293	100	1293	1293	1	0.0	2383
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00008 Adenylate kinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00008	EFEAKEDL_00008	100.000	648	100	648	648	0	0.0	1197
+EFEAKEDL_00008	DENJFJGE_00013	100.000	648	100	648	648	0	0.0	1197
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00009 Translation initiation factor IF-1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00009	EFEAKEDL_00009	100.000	219	100	219	219	0	4.16e-114	405
+EFEAKEDL_00009	DENJFJGE_00014	100.000	219	100	219	219	0	4.16e-114	405
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00010 50S ribosomal protein L36
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00010	EFEAKEDL_00010	100.000	114	100	114	114	0	4.66e-56	211
+EFEAKEDL_00010	DENJFJGE_00015	100.000	114	100	114	114	0	4.66e-56	211
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00011 30S ribosomal protein S13
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00011	EFEAKEDL_00011	100.000	366	100	366	366	0	0.0	676
+EFEAKEDL_00011	DENJFJGE_00016	100.000	366	100	366	366	0	0.0	676
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00012 30S ribosomal protein S11
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00012	EFEAKEDL_00012	100.000	390	100	390	390	0	0.0	721
+EFEAKEDL_00012	DENJFJGE_00017	99.744	390	100	390	390	1	0.0	715
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00013 DNA-directed RNA polymerase subunit alpha
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00013	EFEAKEDL_00013	100.000	945	100	945	945	0	0.0	1746
+EFEAKEDL_00013	DENJFJGE_00018	99.894	945	100	945	945	1	0.0	1740
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00014 50S ribosomal protein L17
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00014	EFEAKEDL_00014	100.000	369	100	369	369	0	0.0	682
+EFEAKEDL_00014	DENJFJGE_00019	100.000	369	100	369	369	0	0.0	682
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00015 Energy-coupling factor transporter ATP-binding protein EcfA1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00015	EFEAKEDL_00015	100.000	921	100	921	921	0	0.0	1701
+EFEAKEDL_00015	DENJFJGE_00020	98.588	921	100	921	921	13	0.0	1629
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00016 Energy-coupling factor transporter ATP-binding protein EcfA2
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00016	EFEAKEDL_00016	100.000	861	100	861	861	0	0.0	1591
+EFEAKEDL_00016	DENJFJGE_00021	98.839	861	100	861	861	10	0.0	1535
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00017 Energy-coupling factor transporter transmembrane protein EcfT
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00017	EFEAKEDL_00017	100.000	807	100	807	807	0	0.0	1491
+EFEAKEDL_00017	DENJFJGE_00022	98.141	807	100	807	807	15	0.0	1408
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00018 tRNA pseudouridine synthase A
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00018	EFEAKEDL_00018	100.000	804	100	804	804	0	0.0	1485
+EFEAKEDL_00018	DENJFJGE_00023	97.886	804	100	804	804	17	0.0	1391
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00019 50S ribosomal protein L13
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00019	EFEAKEDL_00019	100.000	438	100	438	438	0	0.0	809
+EFEAKEDL_00019	DENJFJGE_00024	99.543	438	100	438	438	2	0.0	798
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00020 30S ribosomal protein S9
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00020	EFEAKEDL_00020	100.000	399	100	399	399	0	0.0	737
+EFEAKEDL_00020	DENJFJGE_00025	100.000	399	100	399	399	0	0.0	737
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00021 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+EFEAKEDL_00021	EFEAKEDL_00021	100.000	1098	100	1098	1098	0	0.0	2028
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00022 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+EFEAKEDL_00022	EFEAKEDL_00022	100.000	294	100	294	294	0	1.16e-155	544
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00023 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+EFEAKEDL_00023	EFEAKEDL_00023	100.000	792	100	792	792	0	0.0	1463
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00024 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+EFEAKEDL_00024	EFEAKEDL_00024	100.000	1137	100	1137	1137	0	0.0	2100
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00025 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+EFEAKEDL_00025	EFEAKEDL_00025	100.000	1407	100	1407	1407	0	0.0	2599
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00026 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+EFEAKEDL_00026	EFEAKEDL_00026	100.000	225	100	225	225	0	1.98e-117	416
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00027 Acetolactate synthase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00027	EFEAKEDL_00027	100.000	1665	100	1665	1665	0	0.0	3075
+EFEAKEDL_00027	DENJFJGE_00027	96.036	1665	100	1665	1665	66	0.0	2710
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00028 Alpha-acetolactate decarboxylase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00028	EFEAKEDL_00028	100.000	705	100	705	705	0	0.0	1303
+EFEAKEDL_00028	DENJFJGE_00028	95.319	705	100	705	705	33	0.0	1120
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00029 65 kDa membrane protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00029	EFEAKEDL_00029	100.000	426	100	426	426	0	0.0	787
+EFEAKEDL_00029	DENJFJGE_00029	96.948	426	100	426	426	13	0.0	715
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00030 putative hydrolase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00030	EFEAKEDL_00030	100.000	816	100	816	816	0	0.0	1507
+EFEAKEDL_00030	DENJFJGE_00030	99.142	816	100	816	816	7	0.0	1469
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00031 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00031	EFEAKEDL_00031	100.000	855	100	855	855	0	0.0	1580
+EFEAKEDL_00031	DENJFJGE_00033	97.310	855	100	855	855	23	0.0	1452
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00032 Hyaluronate lyase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00032	EFEAKEDL_00032	100.000	2424	100	2424	2424	0	0.0	4477
+EFEAKEDL_00032	DENJFJGE_00034	88.953	2424	100	2427	2435	250	0.0	2988
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00033 HTH-type transcriptional regulator AdhR
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00033	EFEAKEDL_00033	100.000	417	100	417	417	0	0.0	771
+EFEAKEDL_00033	DENJFJGE_00035	98.561	417	100	417	417	6	0.0	737
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00034 putative oxidoreductase/MSMEI_2347
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00034	EFEAKEDL_00034	100.000	849	100	849	849	0	0.0	1568
+EFEAKEDL_00034	DENJFJGE_00036	99.293	849	100	849	849	6	0.0	1535
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00035 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00035	EFEAKEDL_00035	100.000	435	100	435	435	0	0.0	804
+EFEAKEDL_00035	DENJFJGE_00038	98.391	435	100	609	435	7	0.0	765
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00036 NAD-dependent protein deacetylase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00036	EFEAKEDL_00036	100.000	741	100	741	741	0	0.0	1369
+EFEAKEDL_00036	DENJFJGE_00039	97.571	741	100	741	741	18	0.0	1269
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00037 Lactose phosphotransferase system repressor
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00037	EFEAKEDL_00037	100.000	792	100	792	792	0	0.0	1463
+EFEAKEDL_00037	DENJFJGE_00040	99.242	792	100	792	792	6	0.0	1430
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00038 Galactose-6-phosphate isomerase subunit LacA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00038	EFEAKEDL_00038	100.000	429	100	429	429	0	0.0	793
+EFEAKEDL_00038	DENJFJGE_00041	99.533	429	99	429	428	2	0.0	780
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00039 Galactose-6-phosphate isomerase subunit LacB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00039	EFEAKEDL_00039	100.000	516	100	516	516	0	0.0	953
+EFEAKEDL_00039	DENJFJGE_00042	99.419	516	100	516	516	3	0.0	937
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00040 Tagatose-6-phosphate kinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00040	EFEAKEDL_00040	100.000	933	100	933	933	0	0.0	1724
+EFEAKEDL_00040	DENJFJGE_00043	98.714	933	100	933	933	12	0.0	1657
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00041 Tagatose 1,6-diphosphate aldolase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00041	EFEAKEDL_00041	100.000	981	100	981	981	0	0.0	1812
+EFEAKEDL_00041	DENJFJGE_00044	98.165	981	100	981	981	18	0.0	1712
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00042 PTS system lactose-specific EIIA component
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00042	EFEAKEDL_00042	100.000	312	100	312	312	0	1.22e-165	577
+EFEAKEDL_00042	DENJFJGE_00045	98.718	312	100	312	312	4	5.70e-159	555
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00043 PTS system lactose-specific EIICB component
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00043	EFEAKEDL_00043	100.000	1713	100	1713	1713	0	0.0	3164
+EFEAKEDL_00043	DENJFJGE_00046	99.066	1713	100	1713	1713	16	0.0	3075
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00044 6-phospho-beta-galactosidase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00044	EFEAKEDL_00044	100.000	1413	100	1413	1413	0	0.0	2610
+EFEAKEDL_00044	DENJFJGE_00047	98.938	1413	100	1413	1413	15	0.0	2527
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00045 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00045	EFEAKEDL_00045	100.000	885	100	885	885	0	0.0	1635
+EFEAKEDL_00045	DENJFJGE_00048	99.774	885	100	885	885	2	0.0	1624
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00046 Putative NADP-dependent oxidoreductase YfmJ
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00046	EFEAKEDL_00046	100.000	1005	100	1005	1005	0	0.0	1857
+EFEAKEDL_00046	DENJFJGE_00049	99.502	1005	100	1005	1005	5	0.0	1829
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00047 Zinc-type alcohol dehydrogenase-like protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00047	EFEAKEDL_00047	100.000	1002	100	1002	1002	0	0.0	1851
+EFEAKEDL_00047	DENJFJGE_00050	96.729	1002	100	1008	1009	25	0.0	1674
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00048 Glycine betaine transporter OpuD
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00048	EFEAKEDL_00048	100.000	1563	100	1563	1563	0	0.0	2887
+EFEAKEDL_00048	DENJFJGE_00051	98.784	1563	100	1563	1563	19	0.0	2782
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00049 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00049	EFEAKEDL_00049	100.000	537	100	537	537	0	0.0	992
+EFEAKEDL_00049	DENJFJGE_00052	99.628	537	100	537	537	2	0.0	981
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00050 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00050	EFEAKEDL_00050	100.000	240	100	240	240	0	9.75e-126	444
+EFEAKEDL_00050	DENJFJGE_00053	99.167	240	100	240	240	2	2.11e-122	433
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00051 Alkaline shock protein 23
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+EFEAKEDL_00051	EFEAKEDL_00051	100.000	510	100	510	510	0	0.0	942
+EFEAKEDL_00051	DENJFJGE_00054	97.255	510	100	510	510	14	0.0	865
+# BLASTN 2.9.0+
+# Query: EFEAKEDL_00052 IS1182 family transposase ISSau3
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+EFEAKEDL_00052	EFEAKEDL_00052	100.000	312	100	312	312	0	1.22e-165	577
+EFEAKEDL_00052	DGPDLLBB_00001	96.795	312	100	345	312	10	5.79e-149	521
+EFEAKEDL_00052	FIMMPJNN_00001	96.795	312	100	345	312	10	5.79e-149	521
+EFEAKEDL_00052	CEGCFJMI_00004	98.378	312	59	186	185	3	4.87e-90	326
+EFEAKEDL_00052	CMLBKDKH_00049	85.809	312	96	1524	303	38	2.93e-87	316
+EFEAKEDL_00052	DGPDLLBB_00093	98.266	312	55	174	173	3	2.28e-83	303
+# BLAST processed 52 queries

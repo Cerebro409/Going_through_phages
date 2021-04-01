@@ -1,0 +1,58 @@
+>Feature gnl|X|ADGJDBML_1
+1591	1247	gene
+			gene	mrpC
+			locus_tag	ADGJDBML_00001
+1591	1247	CDS
+			db_xref	COG:COG1006
+			gene	mrpC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RGZ3
+			locus_tag	ADGJDBML_00001
+			product	Na(+)/H(+) antiporter subunit C
+			protein_id	gnl|X|ADGJDBML_00001
+2013	1588	gene
+			gene	mrpB
+			locus_tag	ADGJDBML_00002
+2013	1588	CDS
+			db_xref	COG:COG2111
+			gene	mrpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RGZ4
+			locus_tag	ADGJDBML_00002
+			product	Na(+)/H(+) antiporter subunit B
+			protein_id	gnl|X|ADGJDBML_00002
+4402	2000	gene
+			gene	mrpA
+			locus_tag	ADGJDBML_00003
+4402	2000	CDS
+			db_xref	COG:COG1009
+			gene	mrpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9K2S2
+			locus_tag	ADGJDBML_00003
+			product	Na(+)/H(+) antiporter subunit A
+			protein_id	gnl|X|ADGJDBML_00003
+4981	4421	gene
+			gene	xerD
+			locus_tag	ADGJDBML_00004
+4981	4421	CDS
+			gene	xerD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01807
+			locus_tag	ADGJDBML_00004
+			product	Tyrosine recombinase XerD
+			protein_id	gnl|X|ADGJDBML_00004
+5136	5339	gene
+			locus_tag	ADGJDBML_00005
+5136	5339	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ADGJDBML_00005
+			product	hypothetical protein
+			protein_id	gnl|X|ADGJDBML_00005
+5356	5580	gene
+			locus_tag	ADGJDBML_00006
+5356	5580	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	ADGJDBML_00006
+			product	hypothetical protein
+			protein_id	gnl|X|ADGJDBML_00006

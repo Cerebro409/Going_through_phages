@@ -1,0 +1,86 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1          230         1375            +         1146      0.30572
+
+     2         1459         1791            +          333      0.34579
+
+     3         2000         3340            -         1341      0.35316
+
+     4         3569         7084            +         3516      0.37987
+
+     5         7104         7982            +          879      0.32240
+     (bit_score:160.999;e-value:1.54723e-45;identity:21.2%;gi|1068513086|ref|YP_009276820.1| DNA polymerase I [Bacillus phage BalMu-1])
+
+     6         8456         9574            +         1119      0.37733
+
+     7         9669        10709            +         1041      0.38114
+
+     8        10740        12062            +         1323      0.18205
+
+     9        12089        13612            +         1524      0.14584
+
+    10        14751        41573            +        26823      0.50000
+
+    11        41607        45878            +         4272      0.42184
+
+    12        45937        46338            -          402      0.36602
+
+    13        46718        47422            -          705      0.19881
+
+    14        47632        48222            -          591      0.08240
+
+    15        47873        48124            +          252      0.24775
+
+    16        48162        49286            +         1125      0.31899
+
+    17        49302        49739            +          438      0.36950
+
+    18        50163        51119            +          957      0.35850
+     (bit_score:591.267;e-value:0.0;identity:84.9%;gi|985761245|ref|YP_009226831.1| thymidylate synthase [Staphylococcus phage SPbeta-like])
+     (bit_score:306.22;e-value:3.02831e-103;identity:52.7%;gi|849060217|ref|YP_009151583.1| thymidylate synthase [Bacillus phage Moonbeam])
+     (bit_score:295.434;e-value:4.24704e-99;identity:54.4%;gi|1068358928|ref|YP_009275258.1| thymidylate synthase-like protein [Bacillus phage Shbh1])
+
+    19        51319        51798            +          480      0.31033
+     (bit_score:274.248;e-value:2.74237e-95;identity:78.8%;gi|985761244|ref|YP_009226830.1| dihydrofolate reductase type 1 [Staphylococcus phage SPbeta-like])
+
+    20        51813        52652            +          840      0.38252
+     (bit_score:202.601;e-value:2.89791e-65;identity:68.9%;gi|985761237|ref|YP_009226823.1| DegV domain-containing protein [Staphylococcus phage SPbeta-like])
+
+    21        52738        53271            +          534      0.31705
+
+    22        53264        53692            +          429      0.23855
+     (bit_score:165.622;e-value:3.40041e-50;identity:21.1%;gi|16271776|ref|NP_438113.1| putative methionine sulfoxide reductase [Streptococcus pyogenes])
+
+    23        53704        54204            +          501      0.22537
+
+    24        54204        54425            +          222      0.19628
+
+    25        54614        56104            +         1491      0.40396
+
+    26        56501        57010            +          510      0.29080
+
+    27        57022        58092            +         1071      0.36287
+
+    28        58109        58723            +          615      0.16684
+
+    29        58840        59040            +          201      0.18773
+
+    30        59511        60248            +          738      0.27585
+
+    31        60167        61522            +         1356      0.31753
+
+    32        61974        62264            -          291      0.07812
+
+    33        62478        62933            -          456      0.04166
+

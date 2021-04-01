@@ -1,0 +1,48 @@
+>Feature gnl|X|EPIDIIBF_1
+719	1069	gene
+			locus_tag	EPIDIIBF_00001
+719	1069	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EPIDIIBF_00001
+			product	hypothetical protein
+			protein_id	gnl|X|EPIDIIBF_00001
+1062	1154	gene
+			locus_tag	EPIDIIBF_00002
+1062	1154	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EPIDIIBF_00002
+			product	hypothetical protein
+			protein_id	gnl|X|EPIDIIBF_00002
+1156	1467	gene
+			locus_tag	EPIDIIBF_00003
+1156	1467	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EPIDIIBF_00003
+			product	hypothetical protein
+			protein_id	gnl|X|EPIDIIBF_00003
+1483	1986	gene
+			locus_tag	EPIDIIBF_00004
+1483	1986	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EPIDIIBF_00004
+			product	hypothetical protein
+			protein_id	gnl|X|EPIDIIBF_00004
+2000	2224	gene
+			locus_tag	EPIDIIBF_00005
+2000	2224	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EPIDIIBF_00005
+			product	hypothetical protein
+			protein_id	gnl|X|EPIDIIBF_00005
+3606	2479	gene
+			gene	adhD
+			locus_tag	EPIDIIBF_00006
+3606	2479	CDS
+			EC_number	1.1.1.1
+			db_xref	COG:COG1062
+			gene	adhD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WQB9
+			locus_tag	EPIDIIBF_00006
+			product	Putative alcohol dehydrogenase D
+			protein_id	gnl|X|EPIDIIBF_00006

@@ -1,0 +1,94 @@
+Discrepancy Report Results
+
+Summary
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:gene: 26 present
+DISC_FEATURE_COUNT:CDS: 25 present
+DISC_FEATURE_COUNT:tRNA: 1 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+SUSPECT_PRODUCT_NAMES:1 product_names contain suspect phrase or characters
+	FATAL: Remove organism from product name
+		1 features contains 'staphylococcal'
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:2 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:26 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::gene: 26 present
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 25 present
+DiscRep_ALL:DISC_FEATURE_COUNT::tRNA: 1 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_1 (length 21683)
+
+DiscRep_ALL:SUSPECT_PRODUCT_NAMES::1 product_names contain suspect phrase or characters
+FATAL: DiscRep_SUB:SUSPECT_PRODUCT_NAMES::Remove organism from product name
+DiscRep_SUB:DISC_PRODUCT_NAME_QUICKFIX::1 features contains 'staphylococcal'
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:CDS	Staphylococcal complement inhibitor	APIDFFDB_1:c21054-20704	APIDFFDB_00025
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::2 protein sequences are shorter than 50 aa.
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00007 (length 44)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00008 (length 44)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_1 (length 21683)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_1 (length 21683)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_1 (length 21683)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_1 (length 21683)
+
+DiscRep_ALL:MISSING_PROJECT::26 sequences do not include project.
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_1 (length 21683)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00001 (length 133)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00002 (length 311)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00003 (length 143)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00004 (length 537)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00005 (length 146)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00006 (length 231)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00007 (length 44)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00008 (length 44)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00010 (length 62)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00011 (length 315)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00012 (length 75)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00013 (length 518)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00014 (length 311)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00015 (length 333)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00016 (length 241)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00017 (length 241)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00018 (length 248)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00019 (length 65)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00020 (length 65)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00021 (length 319)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00022 (length 77)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00023 (length 61)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00024 (length 73)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00025 (length 116)
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_00026 (length 135)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+GCA_900081425.1_12641_2_75_genomic.gbff_pp22/PROKKA_05152020:X:APIDFFDB_1 (length 21683)
+

@@ -1,0 +1,400 @@
+>Feature gnl|X|IBPBOOHP_1
+140	451	gene
+			gene	rpsA
+			locus_tag	IBPBOOHP_00001
+140	451	CDS
+			gene	rpsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5J0
+			locus_tag	IBPBOOHP_00001
+			product	30S ribosomal protein S1
+			protein_id	gnl|X|IBPBOOHP_00001
+673	1983	gene
+			gene	der_1
+			locus_tag	IBPBOOHP_00002
+673	1983	CDS
+			gene	der_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64060
+			locus_tag	IBPBOOHP_00002
+			product	GTPase Der
+			protein_id	gnl|X|IBPBOOHP_00002
+2000	2998	gene
+			gene	gpsA
+			locus_tag	IBPBOOHP_00003
+2000	2998	CDS
+			EC_number	1.1.1.94
+			gene	gpsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64191
+			locus_tag	IBPBOOHP_00003
+			product	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+			protein_id	gnl|X|IBPBOOHP_00003
+3169	3441	gene
+			gene	hup
+			locus_tag	IBPBOOHP_00004
+3169	3441	CDS
+			gene	hup
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5J1
+			locus_tag	IBPBOOHP_00004
+			product	DNA-binding protein HU
+			protein_id	gnl|X|IBPBOOHP_00004
+3872	4444	gene
+			locus_tag	IBPBOOHP_00005
+3872	4444	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	IBPBOOHP_00005
+			product	hypothetical protein
+			protein_id	gnl|X|IBPBOOHP_00005
+4447	5172	gene
+			gene	menG
+			locus_tag	IBPBOOHP_00006
+4447	5172	CDS
+			EC_number	2.1.1.163
+			gene	menG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67062
+			locus_tag	IBPBOOHP_00006
+			product	Demethylmenaquinone methyltransferase
+			protein_id	gnl|X|IBPBOOHP_00006
+5189	6133	gene
+			gene	hepT
+			locus_tag	IBPBOOHP_00007
+5189	6133	CDS
+			EC_number	2.5.1.30
+			db_xref	COG:COG0142
+			gene	hepT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31114
+			locus_tag	IBPBOOHP_00007
+			product	Heptaprenyl diphosphate synthase component 2
+			protein_id	gnl|X|IBPBOOHP_00007
+6225	6674	gene
+			gene	ndk
+			locus_tag	IBPBOOHP_00008
+6225	6674	CDS
+			EC_number	2.7.4.6
+			gene	ndk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99068
+			locus_tag	IBPBOOHP_00008
+			product	Nucleoside diphosphate kinase
+			protein_id	gnl|X|IBPBOOHP_00008
+6884	7084	gene
+			locus_tag	IBPBOOHP_00009
+6884	7084	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	IBPBOOHP_00009
+			product	hypothetical protein
+			protein_id	gnl|X|IBPBOOHP_00009
+7471	8637	gene
+			gene	aroC
+			locus_tag	IBPBOOHP_00010
+7471	8637	CDS
+			EC_number	4.2.3.5
+			db_xref	COG:COG0082
+			gene	aroC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q59803
+			locus_tag	IBPBOOHP_00010
+			product	Chorismate synthase
+			protein_id	gnl|X|IBPBOOHP_00010
+8663	9727	gene
+			gene	aroB
+			locus_tag	IBPBOOHP_00011
+8663	9727	CDS
+			EC_number	4.2.3.4
+			gene	aroB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6GGU4
+			locus_tag	IBPBOOHP_00011
+			product	3-dehydroquinate synthase
+			protein_id	gnl|X|IBPBOOHP_00011
+9737	11035	gene
+			gene	aroA
+			locus_tag	IBPBOOHP_00012
+9737	11035	CDS
+			EC_number	2.5.1.19
+			gene	aroA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63585
+			locus_tag	IBPBOOHP_00012
+			product	3-phosphoshikimate 1-carboxyvinyltransferase
+			protein_id	gnl|X|IBPBOOHP_00012
+11042	12286	gene
+			gene	bepA
+			locus_tag	IBPBOOHP_00013
+11042	12286	CDS
+			EC_number	3.4.-.-
+			gene	bepA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00997
+			locus_tag	IBPBOOHP_00013
+			product	Beta-barrel assembly-enhancing protease
+			protein_id	gnl|X|IBPBOOHP_00013
+12288	12875	gene
+			locus_tag	IBPBOOHP_00014
+12288	12875	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	IBPBOOHP_00014
+			product	hypothetical protein
+			protein_id	gnl|X|IBPBOOHP_00014
+12865	13452	gene
+			locus_tag	IBPBOOHP_00015
+12865	13452	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	IBPBOOHP_00015
+			product	hypothetical protein
+			protein_id	gnl|X|IBPBOOHP_00015
+13506	14204	gene
+			locus_tag	IBPBOOHP_00016
+13506	14204	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	IBPBOOHP_00016
+			product	hypothetical protein
+			protein_id	gnl|X|IBPBOOHP_00016
+14541	14858	gene
+			gene	ypjD
+			locus_tag	IBPBOOHP_00017
+14541	14858	CDS
+			db_xref	COG:COG1694
+			gene	ypjD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42979
+			locus_tag	IBPBOOHP_00017
+			product	putative protein YpjD
+			protein_id	gnl|X|IBPBOOHP_00017
+15096	16238	gene
+			gene	bshA
+			locus_tag	IBPBOOHP_00018
+15096	16238	CDS
+			EC_number	2.4.1.-
+			db_xref	COG:COG0438
+			gene	bshA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q81ST7
+			locus_tag	IBPBOOHP_00018
+			product	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+			protein_id	gnl|X|IBPBOOHP_00018
+16243	17445	gene
+			gene	cca
+			locus_tag	IBPBOOHP_00019
+16243	17445	CDS
+			EC_number	2.7.7.72
+			gene	cca
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7SIB1
+			locus_tag	IBPBOOHP_00019
+			product	CCA-adding enzyme
+			protein_id	gnl|X|IBPBOOHP_00019
+17432	18403	gene
+			gene	birA
+			locus_tag	IBPBOOHP_00020
+17432	18403	CDS
+			EC_number	6.3.4.15
+			db_xref	COG:COG0340
+			gene	birA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0CI75
+			locus_tag	IBPBOOHP_00020
+			product	Bifunctional ligase/repressor BirA
+			protein_id	gnl|X|IBPBOOHP_00020
+18427	21120	gene
+			gene	dinG
+			locus_tag	IBPBOOHP_00021
+18427	21120	CDS
+			EC_number	3.1.-.-
+			gene	dinG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5K4
+			locus_tag	IBPBOOHP_00021
+			product	3'-5' exonuclease DinG
+			protein_id	gnl|X|IBPBOOHP_00021
+21442	22734	gene
+			gene	asnS
+			locus_tag	IBPBOOHP_00022
+21442	22734	CDS
+			EC_number	6.1.1.22
+			gene	asnS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67572
+			locus_tag	IBPBOOHP_00022
+			product	Asparagine--tRNA ligase
+			protein_id	gnl|X|IBPBOOHP_00022
+23062	23748	gene
+			gene	dnaD
+			locus_tag	IBPBOOHP_00023
+23062	23748	CDS
+			db_xref	COG:COG3935
+			gene	dnaD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39787
+			locus_tag	IBPBOOHP_00023
+			product	DNA replication protein DnaD
+			protein_id	gnl|X|IBPBOOHP_00023
+23738	24397	gene
+			gene	nth
+			locus_tag	IBPBOOHP_00024
+23738	24397	CDS
+			EC_number	4.2.99.18
+			db_xref	COG:COG0177
+			gene	nth
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AB83
+			locus_tag	IBPBOOHP_00024
+			product	Endonuclease III
+			protein_id	gnl|X|IBPBOOHP_00024
+24402	24743	gene
+			locus_tag	IBPBOOHP_00025
+24402	24743	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	IBPBOOHP_00025
+			product	hypothetical protein
+			protein_id	gnl|X|IBPBOOHP_00025
+27444	25261	gene
+			gene	ponA
+			locus_tag	IBPBOOHP_00026
+27444	25261	CDS
+			db_xref	COG:COG0744
+			gene	ponA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39793
+			locus_tag	IBPBOOHP_00026
+			product	Penicillin-binding protein 1A/1B
+			protein_id	gnl|X|IBPBOOHP_00026
+28118	27441	gene
+			gene	recU
+			locus_tag	IBPBOOHP_00027
+28118	27441	CDS
+			EC_number	3.1.22.4
+			gene	recU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68817
+			locus_tag	IBPBOOHP_00027
+			product	Holliday junction resolvase RecU
+			protein_id	gnl|X|IBPBOOHP_00027
+28555	28956	gene
+			locus_tag	IBPBOOHP_00028
+28555	28956	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	IBPBOOHP_00028
+			product	hypothetical protein
+			protein_id	gnl|X|IBPBOOHP_00028
+28949	29512	gene
+			locus_tag	IBPBOOHP_00029
+28949	29512	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P50838
+			locus_tag	IBPBOOHP_00029
+			note	UPF0398 protein YpsA
+			product	hypothetical protein
+			protein_id	gnl|X|IBPBOOHP_00029
+29478	29870	gene
+			gene	gpsB
+			locus_tag	IBPBOOHP_00030
+29478	29870	CDS
+			gene	gpsB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5L1
+			locus_tag	IBPBOOHP_00030
+			product	Cell cycle protein GpsB
+			protein_id	gnl|X|IBPBOOHP_00030
+29971	30087	gene
+			locus_tag	IBPBOOHP_00031
+29971	30087	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	IBPBOOHP_00031
+			product	hypothetical protein
+			protein_id	gnl|X|IBPBOOHP_00031
+30521	31666	gene
+			gene	rlmL
+			locus_tag	IBPBOOHP_00032
+30521	31666	CDS
+			EC_number	2.1.1.173
+			db_xref	COG:COG0116
+			gene	rlmL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9K0V4
+			locus_tag	IBPBOOHP_00032
+			product	Ribosomal RNA large subunit methyltransferase L
+			protein_id	gnl|X|IBPBOOHP_00032
+31750	32082	gene
+			locus_tag	IBPBOOHP_00033
+31750	32082	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	IBPBOOHP_00033
+			product	hypothetical protein
+			protein_id	gnl|X|IBPBOOHP_00033
+33631	32291	gene
+			locus_tag	IBPBOOHP_00034
+33631	32291	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	IBPBOOHP_00034
+			product	hypothetical protein
+			protein_id	gnl|X|IBPBOOHP_00034
+33935	37375	gene
+			gene	der_2
+			locus_tag	IBPBOOHP_00035
+33935	37375	CDS
+			gene	der_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00195
+			locus_tag	IBPBOOHP_00035
+			product	GTPase Der
+			protein_id	gnl|X|IBPBOOHP_00035
+37395	38273	gene
+			gene	ypcP
+			locus_tag	IBPBOOHP_00036
+37395	38273	CDS
+			EC_number	3.1.11.-
+			db_xref	COG:COG0258
+			gene	ypcP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54161
+			locus_tag	IBPBOOHP_00036
+			product	5'-3' exonuclease
+			protein_id	gnl|X|IBPBOOHP_00036
+38747	39865	gene
+			gene	ald1
+			locus_tag	IBPBOOHP_00037
+38747	39865	CDS
+			EC_number	1.4.1.1
+			gene	ald1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99151
+			locus_tag	IBPBOOHP_00037
+			product	Alanine dehydrogenase 1
+			protein_id	gnl|X|IBPBOOHP_00037
+39960	41000	gene
+			gene	tdcB
+			locus_tag	IBPBOOHP_00038
+39960	41000	CDS
+			EC_number	4.3.1.19
+			gene	tdcB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5L8
+			locus_tag	IBPBOOHP_00038
+			product	L-threonine dehydratase catabolic TdcB
+			protein_id	gnl|X|IBPBOOHP_00038
+41031	42353	gene
+			gene	steT
+			locus_tag	IBPBOOHP_00039
+41031	42353	CDS
+			db_xref	COG:COG0531
+			gene	steT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34739
+			locus_tag	IBPBOOHP_00039
+			product	Serine/threonine exchanger SteT
+			protein_id	gnl|X|IBPBOOHP_00039
+42380	43900	gene
+			gene	norB
+			locus_tag	IBPBOOHP_00040
+42380	43900	CDS
+			gene	norB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8NWQ5
+			locus_tag	IBPBOOHP_00040
+			product	Quinolone resistance protein NorB
+			protein_id	gnl|X|IBPBOOHP_00040

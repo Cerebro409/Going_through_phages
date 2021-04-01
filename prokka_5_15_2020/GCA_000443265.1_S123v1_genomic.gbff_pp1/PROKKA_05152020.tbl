@@ -1,0 +1,32 @@
+>Feature gnl|X|CNAOMDFN_1
+40	2007	gene
+			gene	yhgF
+			locus_tag	CNAOMDFN_00001
+40	2007	CDS
+			db_xref	COG:COG2183
+			gene	yhgF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46837
+			locus_tag	CNAOMDFN_00001
+			product	Protein YhgF
+			protein_id	gnl|X|CNAOMDFN_00001
+2000	2455	gene
+			locus_tag	CNAOMDFN_00002
+2000	2455	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00745
+			locus_tag	CNAOMDFN_00002
+			product	Protein SprT-like protein
+			protein_id	gnl|X|CNAOMDFN_00002
+3102	3184	gene
+			locus_tag	CNAOMDFN_00003
+3102	3184	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	CNAOMDFN_00003
+			product	tRNA-Leu(gag)
+3206	3279	gene
+			locus_tag	CNAOMDFN_00004
+3206	3279	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	CNAOMDFN_00004
+			product	tRNA-Gly(tcc)

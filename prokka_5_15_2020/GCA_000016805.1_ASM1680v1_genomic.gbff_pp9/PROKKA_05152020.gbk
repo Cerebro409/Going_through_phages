@@ -1,0 +1,191 @@
+LOCUS       AGELIOHP_1              4413 bp    DNA     linear       15-MAY-2020
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..4413
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     gene            complement(326..718)
+                     /locus_tag="AGELIOHP_00001"
+     CDS             complement(326..718)
+                     /locus_tag="AGELIOHP_00001"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:AGELIOHP_00001"
+                     /translation="MKYTWWILLTIAGILSLTSVYGFILCLGSFGMLALNVMWLFVYT
+                     PHKNSKALESISKPTIILSIIGTYAVFIFMSILFYFVMKARFMEIGIKLYGEPFNMFG
+                     IPLFIIGIILFTIGTVFVYKIQQSRLKQ"
+     gene            complement(720..1109)
+                     /locus_tag="AGELIOHP_00002"
+     CDS             complement(720..1109)
+                     /locus_tag="AGELIOHP_00002"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:AGELIOHP_00002"
+                     /translation="MEKLIKVTSLIGIIIQSFLTLLFLIFLILSATGIIQPELTTTVN
+                     GEQTIQSPETAQATFVTIFAILFVVSLASDLLGIIAMKKLFVNNRASGILYIIGAVIS
+                     ANLLTFIAWLISGISVLRYNKIGKEVS"
+     gene            complement(1127..1501)
+                     /locus_tag="AGELIOHP_00003"
+     CDS             complement(1127..1501)
+                     /locus_tag="AGELIOHP_00003"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:AGELIOHP_00003"
+                     /translation="MKRLIIGVLIIMMSIINYGCGNEQNENKYQSQINKVMKIQQETH
+                     KEMVKKSNEVNPEFNKDKVNTYVFDDGKLIIISYKLFKDKDQMFYATYEFKNDKIYYK
+                     RDINPKTYVKEHQSDYKDIKVK"
+     gene            complement(1516..1989)
+                     /locus_tag="AGELIOHP_00004"
+     CDS             complement(1516..1989)
+                     /locus_tag="AGELIOHP_00004"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:AGELIOHP_00004"
+                     /translation="MEKIKRINKIFLSFEVIPFAMMILLAFLPVIAGIINNRLQYGRD
+                     FGDRVSFYCYISIMVAYAITILLEIIFYFILLKNYQYDQNNIELANRVKVTKVLSILY
+                     MIPGLYAIACYFRFIHVRSFRENKKSGQPAYHFWEFFIKPNRKPIELKDFFIKNR"
+     gene            complement(2000..2413)
+                     /locus_tag="AGELIOHP_00005"
+     CDS             complement(2000..2413)
+                     /locus_tag="AGELIOHP_00005"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:AGELIOHP_00005"
+                     /translation="MSKSSLILEKNYKLQQSAETKTKIAELNDKIERATRIKNKLNDL
+                     KKEVKEHRTNSKNIFKEYSYWKGENNSKWEEKSESELISGSITNCIKNIDDNIDRLID
+                     KITEMQNEVNSLGSTLSVLENAINSIAAAIEKLTN"
+     gene            complement(2426..3688)
+                     /locus_tag="AGELIOHP_00006"
+     CDS             complement(2426..3688)
+                     /locus_tag="AGELIOHP_00006"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:AGELIOHP_00006"
+                     /translation="MPRLVNSELEEYFNKTNDVKTKLNEVLYNHYTQCYFLSKTGSIK
+                     GKTADSIKKYVESAHISTISRAINLMDKLEASVKHLKELGEKCDKSSNAKIGLQTLNE
+                     TKKGVVSKKKEFIDLTSNSPAILSEASEFIDTVSLGKDNVESDYNESSKKIDRTKEKL
+                     KTMDQTGKQSLESLSNDVRGLITQINKLNNEYHDKNGIIVSKINSITKENWYKNETNK
+                     GEFKKMKADHPVAYAEGDETIGRTQAISKDGHIVGTAEIGKVSGIAYRSDDSMGVKGD
+                     AKVAGLDGKVKYENVEGKAGLEVGSVKGSAEISNSHISAIAEAQLIDAEAQLRFGSED
+                     NNLHVKGDAKVLSASASGSLGADGVEAKAEAVGANTGVEGGFALSGLNFDFGASIGAQ
+                     AGGGVNVGKKGIEVDAKFILGGKIKITW"
+     gene            complement(3701..3991)
+                     /locus_tag="AGELIOHP_00007"
+     CDS             complement(3701..3991)
+                     /locus_tag="AGELIOHP_00007"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:AGELIOHP_00007"
+                     /translation="MGKEIYLDPIEFQNVLEKFEKGSSEISEVSISSIKDAKNEIILE
+                     SIVELEKIIDDLSKAMKTYSKMIGSDKEAMDKIASTMQRNDKDNANKIANRN"
+     gene            complement(3994..4341)
+                     /locus_tag="AGELIOHP_00008"
+     CDS             complement(3994..4341)
+                     /locus_tag="AGELIOHP_00008"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:AGELIOHP_00008"
+                     /translation="MATGYYLFGDNFEVHKSRKEIGILGREDECINNIKKIENYNVGK
+                     FEDFKNNIMESIRRLYEKDRKEFYELLSKLNGDVLDLNEIIKYMKTLTVGDVIKVIKS
+                     SSFVNFKINFEEV"
+ORIGIN      
+        1 tagttcacca ttcaaaagta tttaaaatta ctggagaatc atatcgatta aaagattata
+       61 aaaccgaaaa atcattaaat atacgacaat cttaaaccgc taaaaaacga cattttcaaa
+      121 ccgccataaa acagcatttt taaaccgcta ttgacaacca ttacattttt atattttaat
+      181 attgaaaaaa tcacatttta cattcattgt cattatcttt ttatcttcaa attgcttgaa
+      241 gtcatttaga ttcaactaca tctattatgt ataaatcatt aggacggatt tcttttaaac
+      301 ccgtcccatg ttaaattaat atattctatt gctttaatct tgattgctgt attttataaa
+      361 cgaatactgt accgattgta aataaaatga tgccaataat gaataatggt attccaaaca
+      421 tattaaaagg ttcaccgtaa agttttattc caatttccat aaacctagct ttcattacga
+      481 agtaaaataa gatagacata aatataaata ctgcatatgt cccaatgatt gataaaatta
+      541 tcgttggttt tgatatagat tcaagtgctt tagaattttt atgcggtgta taaacaaata
+      601 gccacatgac attcagtgcc aacattccaa agctacctaa acataaaata aatccataaa
+      661 cacttgttaa acttaaaatc cctgcaattg ttaaaagtat ccaccaagta tatttcatgc
+      721 tatgacactt cttttcctat tttgttatat cttaaaacag aaatcccact tattaaccaa
+      781 gcaataaatg ttaataaatt ggcgctgatt actgcaccaa taatatacaa aatgccactc
+      841 gctctattat tcacaaacaa ctttttcata gctataatgc ctaataaatc tgaagctaaa
+      901 gaaacaacaa ataatattgc aaatattgtc acgaatgttg cttgagcagt ttctggactt
+      961 tgtatagttt gttcaccatt aacagttgtg gtcaattctg gctgtataat ccctgttgct
+     1021 gataaaatta aaaatattaa aaataacaat gttaaaaaac tttgaataat aattccaatt
+     1081 aaagacgtca ctttgattaa tttttccatt ttcctactcc ttaaaattat tttactttaa
+     1141 tatctttata atctgattgg tgttctttca cgtatgtttt aggattaata tctctcttat
+     1201 aataaatttt gtcgttttta aactcgtaag tcgcgtaaaa catttgatct ttatctttaa
+     1261 ataacttata gctgatgata attaatttgc catcatcaaa tacataagta tttactttat
+     1321 ccttattaaa ttcaggatta acttcattac tctttttaac catctcttta tgagtttctt
+     1381 gttgaatttt cattacttta ttaatttgac tttgatattt attttcattt tgctcattac
+     1441 cacaaccata attgattata ctcatcatta taattaacac tcctataatt aatcttttca
+     1501 ttggttactc cttaattatc tatttttaat aaaaaagtct ttcaactcta tcggttttcg
+     1561 attaggtttt ataaaaaatt cccaaaagtg gtaagcaggc tgtccagatt ttttattttc
+     1621 tctaaatgag cgaacatgta taaatctaaa atagcatgca atcgcatata atccgggaat
+     1681 catatacaaa atcgacagta cttttgtaac tttcactcta ttagccaatt caatattatt
+     1741 ttgatcatat tgatagtttt tcaataaaat aaagtaaaaa ataatttcta acaaaatggt
+     1801 aattgcatat gcaaccataa ttgaaatata acaataaaag cttactctat cgccaaaatc
+     1861 cctaccatac tgcaaacgat tattaattat acctgcaata actggtagaa acgccagtaa
+     1921 aatcatcatt gcaaatggaa taacttcaaa tgataaaaat attttgttta ttctctttat
+     1981 tttttccatt tctactcctt taattagtta atttttcaat agcagcagct attgaattta
+     2041 ttgcattttc tagtacagat aatgtactac ccaatgaatt aacttcattt tgcatctcgg
+     2101 taattttatc gatgagtcta tcgatattat catcaatatt ttttatacaa tttgttattg
+     2161 aaccacttat gagttcactc tcacttttct cttcccattt cgaattattt tctcccttcc
+     2221 aataggaata ttctttgaaa atattctttg aatttgttct atgctctttc acttcctttt
+     2281 ttaaatcatt taatttattc ttaattcgtg ttgctctttc tattttatca tttaattctg
+     2341 ctattttggt tttagtttct gctgactgtt gaagtttata attcttttcc aatattaaag
+     2401 atgatttcga cattttattc ttcctttacc atgtaatttt aatttttcct ccaagtataa
+     2461 atttagcatc aacttcaatt ccttttttgc caacatttac acctccccca gcttgagccc
+     2521 caatactcgc gccaaaatca aaatttaatc cactaagtgc aaaaccacct tcaacccctg
+     2581 tattagctcc gactgcttca gctttcgctt ctactccatc agcacctaaa gatccactcg
+     2641 cacttgctga caaaactttt gcatctcctt ttacatgcaa attattatct tctgatccaa
+     2701 atcttaattg tgcttccgca tcaattaatt gcgcttctgc aatagcagat atatgcgagt
+     2761 tactaatttc agctgaacct tttacactcc ctacttcgag tcctgcctta ccttcaacat
+     2821 tctcgtactt taccttacca tctaatccag ctactttagc atctccttta acccccatcg
+     2881 aatcgtcgct tcgatatgct attccactaa ctttacctat ttcagctgta ccaactatat
+     2941 gtccatcttt agaaattgct tgagttctac ctattgtctc atctccttct gcataagcaa
+     3001 caggatgatc cgctttcatt tttttaaatt cacccttgtt agtttcattt ttataccaat
+     3061 tttcttttgt aatggagttt atctttgata cgataattcc atttttatca tgatattcat
+     3121 tattcaattt atttatttga gttattaatc ctcttacatc attgcttaga ctttctagtg
+     3181 attgcttacc tgtttgatcc atagtcttaa gtttttcttt agttctatct atttttttgg
+     3241 aactttcatt gtaatcactt tctacattat ctttccctaa agacacagta tcaataaatt
+     3301 ctgatgcttc agatagaatt gctggggaat tacttgtaag atctatgaat tccttctttt
+     3361 ttgagaccac acctttttta gtttcattca aagtttgtaa accaattttg gcattactac
+     3421 ttttatcgca tttttctcca agttctttta agtgctttac tgatgcttcc aacttatcca
+     3481 ttaaattaat agctctagaa attgtgctta tatgtgctga ttcaacatat ttctttatac
+     3541 tatccgctgt ttttcctttt atactaccag ttttagataa aaaataacat tgagtgtaat
+     3601 gattatataa tacttcattt aatttcgttt tcacatcatt tgttttatta aaatattctt
+     3661 ctaactctga attaactaat ctaggcatat tttcccctcc ctaattccta tttgcaattt
+     3721 tatttgcatt atctttatca ttccgttgca ttgttgatgc tattttatcc attgcttctt
+     3781 tatcgctgcc aatcatctta gaatacgttt tcatcgcttt cgataagtcg tcaattattt
+     3841 tttctagttc aactatactt tctaatataa tttcattttt agcatctttt atactagaaa
+     3901 ttgaaacttc actaatctca cttgatcctt tttcaaattt ctctaataca ttttgaaatt
+     3961 caattggatc taaataaatt tctttcccca tacttaaacc tcctcaaagt taattttaaa
+     4021 attaacaaaa ctagaactct taataacttt tataacatct cctacggtta aagttttcat
+     4081 atattttatt atttcattca aatccaacac atcaccattc agtttagata gcaattcgta
+     4141 aaattctttt ctatcttttt catataatcg cctaatactt tccatgatat tatttttaaa
+     4201 atcttcaaat tttccaacgt tgtaattttc tatttttttt atattattta tacattcatc
+     4261 ttccctacct aaaataccta tttcttttct agacttgtgc acttcaaaat tatcgccaaa
+     4321 taagtaatat ccagtagcca aaattactgc ataatcataa tgtttatttt tattatcaaa
+     4381 ctctttaaat aagtatccaa taaatgaaga gtt
+//

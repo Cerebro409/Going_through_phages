@@ -1,0 +1,62 @@
+# BLASTN 2.9.0+
+# Query: IEDMLBHG_00001 ComG operon protein 1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+IEDMLBHG_00001	IEDMLBHG_00001	100.000	933	100	933	933	0	0.0	1724
+IEDMLBHG_00001	BPDMCOHN_00009	100.000	933	100	975	933	0	0.0	1724
+IEDMLBHG_00001	FKFNBKLF_00009	100.000	933	100	975	933	0	0.0	1724
+IEDMLBHG_00001	CAFLMJIC_00119	100.000	933	100	975	933	0	0.0	1724
+IEDMLBHG_00001	IEDMLBHG_00002	100.000	933	3	1071	29	0	7.93e-08	54.7
+IEDMLBHG_00001	CAFLMJIC_00120	100.000	933	3	1071	29	0	7.93e-08	54.7
+# BLASTN 2.9.0+
+# Query: IEDMLBHG_00002 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+IEDMLBHG_00002	IEDMLBHG_00002	100.000	1071	100	1071	1071	0	0.0	1978
+IEDMLBHG_00002	CAFLMJIC_00120	100.000	1071	100	1071	1071	0	0.0	1978
+IEDMLBHG_00002	IEDMLBHG_00001	100.000	1071	3	933	29	0	9.13e-08	54.7
+IEDMLBHG_00002	BPDMCOHN_00009	100.000	1071	3	975	29	0	9.13e-08	54.7
+IEDMLBHG_00002	FKFNBKLF_00009	100.000	1071	3	975	29	0	9.13e-08	54.7
+IEDMLBHG_00002	CAFLMJIC_00119	100.000	1071	3	975	29	0	9.13e-08	54.7
+# BLASTN 2.9.0+
+# Query: IEDMLBHG_00003 ComG operon protein 3
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+IEDMLBHG_00003	IEDMLBHG_00003	100.000	312	100	312	312	0	1.22e-165	577
+IEDMLBHG_00003	CAFLMJIC_00121	100.000	312	100	312	312	0	1.22e-165	577
+# BLASTN 2.9.0+
+# Query: IEDMLBHG_00004 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+IEDMLBHG_00004	IEDMLBHG_00004	100.000	447	100	447	447	0	0.0	826
+IEDMLBHG_00004	CAFLMJIC_00122	100.000	447	97	435	435	0	0.0	804
+# BLASTN 2.9.0+
+# Query: IEDMLBHG_00005 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+IEDMLBHG_00005	IEDMLBHG_00005	100.000	300	100	300	300	0	5.50e-159	555
+IEDMLBHG_00005	CAFLMJIC_00123	100.000	300	100	300	300	0	5.50e-159	555
+IEDMLBHG_00005	IEDMLBHG_00006	100.000	300	18	468	53	0	1.11e-21	99.0
+IEDMLBHG_00005	CAFLMJIC_00124	100.000	300	18	468	53	0	1.11e-21	99.0
+# BLASTN 2.9.0+
+# Query: IEDMLBHG_00006 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+IEDMLBHG_00006	IEDMLBHG_00006	100.000	468	100	468	468	0	0.0	865
+IEDMLBHG_00006	CAFLMJIC_00124	100.000	468	100	468	468	0	0.0	865
+IEDMLBHG_00006	IEDMLBHG_00005	100.000	468	11	300	53	0	1.77e-21	99.0
+IEDMLBHG_00006	CAFLMJIC_00123	100.000	468	11	300	53	0	1.77e-21	99.0
+# BLASTN 2.9.0+
+# Query: IEDMLBHG_00007 Shikimate kinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+IEDMLBHG_00007	IEDMLBHG_00007	100.000	525	100	525	525	0	0.0	970
+IEDMLBHG_00007	CAFLMJIC_00125	100.000	525	100	525	525	0	0.0	970
+# BLAST processed 7 queries

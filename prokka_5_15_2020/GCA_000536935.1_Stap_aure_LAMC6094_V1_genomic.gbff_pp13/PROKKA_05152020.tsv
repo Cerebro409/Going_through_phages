@@ -1,0 +1,9 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FBIDEFON_00001	gene	225				
+FBIDEFON_00001	CDS	225				hypothetical protein
+FBIDEFON_00002	gene	1380	mnmE			
+FBIDEFON_00002	CDS	1380	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+FBIDEFON_00003	gene	354	rnpA			
+FBIDEFON_00003	CDS	354	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+FBIDEFON_00004	gene	138	rpmH			
+FBIDEFON_00004	CDS	138	rpmH			50S ribosomal protein L34

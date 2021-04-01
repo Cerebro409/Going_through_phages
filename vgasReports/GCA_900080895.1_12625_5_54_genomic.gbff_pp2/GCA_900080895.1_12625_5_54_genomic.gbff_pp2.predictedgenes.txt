@@ -1,0 +1,31 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1            1          195            +          195      0.21609
+
+     2          168          530            +          363      0.35342
+
+     3         1200         1880            +          681      0.42335
+
+     4         2000         2326            +          327      0.35923
+
+     5         2298         2807            +          510      0.40590
+
+     6         2782         3552            +          771      0.45444
+
+     7         3987         6137            +         2151      0.50000
+
+     8         6130         6585            +          456      0.35778
+
+     9         7324         7491            -          168      0.17840
+

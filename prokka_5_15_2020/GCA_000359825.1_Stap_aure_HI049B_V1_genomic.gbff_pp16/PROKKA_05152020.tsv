@@ -1,0 +1,13 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+KCDPKGBJ_00001	gene	597	hepT			
+KCDPKGBJ_00001	CDS	597	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+KCDPKGBJ_00002	gene	450	ndk			
+KCDPKGBJ_00002	CDS	450	ndk	2.7.4.6		Nucleoside diphosphate kinase
+KCDPKGBJ_00003	gene	201				
+KCDPKGBJ_00003	CDS	201				hypothetical protein
+KCDPKGBJ_00004	gene	1167	aroC			
+KCDPKGBJ_00004	CDS	1167	aroC	4.2.3.5	COG0082	Chorismate synthase
+KCDPKGBJ_00005	gene	1065	aroB			
+KCDPKGBJ_00005	CDS	1065	aroB	4.2.3.4		3-dehydroquinate synthase
+KCDPKGBJ_00006	gene	558				
+KCDPKGBJ_00006	CDS	558				hypothetical protein

@@ -1,0 +1,13 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LPJIBDKK_00001	gene	699	ssl7_1			
+LPJIBDKK_00001	CDS	699	ssl7_1			Staphylococcal superantigen-like 7
+LPJIBDKK_00002	gene	696	ssl7_2			
+LPJIBDKK_00002	CDS	696	ssl7_2			Staphylococcal superantigen-like 7
+LPJIBDKK_00003	gene	705	ssl5			
+LPJIBDKK_00003	CDS	705	ssl5			Staphylococcal superantigen-like 5
+LPJIBDKK_00004	gene	1128	ssl3			
+LPJIBDKK_00004	CDS	1128	ssl3			Staphylococcal superantigen-like 3
+LPJIBDKK_00005	gene	702	ssl4			
+LPJIBDKK_00005	CDS	702	ssl4			Staphylococcal superantigen-like 4
+LPJIBDKK_00006	gene	681	ssl1			
+LPJIBDKK_00006	CDS	681	ssl1	3.4.21.-		Staphylococcal superantigen-like 1

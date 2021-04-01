@@ -1,0 +1,53 @@
+>Feature gnl|X|EEDEHMMM_1
+113	1603	gene
+			locus_tag	EEDEHMMM_00001
+113	1603	CDS
+			EC_number	3.4.21.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5M9
+			locus_tag	EEDEHMMM_00001
+			product	putative CtpA-like serine protease
+			protein_id	gnl|X|EEDEHMMM_00001
+2000	2509	gene
+			locus_tag	EEDEHMMM_00002
+2000	2509	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EEDEHMMM_00002
+			product	hypothetical protein
+			protein_id	gnl|X|EEDEHMMM_00002
+2521	3591	gene
+			gene	murG
+			locus_tag	EEDEHMMM_00003
+2521	3591	CDS
+			EC_number	2.4.1.227
+			gene	murG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65482
+			locus_tag	EEDEHMMM_00003
+			product	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+			protein_id	gnl|X|EEDEHMMM_00003
+3608	4222	gene
+			locus_tag	EEDEHMMM_00004
+3608	4222	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EEDEHMMM_00004
+			product	hypothetical protein
+			protein_id	gnl|X|EEDEHMMM_00004
+4339	4539	gene
+			locus_tag	EEDEHMMM_00005
+4339	4539	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EEDEHMMM_00005
+			product	hypothetical protein
+			protein_id	gnl|X|EEDEHMMM_00005
+5010	5669	gene
+			gene	arlR
+			locus_tag	EEDEHMMM_00006
+5010	5669	CDS
+			db_xref	COG:COG0745
+			gene	arlR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9KJN4
+			locus_tag	EEDEHMMM_00006
+			product	Response regulator ArlR
+			protein_id	gnl|X|EEDEHMMM_00006

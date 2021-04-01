@@ -1,0 +1,11 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CEGCFJMI_00001	gene	528	pyrR			
+CEGCFJMI_00001	CDS	528	pyrR			Bifunctional protein PyrR
+CEGCFJMI_00002	gene	918	rluD			
+CEGCFJMI_00002	CDS	918	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+CEGCFJMI_00003	gene	492	lspA			
+CEGCFJMI_00003	CDS	492	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+CEGCFJMI_00004	gene	186				
+CEGCFJMI_00004	CDS	186				hypothetical protein
+CEGCFJMI_00005	gene	798	catE			
+CEGCFJMI_00005	CDS	798	catE	1.13.11.2	COG2514	Catechol-2,3-dioxygenase

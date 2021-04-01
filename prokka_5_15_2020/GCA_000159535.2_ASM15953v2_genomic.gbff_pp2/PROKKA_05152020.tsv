@@ -1,0 +1,11 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EOHBAPLG_00001	gene	537	yfmC			
+EOHBAPLG_00001	CDS	537	yfmC		COG4594	Fe(3+)-citrate-binding protein YfmC
+EOHBAPLG_00002	gene	378				
+EOHBAPLG_00002	CDS	378				hypothetical protein
+EOHBAPLG_00003	gene	138	tarM			
+EOHBAPLG_00003	CDS	138	tarM	2.4.1.70		Poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase
+EOHBAPLG_00004	gene	132				
+EOHBAPLG_00004	CDS	132				hypothetical protein
+EOHBAPLG_00005	gene	207				
+EOHBAPLG_00005	CDS	207				hypothetical protein

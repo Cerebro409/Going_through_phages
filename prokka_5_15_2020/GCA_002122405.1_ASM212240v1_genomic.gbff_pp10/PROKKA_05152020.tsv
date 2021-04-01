@@ -1,0 +1,11 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CIENGLJJ_00001	gene	171				
+CIENGLJJ_00001	CDS	171				hypothetical protein
+CIENGLJJ_00002	gene	621				
+CIENGLJJ_00002	CDS	621				hypothetical protein
+CIENGLJJ_00003	gene	372				
+CIENGLJJ_00003	CDS	372				hypothetical protein
+CIENGLJJ_00004	gene	138				
+CIENGLJJ_00004	CDS	138				hypothetical protein
+CIENGLJJ_00005	gene	1005	gloB			
+CIENGLJJ_00005	CDS	1005	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase

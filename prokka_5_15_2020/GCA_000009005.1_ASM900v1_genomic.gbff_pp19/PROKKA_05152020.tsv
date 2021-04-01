@@ -1,0 +1,63 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+PPEAPJEI_00001	gene	117				
+PPEAPJEI_00001	CDS	117				hypothetical protein
+PPEAPJEI_00002	gene	450				
+PPEAPJEI_00002	CDS	450			COG2826	IS30 family transposase ISSau5
+PPEAPJEI_00003	gene	504				
+PPEAPJEI_00003	CDS	504			COG2826	IS30 family transposase ISSau5
+PPEAPJEI_00004	gene	357				
+PPEAPJEI_00004	CDS	357				hypothetical protein
+PPEAPJEI_00005	gene	591				
+PPEAPJEI_00005	CDS	591				hypothetical protein
+PPEAPJEI_00006	gene	1047				
+PPEAPJEI_00006	CDS	1047				hypothetical protein
+PPEAPJEI_00007	gene	1848				
+PPEAPJEI_00007	CDS	1848				hypothetical protein
+PPEAPJEI_00008	gene	1359				
+PPEAPJEI_00008	CDS	1359				hypothetical protein
+PPEAPJEI_00009	gene	267				
+PPEAPJEI_00009	CDS	267				hypothetical protein
+PPEAPJEI_00010	gene	144				
+PPEAPJEI_00010	CDS	144				hypothetical protein
+PPEAPJEI_00011	gene	492				
+PPEAPJEI_00011	CDS	492				hypothetical protein
+PPEAPJEI_00012	gene	174				
+PPEAPJEI_00012	CDS	174				hypothetical protein
+PPEAPJEI_00013	gene	2496				
+PPEAPJEI_00013	CDS	2496				hypothetical protein
+PPEAPJEI_00014	gene	384				
+PPEAPJEI_00014	CDS	384				hypothetical protein
+PPEAPJEI_00015	gene	261				
+PPEAPJEI_00015	CDS	261				hypothetical protein
+PPEAPJEI_00016	gene	1101				
+PPEAPJEI_00016	CDS	1101				hypothetical protein
+PPEAPJEI_00017	gene	1092				
+PPEAPJEI_00017	CDS	1092				hypothetical protein
+PPEAPJEI_00018	gene	303				
+PPEAPJEI_00018	CDS	303				hypothetical protein
+PPEAPJEI_00019	gene	321				
+PPEAPJEI_00019	CDS	321				hypothetical protein
+PPEAPJEI_00020	gene	285				
+PPEAPJEI_00020	CDS	285				hypothetical protein
+PPEAPJEI_00021	gene	567				
+PPEAPJEI_00021	CDS	567				hypothetical protein
+PPEAPJEI_00022	gene	1260	femB			
+PPEAPJEI_00022	CDS	1260	femB	2.3.2.18		Aminoacyltransferase FemB
+PPEAPJEI_00023	gene	1302	femA			
+PPEAPJEI_00023	CDS	1302	femA	2.3.2.17		Aminoacyltransferase FemA
+PPEAPJEI_00024	gene	729	trpA			
+PPEAPJEI_00024	CDS	729	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+PPEAPJEI_00025	gene	1215	trpB			
+PPEAPJEI_00025	CDS	1215	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+PPEAPJEI_00026	gene	636	trpF			
+PPEAPJEI_00026	CDS	636	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+PPEAPJEI_00027	gene	783	trpC			
+PPEAPJEI_00027	CDS	783	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+PPEAPJEI_00028	gene	999	trpD2			
+PPEAPJEI_00028	CDS	999	trpD2	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase 2
+PPEAPJEI_00029	gene	567	pabA			
+PPEAPJEI_00029	CDS	567	pabA	2.6.1.85	COG0512	Aminodeoxychorismate/anthranilate synthase component 2
+PPEAPJEI_00030	gene	1407	trpE			
+PPEAPJEI_00030	CDS	1407	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+PPEAPJEI_00031	gene	1032	ysdC			
+PPEAPJEI_00031	CDS	1032	ysdC	3.4.11.-	COG1363	Putative aminopeptidase YsdC

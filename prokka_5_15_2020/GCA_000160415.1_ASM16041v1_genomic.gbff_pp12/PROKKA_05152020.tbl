@@ -1,0 +1,236 @@
+>Feature gnl|X|EGALHOAJ_1
+369	959	gene
+			locus_tag	EGALHOAJ_00001
+369	959	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P61598
+			locus_tag	EGALHOAJ_00001
+			product	Putative surface protein
+			protein_id	gnl|X|EGALHOAJ_00001
+1343	2536	gene
+			gene	entS
+			locus_tag	EGALHOAJ_00002
+1343	2536	CDS
+			gene	entS
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01436
+			locus_tag	EGALHOAJ_00002
+			product	Enterobactin exporter EntS
+			protein_id	gnl|X|EGALHOAJ_00002
+2580	2750	gene
+			locus_tag	EGALHOAJ_00003
+2580	2750	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGALHOAJ_00003
+			product	hypothetical protein
+			protein_id	gnl|X|EGALHOAJ_00003
+3166	2858	gene
+			locus_tag	EGALHOAJ_00004
+3166	2858	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGALHOAJ_00004
+			product	hypothetical protein
+			protein_id	gnl|X|EGALHOAJ_00004
+3576	3310	gene
+			locus_tag	EGALHOAJ_00005
+3576	3310	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGALHOAJ_00005
+			product	hypothetical protein
+			protein_id	gnl|X|EGALHOAJ_00005
+5668	3860	gene
+			gene	pgcA
+			locus_tag	EGALHOAJ_00006
+5668	3860	CDS
+			EC_number	5.4.2.2
+			db_xref	COG:COG1109
+			gene	pgcA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FVC1
+			locus_tag	EGALHOAJ_00006
+			product	Phosphoglucomutase
+			protein_id	gnl|X|EGALHOAJ_00006
+5785	6177	gene
+			gene	nudG
+			locus_tag	EGALHOAJ_00007
+5785	6177	CDS
+			EC_number	3.6.1.65
+			db_xref	COG:COG0494
+			gene	nudG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77788
+			locus_tag	EGALHOAJ_00007
+			product	CTP pyrophosphohydrolase
+			protein_id	gnl|X|EGALHOAJ_00007
+6179	9040	gene
+			gene	uvrB
+			locus_tag	EGALHOAJ_00008
+6179	9040	CDS
+			gene	uvrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00204
+			locus_tag	EGALHOAJ_00008
+			product	UvrABC system protein B
+			protein_id	gnl|X|EGALHOAJ_00008
+9343	10119	gene
+			locus_tag	EGALHOAJ_00009
+9343	10119	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A3L7
+			locus_tag	EGALHOAJ_00009
+			product	putative protein
+			protein_id	gnl|X|EGALHOAJ_00009
+10231	10677	gene
+			locus_tag	EGALHOAJ_00010
+10231	10677	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FVD0
+			locus_tag	EGALHOAJ_00010
+			product	putative protein
+			protein_id	gnl|X|EGALHOAJ_00010
+10626	11015	gene
+			locus_tag	EGALHOAJ_00011
+10626	11015	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FVD0
+			locus_tag	EGALHOAJ_00011
+			product	putative protein
+			protein_id	gnl|X|EGALHOAJ_00011
+11012	12124	gene
+			locus_tag	EGALHOAJ_00012
+11012	12124	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGALHOAJ_00012
+			product	hypothetical protein
+			protein_id	gnl|X|EGALHOAJ_00012
+12336	12662	gene
+			locus_tag	EGALHOAJ_00013
+12336	12662	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGALHOAJ_00013
+			product	hypothetical protein
+			protein_id	gnl|X|EGALHOAJ_00013
+12665	12952	gene
+			locus_tag	EGALHOAJ_00014
+12665	12952	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGALHOAJ_00014
+			product	hypothetical protein
+			protein_id	gnl|X|EGALHOAJ_00014
+13488	14282	gene
+			locus_tag	EGALHOAJ_00015
+13488	14282	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FVD0
+			locus_tag	EGALHOAJ_00015
+			product	putative protein
+			protein_id	gnl|X|EGALHOAJ_00015
+14843	15034	gene
+			locus_tag	EGALHOAJ_00016
+14843	15034	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGALHOAJ_00016
+			product	hypothetical protein
+			protein_id	gnl|X|EGALHOAJ_00016
+15307	15173	gene
+			locus_tag	EGALHOAJ_00017
+15307	15173	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGALHOAJ_00017
+			product	hypothetical protein
+			protein_id	gnl|X|EGALHOAJ_00017
+15575	15294	gene
+			locus_tag	EGALHOAJ_00018
+15575	15294	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGALHOAJ_00018
+			product	hypothetical protein
+			protein_id	gnl|X|EGALHOAJ_00018
+15864	16559	gene
+			locus_tag	EGALHOAJ_00019
+15864	16559	CDS
+			EC_number	1.-.-.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A3L9
+			locus_tag	EGALHOAJ_00019
+			product	putative oxidoreductase
+			protein_id	gnl|X|EGALHOAJ_00019
+16810	17232	gene
+			locus_tag	EGALHOAJ_00020
+16810	17232	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGALHOAJ_00020
+			product	hypothetical protein
+			protein_id	gnl|X|EGALHOAJ_00020
+17499	17918	gene
+			locus_tag	EGALHOAJ_00021
+17499	17918	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGALHOAJ_00021
+			product	hypothetical protein
+			protein_id	gnl|X|EGALHOAJ_00021
+17936	18355	gene
+			locus_tag	EGALHOAJ_00022
+17936	18355	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGALHOAJ_00022
+			product	hypothetical protein
+			protein_id	gnl|X|EGALHOAJ_00022
+18807	19229	gene
+			locus_tag	EGALHOAJ_00023
+18807	19229	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGALHOAJ_00023
+			product	hypothetical protein
+			protein_id	gnl|X|EGALHOAJ_00023
+20879	19341	gene
+			gene	abgT
+			locus_tag	EGALHOAJ_00024
+20879	19341	CDS
+			db_xref	COG:COG2978
+			gene	abgT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46133
+			locus_tag	EGALHOAJ_00024
+			product	p-aminobenzoyl-glutamate transport protein
+			protein_id	gnl|X|EGALHOAJ_00024
+21211	21930	gene
+			gene	bacC
+			locus_tag	EGALHOAJ_00025
+21211	21930	CDS
+			EC_number	1.1.1.385
+			gene	bacC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8KWT4
+			locus_tag	EGALHOAJ_00025
+			product	Dihydroanticapsin 7-dehydrogenase
+			protein_id	gnl|X|EGALHOAJ_00025
+22193	22558	gene
+			locus_tag	EGALHOAJ_00026
+22193	22558	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGALHOAJ_00026
+			product	hypothetical protein
+			protein_id	gnl|X|EGALHOAJ_00026
+23425	24246	gene
+			gene	cntK
+			locus_tag	EGALHOAJ_00027
+23425	24246	CDS
+			EC_number	5.1.1.24
+			gene	cntK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3JU78
+			locus_tag	EGALHOAJ_00027
+			product	Histidine racemase
+			protein_id	gnl|X|EGALHOAJ_00027
+24257	25075	gene
+			gene	cntL
+			locus_tag	EGALHOAJ_00028
+24257	25075	CDS
+			EC_number	2.5.1.152
+			gene	cntL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3JXA8
+			locus_tag	EGALHOAJ_00028
+			product	D-histidine 2-aminobutanoyltransferase
+			protein_id	gnl|X|EGALHOAJ_00028

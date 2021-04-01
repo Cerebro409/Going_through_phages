@@ -1,0 +1,13 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+ADGJDBML_00001	gene	345	mrpC			
+ADGJDBML_00001	CDS	345	mrpC		COG1006	Na(+)/H(+) antiporter subunit C
+ADGJDBML_00002	gene	426	mrpB			
+ADGJDBML_00002	CDS	426	mrpB		COG2111	Na(+)/H(+) antiporter subunit B
+ADGJDBML_00003	gene	2403	mrpA			
+ADGJDBML_00003	CDS	2403	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+ADGJDBML_00004	gene	561	xerD			
+ADGJDBML_00004	CDS	561	xerD			Tyrosine recombinase XerD
+ADGJDBML_00005	gene	204				
+ADGJDBML_00005	CDS	204				hypothetical protein
+ADGJDBML_00006	gene	225				
+ADGJDBML_00006	CDS	225				hypothetical protein

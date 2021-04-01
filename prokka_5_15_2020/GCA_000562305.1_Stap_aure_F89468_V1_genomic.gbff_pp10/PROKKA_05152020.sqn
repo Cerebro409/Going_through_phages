@@ -1,0 +1,919 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MFMLEMAL_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 8390 ,
+            seq-data
+              iupacna "TTTAATATCCTCATAATTTCTTATAATCAAATACACGGAACTATACTGTTTTAGT
+TATAAGTTAATTCCGTTTCAAGCCATTCAATAACTTCGTTAAAAATAGTTCTATTATAAGAACTTTCATTAAATATTT
+CATGCTCCAAACGATCATAGATGTGTAATGATTTATGTGCTGATCCTATTTCTTGATAAAGCTGTAAAGAATCTACAT
+AGCTTACTAGCCCATCTTCCTTGCCATGCAATATCAAAATATTATCTGTAAATTGTTGAGCATTGTCTTTCAAATACC
+TAACACCATCCATTATTGAAAAGACGAGCCCCATAGAGATTTGTTTCGCATTCAAATCATCAAGTTTATATTTTTCCA
+TTACCTCTAAATCAGAACATACCCCCTCACTTAAATTGTTTTCTATATAAGTATCAGGTGATATGTTTCTATCAGGAT
+TGCCAAATAGTTTATTATTATAACGTGTTAATGCTCCAGAAGTTATAATACCATTCACTGTATTTGGATGTTTCGTTC
+CATATAAAGTGACTGTATAACCACCCATACTATGACCGATTAAGTAAACTTTACCTTCAAAGTTTGACTTCACATAAT
+TTATTATCGCATCTAAATCTTCGACAATTTCATTACTATTGCTATAAAAGGCACGCTTGCCTTCAGAACGACCATGCC
+CTCTTTGATCATATCTAATAACACTAAAACCCGCTTCATTTAAATATGCTGTTATCTCATCATAACGATCTAAATGTT
+CTGCCACACCATGAGCTATAATGATATTCGCTTTTGCATCTTGAATATCATTCACTTTCATATAAAGTTTTGTATTAT
+CTTTTGACTCAATAAATTTTATATAATGCATTTTAACCTCTCCAATCAGCTTGATAAAATTATGATTCATTCATTTTT
+TTAATACCCCTAATTTTTGACCCAAATCAATGTTTGCAGTAATACTATATAAATTAACCCTTTAAGCCCATGTTTTTT
+ATAGGTTCTGTTGCAAAGTAAAAAAATATAGCTAACCACTAATTTATCATGTCAGTGTTCGCTTAACTTGCTAGCATG
+ATGCTAATTTCGTGGCATGGCGAAAATCCGTAGATCTGAAGAGACCTGCGGTTCTTTTTATATAGAGCGTAAATACAC
+TCAATACCTTTTAAAGTATTCTTTGCTGTATTGATATTTTGATACCTTGTCTTTCTTATTTTAATATGACAGTGATCT
+TGCTCAATGAGGTTATTCAGATATTTCGATGTACAATAACAGTCAGGTTTAAGTTTAAAAGCTTTAATTACTTTAGCC
+ATTGCTACCTTCGTTGAAGGTGCCTGATCTGTAATTACCTTTTGAGGTTTACCAAATTGTTTAATGAGACGTTTGATA
+AACGCATATGCTGAATGATTATCTCGTTGCTTACGCAACCAAATATCTAATGTATATCCCTCTGCATCAATGGCACGA
+TATAAATAGCTCCATTTTCCTTTTATTTTGATGTACGTCTCATCAATACGCCATTTGTAATTAGCTTTTTATGCTTTT
+TCTTCCAAATTTGATATAAAATTGGGGCATATTCTTGAACCCAACGGTAGACCGTTGAATGATGAACGTTTACACCAC
+GTTCCCTTAATATTTCAGATATATCACGATAACTCAATGCATATCTTAGATAGTAGCCAACAGCTACAGTGATAACAT
+CCTTGTTAAATTGTTTATATCTGAAATAGTTCATACAGAAGACTCCTTTTTGTTAAAATTATACTATAGATTCAACTT
+TGCAACAGAACCTATATTTTGCTATAATTATTAAATTAATTGCCTTTGTGTTAGTATTCCCTGGATTACTAACACTTT
+GGTTAGCTGTTCTAAGTGATACAGGTGCAGCAATATTAGTTATATTAAATTCATTACGTTTATTAAAAAAATAAAAAA
+GCCTAAATACTCTCTCGATTTGTGAGAAAGTATTTAGGCTTTTTGAATTAATAAATTTCTTACTTCTTATGTTTATTT
+AACAATTAGTACTGGGACAGAACTTCTTTTAGCAATCTTATGTGTAACATCTCCTAAAACATGTTTAATATTCAAATC
+GACTCTATGATTACTCATAATTACTAAATCAAATTCACCATTATTTATATCTCCAGAAGTAATTTTTTCTAAGATTGT
+ATCTTTAATATGCCCAAAATCTACATCTATTTTATATTGAATATCTCTTTTTTCTAATTCACGTAAAAATGGAGTGAG
+TTTTTTCTCTTTTTCTCTAATAATATCTTCTTTATGCTTATTATAATACTTGACACTAATTGCAAGATCATTTTCTGT
+TACAACGTGATAAATTACAACAACTGAATCTTCATCGGTGACTTTTTCTAAATAGTCAGGGATAGCACTAAAATCATT
+TTCGAAATCATAGGGTAATAATATATTTTTGAACATCTACACCAGCCTCCTATTACTTATTATTTAGATGTCTATTAC
+TTATATATACCCTAAATATGTATGCTTATTCTCATATTCAAATTATTCAAATATATTCCTTATCATGTATTAGATTCT
+ATTTTTTATATTATTTTTGTAATTCTTTGTATAAACCTATTTATTTATAAAGCGCTCTAATACATACCTAAATATCTT
+CAACTTATAAACTACTTTTTATTTCAATGCCTTTTTCCAAACTTCTTTTATGAGATATTGTGGTTATTACCTGACATT
+TACAATTTACACATTTCGCTATTATTACGCAAATTATTTTGATTTTATAATTATGATGACTATAATCTATTCTAATTA
+ATCTCTCCTTTTAGGCATAAAATAATCTACTTATAATTAAAGCATCCACTATTTCAAAATTATTTGTAAATTGAGATT
+TATAAGTGATTTTTATACAGTTATTTAAAATCTATTTCATAATCAAAAATAATAAAGGGGGTAATAAAAATGAAAAAA
+GAAAAACGTTTAAATCTTATCTTAACTGTTATACAACAGAATCAGTTTAATAAAAAACAACAAATAGTGGATTACATG
+GCAAGACATTTTGGAGTTTACTATAGCTTGACAACTATTTCTCGTGACTTACAAGAATTAGAAATTTACAAAATCCCT
+GTTGAAAATAAAAAGTATATTTACAAGAAAATAAATCAAACAAATCAATTAAGTGCAAAAAAACAATTAGAAATATTT
+AGTGATGAGATTATTGAATTTATAACGCTAAATAACTATGTCTTAATAAAAACATCTCCTGGCTTTGCTCAAAGTATA
+AGTTATTACATAGATCAATTACAAATGAAAGAAATATTAGGAATTATTGGAGGTAACGATACTTTGATGATTTTGACT
+TCTTCAAATGAAATAGCAGAATTTGTTTGTTATCAATTATTCCCTTAAAAATTAAATGATTATATTAATAGGAATGAT
+TACTAATACAAAAAAATGAGTAAAAAATCTTTTTGCTTGAATAAGATAAGGTTTTAACAATGAGATTTTTCAAATTAT
+TCACTATTATATAGTACAAAATACATATTCATACAAAATTTTGCATTGAATAAATCTATATATGTGAAAACCCTCCCT
+AAACAATTGTGAATTAAATCACACGATGTTTTTTGAAAGCGTTTTATAATGTGAATGTAATAAAGCAAAGGAGGAATT
+TGAAATGGTACAAGGACCCATTCAAGTAAATAGTGAAATAGGCAAATTGAAAACTGTGTTGTTAAAAAGACCAGGAAA
+AGAATTAGAAAATTTAGTACCTGATCATTTAAGTGGTTTATTATTCGATGATATTCCCTACTTAAAAGTTGCACAAGA
+AGAGCATGACAAATTTGCTCAAACTTTGAGAGATGAAGGAATCGAAGTAGTTTATTTAGAAAAACTTGCAGCAGAATC
+TATTACTGAGCCAGAAGTACGCGAGAACTTCATAAACGACATATTAACAGAATCTAAAAAGACAATATTAGGTCATGA
+AACTGAAATTAAAGAATTCTTTTCAAAGTTATCTGACCAAGAACTTGTAAATAAAATCATGGCTGGCGTACGTAAAGA
+AGAAATTCAACTTGAAACAACCCATTTAGTAGAATATATGGATGATAGATATCCATTTTACTTAGATCCAATGCCCAA
+CCTTTATTTTACAAGAGATCCCCAAGCTTCAATTGGTAGAGGAATGACAATTAACAGAATGTATTGGAGAGCACGACG
+TAGAGAATCTATTTTTATGACATATATACTGAAACATCATCCAAGATTTAAAGATAAAGATGTACCAGTATGGTTAGA
+TCGTAACTCACCATTTAATATTGAAGGTGGAGATGAATTAGTATTATCGAAAGATGTTTTAGCTATTGGTATATCAGA
+ACGTACATCAGCTCAAGCAATAGAAAAGTTAGCACGTAATATTTTCAAAGATGCAAACACAAGTTTTAAAAAAATCGT
+AGCTATTGAAATACCTAATACACGTACATTTATGCACCTAGATACAGTACTAACTATGATTGACTACGATAAGTTTAC
+AGTACATGCAGCAATATTTAAAGAAGAAAATAATATGAATATATTTACCATAGAACAAAATGATGGTAAGGACGATAT
+AAAAATTACTCGTTCTAGCAAGTTACGTGAAACACTTGCTGAAGTTTTAGAAGTAGAAAAAGTGGACTTTATTCCAAC
+AGGTAATGGCGACGTTATTGATGGTGCACGTGAACAATGGAATGATGGCTCAAACACATTATGTATTCGACCAGGGGT
+TGTGGTGACATACGATCGCAACTATGTATCAAACCAACTTTTACGCGACAAAGGAATTAAAGTGATTGAAATTACTGG
+TAGTGAACTTGTACGTGGACGCGGAGGCCCAAGATGTATGAGTCAGCCGTTATTTAGAGAAGATATTTAAATTTGAAA
+GGTGGTAAAAGTCACAAGTAATTCATTCATTAAATCAAATAACAAGATTTTTACCACCTTTATTAGGGGAGATTAATA
+TGGATGAAAATAAATTAGGTAAAACTTCCTTAATTGGTTTAGTCATAGGCTCTATGATAGGCGGTGGTGCATTCAATA
+TCATCTCAGATATGGGTGGCCAAGCTGGTGGACTTGCAATAATTATCGGTTGGATAATAACTGCTATTGGTATGATTT
+CTCTTGCTTTCGTATTTCAAAATTTAACAAATGAGCGACCAGATCTTGATGGAGGAATTTATAGTTATGCTCAAACAG
+GGTTTGGAGATTTTATTGGTTTTTCAAGTGCTTGGGGATATTGGTTTGCAGCATTTCTAGGTAATGTGGCTTATGCAA
+CCCTATTAATGTCAGCTGTGGGTAACTTTTTCCCTATATTTAAAGGAGGTAACACACTTCCAAGTATTATCATAGCAT
+CAATTTTATTATGGGGTGTACATTTTTTAATACTTAGAGGTGTAGAAACTGCAGCGTTTATAAATAGTATTGTTACAG
+TAGCTAAATTAATACCTATATTTCTAGTTATTATATGCATGATAGTTGTATTCAACTTCAGTACTTTTAAATCCGGTT
+TTTATGGTATGACTAGTGGAAGTGTTGGCGTTTTTAGTTGGGGAGATACAATGGCACAAGTAAAAAGTACTATGTTAG
+TAACTGTATGGGTATTCACAGGGATTGAAGGAGCCGTTGTCTTTTCTGGACGTGCAAAGTCTAAAAAGGATGTAGGAA
+CTGCTACCGTTATTGGTTTGATTTCTGTGCTAGTCATTTATTTCTTAATGACTGTACTAGCCCAAGGTGTCATTCAGC
+AGAACCAAATTTCAAAACTTGCTAATCCATCAATGGCACAAGTATTAGAACATATTGTAGGTCATTGGGGTTCAGTGT
+TAGTTAATATAGGCTTAATTATCTCTGTTTTAGGAGCTTGGTTAGGATGGACATTACTAGCTGGTGAATTACCATTCA
+TTGTAGCTAAAGATGGACTTTTCCCGAAATGGTTTGCTAAAGAAAATAAGAATAAAGCTCCGGTCAACGCTTTAATTA
+TTACTAATATATTAGTTCAGTTATTTTTAATTAGTATGTTGTTTACAGATAGTGCCTATCAGTTTGCGTTTTCACTTG
+CATCAAGTGCAATCTTAATTCCATATACACTCAGTGCTTTTTACCAGGTTAAATATACTATTCAAAATAAATCTAAAG
+CTAATTTAAAACAATGGATAATAGGAATTATTGCATCTATTTACACAATTTGGTTGGTTTATGCAGCTGGATTAGATT
+ATTTACTATTAACGATGTTGTTATATATACCTGGATTACTCGTATACAGCTACGTACAAAGGGATAATAACAAACATT
+TGACAAAATTGGATTATACGTTATTCATATTCATCATTGTACTTGCAATAATAGGAATAGTTCGTTTGATTACAGGTA
+ATATTTCTGTATTTTAAGTTATGATTTAAACTAAGTAATTTTTAAGGGGTTTATAGTTATGTATGAAGAAAATATTTA
+TATTAAAAATTCAGAATATGAATTTGATAATAATCTTAAACAATTAGCATCATACTTAAATATTCCTGTTAGTATTGT
+TAGACCTTATAAAGAGGATTTAACACTTTATCAATATAAAAAAGGACAAGTCATATATCATTCAACTGATCAAATAAA
+ATTTGTATACTTTTTAGTAAATGGTTGTATTTTACATGAATCTTCTAATATTACTGGTGACAATTATTTAAGATTAAG
+TAAAGACGAAAATATATTTCCAATGAACTTCATATTTAATGAAACCCCTGCACCATATGAAATATGTACAGCTTTGAC
+AGATTGTAAAATATTAACTTTACCGAAAGATTTACTTGAGTATTTATGTAGAAAGCATAATGAAATATTTGAAAGTCT
+CTTCAAGAAACTTAATGAGACTATTCAATTTCAAGTAGAATATATTATGGCGTTAAGAGCTAATTCAGCTAAAGAAAG
+AATTGAAAGAATACTACAAATTTTATGCCTTTCAATTGGGGATGATAATGGAGAATTCTATGAATTAAAACAAATTAT
+GACTGTTCAATTAATAAGTAATTTATCTGGACTTAACAGAAAAACTACTGGTGAAATAATCAGAGAATTAAAAATAGA
+AAATATTATATATCAAGATAAAAGAAATTGGATTATAAAAAAATAACATGAATAAAATATTAATTGAAAAGGAGATAT
+TCAAAATGAAAAATTTAAGAAATAGAAACTTTTTAACTTTGTTAGACTTCACACAAAAAGAAATGGAATTTTTACTTA
+ATTTATCTGAAGATCTTAAACGCGCAAAATATGCAGGAATAGAACAACAAAAAATGAAAGGTAAAAATATCGCTCTAC
+TTTTTGAAAAAGATTCAACACGCACTCGATGTGCATTTGAAACAGCGGCTTATGATCAAGGTGCACATGTAACATACC
+TTGGGCCAACAGGTTCTCAAATGGGTAAAAAAGAGTCTACCAAAGATACTGCTCGTGTTTTAGGTGGAATGTATGATG
+GCATAGAATATCGTGGATTCTCACAAAGAGTAGTTGAGGATTTGGCAAAATATTCTGGCGTTCCCGTATGGAATGGTT
+TAACAGATGAAGATCATCCTACACAAGTACTTGCTGATTTTTTAACAGCTAAAGAAGTATTGAAAAAACCATATAATG
+AAATTAACTTCACATATGTTGGAGATGGACGTAATAACGTTGCAAATGCCTTAATGCAAGGAGCAGCAATCATGGGCA
+TGACTTTCCATCTTGTATGTCCTAAAGAACTAAATCCAACTGATGAATTATTAAATCGGTGTAATGATATAGCTGACA
+AAAACGGTGGTGAAATCCTTATAACTGATGATATTGATGAAGGTGTCAAAGGATCTGATGTAATTTACACAGATGTTT
+GGGTATCTATGGGTGAACCTGATGAAGTTTGGGAAAAACGTATCAAATTATTAGAACCATACCGTGTAACTAAAGAAT
+TAATGAAAAAAACAGGTAATCCACATACAATTTTTGAACATTGCTTACCATCATTCCATGATACTGAAACAATAATCG
+GTAAACAAATTCAAGAAAAATATGGTCTAACTGAAATGGAAGTAACAAATGAAGTATTTGAAAGTGAACAATCAGTTG
+TTTTCCAAGAAGCAGAAAATAGAGCACATACAATAAAAGCAGTCATGGTAGCAACATTAGGAGAGTAAATGAAAGGAG
+GATATAAATATGTCTAAAATCGTCGTAGCTTTGGGTGGTAACGCTTTAGGACAATCGCCTAAAGAACAATTAGATTTA
+TTAAAAAGTACATCTAAATCTCTAGTAAGTTTAATCGATAAAGGATACGAAATTGTAATTAGTCATGGTAATGGTCCA
+CAAGTTGGAAGTATTAACTTAGGTTTAAATTATGCGGCGGAACACAAACAAGGTCCTCCTTTTCCTT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      gene {
+                        locus-tag "MFMLEMAL_00001" } ,
+                    location
+                      int {
+                        from 50 ,
+                        to 865 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      gene {
+                        locus-tag "MFMLEMAL_00002" } ,
+                    location
+                      int {
+                        from 1481 ,
+                        to 1726 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus-tag "MFMLEMAL_00003" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 2430 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus "argR" ,
+                        locus-tag "MFMLEMAL_00004" } ,
+                    location
+                      int {
+                        from 2932 ,
+                        to 3378 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      gene {
+                        locus "arcA" ,
+                        locus-tag "MFMLEMAL_00005" } ,
+                    location
+                      int {
+                        from 3647 ,
+                        to 4882 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      gene {
+                        locus "arcD" ,
+                        locus-tag "MFMLEMAL_00006" } ,
+                    location
+                      int {
+                        from 4968 ,
+                        to 6389 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      gene {
+                        locus "arcR" ,
+                        locus-tag "MFMLEMAL_00007" } ,
+                    location
+                      int {
+                        from 6431 ,
+                        to 7120 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      gene {
+                        locus "argF" ,
+                        locus-tag "MFMLEMAL_00008" } ,
+                    location
+                      int {
+                        from 7158 ,
+                        to 8156 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MFMLEMAL_00001" } } ,
+          descr {
+            title "Monoacylglycerol lipase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 271 ,
+            seq-data
+              ncbieaa "MHYIKFIESKDNTKLYMKVNDIQDAKANIIIAHGVAEHLDRYDEITAYLNEAGFS
+VIRYDQRGHGRSEGKRAFYSNSNEIVEDLDAIINYVKSNFEGKVYLIGHSMGGYTVTLYGTKHPNTVNGIITSGALTR
+YNNKLFGNPDRNISPDTYIENNLSEGVCSDLEVMEKYKLDDLNAKQISMGLVFSIMDGVRYLKDNAQQFTDNILILHG
+KEDGLVSYVDSLQLYQEIGSAHKSLHIYDRLEHEIFNESSYNRTIFNEVIEWLETELTYN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      prot {
+                        name {
+                          "Monoacylglycerol lipase" } ,
+                        ec {
+                          "3.1.1.23" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 270 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MFMLEMAL_00002" } } ,
+          descr {
+            title "hypothetical protein MFMLEMAL_00002 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 81 ,
+            seq-data
+              ncbieaa "MNYFRYKQFNKDVITVAVGYYLRYALSYRDISEILRERGVNVHHSTVYRWVQEYA
+PILYQIWKKKHKKLITNGVLMRRTSK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 80 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MFMLEMAL_00003" } } ,
+          descr {
+            title "hypothetical protein MFMLEMAL_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 143 ,
+            seq-data
+              ncbieaa "MFKNILLPYDFENDFSAIPDYLEKVTDEDSVVVIYHVVTENDLAISVKYYNKHKE
+DIIREKEKKLTPFLRELEKRDIQYKIDVDFGHIKDTILEKITSGDINNGEFDLVIMSNHRVDLNIKHVLGDVTHKIAK
+RSSVPVLIVK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 142 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MFMLEMAL_00004" } } ,
+          descr {
+            title "Arginine repressor [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 148 ,
+            seq-data
+              ncbieaa "MKKEKRLNLILTVIQQNQFNKKQQIVDYMARHFGVYYSLTTISRDLQELEIYKIP
+VENKKYIYKKINQTNQLSAKKQLEIFSDEIIEFITLNNYVLIKTSPGFAQSISYYIDQLQMKEILGIIGGNDTLMILT
+SSNEIAEFVCYQLFP" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      prot {
+                        name {
+                          "Arginine repressor" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 147 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MFMLEMAL_00005" } } ,
+          descr {
+            title "Arginine deiminase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 411 ,
+            seq-data
+              ncbieaa "MVQGPIQVNSEIGKLKTVLLKRPGKELENLVPDHLSGLLFDDIPYLKVAQEEHDK
+FAQTLRDEGIEVVYLEKLAAESITEPEVRENFINDILTESKKTILGHETEIKEFFSKLSDQELVNKIMAGVRKEEIQL
+ETTHLVEYMDDRYPFYLDPMPNLYFTRDPQASIGRGMTINRMYWRARRRESIFMTYILKHHPRFKDKDVPVWLDRNSP
+FNIEGGDELVLSKDVLAIGISERTSAQAIEKLARNIFKDANTSFKKIVAIEIPNTRTFMHLDTVLTMIDYDKFTVHAA
+IFKEENNMNIFTIEQNDGKDDIKITRSSKLRETLAEVLEVEKVDFIPTGNGDVIDGAREQWNDGSNTLCIRPGVVVTY
+DRNYVSNQLLRDKGIKVIEITGSELVRGRGGPRCMSQPLFREDI" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      prot {
+                        name {
+                          "Arginine deiminase" } ,
+                        ec {
+                          "3.5.3.6" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 410 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MFMLEMAL_00006" } } ,
+          descr {
+            title "Arginine/ornithine antiporter [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 473 ,
+            seq-data
+              ncbieaa "MDENKLGKTSLIGLVIGSMIGGGAFNIISDMGGQAGGLAIIIGWIITAIGMISLA
+FVFQNLTNERPDLDGGIYSYAQTGFGDFIGFSSAWGYWFAAFLGNVAYATLLMSAVGNFFPIFKGGNTLPSIIIASIL
+LWGVHFLILRGVETAAFINSIVTVAKLIPIFLVIICMIVVFNFSTFKSGFYGMTSGSVGVFSWGDTMAQVKSTMLVTV
+WVFTGIEGAVVFSGRAKSKKDVGTATVIGLISVLVIYFLMTVLAQGVIQQNQISKLANPSMAQVLEHIVGHWGSVLVN
+IGLIISVLGAWLGWTLLAGELPFIVAKDGLFPKWFAKENKNKAPVNALIITNILVQLFLISMLFTDSAYQFAFSLASS
+AILIPYTLSAFYQVKYTIQNKSKANLKQWIIGIIASIYTIWLVYAAGLDYLLLTMLLYIPGLLVYSYVQRDNNKHLTK
+LDYTLFIFIIVLAIIGIVRLITGNISVF" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 22 ,
+                    data
+                      prot {
+                        name {
+                          "Arginine/ornithine antiporter" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 472 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MFMLEMAL_00007" } } ,
+          descr {
+            title "HTH-type transcriptional regulator ArcR [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 229 ,
+            seq-data
+              ncbieaa "MYEENIYIKNSEYEFDNNLKQLASYLNIPVSIVRPYKEDLTLYQYKKGQVIYHST
+DQIKFVYFLVNGCILHESSNITGDNYLRLSKDENIFPMNFIFNETPAPYEICTALTDCKILTLPKDLLEYLCRKHNEI
+FESLFKKLNETIQFQVEYIMALRANSAKERIERILQILCLSIGDDNGEFYELKQIMTVQLISNLSGLNRKTTGEIIRE
+LKIENIIYQDKRNWIIKK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 23 ,
+                    data
+                      prot {
+                        name {
+                          "HTH-type transcriptional regulator ArcR" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 228 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_00007" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MFMLEMAL_00008" } } ,
+          descr {
+            title "Ornithine carbamoyltransferase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 332 ,
+            seq-data
+              ncbieaa "MKNLRNRNFLTLLDFTQKEMEFLLNLSEDLKRAKYAGIEQQKMKGKNIALLFEKD
+STRTRCAFETAAYDQGAHVTYLGPTGSQMGKKESTKDTARVLGGMYDGIEYRGFSQRVVEDLAKYSGVPVWNGLTDED
+HPTQVLADFLTAKEVLKKPYNEINFTYVGDGRNNVANALMQGAAIMGMTFHLVCPKELNPTDELLNRCNDIADKNGGE
+ILITDDIDEGVKGSDVIYTDVWVSMGEPDEVWEKRIKLLEPYRVTKELMKKTGNPHTIFEHCLPSFHDTETIIGKQIQ
+EKYGLTEMEVTNEVFESEQSVVFQEAENRAHTIKAVMVATLGE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 24 ,
+                    data
+                      prot {
+                        name {
+                          "Ornithine carbamoyltransferase" } ,
+                        ec {
+                          "2.1.3.3" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 331 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MFMLEMAL_00008" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "MFMLEMAL_00001" } ,
+                location
+                  int {
+                    from 50 ,
+                    to 865 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "MFMLEMAL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:O07427" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG2267" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "MFMLEMAL_00002" } ,
+                location
+                  int {
+                    from 1481 ,
+                    to 1726 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "MFMLEMAL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "MFMLEMAL_00003" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 2430 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "MFMLEMAL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "MFMLEMAL_00004" } ,
+                location
+                  int {
+                    from 2932 ,
+                    to 3378 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "MFMLEMAL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P63580" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "MFMLEMAL_00005" } ,
+                location
+                  int {
+                    from 3647 ,
+                    to 4882 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "MFMLEMAL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P63554" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "MFMLEMAL_00006" } ,
+                location
+                  int {
+                    from 4968 ,
+                    to 6389 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "MFMLEMAL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P18275" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG0531" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "MFMLEMAL_00007" } ,
+                location
+                  int {
+                    from 6431 ,
+                    to 7120 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "MFMLEMAL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q7A381" } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "MFMLEMAL_00008" } ,
+                location
+                  int {
+                    from 7158 ,
+                    to 8156 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "MFMLEMAL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P99073" } } } } } } } } }

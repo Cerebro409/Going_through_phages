@@ -1,0 +1,467 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CEGFEPDD_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 3357 ,
+            seq-data
+              iupacna "GTAAATGGCGGTTATAAAATGTAGGAAAATGGCGAAATGAAAATGCTGTTTTTCC
+TACATTTTTTCTTTTTTAAATTATATAATCATGTCTTAACTCAATCTTCGATTGGAGGTTATTTGATTGAGACATGAC
+ATTTATGAAGGAGTGCTATTTTACATTATGAAAGGTATTAAACCAAATTATGCCGAGCTTGGTCGACAATATAATTGT
+GATCCAAGAACAGTTAAAAAATATTATGAAGCAGGAAAAGAAAATGAATTAGAACGATTGAAGAAAAGACAACAAAAT
+AAGAAAGCATCAAAACTAGATCCATTTAAAGAAATTATTAATAAAAAAATTGAATTAGGATGTACAGCTATGGCCATT
+TTTAAATATATAGAGAAAAAGGGTTATGAAGGTAAATATACTATTCTACGAGAATACTGTAAAAATAAAAAACAAAAT
+GAGACTAAAAAAGCAACTATACGCGTAGAAACTAATCCCGGTATAGCTGCTCAAGTAGACTGGAAAGAAGATATGGTA
+ATGCATGATAAGTTTGGCAGAACTTATCAATTCAACATCTTTCTTTACGTTCTACACTATTCAAAAATGAAGTATATC
+ACATTAACTTGGGATAGAAAACAAGATACCTTATTTGAATGTTTAAAAGACGCTTTTGAATACACCGAAGGGGTTCCA
+AAAGAAATCTGGTTCGATAATATGAGAACTGTAGTTGATCGACCTAGAACACAATATAAAAAAGTCGTCTTTAATAAT
+TTATTTTATCAATTTAGTAAGGATGCCAACTTTGAACCTATTGCTTGTAGACCCTATCGTCCTCAAACAAAAGGGTCT
+GTTGAATCATTAGCTAAATTTGTTGAACAGCGTTTAAGACCATACGATTATGAATTTTATGATGCTGTAGAACTTATT
+GGGCTAGTAAACGATTTATGTCACGAATTGAATCACTTAGAAATTTCACAAGCAACAGAACAACGACCTATCGACGTT
+TTCAATTATGAAGAAAAAGAACATTTAAATTCTTTTAATGCCAAGTTACTAGATACTTACATCGAAAATGAGTGTATA
+AGAATCGTTTCTAAAGAATCGATGATTAACTTTAGAAAAGGTAAATACTCGGTACCTACTAAATACATTGGTGAAGAA
+GTACAAGTGATATTCAATAATTCTACTGATGAATTGCTGATTTATTATGATGGTGAATTAATAAGACGGCATAATCTA
+TCCGAAAGAAAATTTAATTATATCGTTGAAGATATGAGTGAAATATTAAAATCAGATGTATTTAAACATAAGGATGAC
+AAAGAAATTCTTACGTATATAGAAAATTCATTATTACTGTATGACGAAATTTAGGAGGACTTTCGATGAATACGAACC
+ATCAAAAATTACTTAATAACTTTGAAATATTAAAACTAAAAAAATTCAAAGATTATTATCCAAACTATATTGAATTAC
+TTTCTAAAAATGAGAAATCTTTAACTGAAATATTGATTGATTTAACGGAAAAAGAAATAGAATATCAATCAGAATTAA
+AATTTAAACGTGCTGTGAATTCAGCACGTTTCCCTAAAATAAAATATTTACATGATTTTGATTTCATGTTTCAACCTA
+GTATAAATCAACAAGAAATACTCACTTTAAAATCTATGCATTTTTTAGAAGATAGTATAAATATTTGTTTCTTAGGTA
+ATAGTGGTGTTGGTAAAACACACCTAGCAATCTCATTAGGAATAGAGGCATGTAAGCAAAATATAAAGACTAGATTCT
+ATACTTTCAAAGAATTAATAGACTTATTAACTGTCTCAGATTCCAAAGGAATCATTAATAAAACATTAAAGCAATTAA
+GCAGAATAGAGTTACTTATCATTGATGAAATTGGTTATACTCCCATCACCAAAGAACAAGCTGATTTATTCTACCAGT
+TAATGTCACTAAGGTATGAGTGGAAATCAACAATAATTACGACTAATATTCCATTTTCGAGTTGGGGAGAGTCATTTA
+GTAATAAGATTGTATCAGCAGCTATAATTGATCGGTTAGTTCACCATTCAAAAGTATTTAAAATTACTGGAGAATCAT
+ATCGATTAAAAGATTATAAAACCGAAAAATCATTAAATATACGACAATCTTAAACCGCTAAAAAACGACATTTTCAAA
+CCGCCATAAAACAGCATTTTTAAACCGCTATTGACAACCATTACATTTTTATATTTTAATATTGAAAAAATCACATTT
+TACATTCATTGTCATTATCTTTTTATCTTCAAATTGCTTGAAGTCATTTAGATTCAACTACATCTATTATGTATAAAT
+CATTAGGACGGATTTCTTTTAAACCCGTCCCATGTTAAATTAATATATTCTATTGCTTTAATCTTGATTGCTGTATTT
+TATAAACGAATACTGTACCGATTGTAAATAAAATGATGCCAATAATGAATAATGGTATTCCAAACATATTAAAAGGTT
+CACCGTAAAGTTTTATTCCAATTTCCATAAACCTAGCTTTCATTACGAAGTAAAATAAGATAGACATAAATATAAATA
+CTGCATATGTCCCAATGATTGATAAAATTATCGTTGGTTTTGATATAGATTCAAGTGCTTTAGAATTTTTATGCGGTG
+TATAAACAAATAGCCACATGACATTCAGTGCCAACATTCCAAAGCTACCTAAACATAAAATAAATCCATAAACACTTG
+TTAAACTTAAAATCCCTGCAATTGTTAAAAGTATCCACCAAGTATATTTCATGCTATGACACTTCTTTTCCTATTTTG
+TTATATCTTAAAACAGAAATCCCACTTATTAACCAAGCAATAAATGTTAATAAATTGGCGCTGATTACTGCACCAATA
+ATATACAAAATGCCACTCGCTCTATTATTCACAAACAACTTTTTCATAGCTATAATGCCTAATAAATCTGAAGCTAAA
+GAAACAACAAATAATATTGCAAATATTGTCACGAATGTTGCTTGAGCAGTTTCTGGACTTTGTATAGTTTGTTCACCA
+TTAACAGTTGTGGTCAATTCTGGCTGTATAATCCCTGTTGCTGATAAAATTAAAAATATTAAAAATAACAATGTTAAA
+AAACTTTGAATAATAATTCCAATTAAAGACGTCACTTTGATTAATTTTTCCATTTTCCTACTCCTTAAAATTATTTTA
+CTTTAATATCTTTATAATCTGATTGGTGTTCTTTCACGTATGTTTTAGGATTAATATCTCTCTTATAATAAATTTTGT
+CGTTTTTAAACTCGTAAGTCGCGTAAAACATTTGATCTTTATCTTTAAATAACTTATAGCTGATGATAATTAATTTGC
+CATCATCAAATACATAAGTATTTACT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 5 ,
+                    data
+                      gene {
+                        locus-tag "CEGFEPDD_00001" } ,
+                    location
+                      int {
+                        from 160 ,
+                        to 1356 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CEGFEPDD_1" } } } ,
+                  {
+                    id
+                      local
+                        id 6 ,
+                    data
+                      gene {
+                        locus-tag "CEGFEPDD_00002" } ,
+                    location
+                      int {
+                        from 1368 ,
+                        to 2135 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CEGFEPDD_1" } } } ,
+                  {
+                    id
+                      local
+                        id 7 ,
+                    data
+                      gene {
+                        locus-tag "CEGFEPDD_00003" } ,
+                    location
+                      int {
+                        from 2366 ,
+                        to 2758 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CEGFEPDD_1" } } } ,
+                  {
+                    id
+                      local
+                        id 8 ,
+                    data
+                      gene {
+                        locus-tag "CEGFEPDD_00004" } ,
+                    location
+                      int {
+                        from 2760 ,
+                        to 3149 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CEGFEPDD_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CEGFEPDD_00001" } } ,
+          descr {
+            title "hypothetical protein CEGFEPDD_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 398 ,
+            seq-data
+              ncbieaa "MKGIKPNYAELGRQYNCDPRTVKKYYEAGKENELERLKKRQQNKKASKLDPFKEI
+INKKIELGCTAMAIFKYIEKKGYEGKYTILREYCKNKKQNETKKATIRVETNPGIAAQVDWKEDMVMHDKFGRTYQFN
+IFLYVLHYSKMKYITLTWDRKQDTLFECLKDAFEYTEGVPKEIWFDNMRTVVDRPRTQYKKVVFNNLFYQFSKDANFE
+PIACRPYRPQTKGSVESLAKFVEQRLRPYDYEFYDAVELIGLVNDLCHELNHLEISQATEQRPIDVFNYEEKEHLNSF
+NAKLLDTYIENECIRIVSKESMINFRKGKYSVPTKYIGEEVQVIFNNSTDELLIYYDGELIRRHNLSERKFNYIVEDM
+SEILKSDVFKHKDDKEILTYIENSLLLYDEI" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 397 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CEGFEPDD_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CEGFEPDD_00002" } } ,
+          descr {
+            title "IS21 family transposase IS712 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 255 ,
+            seq-data
+              ncbieaa "MNTNHQKLLNNFEILKLKKFKDYYPNYIELLSKNEKSLTEILIDLTEKEIEYQSE
+LKFKRAVNSARFPKIKYLHDFDFMFQPSINQQEILTLKSMHFLEDSINICFLGNSGVGKTHLAISLGIEACKQNIKTR
+FYTFKELIDLLTVSDSKGIINKTLKQLSRIELLIIDEIGYTPITKEQADLFYQLMSLRYEWKSTIITTNIPFSSWGES
+FSNKIVSAAIIDRLVHHSKVFKITGESYRLKDYKTEKSLNIRQS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      prot {
+                        name {
+                          "IS21 family transposase IS712" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 254 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CEGFEPDD_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CEGFEPDD_00003" } } ,
+          descr {
+            title "hypothetical protein CEGFEPDD_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 130 ,
+            seq-data
+              ncbieaa "MKYTWWILLTIAGILSLTSVYGFILCLGSFGMLALNVMWLFVYTPHKNSKALESI
+SKPTIILSIIGTYAVFIFMSILFYFVMKARFMEIGIKLYGEPFNMFGIPLFIIGIILFTIGTVFVYKIQQSRLKQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 129 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CEGFEPDD_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CEGFEPDD_00004" } } ,
+          descr {
+            title "hypothetical protein CEGFEPDD_00004 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 129 ,
+            seq-data
+              ncbieaa "MEKLIKVTSLIGIIIQSFLTLLFLIFLILSATGIIQPELTTTVNGEQTIQSPETA
+QATFVTIFAILFVVSLASDLLGIIAMKKLFVNNRASGILYIIGAVISANLLTFIAWLISGISVLRYNKIGKEVS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 128 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CEGFEPDD_00004" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CEGFEPDD_00001" } ,
+                location
+                  int {
+                    from 160 ,
+                    to 1356 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CEGFEPDD_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CEGFEPDD_00002" } ,
+                location
+                  int {
+                    from 1368 ,
+                    to 2135 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CEGFEPDD_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:ISfinder:IS712" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CEGFEPDD_00003" } ,
+                location
+                  int {
+                    from 2366 ,
+                    to 2758 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CEGFEPDD_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CEGFEPDD_00004" } ,
+                location
+                  int {
+                    from 2760 ,
+                    to 3149 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CEGFEPDD_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } } } } } } }

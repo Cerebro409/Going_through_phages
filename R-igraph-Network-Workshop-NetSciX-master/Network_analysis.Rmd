@@ -1,0 +1,34 @@
+---
+title: "Network_test"
+author: "Tyrome Sweet"
+date: "4/1/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(igraph)
+```
+
+```{r , echo=FALSE}
+nodes <- read.csv("Dataset1-Media-Example-NODES.csv", header=T, as.is=T)
+links <- read.csv("Dataset1-Media-Example-EDGES.csv", header=T, as.is=T)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+```{r}
+head(nodes)
+head(links)
+```
+
+```{r}
+net <- graph_from_data_frame(d=links, vertices=nodes, directed=T)
+net <- simplify(net, remove.multiple = F, remove.loops = T) 
+net
+```
+```{r}
+plot(net, edge.arrow.size=.2,vertex.label=NA, edge.color="blue")
+```

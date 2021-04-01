@@ -1,0 +1,1204 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CFLMPIEH_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 11351 ,
+            seq-data
+              iupacna "TCATAGATGAGATTGGGTACTTACCTATTGGAAGTGAAGATGCCAAACTATTCTT
+TCAATTAATAGATTTAAGATATGAGAAGAAAAGTACAATATTTACCACAAATATCAATTTCAACTTATGGAATGAAAT
+ATTTGATGATCCAAAAATCGCAAATGCGATTTTGGATAGGATATTGCATCATTCAAGTGTAGTTAAAATCAAAGGCAA
+ATCGTATAGATTAAAAGATCATTCACCTAAGAAGGAAATTACTTAGCAAACAATTTTGTACATTCTTATACAATCATT
+TATGTACATTTTTATATTGACATTTACAACCTACAAGATTTACATATAAAATTCTATCATGTCTGCTATATATAAACG
+AAATGATATTAGAATCCTTCATTTTCAACTTGTTTAAAATTACGTTTAATGCCGTTATAAGAATATACAACATTATAT
+AATTTTACTTGGGCGTCATGGACACTTGAGAAGGGCATTCTTACATCGTCCATATTTTTAACTTCGTGTCGAAATGCT
+TTTTCAGCTTTTTGTCTTTCTGCAAGCGACATACTTAGCCATTCTTCTTTGCTAAATAAATCTTCGAATCGAAAATCA
+AATGCGGTTCTTTTACTTTCTGCTCTTAATGCTAAAACACGCTCATGATATGTCACGTTTTATTCCTCCCTCTAATCA
+TTCAATCGAATGATAAATCACAGTATTAACTTTAGTACTAATATAATGTTTTTACAATAAAGAAGTGACGATTTTTCA
+ACATTTTTAAAAATAAAAAATATAAGCAACGATTAATTGTATATTTAGAATGGCTTGTAATGTAATTTATCTATGAAA
+ATGAAGCGAGTTATTATGACCGTTATATGAATTGTGATACGCTTTTTAAAAGTAATATGTATTTATGATTTACCCTGA
+AAAAATAAAAAGAATCAAAGGAGTCGATCATTATGACAGTATTAACAGATAAAGTAGCAGTAGTTACAGGTGCAGGTA
+GTGGTATTGGAGAAGCAATTGCAACATTACTACATGAAGAGGGTGTGAAAGTCATCTTAGCCGGTAGAAATAAAGATA
+AACTACAAAATGTGGCGAATCAATTAGCTCAAGATAGTGTGAAGGTAGTGCCAACAGATGTAACGAAAAAAGAAGAAG
+TCGATGAATTGATAAAAATTGCACAACAAACATTCGGTGGTTTGGATATTGTTATCAATAGTGCGGGACAAATGTTAT
+CGTCTAAGATTACTGATTATCAAGTAGATGAGTGGGATAGTATGATTGATGTGAATATCAAAGGCACTTTATATACGG
+CACAGGCTGCATTACCAACTATGTTAGAACAATCAAGTGGTCATCTTATTAACATTGCATCTATTTCTGGCTTTGAAG
+TAACGAAAAGCAGTACGATTTATAGTGCGACGAAAGCAGCAGTTCACACTATTACTCAAGGATTAGAAAAAGAGTTGG
+CAAAGACAGGTGTTAAAGTAACAAGCATTTCTCCAGGAATGGTAGATACAGCAATAACTGCCGCATACAATCCAACAG
+ATCGTAAAAAACTTGAACCACAAGATATTGCAGAAGCAGTATTATATGCATTAACACAACCAAAGCACGTTAACGTGA
+ATGAAATTACAGTGCGTCCTGTATAAAAAGGTGTTTGAGGTCTGGGATATAGGCATTTAATGTAATAGCTATCGGTTT
+TGTTAATATTAGTAAGGCAATAATGATATAAGGGCATGATAGACAATTATTCCTTGTACAATTCTCAGTAATTGGTGA
+TTTTAACAATCAAGTGAGTGAAGGCGACTATATTAGTGTTATGATTTATAATCTATAATGTTCATAATTACAGAACTA
+TAAAAACTTTTTCATTTCCTACCATATTCTAGGAGTTGCTTTAATGACCAAAAAACATGTTTTTATAATTATTGGTGT
+TATTTTATGTATATGTATAGTTGCTACAGTCATTTATTTAAAAGTGAAATATGACGAAAAAGAAAAGCAAAAATCAAT
+TTATTATAAAGAACAACAAGAGCGTATTACACTCTATCTCAAGCATAACACTAAAGAACCGAACACGATCAAATCTGT
+GCATTTCACAAGTTTAAAGACAGGACCTATGGGCGATGCCGTAATTGAAGGTTACATCAATGAAAATAAAGAAGATAA
+TTTTGTTGCATATGGGTCTCCAGAACATAATTATCAATTTGGTGGAAGTTTAATCAAAAGTAAAAATTTAAGCACATT
+ATTAAAACCAGCACATCAAACCAAAACGCCTGATGATATAAAAAAAGAACTAGATTCTAAAAAGAACGACCGCTAAAA
+CAATGCGGTCGTTTTAATTTTGCTTTCAAGTTAATCATACTTACACATAAAAATGAAAAGTTGAATTTTTAGTACAAT
+TTTCACTGTATTTATCTGTTAACCACTTCATAACCGCAATATTCCGATGATCTTAAATGAACACTTTTGGCTGCTTTT
+CCTTGACCTAGATTAAAATTATAGATTTTCTTTGTAAGAGTGTGTTTTGTAGTATCATAAATATGTAAACTGTATAAA
+ATCCCACCACATTTTAGGAGCTGGTGATAGATGTCGAAAAAGAAAATTTTAATATTAACTAGTATTATGTTAATCATA
+TTAATTAGTGTTGCAAGTATCTATTTTAAAATGAAATATGACGAAAAAGAAAAACAAAAATCAATATACTATAAAGAA
+CAACAAGCGCGCATTACACTTTATCTCAAGCATAACACTAAAGAACCGAACACGATTAAATCTGTGCATTTCACAAAA
+TTGGAAACAAGTCCTATGGGAAGTGCTGTGATTGAAGGTTACATAAATGAAAACAAAAAAGATGATTTTGTTGCCTAT
+GCATCACCTGAAAATAACTTTCAATTTGTAGGTGATTTAATTAAAAGTGAAAGATTAAGTGAGTTACTAAAACCAGCG
+CATCAATTAAAATCACCAGATGGTATAAAAAAAGAACTAAATAAAAAGAAGAGTTACTAAAGTTAGGAGTTGCTTTAA
+TGTCCAAAAAACATGGTTTTATAATTATTGGTGTCATTTTATGTATATGTATAGTTGCATCCGTCATTTATTTAAAAA
+TGAAATATGACGAAAAAGAAAAACAAAAAGAAATTTATTACAAAGGACAACAAGAGCGCATTACACTTTATCTCAAGC
+ATAATACCAAAGAACCCAATACCATCAAATCTGTACATTTCACAAGTTTAAAAAGAGGACCTATGGGCGATGCAGTAA
+TTGAAGGTTACATCAATGAAAATAAAGAAGCTGATTTTGTTGCATATGGGTCACCTGAAGAAAACTATCAATTCACTG
+GAGGATTGACAGGAAGTAATGAAGTCTTAGGAAAATTAAAGAACGCTGAAAATTTAAAATCTCCTGAAAAAATTAAAG
+AAGAAATAAACAAAAAGAAAAACACTAAACAGTGATTTTCACGTAATATTTAGCTTGATTTGTACATGTTTAATATCG
+TTTGCTATCGAAGGTGTTTCGCAATTAATATAAATCACTTCATCATCACCAATACTTCCCCAGTTTTTTACAGTACAT
+TAACACAAGCGAACCCCATTAATGTAAATGGAATAATAGTTTGGCCATTATAAGAACAATATATACCTAATAACAATG
+GCGATGGCGTGATTTATTGACATTATCAAATTTTCTCAAATGTGTGTGATTTTTTATAAAAAAGGGTAGAGCAAGGTA
+TAATATCCTTTCAATCTGTTTTCATATTTTATATATTTTTTAAATATAAGCGCTAAATGTTTTAACTAAAGCATAGAT
+TGACAAGATGTTATACAGAATTTCAAATTCTATCCAATATTGTTCGAAGTGTAGTATCACTGGATTGGTATTAAACAA
+TGTAAAGGAGAGATTGCAAATGCCGTATAATTACAAGAAACAAAATGGAGAGTTAATGTCTGTAATGAGCCAAGGTGA
+AAAGTTTATTCATCAATCACCCGTTAATGATGAACTTAGTGCATTGATTAAGTTATTAATTTCTAAAATTAACGGTTG
+TCATTATTGTGTTGATATCCATAAAAAAGAATTAAAGGAATTGGGTGTAACACAAATGAAAATTGATGAAGTCTTGAG
+TTTTAGACATTTAGATTTATTTACTGATCAAGAAAAAGTGACGCTTGAATTTGCAGAAATGTTAAATTCAATCAAAGA
+CTTTAAGAAGTTTGAAATTATTGACCGGCTAAAATCATTTTATGATGAAGAACAAATTATTGATCTTGTCTTTGTTGT
+AAACCAAATTAACGGTTGGAACAGACTAAATATTATTAGTGATAAACTATAATTGTTCATATAAATACAGAGTTTCAT
+CTCGAGCGCTATATCATAACAAATCATGCCACTATACAGGTCAAATCTTGTATAGTGGCATTTTAATTTATCCCTTTG
+AATACTGTTATTTAACGAATATCGGTCCACCTGGTCCAACAGGGATACCTAATAGGAACCAAATAATGACAAATACTG
+TCCACACAATACTTAGTGCGATTGAATACGGCATTAAACTAGAAAGTAAGGCTCCGAGTTTCATGCGTTTATCGTATT
+TTTGTGCATAAGTTAATAATAAAGGTAAGTACGGCATCATCGGTGTAATTGGATTGGTAATTGAATCTCCTACACGGT
+AAATGACTTGTGTGAATGCGGGATGAAAGCCGATAAGGATTAACATTGGTACGAATATCGGTCCTAAAATACCCCATT
+TAGCCGATGCGCTTCCGATTAACATGTTGACCATTGCACTCAGTACGATAATACCTAGTATCAATACAATACCGTTTT
+GATGTTCTAATAATTTGGCACCTTTAACAGCAGCGATAATTCCTAAATTACTCCACTTTAAATACGCAAGTAGCTGTG
+CTGCAAAAAACACAATAACGATAAATGTTCCCATTGATCCTACAGCATCGCCGAACATTTTACCTAAGTCTTTTGTAT
+TTTTAATTTCTTTGCTTAAAATCCCATAAACTAATCCAGGTACTAAAAATACGACAAGAATAATTAATCCGACACCGT
+TAATTAATGGCGCATCGTCTAGTAAGCTGCCTGTTTTAGCATTTCTTAAAAAGCTATGTTCAGGAATGGCTGTAATAA
+TTAATAAAATAATTGTGACTATGAAACTGATATTTGCCCATTTTAAAGCATGTGCTTCTTTGTCAGTAATATGTGAAG
+ATGTTTCTTCATGGTCATCATGCATTAAACTGTCATCATATTTTCCTAATCTAGGAATAATGAGCTTAGTTGTAACTA
+GCAATATCGTAGGAAGTAATACAACGACACTCGCTGCGATAAAGTACCAGTTCATAGCAACGTTTGTTTTAATAGAAT
+CTGAAACGATACGTGTTGCCGGTTCTGTAAATGAATAGACCAAAGCATCTTGCATACCAACAACTATATTTGCTGCAA
+ATCCTCCAACAGCGGAAGCATATGCCATCGTTAAACCAGCAATAGGGTGATAGCCAATTTTAATAAAAAGCATTGCTG
+CAAGCGGCGGCAAGATAATTGTCGCAGCATCGCCGGCTGTACTACCTAAAATACCAATTAATATAATAGTCGGTAAAA
+TTAAAAATCGTGGTGCGCGATTCACAACAGAAATCATTAACTTGTCGAAGTATCCTGTTTTCTCTGCAACACCAATAC
+CAATCATCACTGCTAGTACTAAGCCTAATGCTGGGAACTCTGAGAAATTTTTAATCGTATCATTCATTATCATCGTAA
+ATCCATCATGGCTAATTATATTTTTAATATAAATGGTTTGATGTGTACCTGGATGCTTAACAGATACATTAAATAATG
+AGATAACCCACGTCATAATGGCTAAGCCTATACACATTAAAAAGAATAAGACGCTAGGATCTGGCAATTTATTTCCAA
+TTTTTTCAACACTATTCAAGAAACGATTGACGATAGACCCCTTTTGTTGATGTTTTGATGTCATCAATGATTCCCCCC
+TTTGTTAAATATTTAAAGTGTAACAAAAAATACTCTCAAAAGTAACAATTTTCAGAAAATGAAAAGACTAATATTGTT
+AAATATTTTGAGTTATTCAATAGAAATTGTATAGCAGAGAGTAGCTAAGACTGCCTGGAGACTTATCTATTAGGTTTA
+TGAAGCATTGAACAGTGGAAAATAAGGACTGTAAGTTTAAGATATGTTGTATAGGAGTGACTGAATGAAACGTTTGGA
+AAATAAAGTTGCAGTCGTAACAGGAGCAAGTACAGGTATCGGACAAGCTTCTGCAATCGCTTTAGCTCAAGAAGGTGC
+GTATGTATTGGCGGTAGACATAGCTGAAGCGGTATCGGAGACTGTCGATAAAATTAAAAGTAATGGTGACAATGCGAA
+GGCGTATAATGTGGATATTTCAGATGAACAACAAGTGGTAGACTTTGTGTCTGACATAAAGGAACAGTTTGGAAGAAT
+CGATGTGTTGTTTAATAATGCCGGTGTGGATGATGCGTCTGGTAGAATTCATGAGTATCCAATAGATGTGTATGACAA
+GATTATGAATGTAGATATGCGTGGGACATTTTTAATGACGAAAATGATGTTACCTTTAATGATGAATCAAGGTGGCTC
+TATTGTTAATACGTCTTCATTTTCAGGACAGGCAGCAGATTTGTATCGCTCAGGATATAATGCTGCGAAAGGCGCAGT
+GATTAATTTTACAAAATCAATCGCAATTGAGTATGGTCGTGATGGCATTCGATCCAATGCAATTGCACCAGGTACAAT
+TGAAACCCCGTTAGTAGATAAACTGACAGGTACGAGTGAGGATGATGCAGGTAAAACATTTAGAGAAAATCAAAAATG
+GATGACTCCGCTGGGACGTTTAGGTAAACCAGAAGAAGTAGGCAAGCTCGTTGTCTTTTTAGCATCTGATGACAGTTC
+ATTTATTACTGGTGAAACAATTCGCATTGACGGTGGTGTTATGGCTTACACATGGCCTGGCGAGATGTTGAGTGATGA
+TTCGTGGAAGCGGACATTGGAATAATTGTTTTAAAATCGATATCCAGTGGAAAATAATTTGGCATGAAGTAGGCAATG
+TATGCATATTGTCGCAATGACAGACATTTAAATCGGAGATTAATTAATCTTTGAAAATCACATATTGTTCATTTGAAG
+TGTATTGCTTAAAGCTTGTTTTAACGTATTGTAGGTCGTGCATCTAATTTATCAGAATCTCGAGTTCAAACTTTTGGA
+GTATCTTTAAAATAAGCTGTATTTTGTCTATTCTAATAAATTAAGGAGAATTTTATGTTAAAAGAAAAAGAAAGTTTT
+AGATTGCTATATCAAGCTATAAGAGAGATTGCAGATAAAATTGGAGATAATCAGTTAGAAACTAATTCCGTTAGTTTA
+TTATTATTGGACTTTGATTTTGAACATGAAGTATTTGATGAATTGTATCTTGCGATTTTAAAATATTTAAATACAGTA
+AGTATAGAGAACATAAGTCATAGTGAACTTTTGAATTTAATAGAAAATACGATTCCAGAAGATCGAGAGATTAACACG
+TTTGTAAAAAATAAAATAATAATTGGCTTTGCTAATAATTATTTCCCTGAATTACAAGTATTAGCAAACGAAATAAAA
+TCTGATATGGCTAGTTCATTAAAACAATGATATTTTTATTTAAATTTTTAAAGCTTTGTACGAAATTGTACAAAGCTT
+TTTTTGGTGCGTATTGTATGGGCAACAACTTGACGATGAAAATCCGTTACAGGATTGGTAATAGGAAATGTTAGCGAA
+AGACAAGGGTATCCATTGTAGATTAACAAAAGGACGTTTCCACAAGTGTGGGTTATTCTCACTAAAGCAATACGCAGA
+GACAACTTACGTAAAATTTTGAACTGACGAGAACGAAACTTCTACTCAATTATTGATAAAAATTTTCAAAAAGACTTG
+AATGTGCTGAGAATACGATGTTTATGGAAGGATTATCAAAATATAAATGAGCATTCATTTACAACCTTTATTGACAAT
+GATTCTCAACTAATATAGTATATAATCAAATCGTAATAGTTACGATTTGTTTTCTGCAACTTTTTTGAAGTTTTAGTT
+GAGGTGAAAACAGTAAAAGCATCTAAGTGAATGTAGTTAACGGACAACTGCATTCGCTTGTAGAGCCACAAGAAGCAA
+CTTTAAATAAGGTTTACGGTTGCATGTTGATGCAACAACCGATTACTAAGTCATGCTTTCCACTTTGCGGGTTAGCAT
+GACTTACCTAATAGATGGGAAACTATTAGGTTCACCTTCTAAAAAATTACAGTTATAGAGGAATACAGTTGCTTGCTT
+CGCACCAACTGCATAAGAGCCTGAGACATAAATCAATGTTCTATGCTCTACAAAGTTATAATGGCAGTAGTTGACTGA
+ACGAAAATGCGCTTGTAACAAGCTTTTTTCAATTCTAGTCAACCTTGCCGGGGTGGGACGACGAAATAAATTTTACGA
+AAATATCATTTCTGTCCCACTCCCTAAAAATACATCTAAAGGAGTGTCGTATGAATCGGCAGGTTATAGAATTTTCTA
+AGTATAATCCTTCGGGGAATATGACGATACTTGTTCATTCAAAACATGATGCTAGTGAATATGCATCTATCGCCAATC
+AGTTGATGGCCGCAACACATGTATGTTGTGAACAGGTAGGCTTTATAGAATCAACACAAAATGATGATGGCAATGATT
+TTCACTTAGTTATGAGCGGTAATGAATTTTGCGGTAATGCGACGATGTCATATATACATCATTTGCAGGAAAGTCATT
+TGCTTAAAGACCAACAGTTTAAGGTGAAGGTATCTGGCTGTTCGGATTTAGTGCAATGCGCAATTCATGATTGCCAAT
+ACTATGAAGTTCAAATGCCACAAGCCCATCGTGTTGTACCAACAACAATTAATATGGGTAATCATTCATGGAAAGCAA
+TAGAAATTATTTATGAAACATATGTACATTATGTGATTCCAGTTAAACAAGTAACAACAGAAATTCAACATTTGGTTG
+AATCGTATGTTCGTAAGCAACAATGGAATCACAAATATAAAACAGTAGGTATGATGCTTTTTGATGAACAACGTCAAT
+TTTTACAGCCATTAATCTATATACCAGAAATCCAAAGTTTAATTTGGGAAAATAGCTGTGGTTCTGGTACAGCATCAA
+TTGGGGTTTTTAATAATTATCAACGTAATGACGCATGTAAAGATTTTACAGTACATCAGCCAGGGGGCAGTATTTTAG
+TGACATCAAAGCGATGTCATCAATTGGGATATCAAACTTCAATTAAAGGACAGGTTACAACTGTAGCTACAGGAAAAG
+CATATATAGAATAAGGAGCCTACAATGAATAACTTTAATAATGAAATCAAATTGATATTACAACAATATTTAGAAAAG
+TTTGAAGCGCATTACGAGCGTGTATTACAAGACGATCAATATATCGAAGCATTAGAAACATTGATGGATGACTATAGT
+GAATTTATTTTAAATCCTATTTATGAACAACAATTTAATGCTTGGCGTGACGTTGAAGAAAAAGCACAATTAATAAAA
+TCGCTGCAATATATTACAGCGCAGTGTGTTAAACAAGTGGAAGTCATTAGAGCGAGACGTCTATTAGACGGACAGGCG
+TCTACCACAGGTTACTTTGACAATATAGAACATTGTATTGATGAAGAGTTTGGACAATGTAGTATAGCTAGCAATGAC
+AAATTATTGTTAGTTGGTTCAGGTGCATATCCAATGACGTTAATTCAAGTAGCAAAAGAAACAGGTGCTTCAGTTATC
+GGTATTGATATTGATCCACAAGCCGTTGACCTAGGACGTAGAATCGTTAACGTCTTAGCACCAAATGAAGATATAACA
+ATTACGGATCAAAAGGTATCTGAACTTAAAGATATCAAAGATGTGACGCATATCATATTCAGCTCGACAATTCCTTTA
+AAGTACAGCATTTTAGAAGAATTATATGATTTAACAAATGAAAATGTCGTAGTTGCAATGCGCTTTGGTGATGGCATC
+AAAGCAATATTTAATTATCCGTCACAAGAAACAGCGGAAGATAAGTGGCAATGTGTGAATAAACATATGAGACCACAG
+CAAATTTTTGATATAGCACTTTATAAAAAAGCAGCTATAAAGGTAGGTATTACGGATGTCTAAATTATTAATGATAGG
+CACTGGTCCGGTCGCAATCCAATTAGCGAATATTTGCTATTTAAAATCAGATTATGAGATTGATATGGTTGGACGTGC
+CTCAACATCAGAAAAATCAAAACGCTTATATCAAGCGTATAAAAAAGAGAAACAATTTGAAGTCAAAATACAAAACGA
+GGCGCATCAACATCTGGAAGGTAATTTTGAAATTAATCGTTTGTATAAAGATGTTAAAAACGTTAAGGGTGAATACGA
+AACGGTTGTCATGGCATGCACAGCAGATGCTTATTATGACACACTACAGCAATTGTCGTTAGAAACTTTGCAAAGTGT
+CAAACATGTCATTTTAATATCACCGACATTTGGTTCGCAAATGATTGTCGAACAATTTATGTCTAAATTTAATAAAGA
+TATCGAAGTGATTTCATTCTCAACTTATCTTGGCGATACACGTATTGTTGATAAAGAAGCGCCTAATCATGTGTTGAC
+AACAGGTGTAAAAAAGAAATTGTACATGGGATCGACACATTCAAACTCAACAATGTGTCAACGAATCTCTGCTTTAGC
+TGAGCAATTGAAGATTCAATTAGAAGTCGTTGAATCGCCACTGCATGCTGAAACACGTAACAGTTCGCTTTATGTGCA
+CCCACCACTATTTATGAATGACTTTTCATTGAAAGCCATTTTCGAAGGAACGGATGTACCGGTTTATGTGTATAAGTT
+ATTTCCTGAAGGACCGATAACGATGACACTAATCCGTGAAATGCGTTTAATGTGGAAGGAAATGATGGCTATTTTACA
+AGCATTTAGAGTGCCGTCAGTCAACCTGATTCAATTTATGGTGAAGGAAAATTATCCAGTACGTCCTGAAACTTTGGA
+TGAAGGTGATATTGAGCATTTCGAAATCTTGCCAGATATCTTACAAGAATATCTGCTTTATGTAAGATATACCGCAAT
+CCTCATTGATCCATTTTCACAGCCAGACGAAAACGGACATTACTTTGATTTTTCAGCTGTACCATTTAAGCAAGTCTA
+TAAAAATGAACAGGATGTTGTTCAAATTCCAAGAATGCCAAGTGAAGATTATTACAGAACGGCGATGATTCAGCATAT
+TGGGAAAATGCTAGGTATCAAAACGCCAATGATTGATCAGTTCCTAACTCGCTATGAAGCAAGT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus-tag "CFLMPIEH_00001" } ,
+                    location
+                      int {
+                        from 375 ,
+                        to 656 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_1" } } } ,
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      gene {
+                        locus-tag "CFLMPIEH_00002" } ,
+                    location
+                      int {
+                        from 945 ,
+                        to 1640 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_1" } } } ,
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      gene {
+                        locus-tag "CFLMPIEH_00003" } ,
+                    location
+                      int {
+                        from 1892 ,
+                        to 2314 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_1" } } } ,
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      gene {
+                        locus-tag "CFLMPIEH_00004" } ,
+                    location
+                      int {
+                        from 2581 ,
+                        to 3000 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_1" } } } ,
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      gene {
+                        locus-tag "CFLMPIEH_00005" } ,
+                    location
+                      int {
+                        from 3018 ,
+                        to 3443 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_1" } } } ,
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      gene {
+                        locus-tag "CFLMPIEH_00006" } ,
+                    location
+                      int {
+                        from 3896 ,
+                        to 4318 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_1" } } } ,
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      gene {
+                        locus "abgT" ,
+                        locus-tag "CFLMPIEH_00007" } ,
+                    location
+                      int {
+                        from 4430 ,
+                        to 5968 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_1" } } } ,
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      gene {
+                        locus "bacC" ,
+                        locus-tag "CFLMPIEH_00008" } ,
+                    location
+                      int {
+                        from 6203 ,
+                        to 7021 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_1" } } } ,
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      gene {
+                        locus-tag "CFLMPIEH_00009" } ,
+                    location
+                      int {
+                        from 7285 ,
+                        to 7650 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_1" } } } ,
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      gene {
+                        locus "cntK" ,
+                        locus-tag "CFLMPIEH_00010" } ,
+                    location
+                      int {
+                        from 8529 ,
+                        to 9350 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_1" } } } ,
+                  {
+                    id
+                      local
+                        id 22 ,
+                    data
+                      gene {
+                        locus "cntL" ,
+                        locus-tag "CFLMPIEH_00011" } ,
+                    location
+                      int {
+                        from 9361 ,
+                        to 10179 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CFLMPIEH_00001" } } ,
+          descr {
+            title "hypothetical protein CFLMPIEH_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 93 ,
+            seq-data
+              ncbieaa "MTYHERVLALRAESKRTAFDFRFEDLFSKEEWLSMSLAERQKAEKAFRHEVKNMD
+DVRMPFSSVHDAQVKLYNVVYSYNGIKRNFKQVENEGF" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 23 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 92 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CFLMPIEH_00002" } } ,
+          descr {
+            title "putative oxidoreductase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 231 ,
+            seq-data
+              ncbieaa "MTVLTDKVAVVTGAGSGIGEAIATLLHEEGVKVILAGRNKDKLQNVANQLAQDSV
+KVVPTDVTKKEEVDELIKIAQQTFGGLDIVINSAGQMLSSKITDYQVDEWDSMIDVNIKGTLYTAQAALPTMLEQSSG
+HLINIASISGFEVTKSSTIYSATKAAVHTITQGLEKELAKTGVKVTSISPGMVDTAITAAYNPTDRKKLEPQDIAEAV
+LYALTQPKHVNVNEITVRPV" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 24 ,
+                    data
+                      prot {
+                        name {
+                          "putative oxidoreductase" } ,
+                        ec {
+                          "1.-.-.-" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 230 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CFLMPIEH_00003" } } ,
+          descr {
+            title "hypothetical protein CFLMPIEH_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 140 ,
+            seq-data
+              ncbieaa "MTKKHVFIIIGVILCICIVATVIYLKVKYDEKEKQKSIYYKEQQERITLYLKHNT
+KEPNTIKSVHFTSLKTGPMGDAVIEGYINENKEDNFVAYGSPEHNYQFGGSLIKSKNLSTLLKPAHQTKTPDDIKKEL
+DSKKNDR" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 25 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 139 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CFLMPIEH_00004" } } ,
+          descr {
+            title "hypothetical protein CFLMPIEH_00004 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 139 ,
+            seq-data
+              ncbieaa "MSKKKILILTSIMLIILISVASIYFKMKYDEKEKQKSIYYKEQQARITLYLKHNT
+KEPNTIKSVHFTKLETSPMGSAVIEGYINENKKDDFVAYASPENNFQFVGDLIKSERLSELLKPAHQLKSPDGIKKEL
+NKKKSY" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 26 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 138 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CFLMPIEH_00005" } } ,
+          descr {
+            title "hypothetical protein CFLMPIEH_00005 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 141 ,
+            seq-data
+              ncbieaa "MSKKHGFIIIGVILCICIVASVIYLKMKYDEKEKQKEIYYKGQQERITLYLKHNT
+KEPNTIKSVHFTSLKRGPMGDAVIEGYINENKEADFVAYGSPEENYQFTGGLTGSNEVLGKLKNAENLKSPEKIKEEI
+NKKKNTKQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 27 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 140 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CFLMPIEH_00006" } } ,
+          descr {
+            title "hypothetical protein CFLMPIEH_00006 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 140 ,
+            seq-data
+              ncbieaa "MPYNYKKQNGELMSVMSQGEKFIHQSPVNDELSALIKLLISKINGCHYCVDIHKK
+ELKELGVTQMKIDEVLSFRHLDLFTDQEKVTLEFAEMLNSIKDFKKFEIIDRLKSFYDEEQIIDLVFVVNQINGWNRL
+NIISDKL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 28 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 139 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CFLMPIEH_00007" } } ,
+          descr {
+            title "p-aminobenzoyl-glutamate transport protein [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 512 ,
+            seq-data
+              ncbieaa "MTSKHQQKGSIVNRFLNSVEKIGNKLPDPSVLFFLMCIGLAIMTWVISLFNVSVK
+HPGTHQTIYIKNIISHDGFTMIMNDTIKNFSEFPALGLVLAVMIGIGVAEKTGYFDKLMISVVNRAPRFLILPTIILI
+GILGSTAGDAATIILPPLAAMLFIKIGYHPIAGLTMAYASAVGGFAANIVVGMQDALVYSFTEPATRIVSDSIKTNVA
+MNWYFIAASVVVLLPTILLVTTKLIIPRLGKYDDSLMHDDHEETSSHITDKEAHALKWANISFIVTIILLIITAIPEH
+SFLRNAKTGSLLDDAPLINGVGLIILVVFLVPGLVYGILSKEIKNTKDLGKMFGDAVGSMGTFIVIVFFAAQLLAYLK
+WSNLGIIAAVKGAKLLEHQNGIVLILGIIVLSAMVNMLIGSASAKWGILGPIFVPMLILIGFHPAFTQVIYRVGDSIT
+NPITPMMPYLPLLLTYAQKYDKRMKLGALLSSLMPYSIALSIVWTVFVIIWFLLGIPVGPGGPIFVK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 29 ,
+                    data
+                      prot {
+                        name {
+                          "p-aminobenzoyl-glutamate transport protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 511 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_00007" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CFLMPIEH_00008" } } ,
+          descr {
+            title "Dihydroanticapsin 7-dehydrogenase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 272 ,
+            seq-data
+              ncbieaa "MKRLENKVAVVTGASTGIGQASAIALAQEGAYVLAVDIAEAVSETVDKIKSNGDN
+AKAYNVDISDEQQVVDFVSDIKEQFGRIDVLFNNAGVDDASGRIHEYPIDVYDKIMNVDMRGTFLMTKMMLPLMMNQG
+GSIVNTSSFSGQAADLYRSGYNAAKGAVINFTKSIAIEYGRDGIRSNAIAPGTIETPLVDKLTGTSEDDAGKTFRENQ
+KWMTPLGRLGKPEEVGKLVVFLASDDSSFITGETIRIDGGVMAYTWPGEMLSDDSWKRTLE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 30 ,
+                    data
+                      prot {
+                        name {
+                          "Dihydroanticapsin 7-dehydrogenase" } ,
+                        ec {
+                          "1.1.1.385" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 271 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_00008" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CFLMPIEH_00009" } } ,
+          descr {
+            title "hypothetical protein CFLMPIEH_00009 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 121 ,
+            seq-data
+              ncbieaa "MLKEKESFRLLYQAIREIADKIGDNQLETNSVSLLLLDFDFEHEVFDELYLAILK
+YLNTVSIENISHSELLNLIENTIPEDREINTFVKNKIIIGFANNYFPELQVLANEIKSDMASSLKQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 31 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 120 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_00009" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CFLMPIEH_00010" } } ,
+          descr {
+            title "Histidine racemase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 273 ,
+            seq-data
+              ncbieaa "MNRQVIEFSKYNPSGNMTILVHSKHDASEYASIANQLMAATHVCCEQVGFIESTQ
+NDDGNDFHLVMSGNEFCGNATMSYIHHLQESHLLKDQQFKVKVSGCSDLVQCAIHDCQYYEVQMPQAHRVVPTTINMG
+NHSWKAIEIIYETYVHYVIPVKQVTTEIQHLVESYVRKQQWNHKYKTVGMMLFDEQRQFLQPLIYIPEIQSLIWENSC
+GSGTASIGVFNNYQRNDACKDFTVHQPGGSILVTSKRCHQLGYQTSIKGQVTTVATGKAYIE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 32 ,
+                    data
+                      prot {
+                        name {
+                          "Histidine racemase" } ,
+                        ec {
+                          "5.1.1.24" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 272 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_00010" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CFLMPIEH_00011" } } ,
+          descr {
+            title "D-histidine 2-aminobutanoyltransferase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 272 ,
+            seq-data
+              ncbieaa "MNNFNNEIKLILQQYLEKFEAHYERVLQDDQYIEALETLMDDYSEFILNPIYEQQ
+FNAWRDVEEKAQLIKSLQYITAQCVKQVEVIRARRLLDGQASTTGYFDNIEHCIDEEFGQCSIASNDKLLLVGSGAYP
+MTLIQVAKETGASVIGIDIDPQAVDLGRRIVNVLAPNEDITITDQKVSELKDIKDVTHIIFSSTIPLKYSILEELYDL
+TNENVVVAMRFGDGIKAIFNYPSQETAEDKWQCVNKHMRPQQIFDIALYKKAAIKVGITDV" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 33 ,
+                    data
+                      prot {
+                        name {
+                          "D-histidine 2-aminobutanoyltransferase" } ,
+                        ec {
+                          "2.5.1.152" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 271 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CFLMPIEH_00011" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CFLMPIEH_00001" } ,
+                location
+                  int {
+                    from 375 ,
+                    to 656 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CFLMPIEH_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CFLMPIEH_00002" } ,
+                location
+                  int {
+                    from 945 ,
+                    to 1640 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CFLMPIEH_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q7A3L9" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CFLMPIEH_00003" } ,
+                location
+                  int {
+                    from 1892 ,
+                    to 2314 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CFLMPIEH_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CFLMPIEH_00004" } ,
+                location
+                  int {
+                    from 2581 ,
+                    to 3000 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CFLMPIEH_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CFLMPIEH_00005" } ,
+                location
+                  int {
+                    from 3018 ,
+                    to 3443 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CFLMPIEH_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CFLMPIEH_00006" } ,
+                location
+                  int {
+                    from 3896 ,
+                    to 4318 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CFLMPIEH_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CFLMPIEH_00007" } ,
+                location
+                  int {
+                    from 4430 ,
+                    to 5968 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CFLMPIEH_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P46133" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG2978" } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CFLMPIEH_00008" } ,
+                location
+                  int {
+                    from 6203 ,
+                    to 7021 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CFLMPIEH_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q8KWT4" } } } ,
+              {
+                id
+                  local
+                    id 9 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CFLMPIEH_00009" } ,
+                location
+                  int {
+                    from 7285 ,
+                    to 7650 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CFLMPIEH_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 10 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CFLMPIEH_00010" } ,
+                location
+                  int {
+                    from 8529 ,
+                    to 9350 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CFLMPIEH_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:A0A0H3JU78" } } } ,
+              {
+                id
+                  local
+                    id 11 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CFLMPIEH_00011" } ,
+                location
+                  int {
+                    from 9361 ,
+                    to 10179 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CFLMPIEH_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:A0A0H3JXA8" } } } } } } } } }

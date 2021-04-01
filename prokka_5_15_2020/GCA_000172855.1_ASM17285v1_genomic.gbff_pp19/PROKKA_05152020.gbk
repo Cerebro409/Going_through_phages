@@ -1,0 +1,126 @@
+LOCUS       GPLIFAKC_1              3130 bp    DNA     linear       15-MAY-2020
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..3130
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     gene            complement(163..981)
+                     /gene="panB"
+                     /locus_tag="GPLIFAKC_00001"
+     CDS             complement(163..981)
+                     /gene="panB"
+                     /locus_tag="GPLIFAKC_00001"
+                     /EC_number="2.1.2.11"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:P65656"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="3-methyl-2-oxobutanoate
+                     hydroxymethyltransferase"
+                     /protein_id="X:GPLIFAKC_00001"
+                     /translation="MKTVSQLIDMKQKQTKISMVTAYDFPSAKQVEAAGIDMILVGDS
+                     LGMTVLGYESTVQVTLADMIHHGRAVRRGAPNTFVVVDMPIGAVGISMTQDLNHALKL
+                     YQETNANAIKAEGAHITPFIEKATAIGIPVVAHLGLTPQSVGVMGYKLQGATKEAAEQ
+                     LILDAKNVEQAGAVALVLEAIPNDLAEEISKHLTIPVIGIGAGKGTDGQVLVYHDMLN
+                     YGVEHKAKFVKQFADFSVGVDGLKQYDQEVKSGAFPSEEYTYKKKIMNEVNNND"
+     gene            1054..1914
+                     /locus_tag="GPLIFAKC_00002"
+     CDS             1054..1914
+                     /locus_tag="GPLIFAKC_00002"
+                     /EC_number="1.1.1.169"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:P9WIL1"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="2-dehydropantoate 2-reductase"
+                     /protein_id="X:GPLIFAKC_00002"
+                     /db_xref="COG:COG1893"
+                     /translation="MLSVAIIGPGAVGTTIAYELQQSLPHTTLIGRHAKTITYYTVPH
+                     APAQDIVVKGYEDVTNTFDVIIIAVKTHQLDAVIPHLTHLAHEDTLIILAQNGYGQLE
+                     HIPFKNICQAVVYISGQKKGDVVTHFRDYQLRIKDNALTRQFRDLVQDSQIDIVLEAN
+                     IQQAIWYKLLVNLGINSITALGRQTVAIMHNPEIRTLCRQLLLDGCRVAQAEGLNFSE
+                     QTVDTIMTIYQGYPDEMGTSMYYDIVHQQPLEVEAIQGFIYRRAREHNLDTPYLDTIY
+                     SFLRAYQQNM"
+     gene            complement(2000..2704)
+                     /gene="aldC"
+                     /locus_tag="GPLIFAKC_00003"
+     CDS             complement(2000..2704)
+                     /gene="aldC"
+                     /locus_tag="GPLIFAKC_00003"
+                     /EC_number="4.1.1.5"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:Q8L208"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Alpha-acetolactate decarboxylase"
+                     /protein_id="X:GPLIFAKC_00003"
+                     /db_xref="COG:COG3527"
+                     /translation="MTNVLYQHGTLGTLMAGLLEGTATINELLEHGNLGIATLTGSDG
+                     EVIFLDGKAYHANEHKEFIELKGDEKVPYASITNFKASKTFPLQQLSQDDVFAQIKNE
+                     MLSENLFSAVKIYGTFKHMHVRMMSAQQPPYTRLIDSARRQPEEKRQDIRGAIVGFFT
+                     PELFHGVGSAGFHIHFADDERAYGGHVLDFEVDDVVVEIQNFETFQQHFPVNNETFVK
+                     AKIDYKDVAEEIREAE"
+ORIGIN      
+        1 aatacactca caactgtaat atcatttgta ctaactgatt cgcgtaccat cgttaaatgt
+       61 ccatcatgta aggcacccat tgttgggata aaaccaatcg ttgttcctga gcgtttggct
+      121 gctttaacaa tgtgttgcat ctcttttacc gtagtaatca gcttagtcat tgttattaac
+      181 ctcattcata attttctttt tatacgtata ttcttctgat ggaaatgcac cagatttaac
+      241 ttcttgatcg tattgtttta aaccatccac accaacacta aaatcagcaa attgcttcac
+      301 aaatttcgct ttatgttcaa caccataatt taacatatcg tgataaacca atacttgacc
+      361 atctgtacct tttcctgcac caataccaat gactggaatt gttaagtgct tgctaatttc
+      421 ttctgctaaa tcatttggaa ttgcttcaag tactaacgca actgcaccag cttgttctac
+      481 atttttcgca tctaaaataa gttgctccgc tgcttctttc gttgcacctt gtaatttata
+      541 ccccataacg ccaacacttt gaggtgttaa tcctaaatgt gcaacaacag gaataccaat
+      601 tgccgttgct ttttcaataa atggtgtaat atgcgctcct tctgctttaa ttgcatttgc
+      661 attcgtctcc tgataaagct ttagagcatg atttaagtct tgtgtcatag agatgcctac
+      721 tgcaccaatc ggcatatcaa caactacaaa tgtatttggt gcgcctcttc ttactgcacg
+      781 accgtgatga atcatatctg ctaacgtcac ttgtacggta ctttcataac ctaatacagt
+      841 cataccaagt gaatccccaa caagaatcat atcaataccc gctgcttcca cttgtttagc
+      901 acttggaaaa tcataagctg ttaccataga aattttagtt tgcttttgtt tcatatctat
+      961 taattgactt actgttttca atgttattca acctcttttt gcagtattat tagaaatagt
+     1021 ataatgaatc ttttatagaa aggaaagaag aagatgttat cagttgcgat tatcggccca
+     1081 ggcgctgtcg gtacaactat tgcctatgaa ttacaacaat cattgcctca tacaacgctt
+     1141 atcgggagac acgccaaaac aataacatat tatactgtac cacatgcacc tgcacaagat
+     1201 attgttgtga aaggttatga agatgtcaca aacacatttg atgttattat tattgcagtc
+     1261 aaaacacatc aacttgatgc agttattcct catttaactc atcttgcaca tgaggacacg
+     1321 ctcatcattt tagcccaaaa tggttatggt caactcgaac atattccatt taaaaacata
+     1381 tgccaagcag ttgtctatat aagtggtcaa aagaaaggcg atgttgttac gcacttcaga
+     1441 gattatcaat tacgtataaa agataatgca ttaacacgac aatttagaga tttggtccaa
+     1501 gacagtcaaa tcgacattgt attagaagca aatattcagc aagctatttg gtataaattg
+     1561 ttagttaact tgggcattaa ttctatcaca gcactcggta gacagacagt tgcaatcatg
+     1621 cataatcctg aaatacgtac actgtgtaga cagctattac tagatggttg tcgtgttgca
+     1681 caggcagagg ggttaaactt ttcagaacaa actgtcgata ctattatgac tatatatcaa
+     1741 ggttatcccg acgaaatggg aacgagcatg tattacgaca ttgtgcatca gcaacctctt
+     1801 gaagtcgaag cgattcaagg ctttatttat cgacgtgcac gtgaacacaa tcttgacacc
+     1861 ccatatcttg atactattta tagcttttta cgcgcgtatc aacaaaatat gtaaccacat
+     1921 atataatata aaaagacctt aacgatgcat ttagaaccac ctgttcctaa tatcgctaag
+     1981 gtcttttaat tatattagac tattcagctt ctctaatttc ttctgccaca tctttatagt
+     2041 ctattttcgc tttaacaaac gtctcgttat ttaccgggaa atgttgttgg aatgtttcaa
+     2101 agttttgtat ctcaacgaca acgtcatcca cttcaaagtc aagaacatgt ccaccataag
+     2161 ctctttcatc atccgcaaaa tgtatatgaa aaccagcaga ccctacgcca tgaaataatt
+     2221 ctggtgtaaa aaatccaaca atggcaccac gaatatcttg tcttttttcc tcaggttgtc
+     2281 tgcgtgctga atcaatcaaa cgtgtatatg gcggttgctg agcagacatc attcgtacat
+     2341 gcatatgttt aaatgtgcca taaattttaa cagccgaaaa taaattctca cttaacattt
+     2401 catttttaat ttgtgcgaat acatcatctt gtgataattg ttgcaatgga aatgtcttac
+     2461 tcgctttaaa attagtaatc gatgcatagg gtactttctc atcgcctttt aattctataa
+     2521 attctttatg ctcgttagca tgatatgcct tcccgtctaa aaatattact tcgccatcag
+     2581 accctgttaa cgttgcaatc cctaaattcc catgttctaa caattcatta attgtagctg
+     2641 ttccttctag taagccagcc attaacgtac ctaatgtacc atgttgatac aagacattcg
+     2701 tcattccaaa accatctccc tatagttatt cctcgttgtc atgctctact tcgtgattaa
+     2761 tgcagaacta ctttccttta tactcaatga cgtctcggca tttcgattca tgtcactaaa
+     2821 ttttcacgag tcataatact ttattcaatt attattttac gcaaaagtat tgcctctatc
+     2881 aatgcttgct aaatcaaaac cacccgtgtg aacgggtggt ttgttctgcg gctataagcc
+     2941 ttccttactg gccagcccta aaagggcact gacaagtcag ccaactgcac tactattcca
+     3001 gcaaccctaa agggttactc ttttttcttt cttttttatt tttctctcca gtgaaaggat
+     3061 ctaaatattc ttccattgag atttggtctg caacgatatc ctcttgtaat tgattacgaa
+     3121 tataattttc
+//

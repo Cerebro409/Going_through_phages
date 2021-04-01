@@ -1,0 +1,59 @@
+>Feature gnl|X|AGMHEKLN_1
+921	130	gene
+			locus_tag	AGMHEKLN_00001
+921	130	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AGMHEKLN_00001
+			product	hypothetical protein
+			protein_id	gnl|X|AGMHEKLN_00001
+1070	1774	gene
+			gene	yydK
+			locus_tag	AGMHEKLN_00002
+1070	1774	CDS
+			db_xref	COG:COG2188
+			gene	yydK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q45591
+			locus_tag	AGMHEKLN_00002
+			product	putative HTH-type transcriptional regulator YydK
+			protein_id	gnl|X|AGMHEKLN_00002
+4291	2000	gene
+			locus_tag	AGMHEKLN_00003
+4291	2000	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AGMHEKLN_00003
+			product	hypothetical protein
+			protein_id	gnl|X|AGMHEKLN_00003
+5333	4632	gene
+			gene	lrgB
+			locus_tag	AGMHEKLN_00004
+5333	4632	CDS
+			db_xref	COG:COG1346
+			gene	lrgB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60643
+			locus_tag	AGMHEKLN_00004
+			product	Antiholin-like protein LrgB
+			protein_id	gnl|X|AGMHEKLN_00004
+5763	5326	gene
+			gene	lrgA
+			locus_tag	AGMHEKLN_00005
+5763	5326	CDS
+			db_xref	COG:COG1380
+			gene	lrgA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P72358
+			locus_tag	AGMHEKLN_00005
+			product	Antiholin-like protein LrgA
+			protein_id	gnl|X|AGMHEKLN_00005
+6226	5882	gene
+			gene	lytR
+			locus_tag	AGMHEKLN_00006
+6226	5882	CDS
+			db_xref	COG:COG3279
+			gene	lytR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60611
+			locus_tag	AGMHEKLN_00006
+			product	Sensory transduction protein LytR
+			protein_id	gnl|X|AGMHEKLN_00006

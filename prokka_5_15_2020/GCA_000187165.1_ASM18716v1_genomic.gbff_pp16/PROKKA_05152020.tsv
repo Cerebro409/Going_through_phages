@@ -1,0 +1,13 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LOAGNOMO_00001	gene	165	accB			
+LOAGNOMO_00001	CDS	165	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+LOAGNOMO_00002	gene	1356	cfiB			
+LOAGNOMO_00002	CDS	1356	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+LOAGNOMO_00003	gene	363				
+LOAGNOMO_00003	CDS	363				putative protein
+LOAGNOMO_00004	gene	390	nusB			
+LOAGNOMO_00004	CDS	390	nusB			Transcription antitermination protein NusB
+LOAGNOMO_00005	gene	1338	xseA			
+LOAGNOMO_00005	CDS	1338	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+LOAGNOMO_00006	gene	231	xseB			
+LOAGNOMO_00006	CDS	231	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit

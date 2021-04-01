@@ -1,0 +1,54 @@
+>Feature gnl|X|CEGCFJMI_1
+1600	1073	gene
+			gene	pyrR
+			locus_tag	CEGCFJMI_00001
+1600	1073	CDS
+			gene	pyrR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65944
+			locus_tag	CEGCFJMI_00001
+			product	Bifunctional protein PyrR
+			protein_id	gnl|X|CEGCFJMI_00001
+2917	2000	gene
+			gene	rluD
+			locus_tag	CEGCFJMI_00002
+2917	2000	CDS
+			EC_number	5.4.99.23
+			db_xref	COG:COG0564
+			gene	rluD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P33643
+			locus_tag	CEGCFJMI_00002
+			product	Ribosomal large subunit pseudouridine synthase D
+			protein_id	gnl|X|CEGCFJMI_00002
+3408	2917	gene
+			gene	lspA
+			locus_tag	CEGCFJMI_00003
+3408	2917	CDS
+			EC_number	3.4.23.36
+			db_xref	COG:COG0597
+			gene	lspA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9HVM5
+			locus_tag	CEGCFJMI_00003
+			product	Lipoprotein signal peptidase
+			protein_id	gnl|X|CEGCFJMI_00003
+3817	3632	gene
+			locus_tag	CEGCFJMI_00004
+3817	3632	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CEGCFJMI_00004
+			product	hypothetical protein
+			protein_id	gnl|X|CEGCFJMI_00004
+5100	4303	gene
+			gene	catE
+			locus_tag	CEGCFJMI_00005
+5100	4303	CDS
+			EC_number	1.13.11.2
+			db_xref	COG:COG2514
+			gene	catE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54721
+			locus_tag	CEGCFJMI_00005
+			product	Catechol-2,3-dioxygenase
+			protein_id	gnl|X|CEGCFJMI_00005

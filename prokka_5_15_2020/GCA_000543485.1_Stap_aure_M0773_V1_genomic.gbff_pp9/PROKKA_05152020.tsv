@@ -1,0 +1,21 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GMOEFFOK_00001	gene	765	ywqE			
+GMOEFFOK_00001	CDS	765	ywqE	3.1.3.48	COG4464	Tyrosine-protein phosphatase YwqE
+GMOEFFOK_00002	gene	687	ywqD			
+GMOEFFOK_00002	CDS	687	ywqD	2.7.10.2	COG0489	Tyrosine-protein kinase YwqD
+GMOEFFOK_00003	gene	669	cap8A			
+GMOEFFOK_00003	CDS	669	cap8A		COG3944	Capsular polysaccharide type 8 biosynthesis protein cap8A
+GMOEFFOK_00004	gene	2610	adhE			
+GMOEFFOK_00004	CDS	2610	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+GMOEFFOK_00005	gene	222				
+GMOEFFOK_00005	CDS	222				IS200/IS605 family transposase ISSep3
+GMOEFFOK_00006	gene	327				
+GMOEFFOK_00006	CDS	327				hypothetical protein
+GMOEFFOK_00007	gene	291	repE			
+GMOEFFOK_00007	CDS	291	repE			Replication initiation protein
+GMOEFFOK_00008	gene	546	repN			
+GMOEFFOK_00008	CDS	546	repN			Replication initiation protein
+GMOEFFOK_00009	gene	195				
+GMOEFFOK_00009	CDS	195				hypothetical protein
+GMOEFFOK_00010	gene	804				
+GMOEFFOK_00010	CDS	804				hypothetical protein

@@ -1,0 +1,25 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+IOCALNBG_00001	gene	126				
+IOCALNBG_00001	CDS	126				hypothetical protein
+IOCALNBG_00002	gene	507				
+IOCALNBG_00002	CDS	507				hypothetical protein
+IOCALNBG_00003	gene	396	flr			
+IOCALNBG_00003	CDS	396	flr			FPRL1 inhibitory protein
+IOCALNBG_00004	gene	330				
+IOCALNBG_00004	CDS	330				hypothetical protein
+IOCALNBG_00005	gene	168				
+IOCALNBG_00005	CDS	168				hypothetical protein
+IOCALNBG_00006	gene	504				
+IOCALNBG_00006	CDS	504		3.1.4.-		Putative metallophosphoesterase MG207 
+IOCALNBG_00007	gene	588				
+IOCALNBG_00007	CDS	588		3.6.1.66		dITP/XTP pyrophosphatase
+IOCALNBG_00008	gene	801	murI			
+IOCALNBG_00008	CDS	801	murI	5.1.1.3		Glutamate racemase
+IOCALNBG_00009	gene	816	frdB			
+IOCALNBG_00009	CDS	816	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+IOCALNBG_00010	gene	1767	frdA			
+IOCALNBG_00010	CDS	1767	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+IOCALNBG_00011	gene	615	sdhC			
+IOCALNBG_00011	CDS	615	sdhC		COG2009	Succinate dehydrogenase cytochrome b558 subunit
+IOCALNBG_00012	gene	1653	uvrC			
+IOCALNBG_00012	CDS	1653	uvrC		COG0322	UvrABC system protein C

@@ -1,0 +1,89 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+PKFPGIHL_00001	gene	279	dgk			
+PKFPGIHL_00001	CDS	279	dgk	2.7.1.113	COG1428	Deoxyguanosine kinase
+PKFPGIHL_00002	gene	663	dck			
+PKFPGIHL_00002	CDS	663	dck	2.7.1.74	COG1428	Deoxyadenosine/deoxycytidine kinase
+PKFPGIHL_00003	gene	684	ppaX			
+PKFPGIHL_00003	CDS	684	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+PKFPGIHL_00004	gene	1077	ilvE			
+PKFPGIHL_00004	CDS	1077	ilvE	2.6.1.42		putative branched-chain-amino-acid aminotransferase
+PKFPGIHL_00005	gene	966				
+PKFPGIHL_00005	CDS	966				putative epimerase/dehydratase
+PKFPGIHL_00006	gene	1641	araB			
+PKFPGIHL_00006	CDS	1641	araB	2.7.1.16	COG1069	Ribulokinase
+PKFPGIHL_00007	gene	879	hchA			
+PKFPGIHL_00007	CDS	879	hchA	3.1.2.-		Protein/nucleic acid deglycase HchA
+PKFPGIHL_00008	gene	1188				
+PKFPGIHL_00008	CDS	1188		2.3.1.-		Putative pyridoxal phosphate-dependent acyltransferase
+PKFPGIHL_00009	gene	1176	scmP			
+PKFPGIHL_00009	CDS	1176	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+PKFPGIHL_00010	gene	1185	tuf			
+PKFPGIHL_00010	CDS	1185	tuf			Elongation factor Tu
+PKFPGIHL_00011	gene	2082	fusA			
+PKFPGIHL_00011	CDS	2082	fusA		COG0480	Elongation factor G
+PKFPGIHL_00012	gene	471	rpsG			
+PKFPGIHL_00012	CDS	471	rpsG			30S ribosomal protein S7
+PKFPGIHL_00013	gene	414	rpsL			
+PKFPGIHL_00013	CDS	414	rpsL			30S ribosomal protein S12
+PKFPGIHL_00014	gene	312	rplGB			
+PKFPGIHL_00014	CDS	312	rplGB		COG1358	Ribosome-associated protein L7Ae-like protein
+PKFPGIHL_00015	gene	3624	rpoC			
+PKFPGIHL_00015	CDS	3624	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+PKFPGIHL_00016	gene	3552	rpoB			
+PKFPGIHL_00016	CDS	3552	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+PKFPGIHL_00017	gene	609	rsmC			
+PKFPGIHL_00017	CDS	609	rsmC	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+PKFPGIHL_00018	gene	369	rplL			
+PKFPGIHL_00018	CDS	369	rplL			50S ribosomal protein L7/L12
+PKFPGIHL_00019	gene	501	rplJ			
+PKFPGIHL_00019	CDS	501	rplJ			50S ribosomal protein L10
+PKFPGIHL_00020	gene	693	rplA			
+PKFPGIHL_00020	CDS	693	rplA			50S ribosomal protein L1
+PKFPGIHL_00021	gene	129				
+PKFPGIHL_00021	CDS	129				hypothetical protein
+PKFPGIHL_00022	gene	423	rplK			
+PKFPGIHL_00022	CDS	423	rplK			50S ribosomal protein L11
+PKFPGIHL_00023	gene	549	nusG			
+PKFPGIHL_00023	CDS	549	nusG			Transcription termination/antitermination protein NusG
+PKFPGIHL_00024	gene	183	secE			
+PKFPGIHL_00024	CDS	183	secE			Protein translocase subunit SecE
+PKFPGIHL_00025	gene	570				
+PKFPGIHL_00025	CDS	570				hypothetical protein
+PKFPGIHL_00026	gene	525	yacP			
+PKFPGIHL_00026	CDS	525	yacP		COG3688	putative protein YacP
+PKFPGIHL_00027	gene	747				
+PKFPGIHL_00027	CDS	747		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+PKFPGIHL_00028	gene	405	mrnC			
+PKFPGIHL_00028	CDS	405	mrnC	3.1.26.-	COG1939	Mini-ribonuclease 3
+PKFPGIHL_00029	gene	1401	cysS			
+PKFPGIHL_00029	CDS	1401	cysS	6.1.1.16		Cysteine--tRNA ligase
+PKFPGIHL_00030	gene	681	cysE			
+PKFPGIHL_00030	CDS	681	cysE	2.3.1.30		Serine acetyltransferase
+PKFPGIHL_00031	gene	1455	gltX			
+PKFPGIHL_00031	CDS	1455	gltX	6.1.1.17		Glutamate--tRNA ligase
+PKFPGIHL_00032	gene	1074	yacL			
+PKFPGIHL_00032	CDS	1074	yacL	3.1.-.-	COG4956	putative PIN and TRAM-domain containing protein YacL
+PKFPGIHL_00033	gene	1365	radA			
+PKFPGIHL_00033	CDS	1365	radA	3.6.4.-	COG1066	DNA repair protein RadA
+PKFPGIHL_00034	gene	2457	clpC			
+PKFPGIHL_00034	CDS	2457	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+PKFPGIHL_00035	gene	1011	mcsB			
+PKFPGIHL_00035	CDS	1011	mcsB	2.7.14.1	COG3869	Protein-arginine kinase
+PKFPGIHL_00036	gene	567	mcsA			
+PKFPGIHL_00036	CDS	567	mcsA		COG3880	Protein-arginine kinase activator protein
+PKFPGIHL_00037	gene	462	ctsR			
+PKFPGIHL_00037	CDS	462	ctsR			Transcriptional regulator CtsR
+PKFPGIHL_00038	gene	1215	nupC			
+PKFPGIHL_00038	CDS	1215	nupC		COG1972	Nucleoside permease NupC
+PKFPGIHL_00039	gene	153				
+PKFPGIHL_00039	CDS	153				hypothetical protein
+PKFPGIHL_00040	gene	561	pdxT			
+PKFPGIHL_00040	CDS	561	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+PKFPGIHL_00041	gene	888	pdxS			
+PKFPGIHL_00041	CDS	888	pdxS	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxS
+PKFPGIHL_00042	gene	1383	gabR			
+PKFPGIHL_00042	CDS	1383	gabR		COG1167	HTH-type transcriptional regulatory protein GabR
+PKFPGIHL_00043	gene	186				
+PKFPGIHL_00043	CDS	186				hypothetical protein
+PKFPGIHL_00044	gene	78				
+PKFPGIHL_00044	rRNA	78				5S ribosomal RNA (partial)

@@ -1,0 +1,9 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GJOHIMGI_00001	gene	1878	mnmG			
+GJOHIMGI_00001	CDS	1878	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+GJOHIMGI_00002	gene	1380	mnmE			
+GJOHIMGI_00002	CDS	1380	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+GJOHIMGI_00003	gene	354	rnpA			
+GJOHIMGI_00003	CDS	354	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+GJOHIMGI_00004	gene	138	rpmH			
+GJOHIMGI_00004	CDS	138	rpmH			50S ribosomal protein L34

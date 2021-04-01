@@ -1,0 +1,1033 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "JJAHEJNG_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 6561 ,
+            seq-data
+              iupacna "TCTACTGATGAATTGCTGATTTATTATGATGGTGAATTAATAAGACGGCATAATC
+TATCCGAAAGAAAATTTAATTATATCGTTGAAGATATGAGTGAAATATTAAAATCAGATGTATTTAAACATAAGGATG
+ACAAAGAAATTCTTACGTATATAGAAAATTCATTATTACTGTATGACGAAATTTAGGAGGACTTTCGATGAATACGAA
+CCATCAAAAATTACTTAATAACTTTGAAATATTAAAACTAAAAAAATTCAAAGATTATTATCCAAACTATATTGAATT
+ACTTTCTAAAAATGAGAAATCTTTAACTGAAATATTGATTGATTTAACGGAAAAAGAAATAGAATATCAATCAGAATT
+AAAATTTAAACGTGCTGTGAATTCAGCACGTTTCCCTAAAATAAAATATTTACATGATTTTGATTTCATGTTTCAACC
+TAGTATAAATCAACAAGAAATACTCACTTTAAAATCTATGCATTTTTTAGAAGATAGTATAAATATTTGTTTCTTAGG
+TAATAGTGGTGTTGGTAAAACACACCTAGCAATCTCATTAGGAATAGAGGCATGTAAGCAAAATATAAAGACTAGATT
+CTATACTTTCAAAGAATTAATAGACTTATTAACTGTCTCAGATTCCAAAGGAATCATTAATAAAACATTAAAGCAATT
+AAGCAGAATAGAGTTACTTATCATTGATGAAATTGGTTATACTCCCATCACCAAAGAACAAGCTGATTTATTCTACCA
+GTTAATGTCACTAAGGTATGAGTGGAAATCAACAATAATTACGACTAATATTCCATTTTCGAGTTGGGGAGAGTCATT
+TAGTAATAAGATTGTATCAGCAGCTATAATTGATCGGTTAGTTCACCATTCAAAAGTATTTAAAATTACTGGAGAATC
+ATATCGATTAAAAGATTATAAAACCGAAAAATCATTAAATATACGACAATCTTAAACCGCTAAAAAACGACATTTTCA
+AACCGCCATAAAACAGCATTTTTAAACCGCTATTGACAACCATTACATTTTTATATTTTAATATTGAAAAAATCACAT
+TTTACATTCATTGTCATTATCTTTTTATCTTCAAATTGCTTGAAGTCATTTAGATTCAACTACATCTATTATGTATAA
+ATCATTAGGACGGATTTCTTTTAAACCCGTCCCATGTTAAATTAATATATTCTATTGCTTTAATCTTGATTGCTGTAT
+TTTATAAACGAATACTGTACCGATTGTAAATAAAATGATGCCAATAATGAATAATGGTATTCCAAACATATTAAAAGG
+TTCACCGTAAAGTTTTATTCCAATTTCCATAAACCTAGCTTTCATTACGAAGTAAAATAAGATAGACATAAATATAAA
+TACTGCATATGTCCCAATGATTGATAAAATTATCGTTGGTTTTGATATAGATTCAAGTGCTTTAGAATTTTTATGCGG
+TGTATAAACAAATAGCCACATGACATTCAGTGCCAACATTCCAAAGCTACCTAAACATAAAATAAATCCATAAACACT
+TGTTAAACTTAAAATCCCTGCAATTGTTAAAAGTATCCACCAAGTATATTTCATGCTATGACACTTCTTTTCCTATTT
+TGTTATATCTTAAAACAGAAATCCCACTTATTAACCAAGCAATAAATGTTAATAAATTGGCGCTGATTACTGCACCAA
+TAATATACAAAATGCCACTCGCTCTATTATTCACAAACAACTTTTTCATAGCTATAATGCCTAATAAATCTGAAGCTA
+AAGAAACAACAAATAATATTGCAAATATTGTCACGAATGTTGCTTGAGCAGTTTCTGGACTTTGTATAGTTTGTTCAC
+CATTAACAGTTGTGGTCAATTCTGGCTGTATAATCCCTGTTGCTGATAAAATTAAAAATATTAAAAATAACAATGTTA
+AAAAACTTTGAATAATAATTCCAATTAAAGACGTCACTTTGATTAATTTTTCCATTTTCCTACTCCTTAAAATTATTT
+TACTTTAATATCTTTATAATCTGATTGGTGTTCTTTCACGTATGTTTTAGGATTAATATCTCTCTTATAATAAATTTT
+GTCGTTTTTAAACTCGTAAGTCGCGTAAAACATTTGATCTTTATCTTTAAATAACTTATAGCTGATGATAATTAATTT
+GCCATCATCAAATACATAAGTATTTACTTTATCCTTATTAAATTCAGGATTAACTTCATTACTCTTTTTAACCATCTC
+TTTATGAGTTTCTTGTTGAATTTTCATTACTTTATTAATTTGACTTTGATATTTATTTTCATTTTGCTCATTACCACA
+ACCATAATTGATTATACTCATCATTATAATTAACACTCCTATAATTAATCTTTTCATTGGTTACTCCTTAATTATCTA
+TTTTTAATAAAAAAGTCTTTCAACTCTATCGGTTTTCGATTAGGTTTTATAAAAAATTCCCAAAAGTGGTAAGCAGGC
+TGTCCAGATTTTTTATTTTCTCTAAATGAGCGAACATGTATAAATCTAAAATAGCATGCAATCGCATATAATCCGGGA
+ATCATATACAAAATCGACAGTACTTTTGTAACTTTCACTCTATTAGCCAATTCAATATTATTTTGATCATATTGATAG
+TTTTTCAATAAAATAAAGTAAAAAATAATTTCTAACAAAATGGTAATTGCATATGCAACCATAATTGAAATATAACAA
+TAAAAGCTTACTCTATCGCCAAAATCCCTACCATACTGCAAACGATTATTAATTATACCTGCAATAACTGGTAGAAAC
+GCCAGTAAAATCATCATTGCAAATGGAATAACTTCAAATGATAAAAATATTTTGTTTATTCTCTTTATTTTTTCCATT
+TCTACTCCTTTAATTAGTTAATTTTTCAATAGCAGCAGCTATTGAATTTATTGCATTTTCTAGTACAGATAATGTACT
+ACCCAATGAATTAACTTCATTTTGCATCTCGGTAATTTTATCGATGAGTCTATCGATATTATCATCAATATTTTTTAT
+ACAATTTGTTATTGAACCACTTATGAGTTCACTCTCACTTTTCTCTTCCCATTTCGAATTATTTTCTCCCTTCCAATA
+GGAATATTCTTTGAAAATATTCTTTGAATTTGTTCTATGCTCTTTCACTTCCTTTTTTAAATCATTTAATTTATTCTT
+AATTCGTGTTGCTCTTTCTATTTTATCATTTAATTCTGCTATTTTGGTTTTAGTTTCTGCTGACTGTTGAAGTTTATA
+ATTCTTTTCCAATATTAAAGATGATTTCGACATTTTATTCTTCCTTTACCATGTAATTTTAATTTTTCCTCCAAGTAT
+AAATTTAGCATCAACTTCAATTCCTTTTTTGCCAACATTTACACCTCCCCCAGCTTGAGCCCCAATACTCGCGCCAAA
+ATCAAAATTTAATCCACTAAGTGCAAAACCACCTTCAACCCCTGTATTAGCTCCGACTGCTTCAGCTTTCGCTTCTAC
+TCCATCAGCACCTAAAGATCCACTCGCACTTGCTGACAAAACTTTTGCATCTCCTTTTACATGCAAATTATTATCTTC
+TGATCCAAATCTTAATTGTGCTTCCGCATCAATTAATTGCGCTTCTGCAATAGCAGATATATGCGAGTTACTAATTTC
+AGCTGAACCTTTTACACTCCCTACTTCGAGTCCTGCCTTACCTTCAACATTCTCGTACTTTACCTTACCATCTAATCC
+AGCTACTTTAGCATCTCCTTTAACCCCCATCGAATCGTCGCTTCGATATGCTATTCCACTAACTTTACCTATTTCAGC
+TGTACCAACTATATGTCCATCTTTAGAAATTGCTTGAGTTCTACCTATTGTCTCATCTCCTTCTGCATAAGCAACAGG
+ATGATCCGCTTTCATTTTTTTAAATTCACCCTTGTTAGTTTCATTTTTATACCAATTTTCTTTTGTAATGGAGTTTAT
+CTTTGATACGATAATTCCATTTTTATCATGATATTCATTATTCAATTTATTTATTTGAGTTATTAATCCTCTTACATC
+ATTGCTTAGACTTTCTAGTGATTGCTTACCTGTTTGATCCATAGTCTTAAGTTTTTCTTTAGTTCTATCTATTTTTTT
+GGAACTTTCATTGTAATCACTTTCTACATTATCTTTCCCTAAAGACACAGTATCAATAAATTCTGATGCTTCAGATAG
+AATTGCTGGGGAATTACTTGTAAGATCTATGAATTCCTTCTTTTTTGAGACCACACCTTTTTTAGTTTCATTCAAAGT
+TTGTAAACCAATTTTGGCATTACTACTTTTATCGCATTTTTCTCCAAGTTCTTTTAAGTGCTTTACTGATGCTTCCAA
+CTTATCCATTAAATTAATAGCTCTAGAAATTGTGCTTATATGTGCTGATTCAACATATTTCTTTATACTATCCGCTGT
+TTTTCCTTTTATACTACCAGTTTTAGATAAAAAATAACATTGAGTGTAATGATTATATAATACTTCATTTAATTTCGT
+TTTCACATCATTTGTTTTATTAAAATATTCTTCTAACTCTGAATTAACTAATCTAGGCATATTTTCCCCTCCCTAATT
+CCTATTTGCAATTTTATTTGCATTATCTTTATCATTCCGTTGCATTGTTGATGCTATTTTATCCATTGCTTCTTTATC
+GCTGCCAATCATCTTAGAATACGTTTTCATCGCTTTCGATAAGTCGTCAATTATTTTTTCTAGTTCAACTATACTTTC
+TAATATAATTTCATTTTTAGCATCTTTTATACTAGAAATTGAAACTTCACTAATCTCACTTGATCCTTTTTCAAATTT
+CTCTAATACATTTTGAAATTCAATTGGATCTAAATAAATTTCTTTCCCCATACTTAAACCTCCTCAAAGTTAATTTTA
+AAATTAACAAAACTAGAACTCTTAATAACTTTTATAACATCTCCTACGGTTAAAGTTTTCATATATTTTATTATTTCA
+TTCAAATCCAACACATCACCATTCAGTTTAGATAGCAATTCGTAAAATTCTTTTCTATCTTTTTCATATAATCGCCTA
+ATACTTTCCATGATATTATTTTTAAAATCTTCAAATTTTCCAACGTTGTAATTTTCTATTTTTTTTATATTATTTATA
+CATTCATCTTCCCTACCTAAAATACCTATTTCTTTTCTAGACTTGTGCACTTCAAAATTATCGCCAAATAAGTAATAT
+CCAGTAGCCAAAATTACTGCATAATCATAATGTTTATTTTTATTATCAAACTCTTTAAATAAGTATCCAATAAATGAA
+GAGTTCCTACGTGCTTTTTCAACTATATAATTATGACCGTTAAACTTTGGTATATATAAATAATTAAATTTTTCACCT
+TTATTTTTAAAATTCTTTAATTTTTCTTTATTGTCAATTTTTTCACTTATATTAATCAAACAATTTTCGTAATTTAGC
+ATATATTTTTTAAATACTTCCAAATTCTTTTGATCAAAAATCCATAAATCAGAAATCAACTTTTTAAAAGAAAATGTA
+TAGTCACTAAATAATTCCATGAATTTCATAGTAGCTCTGTACTCACTAATTTTAAAATTATAATTCATGTCTTTCTTG
+GCTAACTCTTTAGCTTCTAAAACCGATGCCTCATTTAAATCTTCTTCACTCATCACTTTAATAATTTCATTGTATTTT
+TCAATATACATATCCTTATATCTATATTTTTTATCATGCGCAAATGAAATAACAGTGCTATTAAAATAATTATTAATA
+TCTACAATTATATTTCTCTTTTTCAATTCAATTTTCAAATATTGTGCGAAGATAATTGGCGTTGCATTAGAAAAATTA
+ATTTCTTTCCCGTTATCAAATATAACTTTAGAATGTCCAACTCCAGTACCTATAATTATATTTGTATAAATATTATTG
+TCAGAAATCTCACCATTTTTCGCATTAAAATCAAATCTCATAATACTCTCCTTTTATTCAAATAATTTAATTTTTTTA
+TATTCATAGTTATATATATATAATACATTTCATTATTCTTAAGGTTTTTTTCATTTACTTTATAACGAACTTTTATTA
+ATTCTTGTTCGCTAATACTAATTCCTACAAAAGCGCTACTGACTATTTCCTTAAGTAACTTTATTTGAGAACTAAATC
+CTCCAATTGTTTCTTGATACAATCCGTAAATAATTGGAAAGACATTATTCTTTGGTCCGTCTAAAAATATAGTTTTTA
+TTTCATCATTATTTGGTGATGCAATATTTATAAATTCTTTAAAATCCGATATAACTACTATCCATTTTTTTCGTGGTT
+CTACATTTTTTATAAAACTCACTAATTCATTTTTAAAACTAATAATTTCTTTCTTATCTCCACAGTACAAATAATCTT
+CATACCCTGTATTTTTTAATATGCCTTTTGTGTCTAAAGTTGCAATTTCATATTCATTTGAAATTATATTTAGCTGTT
+TCTCTAATAAAGTTAAACCATTATCTATATCAACAGGTTTAACTGAAGTGAAAATATTTGTTTGACTTAAGTCGAAAC
+CAACTAGTTCCACATCCTCAAAGTCTAATCCT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus-tag "JJAHEJNG_00001" } ,
+                    location
+                      int {
+                        from 200 ,
+                        to 967 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus-tag "JJAHEJNG_00002" } ,
+                    location
+                      int {
+                        from 1198 ,
+                        to 1590 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      gene {
+                        locus-tag "JJAHEJNG_00003" } ,
+                    location
+                      int {
+                        from 1592 ,
+                        to 1981 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      gene {
+                        locus-tag "JJAHEJNG_00004" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 2373 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      gene {
+                        locus-tag "JJAHEJNG_00005" } ,
+                    location
+                      int {
+                        from 2388 ,
+                        to 2861 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      gene {
+                        locus-tag "JJAHEJNG_00006" } ,
+                    location
+                      int {
+                        from 2872 ,
+                        to 3285 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      gene {
+                        locus-tag "JJAHEJNG_00007" } ,
+                    location
+                      int {
+                        from 3298 ,
+                        to 4560 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      gene {
+                        locus-tag "JJAHEJNG_00008" } ,
+                    location
+                      int {
+                        from 4573 ,
+                        to 4863 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      gene {
+                        locus-tag "JJAHEJNG_00009" } ,
+                    location
+                      int {
+                        from 4866 ,
+                        to 5945 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      gene {
+                        locus "essC" ,
+                        locus-tag "JJAHEJNG_00010" } ,
+                    location
+                      int {
+                        from 5942 ,
+                        to 6541 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "JJAHEJNG_00001" } } ,
+          descr {
+            title "IS21 family transposase IS712 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 255 ,
+            seq-data
+              ncbieaa "MNTNHQKLLNNFEILKLKKFKDYYPNYIELLSKNEKSLTEILIDLTEKEIEYQSE
+LKFKRAVNSARFPKIKYLHDFDFMFQPSINQQEILTLKSMHFLEDSINICFLGNSGVGKTHLAISLGIEACKQNIKTR
+FYTFKELIDLLTVSDSKGIINKTLKQLSRIELLIIDEIGYTPITKEQADLFYQLMSLRYEWKSTIITTNIPFSSWGES
+FSNKIVSAAIIDRLVHHSKVFKITGESYRLKDYKTEKSLNIRQS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      prot {
+                        name {
+                          "IS21 family transposase IS712" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 254 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "JJAHEJNG_00002" } } ,
+          descr {
+            title "hypothetical protein JJAHEJNG_00002 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 130 ,
+            seq-data
+              ncbieaa "MKYTWWILLTIAGILSLTSVYGFILCLGSFGMLALNVMWLFVYTPHKNSKALESI
+SKPTIILSIIGTYAVFIFMSILFYFVMKARFMEIGIKLYGEPFNMFGIPLFIIGIILFTIGTVFVYKIQQSRLKQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 22 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 129 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "JJAHEJNG_00003" } } ,
+          descr {
+            title "hypothetical protein JJAHEJNG_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 129 ,
+            seq-data
+              ncbieaa "MEKLIKVTSLIGIIIQSFLTLLFLIFLILSATGIIQPELTTTVNGEQTIQSPETA
+QATFVTIFAILFVVSLASDLLGIIAMKKLFVNNRASGILYIIGAVISANLLTFIAWLISGISVLRYNKIGKEVS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 23 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 128 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "JJAHEJNG_00004" } } ,
+          descr {
+            title "hypothetical protein JJAHEJNG_00004 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 124 ,
+            seq-data
+              ncbieaa "MKRLIIGVLIIMMSIINYGCGNEQNENKYQSQINKVMKIQQETHKEMVKKSNEVN
+PEFNKDKVNTYVFDDGKLIIISYKLFKDKDQMFYATYEFKNDKIYYKRDINPKTYVKEHQSDYKDIKVK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 24 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 123 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "JJAHEJNG_00005" } } ,
+          descr {
+            title "hypothetical protein JJAHEJNG_00005 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 157 ,
+            seq-data
+              ncbieaa "MEKIKRINKIFLSFEVIPFAMMILLAFLPVIAGIINNRLQYGRDFGDRVSFYCYI
+SIMVAYAITILLEIIFYFILLKNYQYDQNNIELANRVKVTKVLSILYMIPGLYAIACYFRFIHVRSFRENKKSGQPAY
+HFWEFFIKPNRKPIELKDFFIKNR" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 25 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 156 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "JJAHEJNG_00006" } } ,
+          descr {
+            title "hypothetical protein JJAHEJNG_00006 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 137 ,
+            seq-data
+              ncbieaa "MSKSSLILEKNYKLQQSAETKTKIAELNDKIERATRIKNKLNDLKKEVKEHRTNS
+KNIFKEYSYWKGENNSKWEEKSESELISGSITNCIKNIDDNIDRLIDKITEMQNEVNSLGSTLSVLENAINSIAAAIE
+KLTN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 26 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 136 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "JJAHEJNG_00007" } } ,
+          descr {
+            title "hypothetical protein JJAHEJNG_00007 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 420 ,
+            seq-data
+              ncbieaa "MPRLVNSELEEYFNKTNDVKTKLNEVLYNHYTQCYFLSKTGSIKGKTADSIKKYV
+ESAHISTISRAINLMDKLEASVKHLKELGEKCDKSSNAKIGLQTLNETKKGVVSKKKEFIDLTSNSPAILSEASEFID
+TVSLGKDNVESDYNESSKKIDRTKEKLKTMDQTGKQSLESLSNDVRGLITQINKLNNEYHDKNGIIVSKINSITKENW
+YKNETNKGEFKKMKADHPVAYAEGDETIGRTQAISKDGHIVGTAEIGKVSGIAYRSDDSMGVKGDAKVAGLDGKVKYE
+NVEGKAGLEVGSVKGSAEISNSHISAIAEAQLIDAEAQLRFGSEDNNLHVKGDAKVLSASASGSLGADGVEAKAEAVG
+ANTGVEGGFALSGLNFDFGASIGAQAGGGVNVGKKGIEVDAKFILGGKIKITW" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 27 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 419 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_00007" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "JJAHEJNG_00008" } } ,
+          descr {
+            title "hypothetical protein JJAHEJNG_00008 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 96 ,
+            seq-data
+              ncbieaa "MGKEIYLDPIEFQNVLEKFEKGSSEISEVSISSIKDAKNEIILESIVELEKIIDD
+LSKAMKTYSKMIGSDKEAMDKIASTMQRNDKDNANKIANRN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 28 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 95 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_00008" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "JJAHEJNG_00009" } } ,
+          descr {
+            title "hypothetical protein JJAHEJNG_00009 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 359 ,
+            seq-data
+              ncbieaa "MRFDFNAKNGEISDNNIYTNIIIGTGVGHSKVIFDNGKEINFSNATPIIFAQYLK
+IELKKRNIIVDINNYFNSTVISFAHDKKYRYKDMYIEKYNEIIKVMSEEDLNEASVLEAKELAKKDMNYNFKISEYRA
+TMKFMELFSDYTFSFKKLISDLWIFDQKNLEVFKKYMLNYENCLINISEKIDNKEKLKNFKNKGEKFNYLYIPKFNGH
+NYIVEKARRNSSFIGYLFKEFDNKNKHYDYAVILATGYYLFGDNFEVHKSRKEIGILGREDECINNIKKIENYNVGKF
+EDFKNNIMESIRRLYEKDRKEFYELLSKLNGDVLDLNEIIKYMKTLTVGDVIKVIKSSSFVNFKINFEEV" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 29 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 358 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_00009" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "JJAHEJNG_00010" } } ,
+          descr {
+            title "Type VII secretion system protein EssC [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 199 ,
+            seq-data
+              ncbieaa "MELVGFDLSQTNIFTSVKPVDIDNGLTLLEKQLNIISNEYEIATLDTKGILKNTG
+YEDYLYCGDKKEIISFKNELVSFIKNVEPRKKWIVVISDFKEFINIASPNNDEIKTIFLDGPKNNVFPIIYGLYQETI
+GGFSSQIKLLKEIVSSAFVGISISEQELIKVRYKVNEKNLKNNEMYYIYITMNIKKLNYLNKRRVL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 30 ,
+                    data
+                      prot {
+                        name {
+                          "Type VII secretion system protein EssC" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 198 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "JJAHEJNG_00010" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "JJAHEJNG_00001" } ,
+                location
+                  int {
+                    from 200 ,
+                    to 967 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "JJAHEJNG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:ISfinder:IS712" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "JJAHEJNG_00002" } ,
+                location
+                  int {
+                    from 1198 ,
+                    to 1590 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "JJAHEJNG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "JJAHEJNG_00003" } ,
+                location
+                  int {
+                    from 1592 ,
+                    to 1981 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "JJAHEJNG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "JJAHEJNG_00004" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 2373 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "JJAHEJNG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "JJAHEJNG_00005" } ,
+                location
+                  int {
+                    from 2388 ,
+                    to 2861 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "JJAHEJNG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "JJAHEJNG_00006" } ,
+                location
+                  int {
+                    from 2872 ,
+                    to 3285 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "JJAHEJNG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "JJAHEJNG_00007" } ,
+                location
+                  int {
+                    from 3298 ,
+                    to 4560 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "JJAHEJNG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "JJAHEJNG_00008" } ,
+                location
+                  int {
+                    from 4573 ,
+                    to 4863 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "JJAHEJNG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 9 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "JJAHEJNG_00009" } ,
+                location
+                  int {
+                    from 4866 ,
+                    to 5945 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "JJAHEJNG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 10 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "JJAHEJNG_00010" } ,
+                location
+                  int {
+                    from 5942 ,
+                    to 6541 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "JJAHEJNG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q2G184" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG1674" } } } } } } } } }

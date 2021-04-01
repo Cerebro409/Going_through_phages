@@ -1,0 +1,15 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+IEDMLBHG_00001	gene	933	comGA			
+IEDMLBHG_00001	CDS	933	comGA		COG2804	ComG operon protein 1
+IEDMLBHG_00002	gene	1071				
+IEDMLBHG_00002	CDS	1071				hypothetical protein
+IEDMLBHG_00003	gene	312	comGC			
+IEDMLBHG_00003	CDS	312	comGC		COG4537	ComG operon protein 3
+IEDMLBHG_00004	gene	447				
+IEDMLBHG_00004	CDS	447				hypothetical protein
+IEDMLBHG_00005	gene	300				
+IEDMLBHG_00005	CDS	300				hypothetical protein
+IEDMLBHG_00006	gene	468				
+IEDMLBHG_00006	CDS	468				hypothetical protein
+IEDMLBHG_00007	gene	525	aroK			
+IEDMLBHG_00007	CDS	525	aroK	2.7.1.71		Shikimate kinase

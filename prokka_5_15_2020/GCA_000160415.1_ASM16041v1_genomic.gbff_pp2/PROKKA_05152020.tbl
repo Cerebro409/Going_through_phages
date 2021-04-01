@@ -1,0 +1,486 @@
+>Feature gnl|X|PDHDOIKH_1
+33	1244	gene
+			locus_tag	PDHDOIKH_00001
+33	1244	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00001
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00001
+1248	1874	gene
+			locus_tag	PDHDOIKH_00002
+1248	1874	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00002
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00002
+2000	2641	gene
+			locus_tag	PDHDOIKH_00003
+2000	2641	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00003
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00003
+2729	3346	gene
+			locus_tag	PDHDOIKH_00004
+2729	3346	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00004
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00004
+3421	4050	gene
+			locus_tag	PDHDOIKH_00005
+3421	4050	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00005
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00005
+4246	4866	gene
+			locus_tag	PDHDOIKH_00006
+4246	4866	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00006
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00006
+4997	5638	gene
+			locus_tag	PDHDOIKH_00007
+4997	5638	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00007
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00007
+6003	6314	gene
+			locus_tag	PDHDOIKH_00008
+6003	6314	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00008
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00008
+6767	7396	gene
+			locus_tag	PDHDOIKH_00009
+6767	7396	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00009
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00009
+7511	8161	gene
+			locus_tag	PDHDOIKH_00010
+7511	8161	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00010
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00010
+8198	8833	gene
+			locus_tag	PDHDOIKH_00011
+8198	8833	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00011
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00011
+8799	9044	gene
+			locus_tag	PDHDOIKH_00012
+8799	9044	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00012
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00012
+9068	9694	gene
+			locus_tag	PDHDOIKH_00013
+9068	9694	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00013
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00013
+9964	10902	gene
+			gene	iolS
+			locus_tag	PDHDOIKH_00014
+9964	10902	CDS
+			EC_number	1.1.1.-
+			db_xref	COG:COG0667
+			gene	iolS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46336
+			locus_tag	PDHDOIKH_00014
+			product	Aldo-keto reductase IolS
+			protein_id	gnl|X|PDHDOIKH_00014
+11113	11649	gene
+			gene	ywqN
+			locus_tag	PDHDOIKH_00015
+11113	11649	CDS
+			EC_number	1.-.-.-
+			db_xref	COG:COG0655
+			gene	ywqN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P96726
+			locus_tag	PDHDOIKH_00015
+			product	Putative NAD(P)H-dependent FMN-containing oxidoreductase YwqN
+			protein_id	gnl|X|PDHDOIKH_00015
+11818	12294	gene
+			locus_tag	PDHDOIKH_00016
+11818	12294	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00016
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00016
+12334	13629	gene
+			locus_tag	PDHDOIKH_00017
+12334	13629	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00017
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00017
+13657	14178	gene
+			locus_tag	PDHDOIKH_00018
+13657	14178	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00018
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00018
+14677	15687	gene
+			gene	adh
+			locus_tag	PDHDOIKH_00019
+14677	15687	CDS
+			EC_number	1.1.1.1
+			gene	adh
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A742
+			locus_tag	PDHDOIKH_00019
+			product	Alcohol dehydrogenase
+			protein_id	gnl|X|PDHDOIKH_00019
+15950	16378	gene
+			gene	ywiB
+			locus_tag	PDHDOIKH_00020
+15950	16378	CDS
+			db_xref	COG:COG4506
+			gene	ywiB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O07624
+			locus_tag	PDHDOIKH_00020
+			product	putative beta-barrel protein YwiB
+			protein_id	gnl|X|PDHDOIKH_00020
+16375	18036	gene
+			gene	argS
+			locus_tag	PDHDOIKH_00021
+16375	18036	CDS
+			EC_number	6.1.1.19
+			gene	argS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99W05
+			locus_tag	PDHDOIKH_00021
+			product	Arginine--tRNA ligase
+			protein_id	gnl|X|PDHDOIKH_00021
+18424	19059	gene
+			gene	nth
+			locus_tag	PDHDOIKH_00022
+18424	19059	CDS
+			EC_number	4.2.99.18
+			gene	nth
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00942
+			locus_tag	PDHDOIKH_00022
+			product	Endonuclease III
+			protein_id	gnl|X|PDHDOIKH_00022
+19438	20325	gene
+			gene	btuF
+			locus_tag	PDHDOIKH_00023
+19438	20325	CDS
+			db_xref	COG:COG0614
+			gene	btuF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37028
+			locus_tag	PDHDOIKH_00023
+			product	Vitamin B12-binding protein
+			protein_id	gnl|X|PDHDOIKH_00023
+20437	21423	gene
+			locus_tag	PDHDOIKH_00024
+20437	21423	CDS
+			db_xref	COG:COG0609
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q57130
+			locus_tag	PDHDOIKH_00024
+			product	putative ABC transporter permease protein
+			protein_id	gnl|X|PDHDOIKH_00024
+21478	22197	gene
+			gene	hdl IVa
+			locus_tag	PDHDOIKH_00025
+21478	22197	CDS
+			EC_number	3.8.1.2
+			gene	hdl IVa
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q51645
+			locus_tag	PDHDOIKH_00025
+			product	(S)-2-haloacid dehalogenase 4A
+			protein_id	gnl|X|PDHDOIKH_00025
+22181	22981	gene
+			locus_tag	PDHDOIKH_00026
+22181	22981	CDS
+			db_xref	COG:COG0596
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WNH3
+			locus_tag	PDHDOIKH_00026
+			product	putative protein
+			protein_id	gnl|X|PDHDOIKH_00026
+23117	23623	gene
+			locus_tag	PDHDOIKH_00027
+23117	23623	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00027
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00027
+23785	24501	gene
+			locus_tag	PDHDOIKH_00028
+23785	24501	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00028
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00028
+24670	25458	gene
+			gene	pip
+			locus_tag	PDHDOIKH_00029
+24670	25458	CDS
+			EC_number	3.4.11.5
+			gene	pip
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46541
+			locus_tag	PDHDOIKH_00029
+			product	Proline iminopeptidase
+			protein_id	gnl|X|PDHDOIKH_00029
+26083	25709	gene
+			gene	sarA
+			locus_tag	PDHDOIKH_00030
+26083	25709	CDS
+			gene	sarA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A1N5
+			locus_tag	PDHDOIKH_00030
+			product	Transcriptional regulator SarA
+			protein_id	gnl|X|PDHDOIKH_00030
+27528	27031	gene
+			locus_tag	PDHDOIKH_00031
+27528	27031	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00031
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00031
+28248	27799	gene
+			locus_tag	PDHDOIKH_00032
+28248	27799	CDS
+			db_xref	COG:COG2826
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISSau5
+			locus_tag	PDHDOIKH_00032
+			product	IS30 family transposase ISSau5
+			protein_id	gnl|X|PDHDOIKH_00032
+28819	28316	gene
+			locus_tag	PDHDOIKH_00033
+28819	28316	CDS
+			db_xref	COG:COG2826
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISSau5
+			locus_tag	PDHDOIKH_00033
+			product	IS30 family transposase ISSau5
+			protein_id	gnl|X|PDHDOIKH_00033
+29284	28928	gene
+			locus_tag	PDHDOIKH_00034
+29284	28928	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00034
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00034
+29930	29340	gene
+			locus_tag	PDHDOIKH_00035
+29930	29340	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00035
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00035
+30983	29937	gene
+			locus_tag	PDHDOIKH_00036
+30983	29937	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00036
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00036
+32820	30973	gene
+			gene	infB
+			locus_tag	PDHDOIKH_00037
+32820	30973	CDS
+			gene	infB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00100_B
+			locus_tag	PDHDOIKH_00037
+			product	Translation initiation factor IF-2
+			protein_id	gnl|X|PDHDOIKH_00037
+34183	32825	gene
+			locus_tag	PDHDOIKH_00038
+34183	32825	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00038
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00038
+36732	34237	gene
+			locus_tag	PDHDOIKH_00039
+36732	34237	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00039
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00039
+37150	36767	gene
+			locus_tag	PDHDOIKH_00040
+37150	36767	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00040
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00040
+37422	37162	gene
+			locus_tag	PDHDOIKH_00041
+37422	37162	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00041
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00041
+38527	37427	gene
+			locus_tag	PDHDOIKH_00042
+38527	37427	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00042
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00042
+39634	38543	gene
+			locus_tag	PDHDOIKH_00043
+39634	38543	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00043
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00043
+40111	39809	gene
+			locus_tag	PDHDOIKH_00044
+40111	39809	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00044
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00044
+40445	40125	gene
+			locus_tag	PDHDOIKH_00045
+40445	40125	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00045
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00045
+40880	40596	gene
+			locus_tag	PDHDOIKH_00046
+40880	40596	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00046
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00046
+41317	40916	gene
+			locus_tag	PDHDOIKH_00047
+41317	40916	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00047
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00047
+41736	41512	gene
+			locus_tag	PDHDOIKH_00048
+41736	41512	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00048
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00048
+41956	41753	gene
+			locus_tag	PDHDOIKH_00049
+41956	41753	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00049
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00049
+42115	42675	gene
+			gene	xerD
+			locus_tag	PDHDOIKH_00050
+42115	42675	CDS
+			gene	xerD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01807
+			locus_tag	PDHDOIKH_00050
+			product	Tyrosine recombinase XerD
+			protein_id	gnl|X|PDHDOIKH_00050
+42694	45096	gene
+			gene	mrpA
+			locus_tag	PDHDOIKH_00051
+42694	45096	CDS
+			db_xref	COG:COG1009
+			gene	mrpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9K2S2
+			locus_tag	PDHDOIKH_00051
+			product	Na(+)/H(+) antiporter subunit A
+			protein_id	gnl|X|PDHDOIKH_00051
+45083	45508	gene
+			gene	mrpB
+			locus_tag	PDHDOIKH_00052
+45083	45508	CDS
+			db_xref	COG:COG2111
+			gene	mrpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RGZ4
+			locus_tag	PDHDOIKH_00052
+			product	Na(+)/H(+) antiporter subunit B
+			protein_id	gnl|X|PDHDOIKH_00052
+45505	45849	gene
+			gene	mrpC
+			locus_tag	PDHDOIKH_00053
+45505	45849	CDS
+			db_xref	COG:COG1006
+			gene	mrpC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RGZ3
+			locus_tag	PDHDOIKH_00053
+			product	Na(+)/H(+) antiporter subunit C
+			protein_id	gnl|X|PDHDOIKH_00053
+45836	47335	gene
+			gene	mnhD1
+			locus_tag	PDHDOIKH_00054
+45836	47335	CDS
+			db_xref	COG:COG0651
+			gene	mnhD1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60686
+			locus_tag	PDHDOIKH_00054
+			product	Na(+)/H(+) antiporter subunit D1
+			protein_id	gnl|X|PDHDOIKH_00054
+47336	47818	gene
+			gene	mrpE
+			locus_tag	PDHDOIKH_00055
+47336	47818	CDS
+			db_xref	COG:COG1863
+			gene	mrpE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RGZ1
+			locus_tag	PDHDOIKH_00055
+			product	Na(+)/H(+) antiporter subunit E
+			protein_id	gnl|X|PDHDOIKH_00055
+47815	48117	gene
+			gene	mrpF
+			locus_tag	PDHDOIKH_00056
+47815	48117	CDS
+			db_xref	COG:COG2212
+			gene	mrpF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RGZ0
+			locus_tag	PDHDOIKH_00056
+			product	Na(+)/H(+) antiporter subunit F
+			protein_id	gnl|X|PDHDOIKH_00056
+48083	48529	gene
+			locus_tag	PDHDOIKH_00057
+48083	48529	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00057
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00057
+49146	49009	gene
+			locus_tag	PDHDOIKH_00058
+49146	49009	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PDHDOIKH_00058
+			product	hypothetical protein
+			protein_id	gnl|X|PDHDOIKH_00058

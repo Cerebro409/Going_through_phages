@@ -1,0 +1,21 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+KLDBMHLK_00001	gene	438	rbsK			
+KLDBMHLK_00001	CDS	438	rbsK	2.7.1.15		Ribokinase
+KLDBMHLK_00002	gene	762	COQ5			
+KLDBMHLK_00002	CDS	762	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+KLDBMHLK_00003	gene	1437	bglA			
+KLDBMHLK_00003	CDS	1437	bglA	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglA
+KLDBMHLK_00004	gene	792				
+KLDBMHLK_00004	CDS	792				hypothetical protein
+KLDBMHLK_00005	gene	705	yydK			
+KLDBMHLK_00005	CDS	705	yydK		COG2188	putative HTH-type transcriptional regulator YydK
+KLDBMHLK_00006	gene	2292				
+KLDBMHLK_00006	CDS	2292				hypothetical protein
+KLDBMHLK_00007	gene	702	lrgB			
+KLDBMHLK_00007	CDS	702	lrgB		COG1346	Antiholin-like protein LrgB
+KLDBMHLK_00008	gene	438	lrgA			
+KLDBMHLK_00008	CDS	438	lrgA		COG1380	Antiholin-like protein LrgA
+KLDBMHLK_00009	gene	741	lytR			
+KLDBMHLK_00009	CDS	741	lytR		COG3279	Sensory transduction protein LytR
+KLDBMHLK_00010	gene	1755	ypdA			
+KLDBMHLK_00010	CDS	1755	ypdA	2.7.13.3	COG3275	Sensor histidine kinase YpdA

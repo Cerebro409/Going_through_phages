@@ -1,0 +1,21 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+JBIMIPIB_00001	gene	444				
+JBIMIPIB_00001	CDS	444		3.4.-.-		putative peptidase
+JBIMIPIB_00002	gene	558	efp			
+JBIMIPIB_00002	CDS	558	efp			Elongation factor P
+JBIMIPIB_00003	gene	465	accB			
+JBIMIPIB_00003	CDS	465	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+JBIMIPIB_00004	gene	1356	cfiB			
+JBIMIPIB_00004	CDS	1356	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+JBIMIPIB_00005	gene	363				
+JBIMIPIB_00005	CDS	363				putative protein
+JBIMIPIB_00006	gene	390	nusB			
+JBIMIPIB_00006	CDS	390	nusB			Transcription antitermination protein NusB
+JBIMIPIB_00007	gene	1338	xseA			
+JBIMIPIB_00007	CDS	1338	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+JBIMIPIB_00008	gene	231	xseB			
+JBIMIPIB_00008	CDS	231	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+JBIMIPIB_00009	gene	882				
+JBIMIPIB_00009	CDS	882		2.5.1.10		Farnesyl diphosphate synthase
+JBIMIPIB_00010	gene	453	argR			
+JBIMIPIB_00010	CDS	453	argR			Arginine repressor

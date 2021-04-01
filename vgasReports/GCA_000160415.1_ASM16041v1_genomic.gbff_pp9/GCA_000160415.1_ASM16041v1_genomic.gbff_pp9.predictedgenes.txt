@@ -1,0 +1,71 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1         2000         3109            -         1110      0.41067
+
+     2         3114         3746            -          633      0.36284
+
+     3         3731         4867            -         1137      0.41758
+     (bit_score:420.239;e-value:4.6594e-146;identity:54.8%;gi|363540634|ref|YP_004894587.1| UDP-N-acetylglucosamine 2-epimerase [Megavirus chiliensis])
+
+     4         4871         5221            -          351      0.33272
+
+     5         5993         7177            -         1185      0.44020
+     (bit_score:174.481;e-value:1.84889e-50;identity:33.4%;gi|363539870|ref|YP_004894585.1| putative dTDP-d-glucose 4 6-dehydratase [Megavirus chiliensis])
+
+     6         6969         7790            -          822      0.40376
+
+     7         7798         8922            -         1125      0.42724
+
+     8         8855         9619            -          765      0.41568
+
+     9         9622        10308            -          687      0.40066
+
+    10        10324        10992            -          669      0.39571
+
+    11        11337        13946            -         2610      0.50000
+
+    12        14396        14617            -          222      0.19069
+
+    13        15166        15510            -          345      0.02527
+
+    14        15594        15860            -          267      0.09816
+
+    15        15869        16414            -          546      0.29341
+
+    16        16353        16586            +          234      0.22969
+
+    17        16727        16921            -          195      0.14106
+
+    18        16984        18549            -         1566      0.41617
+
+    19        18600        20144            -         1545      0.45734
+
+    20        20373        21329            +          957      0.43600
+
+    21        21543        22316            +          774      0.42639
+
+    22        22318        23130            +          813      0.37250
+
+    23        22869        23930            +         1062      0.33425
+
+    24        24061        25239            -         1179      0.43370
+
+    25        25267        25929            -          663      0.42035
+
+    26        26010        27368            -         1359      0.37128
+
+    27        27369        28127            -          759      0.43109
+
+    28        28312        29067            +          756      0.40296
+

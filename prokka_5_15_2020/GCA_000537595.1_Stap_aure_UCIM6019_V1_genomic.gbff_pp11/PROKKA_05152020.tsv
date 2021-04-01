@@ -1,0 +1,19 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+DPNMAKPO_00001	gene	171				
+DPNMAKPO_00001	CDS	171				hypothetical protein
+DPNMAKPO_00002	gene	702	lrgB			
+DPNMAKPO_00002	CDS	702	lrgB		COG1346	Antiholin-like protein LrgB
+DPNMAKPO_00003	gene	444	lrgA			
+DPNMAKPO_00003	CDS	444	lrgA		COG1380	Antiholin-like protein LrgA
+DPNMAKPO_00004	gene	741	lytR			
+DPNMAKPO_00004	CDS	741	lytR		COG3279	Sensory transduction protein LytR
+DPNMAKPO_00005	gene	1740	ypdA			
+DPNMAKPO_00005	CDS	1740	ypdA	2.7.13.3	COG3275	Sensor histidine kinase YpdA
+DPNMAKPO_00006	gene	675	scdA			
+DPNMAKPO_00006	CDS	675	scdA		COG2846	Iron-sulfur cluster repair protein ScdA
+DPNMAKPO_00007	gene	1722	tarS			
+DPNMAKPO_00007	CDS	1722	tarS	2.4.1.355		Poly(ribitol-phosphate) beta-N-acetylglucosaminyltransferase TarS
+DPNMAKPO_00008	gene	1689	tarL			
+DPNMAKPO_00008	CDS	1689	tarL	2.7.8.14	COG1887	Teichoic acid ribitol-phosphate polymerase TarL
+DPNMAKPO_00009	gene	219	tarJ			
+DPNMAKPO_00009	CDS	219	tarJ	1.1.1.405	COG1063	Ribulose-5-phosphate reductase 1

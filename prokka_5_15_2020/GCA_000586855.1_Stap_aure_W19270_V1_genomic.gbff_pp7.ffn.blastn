@@ -1,0 +1,43 @@
+# BLASTN 2.9.0+
+# Query: IEDANGJH_00001 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+IEDANGJH_00001	IEDANGJH_00001	100.000	210	100	210	210	0	4.00e-109	388
+IEDANGJH_00001	DENJFJGE_00066	100.000	210	100	687	210	0	4.00e-109	388
+# BLASTN 2.9.0+
+# Query: IEDANGJH_00002 Multidrug efflux pump SdrM
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+IEDANGJH_00002	IEDANGJH_00002	100.000	1344	100	1344	1344	0	0.0	2483
+IEDANGJH_00002	DENJFJGE_00067	100.000	1344	100	1344	1344	0	0.0	2483
+IEDANGJH_00002	LIJEKHFH_00001	100.000	1344	88	1182	1182	0	0.0	2183
+# BLASTN 2.9.0+
+# Query: IEDANGJH_00003 Multidrug resistance efflux pump SepA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+IEDANGJH_00003	IEDANGJH_00003	100.000	468	100	468	468	0	0.0	865
+IEDANGJH_00003	LIJEKHFH_00002	100.000	468	100	468	468	0	0.0	865
+IEDANGJH_00003	DENJFJGE_00068	100.000	468	100	468	468	0	0.0	865
+IEDANGJH_00003	HJCNAOEB_00001	100.000	468	44	207	207	0	4.38e-107	383
+# BLASTN 2.9.0+
+# Query: IEDANGJH_00004 Fatty acid resistance protein FarB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+IEDANGJH_00004	IEDANGJH_00004	100.000	1446	100	1446	1446	0	0.0	2671
+IEDANGJH_00004	LIJEKHFH_00003	100.000	1446	100	1446	1446	0	0.0	2671
+IEDANGJH_00004	HJCNAOEB_00002	100.000	1446	100	1446	1446	0	0.0	2671
+IEDANGJH_00004	DENJFJGE_00069	100.000	1446	100	1446	1446	0	0.0	2671
+# BLASTN 2.9.0+
+# Query: IEDANGJH_00005 Iron-sulfur cluster carrier protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+IEDANGJH_00005	IEDANGJH_00005	100.000	1065	100	1065	1065	0	0.0	1967
+IEDANGJH_00005	LIJEKHFH_00004	100.000	1065	100	1065	1065	0	0.0	1967
+IEDANGJH_00005	HJCNAOEB_00003	100.000	1065	100	1065	1065	0	0.0	1967
+IEDANGJH_00005	DENJFJGE_00070	100.000	1065	100	1065	1065	0	0.0	1967
+# BLAST processed 5 queries

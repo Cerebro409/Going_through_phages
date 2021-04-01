@@ -1,0 +1,25 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+BLHOFFBM_00001	gene	768	ywlC			
+BLHOFFBM_00001	CDS	768	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+BLHOFFBM_00002	gene	420	ptpB			
+BLHOFFBM_00002	CDS	420	ptpB	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase PtpB
+BLHOFFBM_00003	gene	525				
+BLHOFFBM_00003	CDS	525				hypothetical protein
+BLHOFFBM_00004	gene	1239	glyA			
+BLHOFFBM_00004	CDS	1239	glyA	2.1.2.1		Serine hydroxymethyltransferase
+BLHOFFBM_00005	gene	630	upp			
+BLHOFFBM_00005	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+BLHOFFBM_00006	gene	1128	mnaA			
+BLHOFFBM_00006	CDS	1128	mnaA	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+BLHOFFBM_00007	gene	387				
+BLHOFFBM_00007	CDS	387				hypothetical protein
+BLHOFFBM_00008	gene	729	atpB			
+BLHOFFBM_00008	CDS	729	atpB			ATP synthase subunit a
+BLHOFFBM_00009	gene	213	atpE			
+BLHOFFBM_00009	CDS	213	atpE			ATP synthase subunit c
+BLHOFFBM_00010	gene	522	atpF			
+BLHOFFBM_00010	CDS	522	atpF			ATP synthase subunit b
+BLHOFFBM_00011	gene	540	atpH			
+BLHOFFBM_00011	CDS	540	atpH			ATP synthase subunit delta
+BLHOFFBM_00012	gene	93				
+BLHOFFBM_00012	CDS	93				hypothetical protein

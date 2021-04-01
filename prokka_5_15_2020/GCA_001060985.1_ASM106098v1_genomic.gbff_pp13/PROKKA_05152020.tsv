@@ -1,0 +1,13 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+DOACAIIE_00001	gene	1878	mnmG			
+DOACAIIE_00001	CDS	1878	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+DOACAIIE_00002	gene	1380	mnmE			
+DOACAIIE_00002	CDS	1380	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+DOACAIIE_00003	gene	354	rnpA			
+DOACAIIE_00003	CDS	354	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+DOACAIIE_00004	gene	138	rpmH			
+DOACAIIE_00004	CDS	138	rpmH			50S ribosomal protein L34
+DOACAIIE_00005	gene	1362	dnaA			
+DOACAIIE_00005	CDS	1362	dnaA			Chromosomal replication initiator protein DnaA
+DOACAIIE_00006	gene	1134	dnaN			
+DOACAIIE_00006	CDS	1134	dnaN			Beta sliding clamp

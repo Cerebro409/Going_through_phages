@@ -1,0 +1,25 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1          121          372            -          252      0.21905
+     (bit_score:167.162;e-value:1.74244e-53;identity:35.2%;gi|985761246|ref|YP_009226832.1| integrase core domain protein [Staphylococcus phage SPbeta-like])
+     (bit_score:165.622;e-value:8.95279e-53;identity:34.8%;gi|985761236|ref|YP_009226822.1| integrase core domain protein [Staphylococcus phage SPbeta-like])
+
+     2          549          794            -          246      0.26677
+
+     3         1067         1498            -          432      0.37778
+
+     4         2000         2446            +          447      0.28774
+
+     5         2715         3950            +         1236      0.50000
+

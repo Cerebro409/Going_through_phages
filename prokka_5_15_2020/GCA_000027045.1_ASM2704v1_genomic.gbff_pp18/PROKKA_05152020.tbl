@@ -1,0 +1,52 @@
+>Feature gnl|X|HLMBFDGP_1
+76	258	gene
+			gene	hly
+			locus_tag	HLMBFDGP_00001
+76	258	CDS
+			gene	hly
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09616
+			locus_tag	HLMBFDGP_00001
+			product	Alpha-hemolysin
+			protein_id	gnl|X|HLMBFDGP_00001
+712	945	gene
+			locus_tag	HLMBFDGP_00002
+712	945	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HLMBFDGP_00002
+			product	hypothetical protein
+			protein_id	gnl|X|HLMBFDGP_00002
+1562	1747	gene
+			locus_tag	HLMBFDGP_00003
+1562	1747	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HLMBFDGP_00003
+			product	hypothetical protein
+			protein_id	gnl|X|HLMBFDGP_00003
+1909	1688	gene
+			locus_tag	HLMBFDGP_00004
+1909	1688	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	HLMBFDGP_00004
+			product	hypothetical protein
+			protein_id	gnl|X|HLMBFDGP_00004
+2350	2000	gene
+			gene	scn
+			locus_tag	HLMBFDGP_00005
+2350	2000	CDS
+			gene	scn
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FWV6
+			locus_tag	HLMBFDGP_00005
+			product	Staphylococcal complement inhibitor
+			protein_id	gnl|X|HLMBFDGP_00005
+2879	2502	gene
+			gene	fib
+			locus_tag	HLMBFDGP_00006
+2879	2502	CDS
+			gene	fib
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6P2
+			locus_tag	HLMBFDGP_00006
+			product	Fibrinogen-binding protein
+			protein_id	gnl|X|HLMBFDGP_00006

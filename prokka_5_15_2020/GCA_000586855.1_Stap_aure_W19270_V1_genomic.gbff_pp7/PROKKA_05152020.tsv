@@ -1,0 +1,11 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+IEDANGJH_00001	gene	210				
+IEDANGJH_00001	CDS	210				hypothetical protein
+IEDANGJH_00002	gene	1344	sdrM			
+IEDANGJH_00002	CDS	1344	sdrM			Multidrug efflux pump SdrM
+IEDANGJH_00003	gene	468	sepA			
+IEDANGJH_00003	CDS	468	sepA			Multidrug resistance efflux pump SepA
+IEDANGJH_00004	gene	1446	farB			
+IEDANGJH_00004	CDS	1446	farB			Fatty acid resistance protein FarB
+IEDANGJH_00005	gene	1065	salA			
+IEDANGJH_00005	CDS	1065	salA		COG0489	Iron-sulfur cluster carrier protein

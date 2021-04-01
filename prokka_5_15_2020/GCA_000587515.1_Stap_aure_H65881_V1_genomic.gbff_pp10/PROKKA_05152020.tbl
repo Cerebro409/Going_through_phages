@@ -1,0 +1,43 @@
+>Feature gnl|X|MMFDLKPG_1
+9	395	gene
+			locus_tag	MMFDLKPG_00001
+9	395	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MMFDLKPG_00001
+			product	hypothetical protein
+			protein_id	gnl|X|MMFDLKPG_00001
+611	1978	gene
+			locus_tag	MMFDLKPG_00002
+611	1978	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MMFDLKPG_00002
+			product	hypothetical protein
+			protein_id	gnl|X|MMFDLKPG_00002
+2000	3628	gene
+			locus_tag	MMFDLKPG_00003
+2000	3628	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MMFDLKPG_00003
+			product	hypothetical protein
+			protein_id	gnl|X|MMFDLKPG_00003
+4150	4500	gene
+			locus_tag	MMFDLKPG_00004
+4150	4500	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MMFDLKPG_00004
+			product	hypothetical protein
+			protein_id	gnl|X|MMFDLKPG_00004
+4587	4898	gene
+			locus_tag	MMFDLKPG_00005
+4587	4898	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MMFDLKPG_00005
+			product	hypothetical protein
+			protein_id	gnl|X|MMFDLKPG_00005
+4910	5419	gene
+			locus_tag	MMFDLKPG_00006
+4910	5419	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MMFDLKPG_00006
+			product	hypothetical protein
+			protein_id	gnl|X|MMFDLKPG_00006

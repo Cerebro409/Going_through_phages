@@ -1,0 +1,1161 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "POJEAIJC_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 9114 ,
+            seq-data
+              iupacna "GTAAATGGCGGTTATAAAATGTAGGAAAATGGCGAAATGAAAATGCTGTTTTTCC
+TACATTTTTTCTTTTTTAAATTATATAATCATGTCTTAACTCAATCTTCGATTGGAGGTTATTTGATTGAGACATGAC
+ATTTATGAAGGAGTGCTATTTTACATTATGAAAGGTATTAAACCAAATTATGCCGAGCTTGGTCGACAATATAATTGT
+GATCCAAGAACAGTTAAAAAATATTATGAAGCAGGAAAAGAAAATGAATTAGAACGATTGAAGAAAAGACAACAAAAT
+AAGAAAGCATCAAAACTAGATCCATTTAAAGAAATTATTAATAAAAAAATTGAATTAGGATGTACAGCTATGGCCATT
+TTTAAATATATAGAGAAAAAGGGTTATGAAGGTAAATATACTATTCTACGAGAATACTGTAAAAATAAAAAACAAAAT
+GAGACTAAAAAAGCAACTATACGCGTAGAAACTAATCCCGGTATAGCTGCTCAAGTAGACTGGAAAGAAGATATGGTA
+ATGCATGATAAGTTTGGCAGAACTTATCAATTCAACATCTTTCTTTACGTTCTACACTATTCAAAAATGAAGTATATC
+ACATTAACTTGGGATAGAAAACAAGATACCTTATTTGAATGTTTAAAAGACGCTTTTGAATACACCGAAGGGGTTCCA
+AAAGAAATCTGGTTCGATAATATGAGAACTGTAGTTGATCGACCTAGAACACAATATAAAAAAGTCGTCTTTAATAAT
+TTATTTTATCAATTTAGTAAGGATGCCAACTTTGAACCTATTGCTTGTAGACCCTATCGTCCTCAAACAAAAGGGTCT
+GTTGAATCATTAGCTAAATTTGTTGAACAGCGTTTAAGACCATACGATTATGAATTTTATGATGCTGTAGAACTTATT
+GGGCTAGTAAACGATTTATGTCACGAATTGAATCACTTAGAAATTTCACAAGCAACAGAACAACGACCTATCGACGTT
+TTCAATTATGAAGAAAAAGAACATTTAAATTCTTTTAATGCCAAGTTACTAGATACTTACATCGAAAATGAGTGTATA
+AGAATCGTTTCTAAAGAATCGATGATTAACTTTAGAAAAGGTAAATACTCGGTACCTACTAAATACATTGGTGAAGAA
+GTACAAGTGATATTCAATAATTCTACTGATGAATTGCTGATTTATTATGATGGTGAATTAATAAGACGGCATAATCTA
+TCCGAAAGAAAATTTAATTATATCGTTGAAGATATGAGTGAAATATTAAAATCAGATGTATTTAAACATAAGGATGAC
+AAAGAAATTCTTACGTATATAGAAAATTCATTATTACTGTATGACGAAATTTAGGAGGACTTTCGATGAATACGAACC
+ATCAAAAATTACTTAATAACTTTGAAATATTAAAACTAAAAAAATTCAAAGATTATTATCCAAACTATATTGAATTAC
+TTTCTAAAAATGAGAAATCTTTAACTGAAATATTGATTGATTTAACGGAAAAAGAAATAGAATATCAATCAGAATTAA
+AATTTAAACGTGCTGTGAATTCAGCACGTTTCCCTAAAATAAAATATTTACATGATTTTGATTTCATGTTTCAACCTA
+GTATAAATCAACAAGAAATACTCACTTTAAAATCTATGCATTTTTTAGAAGATAGTATAAATATTTGTTTCTTAGGTA
+ATAGTGGTGTTGGTAAAACACACCTAGCAATCTCATTAGGAATAGAGGCATGTAAGCAAAATATAAAGACTAGATTCT
+ATACTTTCAAAGAATTAATAGACTTATTAACTGTCTCAGATTCCAAAGGAATCATTAATAAAACATTAAAGCAATTAA
+GCAGAATAGAGTTACTTATCATTGATGAAATTGGTTATACTCCCATCACCAAAGAACAAGCTGATTTATTCTACCAGT
+TAATGTCACTAAGGTATGAGTGGAAATCAACAATAATTACGACTAATATTCCATTTTCGAGTTGGGGAGAGTCATTTA
+GTAATAAGATTGTATCAGCAGCTATAATTGATCGGTTAGTTCACCATTCAAAAGTATTTAAAATTACTGGAGAATCAT
+ATCGATTAAAAGATTATAAAACCGAAAAATCATTAAATATACGACAATCTTAAACCGCTAAAAAACGACATTTTCAAA
+CCGCCATAAAACAGCATTTTTAAACCGCTATTGACAACCATTACATTTTTATATTTTAATATTGAAAAAATCACATTT
+TACATTCATTGTCATTATCTTTTTATCTTCAAATTGCTTGAAGTCATTTAGATTCAACTACATCTATTATGTATAAAT
+CATTAGGACGGATTTCTTTTAAACCCGTCCCATGTTAAATTAATATATTCTATTGCTTTAATCTTGATTGCTGTATTT
+TATAAACGAATACTGTACCGATTGTAAATAAAATGATGCCAATAATGAATAATGGTATTCCAAACATATTAAAAGGTT
+CACCGTAAAGTTTTATTCCAATTTCCATAAACCTAGCTTTCATTACGAAGTAAAATAAGATAGACATAAATATAAATA
+CTGCATATGTCCCAATGATTGATAAAATTATCGTTGGTTTTGATATAGATTCAAGTGCTTTAGAATTTTTATGCGGTG
+TATAAACAAATAGCCACATGACATTCAGTGCCAACATTCCAAAGCTACCTAAACATAAAATAAATCCATAAACACTTG
+TTAAACTTAAAATCCCTGCAATTGTTAAAAGTATCCACCAAGTATATTTCATGCTATGACACTTCTTTTCCTATTTTG
+TTATATCTTAAAACAGAAATCCCACTTATTAACCAAGCAATAAATGTTAATAAATTGGCGCTGATTACTGCACCAATA
+ATATACAAAATGCCACTCGCTCTATTATTCACAAACAACTTTTTCATAGCTATAATGCCTAATAAATCTGAAGCTAAA
+GAAACAACAAATAATATTGCAAATATTGTCACGAATGTTGCTTGAGCAGTTTCTGGACTTTGTATAGTTTGTTCACCA
+TTAACAGTTGTGGTCAATTCTGGCTGTATAATCCCTGTTGCTGATAAAATTAAAAATATTAAAAATAACAATGTTAAA
+AAACTTTGAATAATAATTCCAATTAAAGACGTCACTTTGATTAATTTTTCCATTTTCCTACTCCTTAAAATTATTTTA
+CTTTAATATCTTTATAATCTGATTGGTGTTCTTTCACGTATGTTTTAGGATTAATATCTCTCTTATAATAAATTTTGT
+CGTTTTTAAACTCGTAAGTCGCGTAAAACATTTGATCTTTATCTTTAAATAACTTATAGCTGATGATAATTAATTTGC
+CATCATCAAATACATAAGTATTTACTTTATCCTTATTAAATTCAGGATTAACTTCATTACTCTTTTTAACCATCTCTT
+TATGAGTTTCTTGTTGAATTTTCATTACTTTATTAATTTGACTTTGATATTTATTTTCATTTTGCTCATTACCACAAC
+CATAATTGATTATACTCATCATTATAATTAACACTCCTATAATTAATCTTTTCATTGGTTACTCCTTAATTATCTATT
+TTTAATAAAAAAGTCTTTCAACTCTATCGGTTTTCGATTAGGTTTTATAAAAAATTCCCAAAAGTGGTAAGCAGGCTG
+TCCAGATTTTTTATTTTCTCTAAATGAGCGAACATGTATAAATCTAAAATAGCATGCAATCGCATATAATCCGGGAAT
+CATATACAAAATCGACAGTACTTTTGTAACTTTCACTCTATTAGCCAATTCAATATTATTTTGATCATATTGATAGTT
+TTTCAATAAAATAAAGTAAAAAATAATTTCTAACAAAATGGTAATTGCATATGCAACCATAATTGAAATATAACAATA
+AAAGCTTACTCTATCGCCAAAATCCCTACCATACTGCAAACGATTATTAATTATACCTGCAATAACTGGTAGAAACGC
+CAGTAAAATCATCATTGCAAATGGAATAACTTCAAATGATAAAAATATTTTGTTTATTCTCTTTATTTTTTCCATTTC
+TACTCCTTTAATTAGTTAATTTTTCAATAGCAGCAGCTATTGAATTTATTGCATTTTCTAGTACAGATAATGTACTAC
+CCAATGAATTAACTTCATTTTGCATCTCGGTAATTTTATCGATGAGTCTATCGATATTATCATCAATATTTTTTATAC
+AATTTGTTATTGAACCACTTATGAGTTCACTCTCACTTTTCTCTTCCCATTTCGAATTATTTTCTCCCTTCCAATAGG
+AATATTCTTTGAAAATATTCTTTGAATTTGTTCTATGCTCTTTCACTTCCTTTTTTAAATCATTTAATTTATTCTTAA
+TTCGTGTTGCTCTTTCTATTTTATCATTTAATTCTGCTATTTTGGTTTTAGTTTCTGCTGACTGTTGAAGTTTATAAT
+TCTTTTCCAATATTAAAGATGATTTCGACATTTTATTCTTCCTTTACCATGTAATTTTAATTTTTCCTCCAAGTATAA
+ATTTAGCATCAACTTCAATTCCTTTTTTGCCAACATTTACACCTCCCCCAGCTTGAGCCCCAATACTCGCGCCAAAAT
+CAAAATTTAATCCACTAAGTGCAAAACCACCTTCAACCCCTGTATTAGCTCCGACTGCTTCAGCTTTCGCTTCTACTC
+CATCAGCACCTAAAGATCCACTCGCACTTGCTGACAAAACTTTTGCATCTCCTTTTACATGCAAATTATTATCTTCTG
+ATCCAAATCTTAATTGTGCTTCCGCATCAATTAATTGCGCTTCTGCAATAGCAGATATATGCGAGTTACTAATTTCAG
+CTGAACCTTTTACACTCCCTACTTCGAGTCCTGCCTTACCTTCAACATTCTCGTACTTTACCTTACCATCTAATCCAG
+CTACTTTAGCATCTCCTTTAACCCCCATCGAATCGTCGCTTCGATATGCTATTCCACTAACTTTACCTATTTCAGCTG
+TACCAACTATATGTCCATCTTTAGAAATTGCTTGAGTTCTACCTATTGTCTCATCTCCTTCTGCATAAGCAACAGGAT
+GATCCGCTTTCATTTTTTTAAATTCACCCTTGTTAGTTTCATTTTTATACCAATTTTCTTTTGTAATGGAGTTTATCT
+TTGATACGATAATTCCATTTTTATCATGATATTCATTATTCAATTTATTTATTTGAGTTATTAATCCTCTTACATCAT
+TGCTTAGACTTTCTAGTGATTGCTTACCTGTTTGATCCATAGTCTTAAGTTTTTCTTTAGTTCTATCTATTTTTTTGG
+AACTTTCATTGTAATCACTTTCTACATTATCTTTCCCTAAAGACACAGTATCAATAAATTCTGATGCTTCAGATAGAA
+TTGCTGGGGAATTACTTGTAAGATCTATGAATTCCTTCTTTTTTGAGACCACACCTTTTTTAGTTTCATTCAAAGTTT
+GTAAACCAATTTTGGCATTACTACTTTTATCGCATTTTTCTCCAAGTTCTTTTAAGTGCTTTACTGATGCTTCCAACT
+TATCCATTAAATTAATAGCTCTAGAAATTGTGCTTATATGTGCTGATTCAACATATTTCTTTATACTATCCGCTGTTT
+TTCCTTTTATACTACCAGTTTTAGATAAAAAATAACATTGAGTGTAATGATTATATAATACTTCATTTAATTTCGTTT
+TCACATCATTTGTTTTATTAAAATATTCTTCTAACTCTGAATTAACTAATCTAGGCATATTTTCCCCTCCCTAATTCC
+TATTTGCAATTTTATTTGCATTATCTTTATCATTCCGTTGCATTGTTGATGCTATTTTATCCATTGCTTCTTTATCGC
+TGCCAATCATCTTAGAATACGTTTTCATCGCTTTCGATAAGTCGTCAATTATTTTTTCTAGTTCAACTATACTTTCTA
+ATATAATTTCATTTTTAGCATCTTTTATACTAGAAATTGAAACTTCACTAATCTCACTTGATCCTTTTTCAAATTTCT
+CTAATACATTTTGAAATTCAATTGGATCTAAATAAATTTCTTTCCCCATACTTAAACCTCCTCAAAGTTAATTTTAAA
+ATTAACAAAACTAGAACTCTTAATAACTTTTATAACATCTCCTACGGTTAAAGTTTTCATATATTTTATTATTTCATT
+CAAATCCAACACATCACCATTCAGTTTAGATAGCAATTCGTAAAATTCTTTTCTATCTTTTTCATATAATCGCCTAAT
+ACTTTCCATGATATTATTTTTAAAATCTTCAAATTTTCCAACGTTGTAATTTTCTATTTTTTTTATATTATTTATACA
+TTCATCTTCCCTACCTAAAATACCTATTTCTTTTCTAGACTTGTGCACTTCAAAATTATCGCCAAATAAGTAATATCC
+AGTAGCCAAAATTACTGCATAATCATAATGTTTATTTTTATTATCAAACTCTTTAAATAAGTATCCAATAAATGAAGA
+GTTCCTACGTGCTTTTTCAACTATATAATTATGACCGTTAAACTTTGGTATATATAAATAATTAAATTTTTCACCTTT
+ATTTTTAAAATTCTTTAATTTTTCTTTATTGTCAATTTTTTCACTTATATTAATCAAACAATTTTCGTAATTTAGCAT
+ATATTTTTTAAATACTTCCAAATTCTTTTGATCAAAAATCCATAAATCAGAAATCAACTTTTTAAAAGAAAATGTATA
+GTCACTAAATAATTCCATGAATTTCATAGTAGCTCTGTACTCACTAATTTTAAAATTATAATTCATGTCTTTCTTGGC
+TAACTCTTTAGCTTCTAAAACCGATGCCTCATTTAAATCTTCTTCACTCATCACTTTAATAATTTCATTGTATTTTTC
+AATATACATATCCTTATATCTATATTTTTTATCATGCGCAAATGAAATAACAGTGCTATTAAAATAATTATTAATATC
+TACAATTATATTTCTCTTTTTCAATTCAATTTTCAAATATTGTGCGAAGATAATTGGCGTTGCATTAGAAAAATTAAT
+TTCTTTCCCGTTATCAAATATAACTTTAGAATGTCCAACTCCAGTACCTATAATTATATTTGTATAAATATTATTGTC
+AGAAATCTCACCATTTTTCGCATTAAAATCAAATCTCATAATACTCTCCTTTTATTCAAATAATTTAATTTTTTTATA
+TTCATAGTTATATATATATAATACATTTCATTATTCTTAAGGTTTTTTTCATTTACTTTATAACGAACTTTTATTAAT
+TCTTGTTCGCTAATACTAATTCCTACAAAAGCGCTACTGACTATTTCCTTAAGTAACTTTATTTGAGAACTAAATCCT
+CCAATTGTTTCTTGATACAATCCGTAAATAATTGGAAAGACATTATTCTTTGGTCCGTCTAAAAATATAGTTTTTATT
+TCATCATTATTTGGTGATGCAATATTTATAAATTCTTTAAAATCCGATATAACTACTATCCATTTTTTTCGTGGTTCT
+ACATTTTTTATAAAACTCACTAATTCATTTTTAAAACTAATAATTTCTTTCTTATCTCCACAGTACAAATAATCTTCA
+TACCCTGTATTTTTTAATATGCCTTTTGTGTCTAAAGTTGCAATTTCATATTCATTTGAAATTATATTTAGCTGTTTC
+TCTAATAAAGTTAAACCATTATCTATATCAACAGGTTTAACTGAAGTGAAAATATTTGTTTGACTTAAGTCGAAACCA
+ACTAGTTCCACATCCTCAAAGTCTAATCCTAATGGTAATTTGTGTTCTTCATGAATGATTTTTTCCAAATCATATGTT
+TCTTGAATATCATCCATTAATACCTTATCTGGCATCATTGGGATATGTTTTGGATAATCTCCTACATAGAATTCTTTC
+ATTTGTGCTACTTCATTTTTAATGCGCTCGTTATATGTTTGTCCTTCTGCTAATTCAAATGGTTGCGCAATTTGGAAC
+TGTGTGAAGTTATCATCATTTATTGCAGCTCTACCTTTAACATCTTTCACACCTTTTTTATAAGAACCAATAATATTT
+GTTAATTCATTATTTTCAAAGAGGTATAGTGCAACTCTTGTTTTAATGTTAGTAAATATAGCTGATTTTATTGCACTT
+GATCTTGATCCTGAAAGAATGATGTATACCCCTAATGCTAAACCTTCACGTGTTACCTTAGACATCATTTCTTCATAT
+TCTTCCATAAATGGTGATTCTTTCACCGTGTCGTAGTTATCGATAATTAAGAAAATATTTGGAATTGAATTTCCAGTT
+TCTTTATTATATTGCTCTATATTAACTACTCTCTCTTGACTTAATAGTCTTTTTCGCTCAGAAATAATATCATGTATC
+TTACGTATCGCCTTCGCAATCTTGTCTTCTTGATCTACTGTAAAATAATCAGCAACATGTGGTATGTCTGTGACTGGC
+ATCAAACCATTAGTTCCGAAATCGAACAAGTACATGTGTGCTTGATCAGGACGATGGTGTCTTGCAACATCGAAAATA
+ATGTTGTGTAAGAACGTTGTTCTACCATATCCTGGACTTCCGATTAACGCGATGTGACCAGCTTTTTTCAATTGTAAT
+ACCATCGGCCCTTGATATTGTTCTTCTGGTACGTCTTTAAGTCCTAATGTTAATTCCACTTCTTTTGCATCATCTGAC
+CATAATTTTCTGAAATCTGTTTCTACTAAATCTTCTTGATATACATTTTCTGGTAATGGTGGTAACCATGGACGCTTA
+ACTTCTTCAATTTCTAATCGTGTTGTAATAGATTCGATATGATCGATAACCGCTTCTAACTCAGTTTGATTTTCTTTC
+GTTTCTTCATCTTCAAGTCCACTCAAGTCTTTGTTGATTGCTTGAAGTTGACCATAGTCATTAATCATGTAAATCGTC
+TTATCTTCAACTTCTAATTTATCGCCTTCGATGTTATATGTTGCTCCACTCCATGCAGATTGGAACAATTCATAAATT
+TCATTATTACCAACTTGTAAATACGCGCGACCTGGTAATGTAATGTCTGCTGCATCTGGTGTTTTTAAAATTTCATTA
+CTGTCTTGTCTATCTTGTACTTTTAATGCCAATTTAAATTTAGAGTTAGACCAAATTTGGTCATCAACAACACCCGAT
+GGTTTTTGTGT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus-tag "POJEAIJC_00001" } ,
+                    location
+                      int {
+                        from 160 ,
+                        to 1356 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      gene {
+                        locus-tag "POJEAIJC_00002" } ,
+                    location
+                      int {
+                        from 1368 ,
+                        to 2135 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      gene {
+                        locus-tag "POJEAIJC_00003" } ,
+                    location
+                      int {
+                        from 2366 ,
+                        to 2758 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      gene {
+                        locus-tag "POJEAIJC_00004" } ,
+                    location
+                      int {
+                        from 2760 ,
+                        to 3149 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      gene {
+                        locus-tag "POJEAIJC_00005" } ,
+                    location
+                      int {
+                        from 3167 ,
+                        to 3541 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      gene {
+                        locus-tag "POJEAIJC_00006" } ,
+                    location
+                      int {
+                        from 3556 ,
+                        to 4029 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      gene {
+                        locus-tag "POJEAIJC_00007" } ,
+                    location
+                      int {
+                        from 4040 ,
+                        to 4453 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      gene {
+                        locus-tag "POJEAIJC_00008" } ,
+                    location
+                      int {
+                        from 4466 ,
+                        to 5728 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      gene {
+                        locus-tag "POJEAIJC_00009" } ,
+                    location
+                      int {
+                        from 5741 ,
+                        to 6031 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      gene {
+                        locus-tag "POJEAIJC_00010" } ,
+                    location
+                      int {
+                        from 6034 ,
+                        to 7113 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 22 ,
+                    data
+                      gene {
+                        locus "essC" ,
+                        locus-tag "POJEAIJC_00011" } ,
+                    location
+                      int {
+                        from 7110 ,
+                        to 9056 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "POJEAIJC_00001" } } ,
+          descr {
+            title "hypothetical protein POJEAIJC_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 398 ,
+            seq-data
+              ncbieaa "MKGIKPNYAELGRQYNCDPRTVKKYYEAGKENELERLKKRQQNKKASKLDPFKEI
+INKKIELGCTAMAIFKYIEKKGYEGKYTILREYCKNKKQNETKKATIRVETNPGIAAQVDWKEDMVMHDKFGRTYQFN
+IFLYVLHYSKMKYITLTWDRKQDTLFECLKDAFEYTEGVPKEIWFDNMRTVVDRPRTQYKKVVFNNLFYQFSKDANFE
+PIACRPYRPQTKGSVESLAKFVEQRLRPYDYEFYDAVELIGLVNDLCHELNHLEISQATEQRPIDVFNYEEKEHLNSF
+NAKLLDTYIENECIRIVSKESMINFRKGKYSVPTKYIGEEVQVIFNNSTDELLIYYDGELIRRHNLSERKFNYIVEDM
+SEILKSDVFKHKDDKEILTYIENSLLLYDEI" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 23 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 397 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "POJEAIJC_00002" } } ,
+          descr {
+            title "IS21 family transposase IS712 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 255 ,
+            seq-data
+              ncbieaa "MNTNHQKLLNNFEILKLKKFKDYYPNYIELLSKNEKSLTEILIDLTEKEIEYQSE
+LKFKRAVNSARFPKIKYLHDFDFMFQPSINQQEILTLKSMHFLEDSINICFLGNSGVGKTHLAISLGIEACKQNIKTR
+FYTFKELIDLLTVSDSKGIINKTLKQLSRIELLIIDEIGYTPITKEQADLFYQLMSLRYEWKSTIITTNIPFSSWGES
+FSNKIVSAAIIDRLVHHSKVFKITGESYRLKDYKTEKSLNIRQS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 24 ,
+                    data
+                      prot {
+                        name {
+                          "IS21 family transposase IS712" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 254 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "POJEAIJC_00003" } } ,
+          descr {
+            title "hypothetical protein POJEAIJC_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 130 ,
+            seq-data
+              ncbieaa "MKYTWWILLTIAGILSLTSVYGFILCLGSFGMLALNVMWLFVYTPHKNSKALESI
+SKPTIILSIIGTYAVFIFMSILFYFVMKARFMEIGIKLYGEPFNMFGIPLFIIGIILFTIGTVFVYKIQQSRLKQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 25 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 129 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "POJEAIJC_00004" } } ,
+          descr {
+            title "hypothetical protein POJEAIJC_00004 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 129 ,
+            seq-data
+              ncbieaa "MEKLIKVTSLIGIIIQSFLTLLFLIFLILSATGIIQPELTTTVNGEQTIQSPETA
+QATFVTIFAILFVVSLASDLLGIIAMKKLFVNNRASGILYIIGAVISANLLTFIAWLISGISVLRYNKIGKEVS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 26 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 128 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "POJEAIJC_00005" } } ,
+          descr {
+            title "hypothetical protein POJEAIJC_00005 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 124 ,
+            seq-data
+              ncbieaa "MKRLIIGVLIIMMSIINYGCGNEQNENKYQSQINKVMKIQQETHKEMVKKSNEVN
+PEFNKDKVNTYVFDDGKLIIISYKLFKDKDQMFYATYEFKNDKIYYKRDINPKTYVKEHQSDYKDIKVK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 27 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 123 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "POJEAIJC_00006" } } ,
+          descr {
+            title "hypothetical protein POJEAIJC_00006 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 157 ,
+            seq-data
+              ncbieaa "MEKIKRINKIFLSFEVIPFAMMILLAFLPVIAGIINNRLQYGRDFGDRVSFYCYI
+SIMVAYAITILLEIIFYFILLKNYQYDQNNIELANRVKVTKVLSILYMIPGLYAIACYFRFIHVRSFRENKKSGQPAY
+HFWEFFIKPNRKPIELKDFFIKNR" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 28 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 156 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "POJEAIJC_00007" } } ,
+          descr {
+            title "hypothetical protein POJEAIJC_00007 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 137 ,
+            seq-data
+              ncbieaa "MSKSSLILEKNYKLQQSAETKTKIAELNDKIERATRIKNKLNDLKKEVKEHRTNS
+KNIFKEYSYWKGENNSKWEEKSESELISGSITNCIKNIDDNIDRLIDKITEMQNEVNSLGSTLSVLENAINSIAAAIE
+KLTN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 29 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 136 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_00007" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "POJEAIJC_00008" } } ,
+          descr {
+            title "hypothetical protein POJEAIJC_00008 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 420 ,
+            seq-data
+              ncbieaa "MPRLVNSELEEYFNKTNDVKTKLNEVLYNHYTQCYFLSKTGSIKGKTADSIKKYV
+ESAHISTISRAINLMDKLEASVKHLKELGEKCDKSSNAKIGLQTLNETKKGVVSKKKEFIDLTSNSPAILSEASEFID
+TVSLGKDNVESDYNESSKKIDRTKEKLKTMDQTGKQSLESLSNDVRGLITQINKLNNEYHDKNGIIVSKINSITKENW
+YKNETNKGEFKKMKADHPVAYAEGDETIGRTQAISKDGHIVGTAEIGKVSGIAYRSDDSMGVKGDAKVAGLDGKVKYE
+NVEGKAGLEVGSVKGSAEISNSHISAIAEAQLIDAEAQLRFGSEDNNLHVKGDAKVLSASASGSLGADGVEAKAEAVG
+ANTGVEGGFALSGLNFDFGASIGAQAGGGVNVGKKGIEVDAKFILGGKIKITW" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 30 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 419 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_00008" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "POJEAIJC_00009" } } ,
+          descr {
+            title "hypothetical protein POJEAIJC_00009 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 96 ,
+            seq-data
+              ncbieaa "MGKEIYLDPIEFQNVLEKFEKGSSEISEVSISSIKDAKNEIILESIVELEKIIDD
+LSKAMKTYSKMIGSDKEAMDKIASTMQRNDKDNANKIANRN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 31 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 95 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_00009" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "POJEAIJC_00010" } } ,
+          descr {
+            title "hypothetical protein POJEAIJC_00010 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 359 ,
+            seq-data
+              ncbieaa "MRFDFNAKNGEISDNNIYTNIIIGTGVGHSKVIFDNGKEINFSNATPIIFAQYLK
+IELKKRNIIVDINNYFNSTVISFAHDKKYRYKDMYIEKYNEIIKVMSEEDLNEASVLEAKELAKKDMNYNFKISEYRA
+TMKFMELFSDYTFSFKKLISDLWIFDQKNLEVFKKYMLNYENCLINISEKIDNKEKLKNFKNKGEKFNYLYIPKFNGH
+NYIVEKARRNSSFIGYLFKEFDNKNKHYDYAVILATGYYLFGDNFEVHKSRKEIGILGREDECINNIKKIENYNVGKF
+EDFKNNIMESIRRLYEKDRKEFYELLSKLNGDVLDLNEIIKYMKTLTVGDVIKVIKSSSFVNFKINFEEV" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 32 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 358 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_00010" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "POJEAIJC_00011" } } ,
+          descr {
+            title "Type VII secretion system protein EssC [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 648 ,
+            seq-data
+              ncbieaa "MALKVQDRQDSNEILKTPDAADITLPGRAYLQVGNNEIYELFQSAWSGATYNIEG
+DKLEVEDKTIYMINDYGQLQAINKDLSGLEDEETKENQTELEAVIDHIESITTRLEIEEVKRPWLPPLPENVYQEDLV
+ETDFRKLWSDDAKEVELTLGLKDVPEEQYQGPMVLQLKKAGHIALIGSPGYGRTTFLHNIIFDVARHHRPDQAHMYLF
+DFGTNGLMPVTDIPHVADYFTVDQEDKIAKAIRKIHDIISERKRLLSQERVVNIEQYNKETGNSIPNIFLIIDNYDTV
+KESPFMEEYEEMMSKVTREGLALGVYIILSGSRSSAIKSAIFTNIKTRVALYLFENNELTNIIGSYKKGVKDVKGRAA
+INDDNFTQFQIAQPFELAEGQTYNERIKNEVAQMKEFYVGDYPKHIPMMPDKVLMDDIQETYDLEKIIHEEHKLPLGL
+DFEDVELVGFDLSQTNIFTSVKPVDIDNGLTLLEKQLNIISNEYEIATLDTKGILKNTGYEDYLYCGDKKEIISFKNE
+LVSFIKNVEPRKKWIVVISDFKEFINIASPNNDEIKTIFLDGPKNNVFPIIYGLYQETIGGFSSQIKLLKEIVSSAFV
+GISISEQELIKVRYKVNEKNLKNNEMYYIYITMNIKKLNYLNKRRVL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 33 ,
+                    data
+                      prot {
+                        name {
+                          "Type VII secretion system protein EssC" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 647 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "POJEAIJC_00011" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "POJEAIJC_00001" } ,
+                location
+                  int {
+                    from 160 ,
+                    to 1356 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "POJEAIJC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "POJEAIJC_00002" } ,
+                location
+                  int {
+                    from 1368 ,
+                    to 2135 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "POJEAIJC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:ISfinder:IS712" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "POJEAIJC_00003" } ,
+                location
+                  int {
+                    from 2366 ,
+                    to 2758 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "POJEAIJC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "POJEAIJC_00004" } ,
+                location
+                  int {
+                    from 2760 ,
+                    to 3149 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "POJEAIJC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "POJEAIJC_00005" } ,
+                location
+                  int {
+                    from 3167 ,
+                    to 3541 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "POJEAIJC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "POJEAIJC_00006" } ,
+                location
+                  int {
+                    from 3556 ,
+                    to 4029 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "POJEAIJC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "POJEAIJC_00007" } ,
+                location
+                  int {
+                    from 4040 ,
+                    to 4453 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "POJEAIJC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "POJEAIJC_00008" } ,
+                location
+                  int {
+                    from 4466 ,
+                    to 5728 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "POJEAIJC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 9 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "POJEAIJC_00009" } ,
+                location
+                  int {
+                    from 5741 ,
+                    to 6031 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "POJEAIJC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 10 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "POJEAIJC_00010" } ,
+                location
+                  int {
+                    from 6034 ,
+                    to 7113 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "POJEAIJC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 11 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "POJEAIJC_00011" } ,
+                location
+                  int {
+                    from 7110 ,
+                    to 9056 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "POJEAIJC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q2G184" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG1674" } } } } } } } } }

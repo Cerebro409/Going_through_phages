@@ -1,0 +1,167 @@
+LOCUS       EPIDIIBF_1              4224 bp    DNA     linear       15-MAY-2020
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..4224
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     gene            719..1069
+                     /locus_tag="EPIDIIBF_00001"
+     CDS             719..1069
+                     /locus_tag="EPIDIIBF_00001"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:EPIDIIBF_00001"
+                     /translation="MKTTTQELKQYMTRLFQLSNNETWECETLEEAAENILPKRFIND
+                     SPLAHLILETYTYYNNELHELSIYPFLMYSNNQLISIGYLDHFDMDFLYLTDTKNTII
+                     DERHLLKEGGNNHE"
+     gene            1062..1154
+                     /locus_tag="EPIDIIBF_00002"
+     CDS             1062..1154
+                     /locus_tag="EPIDIIBF_00002"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:EPIDIIBF_00002"
+                     /translation="MNNWIKVAQISVTVINEVIDIMKEKQNGGK"
+     gene            1156..1467
+                     /locus_tag="EPIDIIBF_00003"
+     CDS             1156..1467
+                     /locus_tag="EPIDIIBF_00003"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:EPIDIIBF_00003"
+                     /translation="MKINRYITRGISEQLSLDLQILLWNMVKDRDNQLNTDYLHIFKL
+                     QEDDNMLSITHEQEQPAYKLEYHYTNYIKNQNALPKKVYVIREDDVDAFYYVMLLPEE
+                     Y"
+     gene            1483..1986
+                     /locus_tag="EPIDIIBF_00004"
+     CDS             1483..1986
+                     /locus_tag="EPIDIIBF_00004"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:EPIDIIBF_00004"
+                     /translation="MNTIKSTIHTEAIFSDDEQHRYLLKKIWDDKKPACTVITMYLHL
+                     DGVLSLDLTTVLILNQLANSEQYGAVYLVNLFSNIKTPENLKHIKEPYDEHTDIHLMK
+                     AISESDTVILAYGAYAKRPVVIDRVEQVMEMLKPHKKKVKKLINPVTNEVMHPLNPKA
+                     RQKWTLK"
+     gene            2000..2224
+                     /locus_tag="EPIDIIBF_00005"
+     CDS             2000..2224
+                     /locus_tag="EPIDIIBF_00005"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:EPIDIIBF_00005"
+                     /translation="MNHDNTIQSNWRTVASCLASQNYISIVKGLVHHFTAIDDEEILD
+                     KIYEEFINDDSITTVLNNDLQTIINHYLSK"
+     gene            complement(2479..3606)
+                     /gene="adhD"
+                     /locus_tag="EPIDIIBF_00006"
+     CDS             complement(2479..3606)
+                     /gene="adhD"
+                     /locus_tag="EPIDIIBF_00006"
+                     /EC_number="1.1.1.1"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:P9WQB9"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Putative alcohol dehydrogenase D"
+                     /protein_id="X:EPIDIIBF_00006"
+                     /db_xref="COG:COG1062"
+                     /translation="MKTRAAVLHEMGAKKPYKESKPLKIEYLELDNPSEHEVLIKIHA
+                     AGLCHSDLSVINGNRPRPLPMALGHEASGEVIKVGKAVTRVSEGDHVVCTFIPSCGKC
+                     IPCKEGRPALCENGAISNEKGEMLEGGMRLSNDEGKVYHHLGISGFAEYSVVSENSIV
+                     KIDKKIPFERAAAFGCAIITGIGAVVNTAQIRSGSNVAVVGLGGIGLNAIIGAKLAGA
+                     NEIIALDINEDKFELAKQFGATATFNSSDKDIDEQIKEYIPGGVEYAFETAGVVPAMK
+                     VAYQITKRGGTTVTTGLPNPKDNFSFPQVTLAAEERTIKGSYVGSCVPDRDIPRFVNL
+                     YNQGRLNIDSLISEVITLDEINEGFDRLSNGEVGRIIMKMH"
+ORIGIN      
+        1 gcatcacagg atatcaatat gaaccttggc atttacgtta tttaggaaaa agaaggcgac
+       61 aaaagtgtac aaatctggtg aaacattaga gggatttgta ggcttaaaat gatcaattta
+      121 aaataatcga aacttcaact accttattat cgacgaagtg tattccagca cttcgtcttt
+      181 atttttaccg caaacattat accttactat ttaataaatc tattttatat ctacatactt
+      241 cctctttctt tttctaaaaa tttttgagaa ttctctttat caatttcaat aacacttatc
+      301 taatgaaaca gtcattgtcg taattttttc ataactacac gaggcttata ttgaaattgc
+      361 taaagaacat cccacgatga ttttttatcg ggaaaggaat gggatttgca gattagaaga
+      421 agcagaagga ttgtgcaagc acaatcccaa aatcccgtta ttctttataa ataaataata
+      481 tatataagga agcagagacc ccaccctatc atcaatactt ataaataatg agttgattgt
+      541 tcgtcaaaat aggcggaatt tcgggatttc cttgtcatac caaggtttgt agcggttttt
+      601 tatatggaat tttctcatat tgtcaacggg atcagtaata aatgacaaat caaatatata
+      661 ttatctcaat gatgtatatg aagtacatca ctatcacact atctagggag gcaatgatat
+      721 gaaaacaact actcaagaac tcaaacaata tatgactcgc ttattccaat tatctaacaa
+      781 tgaaacatgg gaatgtgaaa cactggagga agcggcagaa aatattctac ccaaacgttt
+      841 tattaatgat tccccacttg cacatcttat acttgaaact tatacctact ataataatga
+      901 gctacatgaa ctaagtatct atccatttct aatgtattct aataaccaac tcatcagtat
+      961 tggttatctg gatcattttg atatggactt tctatacctc acagatacta aaaatacgat
+     1021 tatcgatgaa cgtcatttac taaaagaagg agggaataac catgaataat tggatcaaag
+     1081 tggcacaaat atctgttaca gtcattaacg aagtgattga catcatgaaa gaaaagcaaa
+     1141 atggaggaaa atagtatgaa aatcaatcga tacatcacaa gaggcattag tgaacaacta
+     1201 tctctagacc ttcaaatctt actttggaac atggtaaaag atcgagacaa tcaacttaat
+     1261 acagattacc tacacatttt caaactacaa gaagatgata atatgttgtc aattacacat
+     1321 gaacaagaac aacccgcata caaattggaa tatcactata caaactatat aaaaaatcaa
+     1381 aatgcattac ctaagaaagt ctacgtcatc cgagaagatg atgtagacgc tttttattat
+     1441 gtgatgcttt tgccagaaga atactaaagg aagtgacgat atatgaatac aatcaaaagt
+     1501 acgatacaca cagaagcgat atttagcgat gatgaacaac atcgctactt actcaaaaag
+     1561 atatgggatg acaagaaacc ggcttgtact gtgataacga tgtatcttca tttagatggt
+     1621 gtattatcac tcgatcttac tacggttctc atcctcaatc aattagctaa ttctgagcaa
+     1681 tatggcgctg tttatctcgt taatcttttc tctaatatta aaacaccaga gaaccttaaa
+     1741 catatcaaag agccttatga tgagcacaca gatatacact taatgaaagc aattagtgaa
+     1801 agtgacacag tcattcttgc ttatggtgcc tatgcgaagc gaccagttgt tatcgaccgt
+     1861 gtcgaacaag tgatggaaat gttaaaacct cataaaaaga aagtaaaaaa gctcataaat
+     1921 ccagtaacga acgaagttat gcatccactc aaccctaaag cacgtcaaaa atggacacta
+     1981 aagtaaagga gtattatcta tgaaccatga caacactata caatccaatt ggcgaacggt
+     2041 tgctagttgt ttagcatcac aaaattacat ttcaatagta aaaggtctgg tgcatcattt
+     2101 cacagccatc gatgacgagg aaatacttga taaaatctat gaagagttta taaatgatga
+     2161 ctctattaca acggtactta acaatgattt acaaacaatt attaatcatt atctatcaaa
+     2221 atgaaaacta tattctaata aaactagagc atccttcact tttgcggtga aggatgctcc
+     2281 tatatctttt tttatctaaa aaaactatta gtaattagtt ttaaaacatt tatcttctaa
+     2341 tatatagata tgaaatgtaa aaatacaatt agattggcag tcacaatgca aatgtaatat
+     2401 ttgtcagtaa tcttcctact caaattgtta ttcttttcat agaaatcaag aggaggaacg
+     2461 acttgaattc tattatattc aatgcatctt cattataatt ctacctactt caccattaga
+     2521 caaacgatca aatccctcat taatttcatc taaagtgata acctcactga tgagtgaatc
+     2581 aatatttaaa cgtccttggt tgtatagatt aacgaacctt ggtatatctc tgtcaggtac
+     2641 acaacttcct acatatgatc ctttaatggt acgttcttca gccgctaaag taacttgagg
+     2701 gaaagaaaaa ttatctttag gattaggcag tcctgttgtt acagttgtcc cccctcgttt
+     2761 agtaatctga taagcaactt tcatagctgg cactacaccc gctgtttcaa aagcatattc
+     2821 tactccgcca ggaatatatt ctttaatttg ctcatcgata tctttatcgc ttgaattaaa
+     2881 tgttgctgta gccccaaatt gctttgctaa ttcaaattta tcttcgttaa tatctaaagc
+     2941 aataatttca ttggctcccg ctagtttagc tccaataata gcattcaatc caatacctcc
+     3001 taaaccaaca accgctacat tactaccaga acgaatttgg gctgtattca ccacagcacc
+     3061 gatacctgtg ataatagcac aaccaaatgc agctgcacgt tcaaaaggta tttttttatc
+     3121 aattttaact atagagtttt cagagacaac agaatattca gcaaaacctg atatccccaa
+     3181 gtgatgatat acttttcctt catcattaga taaacgcatc cctccctcta acatttcgcc
+     3241 tttttcatta gatattgctc cgttttcaca taatgcagga cgtccttctt tacatgggat
+     3301 acattttcca caactgggaa taaatgtgca taccacatga tctccttcgc taactcttgt
+     3361 aacagctttt ccaactttaa ttacttcacc ggaagcttca tgaccaagtg ccataggtaa
+     3421 aggtctaggt ctgttaccat taattactga caaatcagag tgacataatc cagctgcatg
+     3481 aattttaatt aatacttcgt gttcgctagg attatcaagt tctaagtatt caatttttaa
+     3541 aggtttagat tctttatagg gctttttagc ccccatttca tgtaaaactg ctgctctagt
+     3601 tttcacttcc aacactcctt taatttatat acattaagtc tattcttatc tgttatttta
+     3661 cactttaata ttattattta caaaaaattc tgattattga gattatttta tataatacca
+     3721 atttttaaaa atttattatg taaaatcata atttagaagt gatttggttt tcaagtgaat
+     3781 ttaaggtgtg aagattaaaa aatatattaa agaaatactt gataaaattt atgaagattt
+     3841 tatgaataac gacgctatca caaccttact taacaatgat ttacagacga ttattaatca
+     3901 atatctatca aaataaaaac tatatactga taaaaatagg gcatctttca ctgagtaata
+     3961 aatcagagat attagagaat aataagaaaa tgagaattag tatgtagtga attgttaaaa
+     4021 tagatttatt catagtgaat aatgacttat tcgttattta tatttataat gcaaatatat
+     4081 aagaaaattt tgggagtggg attatgaaac taagagcatt agagtatagt gatttacttt
+     4141 ttgttcatga attaaataat gaatattcta ttatgtctta ttggtttgaa gagccttatg
+     4201 aatccttaac ggaacttcaa catt
+//

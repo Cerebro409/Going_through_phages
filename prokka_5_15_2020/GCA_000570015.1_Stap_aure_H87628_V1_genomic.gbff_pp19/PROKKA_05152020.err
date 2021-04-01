@@ -1,0 +1,82 @@
+Discrepancy Report Results
+
+Summary
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:gene: 21 present
+DISC_FEATURE_COUNT:CDS: 21 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+OVERLAPPING_GENES:4 genes overlap another gene on the same strand.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:22 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::gene: 21 present
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 21 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_1 (length 21951)
+
+DiscRep_ALL:OVERLAPPING_GENES::4 genes overlap another gene on the same strand.
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:Gene	PAJFPAMC_00013	PAJFPAMC_1:11119-11706	PAJFPAMC_00013
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:Gene	PAJFPAMC_00014	PAJFPAMC_1:11696-12283	PAJFPAMC_00014
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:Gene	cca	PAJFPAMC_1:15074-16276	PAJFPAMC_00018
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:Gene	birA	PAJFPAMC_1:16263-17234	PAJFPAMC_00019
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_1 (length 21951)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_1 (length 21951)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_1 (length 21951)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_1 (length 21951)
+
+DiscRep_ALL:MISSING_PROJECT::22 sequences do not include project.
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_1 (length 21951)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00001 (length 204)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00002 (length 332)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00003 (length 90)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00004 (length 190)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00005 (length 241)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00006 (length 314)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00007 (length 149)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00008 (length 66)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00009 (length 388)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00010 (length 354)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00011 (length 432)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00012 (length 414)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00013 (length 195)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00014 (length 195)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00015 (length 232)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00016 (length 105)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00017 (length 380)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00018 (length 400)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00019 (length 323)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00020 (length 897)
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_00021 (length 430)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+GCA_000570015.1_Stap_aure_H87628_V1_genomic.gbff_pp19/PROKKA_05152020:X:PAJFPAMC_1 (length 21951)
+

@@ -1,0 +1,56 @@
+# BLASTN 2.9.0+
+# Query: GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_1
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_1	GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_1	100.000	597	100	597	597	0	0.0	1103
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_1	GCA_000009005.1_ASM900v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_1	100.000	597	100	597	597	0	0.0	1103
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_1	GCA_000160415.1_ASM16041v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_1	99.330	597	100	597	597	4	0.0	1081
+# BLASTN 2.9.0+
+# Query: GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_2
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_2	GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_2	100.000	390	100	390	390	0	0.0	721
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_2	GCA_000009005.1_ASM900v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_2	100.000	390	100	390	390	0	0.0	721
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_2	GCA_000160415.1_ASM16041v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_2	99.744	390	100	390	390	1	0.0	715
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_2	GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_3	100.000	390	9	1731	34	0	5.39e-11	63.9
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_2	GCA_000160415.1_ASM16041v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_3	100.000	390	9	1731	34	0	5.39e-11	63.9
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_2	GCA_000009005.1_ASM900v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_3	100.000	390	9	1731	34	0	5.39e-11	63.9
+# BLASTN 2.9.0+
+# Query: GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_3
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_3	GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_3	100.000	1731	100	1731	1731	0	0.0	3197
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_3	GCA_000009005.1_ASM900v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_3	100.000	1731	100	1731	1731	0	0.0	3197
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_3	GCA_000160415.1_ASM16041v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_3	99.133	1731	100	1731	1731	15	0.0	3114
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_3	GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_2	100.000	1731	2	390	34	0	2.49e-10	63.9
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_3	GCA_000160415.1_ASM16041v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_2	100.000	1731	2	390	34	0	2.49e-10	63.9
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_3	GCA_000009005.1_ASM900v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_2	100.000	1731	2	390	34	0	2.49e-10	63.9
+# BLASTN 2.9.0+
+# Query: GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_4
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_4	GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_4	100.000	615	100	615	615	0	0.0	1136
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_4	GCA_000160415.1_ASM16041v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_4	100.000	615	100	615	615	0	0.0	1136
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_4	GCA_000009005.1_ASM900v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_4	100.000	615	100	615	615	0	0.0	1136
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_4	GCA_000160415.1_ASM16041v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_5	100.000	615	17	339	106	0	8.21e-51	196
+# BLASTN 2.9.0+
+# Query: GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_5
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_5	GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_5	100.000	729	100	729	729	0	0.0	1347
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_5	GCA_000009005.1_ASM900v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_5	100.000	729	100	729	729	0	0.0	1347
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_5	GCA_000160415.1_ASM16041v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_6	99.726	729	100	729	729	2	0.0	1336
+# BLASTN 2.9.0+
+# Query: GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_6
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_6	GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_6	100.000	585	100	585	585	0	0.0	1081
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_6	GCA_000009005.1_ASM900v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_6	100.000	585	100	1467	585	0	0.0	1081
+GCA_002121705.1_ASM212170v1_genomic.gbff_pp4.nucleotide.seq.txt.fa_6	GCA_000160415.1_ASM16041v1_genomic.gbff_pp7.nucleotide.seq.txt.fa_7	98.803	585	100	1467	585	7	0.0	1042
+# BLAST processed 6 queries

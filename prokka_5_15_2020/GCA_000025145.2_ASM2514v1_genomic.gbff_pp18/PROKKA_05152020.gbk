@@ -1,0 +1,153 @@
+LOCUS       GDAEFEPF_1              3417 bp    DNA     linear       15-MAY-2020
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..3417
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     gene            76..696
+                     /gene="hly"
+                     /locus_tag="GDAEFEPF_00001"
+     CDS             76..696
+                     /gene="hly"
+                     /locus_tag="GDAEFEPF_00001"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:P09616"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Alpha-hemolysin"
+                     /protein_id="X:GDAEFEPF_00001"
+                     /translation="MQLPDNEVAQISDYYPRNSIDTKEYMSTLTYGFNGNVTGDDSGK
+                     IGGLIGANVSIGHTLKYVQPDFKTILESPTDKKVGWKVIFNNMVNQNWGPYDRDSWNP
+                     VYGNQLFMKTRNGSMKAADNFLDPNKASSLLSSGFSPDFATVITMDRKATKQQSNIDV
+                     IYERVRDDYQLHWTSTNWKGTNTKDKWTDRSSERYKIDWEKEEMTN"
+     gene            1150..1383
+                     /locus_tag="GDAEFEPF_00002"
+     CDS             1150..1383
+                     /locus_tag="GDAEFEPF_00002"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:GDAEFEPF_00002"
+                     /translation="MVFKDWKVNVVYTGKHEVVTNENNLFVIDEDYDVAIAINYIDNK
+                     LKVSHVNYGSEFTIDSSNKVLELMIHNPNIDEN"
+     gene            2000..2185
+                     /locus_tag="GDAEFEPF_00003"
+     CDS             2000..2185
+                     /locus_tag="GDAEFEPF_00003"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:GDAEFEPF_00003"
+                     /translation="MNKHINKKTTKHLEDYKKVQQRNSEETNRGCLKSVAMLIVLFLF
+                     IIFGIVACSTHVNFFFQ"
+     gene            complement(2126..2347)
+                     /locus_tag="GDAEFEPF_00004"
+     CDS             complement(2126..2347)
+                     /locus_tag="GDAEFEPF_00004"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:GDAEFEPF_00004"
+                     /translation="MSNEYTIIGETNTNIIVRNVMHKIALYNLKNIYNAPIDKIKCCK
+                     KRSEYYSISILLEEKVNVCRTCHNTKYNE"
+     gene            complement(2438..2788)
+                     /gene="scn"
+                     /locus_tag="GDAEFEPF_00005"
+     CDS             complement(2438..2788)
+                     /gene="scn"
+                     /locus_tag="GDAEFEPF_00005"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:Q2FWV6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Staphylococcal complement inhibitor"
+                     /protein_id="X:GDAEFEPF_00005"
+                     /translation="MKIKKYIVAGTLAVLLSTTAVSTLNGNKAEASSYDNYLTQSKYH
+                     DKKIAEELKSLLRQSNVYDLAAGSLNRYYKRTIMMNEYRAKAALKKNDFKSMAEAKVG
+                     LENIYKEIDEIINR"
+     gene            complement(2940..3317)
+                     /gene="fib"
+                     /locus_tag="GDAEFEPF_00006"
+     CDS             complement(2940..3317)
+                     /gene="fib"
+                     /locus_tag="GDAEFEPF_00006"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:P0C6P2"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Fibrinogen-binding protein"
+                     /protein_id="X:GDAEFEPF_00006"
+                     /translation="MSINHNIVEYNDGTFKYQSRPKFNSTPKYIKFRHDYNIVEYNDG
+                     TFGYGPRPHFNKPAAKTDATIKKEQKLIQAQNLVREFEKTHTVSAHRKAQKAVNLVSF
+                     EYNVKKMILQERIDEVLKQGLVR"
+ORIGIN      
+        1 ggtcagtata gagtttatag cgaagaaggc gctaataaaa gtggtttagc ctggccttca
+       61 gcctttaagg tacagttgca actacctgat aatgaagtag cacaaatttc tgattactat
+      121 cctagaaatt caattgatac taaagaatat atgagtacat taacttatgg attcaacggt
+      181 aatgtgactg gtgatgattc tggaaaaatt ggcggtttga ttggtgcaaa tgtttcaatt
+      241 ggtcatacac tcaaatatgt tcaaccagat ttcaaaacaa ttttagaaag tccaactgat
+      301 aaaaaagtag gttggaaagt tatatttaac aatatggtga atcaaaattg gggaccatac
+      361 gacagagatt cttggaaccc agtatacggc aatcaacttt tcatgaaaac aagaaacggt
+      421 tcaatgaaag cagcagataa cttccttgat cctaacaaag caagttctct attatcttca
+      481 gggttttcac cagacttcgc tacagttatt actatggata ggaaagcaac caaacaacaa
+      541 tcaaatatag atgtaatata cgaacgagtt cgtgatgact atcaattaca ttggacttca
+      601 acaaattgga aaggtactaa tactaaagat aaatggacgg atcgttcttc agaaagatat
+      661 aaaatcgatt gggaaaaaga agaaatgaca aattaatggt catgcacact caaatattca
+      721 aattttaaca ttagccgata acatcagaaa tgatgtgtgt cggctatttt agttgcagta
+      781 taaaattaaa catcgatgaa tagtaatata tatattatgc ttttcaatat atattcatgc
+      841 ttataaacac gatataagat ttaatttttc agtttcaaac atttttaatt catattgtca
+      901 aaccctttat ttaaaagttt tgaaattgtt caaaacttat cgaacacatt atgtgttaat
+      961 atatttgcag aattatttta aaatcgtttt aaaactatac tgaaataaga agataaaaag
+     1021 tataataagt acatataatt gaaaataact tctagaaatc tatttatctc taatctagat
+     1081 attgtaagaa gttgtatgaa taagttaaac ttaaattgaa tcagtttaaa tgttcaagga
+     1141 ggatgacaaa tggtttttaa agattggaaa gttaatgttg tttacactgg gaaacatgaa
+     1201 gttgttacaa atgaaaataa tttatttgtc atagatgaag attatgatgt cgcaatcgca
+     1261 atcaattata tagacaataa attaaaggtc agtcatgtta actatggatc tgaatttaca
+     1321 attgactcat ctaacaaagt acttgaattg atgattcata atccaaatat tgacgagaat
+     1381 taaatattaa aaaacattta gaaatataaa ggcatactat atatagtctt ttaaacgaaa
+     1441 aacaaacggt aatcaaagat tcagataatc attacactta aaaatgcacg atttccaagc
+     1501 atttaaaata taacagctaa ggtggtgacc aaaaattaac attgtgtata acatcattgt
+     1561 atatatagca tgcatgatta acttcggact aattatagta ccgctgttaa ctacgacaga
+     1621 cgcagatttt gtatggacat cttcgtcatt aatatatatg gttcttttaa cactgcttat
+     1681 cttaattgtt tatattaaaa ctaaagatag tttacagtta acaatattta tacttagtgt
+     1741 tgcattaata attctatact gcgcaccttt attattcatt tatgtgttct agtgtttcat
+     1801 taatatttta atgcgtcagt ttaaaaacta tcaattttaa aaataagcga aacatgttat
+     1861 catcaaatta acttatttac agttaatttt gcttaaattt aaaataacac tcttctcaac
+     1921 tttagcttta tatctttatt tcaaggtatg ttttcaacta ttttaatgca atttacattt
+     1981 agattaagga gtaaacatca tgaataaaca tataaataaa aagaccacaa agcatcttga
+     2041 agattataaa aaggttcaac aaagaaattc ggaagaaaca aatagaggtt gtttaaaaag
+     2101 tgtcgccatg cttatcgtct tatttttatt cattatattt ggtattgtgg catgttctac
+     2161 acacgttaac tttttcttcc aataatatgc tgattgagta atattcacta cgtttcttac
+     2221 agcatttgat tttatctatg ggagcattat aaatattttt tagattgtac aaagcaattt
+     2281 tgtgcataac atttctaact attatatttg tattagtctc ccctattatt gtatattcat
+     2341 tgctcataca taaatattaa attgtagaat ttttaactat acaaattaaa aaacaggcga
+     2401 agacaatgat atttattgtc tcaacctgtt ttctttatta tctatttata atttcatcaa
+     2461 tttctttgta aatgttttct aatccaactt tagcttcagc cattgatttg aaatcatttt
+     2521 tctttagtgc tgcttttgct ctatattcat tcatcataat cgtacgtttg taatatcgat
+     2581 ttaagctacc tgcagccaag tcatatacgt tcgattgtct aagtagtgat ttcaactctt
+     2641 cagcaatttt tttatcgtga tatttacttt gagttaaata attgtcataa ctacttgctt
+     2701 ctgctttgtt cccgtttaac gttgatactg ctgttgttga taatagtact gctaatgttc
+     2761 ctgctactat atatttttta attttcattg taaattctcc tttaaaaatt gatacttaat
+     2821 gattatatag tcaattttag gaaagttaca ttaacctact attaaatagc atagtctttt
+     2881 tattaataga aattaatatt agattaaatt attttgaact tataataatg acagaagtat
+     2941 tatctcacta atccttgctt taatacttca tcaattcgct cttgcaatat cattttctta
+     3001 acattgtatt caaatgatac taagttgact gccttttgtg cttttctatg tgcgctcaca
+     3061 gtatgggtct tttcaaattc tctcacaaga ttttgagctt gaatcaattt ttgttctttt
+     3121 tttatagttg catcagtttt cgctgctggt ttattaaaat gcggacgtgg tccatatcca
+     3181 aatgtaccgt cattatattc cacaatgtta taatcatgtc taaacttaat atatttaggt
+     3241 gttgagttaa attttggtct agattgatat ttaaaagtac catcattgta ctctacgata
+     3301 ttgtgattaa tactcactgg tttcttttct cttggaccgt atgtcaatag cggtttaaaa
+     3361 atgctgtttt atggcggttt gaaaatgtcg ttttttagcg gtttaagatt gtcgtat
+//

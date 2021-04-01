@@ -1,0 +1,39 @@
+# BLASTN 2.9.0+
+# Query: CEGCFJMI_00001 Bifunctional protein PyrR
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CEGCFJMI_00001	DGPDLLBB_00090	100.000	528	100	528	528	0	0.0	976
+CEGCFJMI_00001	CEGCFJMI_00001	100.000	528	100	528	528	0	0.0	976
+# BLASTN 2.9.0+
+# Query: CEGCFJMI_00002 Ribosomal large subunit pseudouridine synthase D
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CEGCFJMI_00002	DGPDLLBB_00091	100.000	918	100	918	918	0	0.0	1696
+CEGCFJMI_00002	CEGCFJMI_00002	100.000	918	100	918	918	0	0.0	1696
+# BLASTN 2.9.0+
+# Query: CEGCFJMI_00003 Lipoprotein signal peptidase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CEGCFJMI_00003	DGPDLLBB_00092	100.000	492	100	492	492	0	0.0	909
+CEGCFJMI_00003	CEGCFJMI_00003	100.000	492	100	492	492	0	0.0	909
+# BLASTN 2.9.0+
+# Query: CEGCFJMI_00004 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+CEGCFJMI_00004	CEGCFJMI_00004	100.000	186	100	186	186	0	7.68e-96	344
+CEGCFJMI_00004	EFEAKEDL_00052	98.378	186	99	312	185	3	2.78e-90	326
+CEGCFJMI_00004	DGPDLLBB_00093	100.000	186	94	174	174	0	3.60e-89	322
+CEGCFJMI_00004	DGPDLLBB_00001	96.216	186	99	345	185	7	1.30e-83	303
+CEGCFJMI_00004	FIMMPJNN_00001	96.216	186	99	345	185	7	1.30e-83	303
+# BLASTN 2.9.0+
+# Query: CEGCFJMI_00005 Catechol-2,3-dioxygenase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CEGCFJMI_00005	DGPDLLBB_00094	100.000	798	100	798	798	0	0.0	1474
+CEGCFJMI_00005	CEGCFJMI_00005	100.000	798	100	798	798	0	0.0	1474
+# BLAST processed 5 queries

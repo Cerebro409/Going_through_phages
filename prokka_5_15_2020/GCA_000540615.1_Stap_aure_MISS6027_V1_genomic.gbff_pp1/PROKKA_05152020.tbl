@@ -1,0 +1,78 @@
+>Feature gnl|X|GGDNMJNA_1
+53	682	gene
+			gene	upp
+			locus_tag	GGDNMJNA_00001
+53	682	CDS
+			EC_number	2.4.2.9
+			gene	upp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67396
+			locus_tag	GGDNMJNA_00001
+			product	Uracil phosphoribosyltransferase
+			protein_id	gnl|X|GGDNMJNA_00001
+706	1833	gene
+			gene	mnaA
+			locus_tag	GGDNMJNA_00002
+706	1833	CDS
+			EC_number	5.1.3.14
+			db_xref	COG:COG0381
+			gene	mnaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39131
+			locus_tag	GGDNMJNA_00002
+			product	UDP-N-acetylglucosamine 2-epimerase
+			protein_id	gnl|X|GGDNMJNA_00002
+1967	2353	gene
+			locus_tag	GGDNMJNA_00003
+1967	2353	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGDNMJNA_00003
+			product	hypothetical protein
+			protein_id	gnl|X|GGDNMJNA_00003
+2374	3102	gene
+			gene	atpB
+			locus_tag	GGDNMJNA_00004
+2374	3102	CDS
+			gene	atpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09218
+			locus_tag	GGDNMJNA_00004
+			product	ATP synthase subunit a
+			protein_id	gnl|X|GGDNMJNA_00004
+3146	3358	gene
+			gene	atpE
+			locus_tag	GGDNMJNA_00005
+3146	3358	CDS
+			gene	atpE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00845
+			locus_tag	GGDNMJNA_00005
+			product	ATP synthase subunit c
+			protein_id	gnl|X|GGDNMJNA_00005
+3556	4077	gene
+			gene	atpF
+			locus_tag	GGDNMJNA_00006
+3556	4077	CDS
+			gene	atpF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A4E7
+			locus_tag	GGDNMJNA_00006
+			product	ATP synthase subunit b
+			protein_id	gnl|X|GGDNMJNA_00006
+4077	4616	gene
+			gene	atpH
+			locus_tag	GGDNMJNA_00007
+4077	4616	CDS
+			gene	atpH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99109
+			locus_tag	GGDNMJNA_00007
+			product	ATP synthase subunit delta
+			protein_id	gnl|X|GGDNMJNA_00007
+5089	4760	gene
+			locus_tag	GGDNMJNA_00008
+5089	4760	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GGDNMJNA_00008
+			product	hypothetical protein
+			protein_id	gnl|X|GGDNMJNA_00008

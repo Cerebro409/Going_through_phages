@@ -1,0 +1,25 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EGKGNLGI_00001	gene	1002	argF			
+EGKGNLGI_00001	CDS	1002	argF	2.1.3.3		Ornithine carbamoyltransferase
+EGKGNLGI_00002	gene	726				
+EGKGNLGI_00002	CDS	726				Superantigen-like protein 13
+EGKGNLGI_00003	gene	726				
+EGKGNLGI_00003	CDS	726				Superantigen-like protein 13
+EGKGNLGI_00004	gene	747				
+EGKGNLGI_00004	CDS	747				Superantigen-like protein 13
+EGKGNLGI_00005	gene	198				
+EGKGNLGI_00005	CDS	198				hypothetical protein
+EGKGNLGI_00006	gene	198				
+EGKGNLGI_00006	CDS	198				hypothetical protein
+EGKGNLGI_00007	gene	960	hly			
+EGKGNLGI_00007	CDS	960	hly			Alpha-hemolysin
+EGKGNLGI_00008	gene	234				
+EGKGNLGI_00008	CDS	234				hypothetical protein
+EGKGNLGI_00009	gene	186				
+EGKGNLGI_00009	CDS	186				hypothetical protein
+EGKGNLGI_00010	gene	222				
+EGKGNLGI_00010	CDS	222				hypothetical protein
+EGKGNLGI_00011	gene	351	scn			
+EGKGNLGI_00011	CDS	351	scn			Staphylococcal complement inhibitor
+EGKGNLGI_00012	gene	408	fib			
+EGKGNLGI_00012	CDS	408	fib			Fibrinogen-binding protein

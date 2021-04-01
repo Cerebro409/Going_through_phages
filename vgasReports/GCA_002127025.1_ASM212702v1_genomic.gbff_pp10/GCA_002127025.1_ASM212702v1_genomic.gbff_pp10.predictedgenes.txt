@@ -1,0 +1,42 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1          627         1247            -          621      0.40469
+
+     2         2000         3004            +         1005      0.44149
+
+     3         3628         4935            -         1308      0.39691
+
+     4         5214         5489            +          276      0.07551
+
+     5         5461         6552            -         1092      0.34996
+
+     6         6649         6939            +          291      0.31481
+
+     7         6939         8726            +         1788      0.50000
+
+     8         8960        10309            +         1350      0.34723
+
+     9        10310        11959            +         1650      0.40150
+     (bit_score:213.001;e-value:5.19932e-62;identity:31.8%;gi|725950572|ref|YP_009103095.1| site-specific integrase [Enterococcus phage EFC-1])
+     (bit_score:206.838;e-value:1.67136e-59;identity:28.8%;gi|1070097551|ref|YP_009279472.1| putative integrase [Lactococcus phage 28201])
+     (bit_score:196.823;e-value:6.81899e-56;identity:26.9%;gi|985757806|ref|YP_009223181.1| hypothetical protein BM5_31 [Bacillus phage BM5])
+
+    10        12367        12831            +          465      0.27725
+
+    11        12918        13229            +          312      0.21165
+
+    12        13241        13750            +          510      0.37131
+
+    13        14063        14281            -          219      0.16611
+

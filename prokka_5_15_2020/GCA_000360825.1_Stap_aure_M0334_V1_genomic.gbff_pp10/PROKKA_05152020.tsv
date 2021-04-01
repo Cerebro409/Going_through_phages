@@ -1,0 +1,5 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GBJONDLN_00001	gene	675	scdA			
+GBJONDLN_00001	CDS	675	scdA		COG2846	Iron-sulfur cluster repair protein ScdA
+GBJONDLN_00002	gene	1722	tarS			
+GBJONDLN_00002	CDS	1722	tarS	2.4.1.355		Poly(ribitol-phosphate) beta-N-acetylglucosaminyltransferase TarS

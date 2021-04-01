@@ -1,0 +1,515 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "ELOFKCAL_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 5064 ,
+            seq-data
+              iupacna "TATATGAATAAAATTTAAACTGTAAACCTTTACGATTTATTTATAAAGGTAGAAA
+GGGTTTTGTTATGTGGTTAGTCATTATGATTATACATAACAAGGCCCGTTTTTTATGTTGTAGTAAATTACTTGAAAA
+ATTTTATAGTTTTTTTGGTAACACGTATTAAAAAGAGAGGAATATTCTTTATCAAATGAAACTAAACTAAAAGAAGGG
+GTTGATAGAATGAAGAATATTATTTCAATTATTTTAGGGATTTTAATGTTCTTAAAATCAATGGAATTATTATATGGT
+GCTATATTTTTAGATAAACCACTTAATCCTATAACAAAAATTATTTTTATACTGACTCTCATTTATATTTTTTATGTA
+TTAGTAAAAGAATTGATTATATTTTTGAAGTCAAAGTATAACGAAAGCGCTTAACATATGTATATTTTTAATATCATA
+ATTTTTTTAAACGGACTGATTAACTTTATTAATAATTAACAGTTCGTTCTTTTGTATTAAGAAATGTAGTCAGTATAT
+TATTTGCTAAAGTTGCGATACGATTATATTAAAACGGCTAATCATTTTTAATTAATGATTATATGATGCAACTGTTTA
+GAAATTCATGATACTTTTCTACAGACGAATATATTATAATTAATTTTAGTTCGTTTAATATTAAGATAATTCTGACAT
+TTAAAATGAGATGTCATCCATTTTCTTAATTAAGCTTGAAAACAAACATTTATGAATCCACAATGAATGTGATAAGAT
+TAACAACATATTATAATGTTATTGCGGAAGTATGAAAGGAGCGAGTGTGTATGAGATATCTAACTTCAGGAGAATCAC
+ATGGACCTCAATTAACAGTTATTGTCGAAGGTATACCAGCAAATTTAGAAATTAAAGTTGAAGATATTAATAAAGAAA
+TGTTCAAGCGTCAAGGTGGTTATGGTCGTGGCCGACGCATGCAAATTGAGAAAGATACAGTAGAGATTGTTTCGGGTG
+TGAGAAATGGTTATACATTAGGTAGCCCTATTACAATGGTTGTTACTAATGATGATTTTACACATTGGCGAAAAATTA
+TGGGTGCTGCGCCAATAAGCGACGAAGAACGAGAAAATATGAAACGTACAATTACGAAGCCAAGACCGGGACATGCAG
+ATTTAGTTGGCGGTATGAAATATAATCATCGTGACTTACGAAATGTATTAGAACGTTCATCTGCCAGAGAAACAGCAG
+CACGTGTAGCTGTCGGTGCATTATGCAAAGTTTTATTAGAACAATTAGATATCGAAATATACAGTCGTGTTGTTGAGA
+TAGGTGGCATTAAAGATAAAGATTTTTATGATTCAGAAACATTTAAAGCAAACCTTGATCGAAATGACGTCCGTGTAA
+TTGATGATGGCATCGCACAAGCAATGCGCGATAAAATTGATGAAGCGAAAAACGATGGTGATTCAATAGGGGGCGTAG
+TTCAAGTTGTAGTTGAAAATATGCCTGTTGGTGTAGGTAGTTATGTACATTATGATCGTAAATTAGATGGAAGAATAG
+CACAGGGTGTCGTTAGTATTAATGCATTTAAAGGTGTAAGTTTTGGAGAAGGATTTAAAGCAGCTGAAAAGCCTGGTA
+GCGAAATTCAAGACGAAATTCTCTACAATACTGAATTGGGCTATTATCGTGGGTCAAATCACTTAGGTGGTTTAGAAG
+GCGGTATGTCAAATGGAATGCCAATTATCGTTAATGGTGTAATGAAACCTATTCCTACGTTATATAAACCATTAAATT
+CAGTTGATATAAATACTAAAGAAGACTTTAAGGCAACAATTGAACGTTCTGATAGTTGTGCTGTTCCTGCAGCAAGTA
+TCGTCTGCGAACATGTCGTAGCATTTGAAATTGCGAAAGCATTATTGGAAGAATTCCAATCAAATCATATTGAGCAAC
+TTAAACAACAAATTATTGAGCGCAGACAATTAAATATTGAGTTTTAACAACAAGAACAATTGAGGTGTGATCATGAAA
+TTACAAACAACCTATCCTTCAAACAATTATCCAATATTTGTTGAACATGGTGCAATTGACCATATTAGCACGTATATT
+GATCAGTTTGATCAAAGTTTTATATTAATTGACGAGCATGTAAATCAATATTTTGCTGATAAATTTAATGATATTTTA
+TCTTTTGGAAATGTACATAAAGTTATTATTCCAGCTGGTGAAAAGACGAAAACATTTGAGCAATATCAAGAAACATTA
+GAATACATTTTGTCACATCATGTAACGCGTAATACAGCGATTATAGCTGTTGGTGGTGGTGCGACAGGAGATTTTGCA
+GGATTTATTGCGGCGACACTTTTACGAGGTGTTCACTTTATACAAGTGCCAACGACTATACTAGCGCATGATTCTAGC
+GTTGGCGGTAAAGTGGGTATTAACTCAAAGCAAGGTAAAAACCTTATCGGTGCATTTTATCGTCCAGATGCTGTAATT
+TATGACTTAGACTTTTTAAATACTTTGCCATTTGATGAAATATTGAGTGGCTATGCGGAAGTATATAAGCATGCCTTA
+TTAAATGGTAAATCTGCTACACATGACATCGAGCAACATTTTAAAGATCGAGCGTCATTACAATCATTAAATGGAATT
+GATAAATATATAACTAAAGGCATTGAAACAAAATTAAATATCGTTGTTGCTGATGAAAAAGAGCAAGGTGTTCGAAAG
+TATTTAAATTTAGGACATACATTTGGTCATGCCGTGGAGTATAACCACAAAATTGCACACGGTCATGCCGTAATGATA
+GGCATAATATATCAATTTATTGTTGCGAATATATTGTTCAATTCTAATCACGATATCCAACATTATATTAATTATTTA
+ACGAAATTAGGTTATCCTTTAGAAACAATAACCGACATAGATTTCGAAACGATATATCAATACATGCTAAGTGATAAA
+AAGAATGATAAGCAAGGTGTACAAATGGTCTTGATTAAACATTTTGGAGATATCGTTGTACAACATGTTGATCAACTA
+ACATTACAACATGCATGTGAACAATTAAAAACATATTTTAAGTAGGTGAATGAAATGGTAAATGAACAAATCATTGAT
+ATTTCAGGTCCGTTAAAGGGCGAAATAGAAGTGCCGGGCGATAAATCAATGACACACCGTGCAATCATGTTGGCGTCG
+CTAGCTGAAGGTGTATCTACTATATATAAGCCACTACTTGGCGAAGATTGTCGTCGTACGATGGACATTTTCCGACTG
+TTAGGTGTAGAAATCAAAGAAGATGATGAAAAATTAGTTGTGACTTCCCCAGGATATCAATCTTTTAACACGCCACAT
+CAAGTATTGTATACAGGTAATTCTGGTACGACAACACGATTATTGGCAGGTTTGTTAAGTGGTTTAGGTATTGAAAGT
+GTCTTGTCTGGAGATGTTTCCATAGGTAAAAGGCCGATGGATCGTGTTTTAAGACCGTTAAAAAGTATGAATGCAAAT
+ATTGAAGGAATTGAAGACAATTACACCCCATTAATCATTAAACCGTCTGTAATTAAAGGTATTAATTACAAGATGGAA
+GTGGCAAGTGCACAAGTGAAAAGTGCCATCTTATTCGCAAGTCTATTTTCTAAGGAACCGACCATCATTAAAGAATTA
+GATGTAAGTCGAAATCATACTGAGACGATGTTCAGACATTTTAATATTCCAATTGAAGCAGAAGGGTTATCAATTACT
+ACAACCCCTGAAGCAATTCGATACATTAAACCTGCAGATTTTCATGTTCCTGGCGATATTTCATCTGCAGCGTTCTTT
+ATTGTTGCAGCACTTATCACACCAGGAAGTGATGTAACAATTCATAATGTTGGAATCAATCCAACACGTTCAGGTATT
+ATTGATATTGTTGAAAAAATGGGCGGTAATATTCAACTTTTCAATCAAACAACTGGTGCTGAACCTACTGCTTCTATT
+CGTATACAATACACACCAATGCTTCAACCAATAACAATCGAAGGAGAATTAGTGCCAAAAGCAATTGATGAACTGCCT
+GTAATAGCATTACTTTGTACACAAGCAGTTGGCACGAGTACAATTAAAGATGCCGAGGAATTAAAAGTAAAAGAAACA
+AATAGAATTGATACAACGGCTGATATGTTAAACTTGTTAGGGTTTGAATTACAACCAACTAATGATGGATTGATTATT
+CATCCGTCAGAATTTAAAACAAATGCAACAGTTGATAGTTTAACTGATCATCGAATAGGAATGATGCTTGCAGTTGCT
+TCTCTACTTTCAAGCGAGCCAGTCAAAATCAAACAATTTGATGCCGTAAATGTATCATTTCCAGGATTTTTACCAAAA
+CTAAAGCTTTTAGAAAATGAGGGATAATATAAAATGGAAGATATCTATAAATTAATAGACGATATCAATCTACAAAAA
+CTAGAAAATTTAGACTCTCGTGTTAATGAAGCAATAACTACTGACAACGATGACGCATTATTTATTCTAGGAGAGACA
+CTTTACAATTTTGGATTAATGCCACAAGGTTTGGAAGTATTCCGCGTGTTATATCACAAATATCCAGACGAAAGTGAA
+TTGCTGATTTATTTTATTGAAGGTTTAATGTCTGAAAATCAAACTGACGAAGCGTTAGAATATTTAAGTTATGTTGAA
+CCATCACCTGAAAAGTTGATGTTAGAAGCAGATTTATATCAACAAATTAATATGATGGAAGTTGCTATTGATAAATTA
+CAAGAAGCACTTGAACTAGAGCCAAATGATCCAATAATCCATTTTGCATTGGCTGAAATGTTATATTATGATGGTCAA
+TATTTACGTGCTACCTCTGAATACGAAACCGTTTTAGAAACTGGTGAATATCAAGTTAATGGTGTAAACTTATTCTCT
+CGTATGGCAGATTGTAGTTTACAAAGTGGTAACTATAGTGATGCGATTCGCTTATACGATGAAATTAATGAAGATGAA
+ATGACTTCAGAAGATTATCTCAAAAAAGCCATTTCTTACGATAAAAATGACATCACTCAAGAAGCAATTAAAATAATG
+ACTACATTACTTTCTAA" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 5 ,
+                    data
+                      gene {
+                        locus-tag "ELOFKCAL_00001" } ,
+                    location
+                      int {
+                        from 220 ,
+                        to 420 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ELOFKCAL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 6 ,
+                    data
+                      gene {
+                        locus "aroC" ,
+                        locus-tag "ELOFKCAL_00002" } ,
+                    location
+                      int {
+                        from 807 ,
+                        to 1973 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ELOFKCAL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 7 ,
+                    data
+                      gene {
+                        locus "aroB" ,
+                        locus-tag "ELOFKCAL_00003" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 3063 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ELOFKCAL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 8 ,
+                    data
+                      gene {
+                        locus "aroA" ,
+                        locus-tag "ELOFKCAL_00004" } ,
+                    location
+                      int {
+                        from 3073 ,
+                        to 4371 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ELOFKCAL_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "ELOFKCAL_00001" } } ,
+          descr {
+            title "hypothetical protein ELOFKCAL_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 66 ,
+            seq-data
+              ncbieaa "MKNIISIILGILMFLKSMELLYGAIFLDKPLNPITKIIFILTLIYIFYVLVKELI
+IFLKSKYNESA" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 65 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ELOFKCAL_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "ELOFKCAL_00002" } } ,
+          descr {
+            title "Chorismate synthase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 388 ,
+            seq-data
+              ncbieaa "MRYLTSGESHGPQLTVIVEGIPANLEIKVEDINKEMFKRQGGYGRGRRMQIEKDT
+VEIVSGVRNGYTLGSPITMVVTNDDFTHWRKIMGAAPISDEERENMKRTITKPRPGHADLVGGMKYNHRDLRNVLERS
+SARETAARVAVGALCKVLLEQLDIEIYSRVVEIGGIKDKDFYDSETFKANLDRNDVRVIDDGIAQAMRDKIDEAKNDG
+DSIGGVVQVVVENMPVGVGSYVHYDRKLDGRIAQGVVSINAFKGVSFGEGFKAAEKPGSEIQDEILYNTELGYYRGSN
+HLGGLEGGMSNGMPIIVNGVMKPIPTLYKPLNSVDINTKEDFKATIERSDSCAVPAASIVCEHVVAFEIAKALLEEFQ
+SNHIEQLKQQIIERRQLNIEF" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      prot {
+                        name {
+                          "Chorismate synthase" } ,
+                        ec {
+                          "4.2.3.5" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 387 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ELOFKCAL_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "ELOFKCAL_00003" } } ,
+          descr {
+            title "3-dehydroquinate synthase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 354 ,
+            seq-data
+              ncbieaa "MKLQTTYPSNNYPIFVEHGAIDHISTYIDQFDQSFILIDEHVNQYFADKFNDILS
+FGNVHKVIIPAGEKTKTFEQYQETLEYILSHHVTRNTAIIAVGGGATGDFAGFIAATLLRGVHFIQVPTTILAHDSSV
+GGKVGINSKQGKNLIGAFYRPDAVIYDLDFLNTLPFDEILSGYAEVYKHALLNGKSATHDIEQHFKDRASLQSLNGID
+KYITKGIETKLNIVVADEKEQGVRKYLNLGHTFGHAVEYNHKIAHGHAVMIGIIYQFIVANILFNSNHDIQHYINYLT
+KLGYPLETITDIDFETIYQYMLSDKKNDKQGVQMVLIKHFGDIVVQHVDQLTLQHACEQLKTYFK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      prot {
+                        name {
+                          "3-dehydroquinate synthase" } ,
+                        ec {
+                          "4.2.3.4" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 353 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ELOFKCAL_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "ELOFKCAL_00004" } } ,
+          descr {
+            title "3-phosphoshikimate 1-carboxyvinyltransferase [Genus
+ species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 432 ,
+            seq-data
+              ncbieaa "MVNEQIIDISGPLKGEIEVPGDKSMTHRAIMLASLAEGVSTIYKPLLGEDCRRTM
+DIFRLLGVEIKEDDEKLVVTSPGYQSFNTPHQVLYTGNSGTTTRLLAGLLSGLGIESVLSGDVSIGKRPMDRVLRPLK
+SMNANIEGIEDNYTPLIIKPSVIKGINYKMEVASAQVKSAILFASLFSKEPTIIKELDVSRNHTETMFRHFNIPIEAE
+GLSITTTPEAIRYIKPADFHVPGDISSAAFFIVAALITPGSDVTIHNVGINPTRSGIIDIVEKMGGNIQLFNQTTGAE
+PTASIRIQYTPMLQPITIEGELVPKAIDELPVIALLCTQAVGTSTIKDAEELKVKETNRIDTTADMLNLLGFELQPTN
+DGLIIHPSEFKTNATVDSLTDHRIGMMLAVASLLSSEPVKIKQFDAVNVSFPGFLPKLKLLENEG" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      prot {
+                        name {
+                          "3-phosphoshikimate 1-carboxyvinyltransferase" } ,
+                        ec {
+                          "2.5.1.19" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 431 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "ELOFKCAL_00004" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "ELOFKCAL_00001" } ,
+                location
+                  int {
+                    from 220 ,
+                    to 420 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "ELOFKCAL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "ELOFKCAL_00002" } ,
+                location
+                  int {
+                    from 807 ,
+                    to 1973 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "ELOFKCAL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q59803" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG0082" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "ELOFKCAL_00003" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 3063 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "ELOFKCAL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q6GGU4" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "ELOFKCAL_00004" } ,
+                location
+                  int {
+                    from 3073 ,
+                    to 4371 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "ELOFKCAL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P63585" } } } } } } } } }

@@ -1,0 +1,33 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GHDFECEE_00001	gene	948				
+GHDFECEE_00001	CDS	948				hypothetical protein
+GHDFECEE_00002	gene	228				
+GHDFECEE_00002	CDS	228				hypothetical protein
+GHDFECEE_00003	gene	1557				
+GHDFECEE_00003	CDS	1557				hypothetical protein
+GHDFECEE_00004	gene	936	arcC1			
+GHDFECEE_00004	CDS	936	arcC1	2.7.2.2		Carbamate kinase 1
+GHDFECEE_00005	gene	1002	argF			
+GHDFECEE_00005	CDS	1002	argF	2.1.3.3		Ornithine carbamoyltransferase
+GHDFECEE_00006	gene	726				
+GHDFECEE_00006	CDS	726				Superantigen-like protein 13
+GHDFECEE_00007	gene	726				
+GHDFECEE_00007	CDS	726				Superantigen-like protein 13
+GHDFECEE_00008	gene	747				
+GHDFECEE_00008	CDS	747				Superantigen-like protein 13
+GHDFECEE_00009	gene	198				
+GHDFECEE_00009	CDS	198				hypothetical protein
+GHDFECEE_00010	gene	198				
+GHDFECEE_00010	CDS	198				hypothetical protein
+GHDFECEE_00011	gene	960	hly			
+GHDFECEE_00011	CDS	960	hly			Alpha-hemolysin
+GHDFECEE_00012	gene	234				
+GHDFECEE_00012	CDS	234				hypothetical protein
+GHDFECEE_00013	gene	186				
+GHDFECEE_00013	CDS	186				hypothetical protein
+GHDFECEE_00014	gene	222				
+GHDFECEE_00014	CDS	222				hypothetical protein
+GHDFECEE_00015	gene	351	scn			
+GHDFECEE_00015	CDS	351	scn			Staphylococcal complement inhibitor
+GHDFECEE_00016	gene	408	fib			
+GHDFECEE_00016	CDS	408	fib			Fibrinogen-binding protein

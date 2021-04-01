@@ -1,0 +1,1665 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 13529 ,
+            seq-data
+              iupacna "AAATTAAATAATTACTTTTCCACATATTCCAATATTTAGGTTGCAAAGCATACCT
+CAAATATCATTAATTTTGAGATTTAAATGTCAATTATGTGTCTATCAATCCAATATACATACTCTAATAACGTAATAG
+TACACACTCTTCTTATTAATTGGCCATAGCTATCATGATATAATTAGTGAAGAAAATCACATAAGAAAGGTTGTAAAT
+CATGAGACTTCAAAAAGCACCTTTAGTAACGTCAGGACTAGTCTTAGGATTATTAGGCCTGGGTAATCTATTAAAAGA
+CTTATCTCTTACTTTAAACGCTGTTTGCGGAATCTTTGCTTTCTTGATTTGGATTCACCTTTTATGTACTATGCTCAA
+ATATTCTAATAATGTGAAAGAACAATTAAACAGTCCTCTAGTTTCATCAGTGTTCACAACATTTTTCATGTCTGGCTT
+TTTAGGTACTACTTATTTAAATACATTTTTTAGTAACATAACTTTTATCAATAGCTTAATAACGCCTATTTGGATTTT
+ATGCCTTGTGGGAATTATGACGCATATGATTATTTTTTCAATAAAATATTTAAAAGATTTTTCACTTGAAAATGTTTA
+TCCTTCGTGGACTGTACTTTTTATTGGTATTGCTATCGCAGGATTGACGGCACCCGTTAGCGGATATTTTTTCATAGG
+TCAATTAACAGTAATATATGGCTTTGTAGCTACTTGTATTGTCTTACCTATTGTTTTCAAGCGATTAAAAGCATTTCC
+ATTGCAGACGTCAATCAAACCGAACACATCGACAATTTGTGCACCATTTTCTTTAGTCGCTGCAGCATATGTTATAGC
+ATTTCCTAAGGCGAATGCTTTTATCGTAATTATATTTTTAATATTAGCTCAAATATTTTATTTTTATATCATTATACA
+ATTGCCTAAATTACTAAAAGAACCTTTTTCGCCCGTATTTTCAGCTTTCACATTCCCTTTAGTAATCTCAGCAACTGC
+TTTAAAGAACAGTTTGCCTGTACTTATGTTTCCAGACATTTGGAAAGGTCTTTTGTTTATCGAAGTGTTATTAGCTAC
+TGTAATAGTACTTAGAGTCTTTATAGGATATCTTCACTTCTTTTTAAAAAAGGAAAATCAAGATAAATTTCTTCGTAA
+TGCGTCTCAGTAACACTATTACCAAGAATTAACACGCATATTTAATAACTAAAAAAGAGGCAGGTAATCTTGCCTCTT
+TTTAGTGTATATCAATGCCTCTTTGATTTAATATGATCATATCAATGATACCTTCTGACTAAAGCTGTAGTAACTATA
+CTAGAACGTCTAGTTCATAAACACGTTTCACTCTAACCTTTATTTAAATAATATATAAGCAGCAAACGCCAAGGCTAA
+TATACCAATAAAATAATTAATAAAGATTTTTATTTTAGTCTTTGTAATAGTTGACAAATTTTATCACCTCTAAATATC
+GATAAATTAAACGCCGTTATTTTTCCTTTGCCTATCTTTTATCATTTCAGAAGGTACTCCGAAAATAAACATCAGAAT
+AAATAATATAATTGGCAAATGTGGTATGTTTTCTAGCAAATACCATCTTAACTTCCAATCAAACACCATATTTGCATA
+CGCCACAAAATATTTACTAAATAATAATACTACGCATATTCCAGTTAGTGTATCTAAAACCTTTGTCAAATGTGTCAT
+TTATAGCCATCCTTTATATATGCTATTTTCACAACCATATGTGTCATGTGTTACAAAAACTGTTTACAGCAAATACAT
+ATTTACCACGATAAATATAATATACCATAGATCTAACATTACATTAAAAACAAATTTTAAAAATATCATTATTAAATA
+GAGCATTGTATCAATTACTTACTAGTGTTATGATTACCGTCATTATTTTCTTAATCAAAAATAATAATGCACCTCGCT
+TAGTTTAGTATTTCTACAAACCTACGAGATGCATAAAACCCAATTAGTATTTTTATAATATAGCATTTCAAATTATGA
+ATAAATTAGTACTTGCGTAATTAGTACTCCGCCACCGAAAATCAATACAAAAGCAACTACCGGCCATACAAATCGGAA
+CCAATGTGAATATCGCATGTTTAACATTTGTAGTGTGGCCATAACAAGTCCAGTCGGCGCTAAGAATAACATCGCATA
+TTGACCAAATTGATATGTCGTAACGATGACGAATCTTGGTATACCTACTGTATCAGCTAGTGGTGCAAAGATAGGCAT
+TGATAATACCGCTAATCCAGAAGATGATGGCACGATAAAACCTAAACAGAAGAAAATAAATAGTAATACGATGATAAA
+TAATGGTCCACTCATATGTTGAACTAAAGATGATGAAAAGTGTAAGATTGTATCTGAAATCATACCTTCATTCAACAC
+TAAATTAATACCTCGAGCTAAGCCAATAATTAAAGATACACCTACTAAACTTGATGCGCCATTGACAAATGCATCTAC
+AGTTCCTTTTTCTCCCAATCCAGATTTACCTGTCCCAGCAATAAACATTATTATAATTGCAAATATTAAAAATGCTGA
+AGCCATAACTGGGAACCACCAACCTTGCGTCATAACTCCCCATACCATAATTGGAAATGGTAGTACAAATAATGTAAG
+GATTATCTTCTTACGCAAAGTAAAATGGGCACTATCGTCATCTTTTAATACAGACCATTGCTGTTCAAAAGCATCTTT
+GTCTTCATAAGAATATGACGCTTTAGGATCTTTTTTAATTTTTTTACAGTACCAATATAAATAACTAATAACAAAAAT
+CGCACCGACAATACAAGCGCCTATTCTCCAATACAAGCCATCCGTAAAAGTTGTACCAGCGGCATTAGAGGCAATTAC
+AACCGAGAACGGGTTAATAGTTGAAAATGTACTACCGACAGAGCTGGCAAGGAATATGGCACCAACTGAAACGATAGA
+ATCGTATCCTAACGCTATAAATATAGGGACTAAAATCGGATAGAATGCTACAGCTTCTTCTTCAATACCACATAATGT
+CCCGCCGATAATCATTAGTATTGATACAAACACAATTAGCATAAATTCATGCCCTTTTGTTTTCTTCGTTAAAGCTAA
+CAATCCCGATTCAAAAGAACCACTGGCTTGAACTACGCCAATAAGTCCCCCTAGTACAAGAATGAATACCATGATATC
+GACCGCTTCTATCGTACCTTCAACCATGCTACTTGTTATTTGTTCTGGTCCAGCTGGATGTTGCTTTAATCTTTCATA
+AGTATTCGGAATTGATACCGGCTTATTAATTGCACCTGATTTAAATTGTTCAATCTTAATTTTAACCCCCATTTTGTC
+TAGTTCCTGTTGCGTACCCGGAACCTTTTTCACTTGGTTATGAGGGTTAACTATCTTTAGTTCTTGGGATGAAGGTTC
+GTAAGAAAGTTTAGAATATGCACCAGCAGGAATAACCCATGTTGCTATAACTGCAACAACCGTTAAAATGAATAAAAT
+CATAAATGCACCTGGCATTTTTAATTTAAATCGTTTTTTCTTTCCACTTTCATTAATTGTATTTTCCACGGTTTCATC
+TCCTTCGACATTTAACCTAGCATTTCTACCTTAAAGATTTTATAAATATAAATTAAGAAAGTGCACCCCGCATCAAAA
+TAGAGGCATTATTTTCAGGGGTGCACATAAATAATAAAAATCATGCATTTGACATATAGTAATTGAAAAGCGTTTCAA
+TTCAATTACTTTTTAATCACAGTACCTACTTTACCCTCTAAGGCAGCATCTAATTCATTTAATGATGTTATAAGCACA
+CTTCCTTTTGGATTGTTTTCAATAAATGATATGGCTGCTTCAATTTTTGGTAACATACTTCCTTTTGCAAATTGATTT
+TCGTCTATATATCGTTTTAATTCATCAACATTTGTTGTTTCCAAAGGCTGTTGGTTTTCAGTGTTAAAATTAATATAT
+ACATAATCAATTGCTGTTAAAATAATCAATTGATCGCATTGAATATTAGCACCCAACAACGCACTTGTTTTATCTTTG
+TCTATAACTGCATCAATACCTTTAAAACCATCATGTTGCTCTCTAATTACTGGTATCCCTCCACCACCAGCAGCAATA
+ACGAGTGTATCATTTTTAATAAGTGTTTTAATACTCTCTAATTCAATAATAGAGATGGGTTGTGGTGAAGGAACAACA
+CGTCTATATCCTCTTCCAGCATCTTCAACAAATATAAATCCTTTTTCTTTTTGAATTTGTTCAGCTTCTTCTTTGTTG
+TAAAATAACCCAATTGGTTTTGAAGGATTGTTAAATGCCGGATCATTTTCATTAACTTCAACTTGTGTCACTAGTGTT
+ACCACTTGTTTATCCATTCCAATAGAATGCAATTCGTTTTGTAAGCTTTCTTGTAATTGATAGCCTATGTAAGCTTGA
+CTCATTGCGCCACATTCAGCAAATGGAAATGCCGGACCTTGGTTGTGTTCTGCAGCATAGTTAAGTCCCAAATTAATG
+CTTCCAACCTGTGGCCCATTACCATGACTAATAACAATCTCATGTCCTTTTGTTATTAATCCTACTAATGATTTCGCA
+GTATTTTTAACAAGCTCGAGTTGTTCTTGAGGTGATTTTCCTAAAGCATTACCACCTAATGCTACTACTATTTTCGCC
+ATCATATTCACTTCCTTATATCATTTAAAATTCACCCAATGTAGCAACCATGACTGCTTTGATTGTATGCATTCTGTT
+CTCAGCTTCTTGGAATACAACTGAAGCTTTACTTTCGAATACTTCATCTGTAACTTCCATTTCTCGAATTCCATATTT
+TTCAAAAATTTGTTGACCAATTTTCGTATCAGCATTATGGAAAGATGGTAAGCAATGCTCAAAAATAACATTTGGATT
+ACCAGTTTTATCCATCATTTCTTTATTTACTTGATATGGTTTCAATAATTCAAGTCGTTCTTTCCATACTTCATCAGG
+TTCACCCATTGATACCCAAACATCAGTGTAAATTACATCCGAACCTTTTACACCTTGGTCAATATCATCTGTGATTAA
+TATGTTGCCACCATTTTCAGCGGCAATATTTTTACAGCGATTTAATAATTCATCTGTTGGATTTAATTCTTTTGGACA
+AACTAAATGGAAGTTCATACCCATAATGGCAGCACCTTGCATTAATGCATTTGCAACGTTATTACGACCATCTCCAAC
+ATATGTAAAGTTAATATCTGCATAATCTTTTTTTAAGACTTCTTTTGCTGTTAAGAAATCAGCAAGAACTTGAGTAGG
+ATGATCTTCATCAGTTAAACCATTCCACACTGGTACGCCTGAATATTCAGCTAAAGTTTCTACTGTTCTTTGTGAAAA
+ACCACGGTATTCAATGCCATCATACATTCCACCAAGCACACGTGCAGTATCTTTAGTTGTTTCTTTTTTACCCATTTG
+TGATCCAGTTGGGCCTAAATAAGTTACATTTGCACCTTGATCATGTGCTGCAACTTCAAATGCACATCGTGTTCTTGT
+AGAATCTTTTTCAAATAACAGTGCAATATTTTTATTTTTTAACATAGGCTTTTCAGTGCCAATATATTTAGCACGTTT
+TAAATCCTCGGAGAGTGTTAATAAGAATTCTACCTCTTGTCGTGAAAAGTCTAATAAAGTTAAAAAACTTCTGTTTCG
+TAAATTTTTCATTAATAACAACTCCTTTTATATTAGTTACACCTAAATTGTAAGCGCATACAAAATAAACACAACCTA
+CTATTAAAATTTGTAATATTTAATCAATAATTAAATGAACATTTTATTAATATTAAATTTAAGTAGTAGGAAATTATT
+AAAATAAGTACTACATTTAAAGTATAACTAATTTTCAAGTAGTTAGAAAATTCAATTATCAAACAATTTAATGCAATT
+GATTAGAGAATAATTTTAACGTGTCGTTTTTAATATATAACTCTCGCCTACTTTATTAGGTACTGTTTCTGTCCAAAA
+ATTAAAAATGATAAGTTTTGCTTAAATAACACTACTAACTGTTTAAGTTTATTTAACATAGTTTTAGCTTTTATTTAA
+TTCCGAATCGGTGTAAAAGCTTATATACTTTGGGTAATTCACGCAAAGGAGATTTTCATATGAAAAAGAACATCATGA
+ATAAATTAGTTTTATCAACAGCATTGTTACTTTTAGGAACCACATCAACACAACTTCCTAAAACGCCAATCAGTTTTT
+CATCTGAAGCAAAAGCCTATAATATCAGTGAAAACGAGACTAATATCAATGAACTAATCAAATATTACACTCAGCCGC
+ATTTTTCATTATCTGGAAAATGGCTATGGCAAAAGCCCAATGGTAGCATTCATGCAACATTGCAAACGTGGGTTTGGT
+ATAGTCATATTCAAGTATTTGGTGCTGAAAGTTGGGGAAACATTAATCAGTTAAGAGATAAATACGTTGATATATTCG
+GAACTAAAGATGAGGATACAGTTGAAGGTTACTGGACTTATGATGAAACATTTACAGGTGGTGTAACACCTGCAGCTA
+CATCATCCGATAAGTCTTATAAATTATTTTTAAAATATAGCGATAAACAGCAGACTATCATCGGTGGTCTCGAATTTT
+ACAAAGGAAATAAACCAGTATTAACTTTAAAAGAACTAGATTTCCGTATCCGGCAAACATTAATAAATAATAAAAAGC
+TATATAACGGAGAATTTAATAAAGGTCAAATTAAGATTACGGGTGGCGGTAATAATTATACGATTGATTTAAGTAAGA
+AGTTAAAATTAACTGACACAAACCGTTATGTTAAAAATCCTCGACATGCAGAAATTGAAGTCATTCTTGAAAAATCTA
+ATTAACCTTAATTGCGGAGTAAATACTAAAATTATTTAAGTAACCCTTATTTATAAAAAATACAAGGAGCATTTTAAA
+TGAAAAAAAACATTACGAAAAAAATTATTTTATCATCAGCGTTGTTACTATTAGGCGCTGTATCAACACAACTTCCTA
+ACACACCAATCAGTTCTAAATCTGAAGCTAAAGCTTATTATATTAATCAAGAGGAAACAAATGTAAGTGAGTTAATCA
+AGTATTACACTCAGCAACATTTAACCTTTTCAAATAAATGGTTATGGCAAAAAGATAATGGCACAATTCATGCAACGT
+TACTTCAGATATCATGGTATAGCCATATTCAAGTATTTGGCCCTGAAAGTTGGGGTAATATTAATCAATTAAGAGATA
+AATATGTAGATATTTTCGGCATAAAAGACCAAGAAACTATTGACTCATATGCACTATCTCAAGAAACATTTACTGGTG
+GCGTTACACCTGCAGCAAAACCTAACGATAAACACTATAAATTGAATGTAACATATAAAGATAAAGATGAAACATTTA
+TTGGTGGATATCCATTTTATACAGGTAATAAGCCAGTTTTAACTTTAAAAGAAGTTGATTTCCGTATCCGACAAACAT
+TAATTAAAAACAAAAAATTATATCAAGATAAATATAATAAAGGTCAACTCACGATTACTGGTGACGATAATAATTACA
+CAATTGATTTAAGTAAGAGATTACCGTCAACTGACGCAAATAAATATGTTAAAAATCCTCAAAATGCCAAAATTGAAG
+TTACCCTCGAAAAATCTAACTAGTATCGAAATCGGAGTCAACAAATAATAATCTCATTCATTATATTGACGCCGCTCA
+CTTTTATATTTGATATTCCTCGCAATGATAAATCCACAGAAAGGAGATGTTCAAATGAAAAAGAACATCACGAACAAA
+ATAATATTAACAGCAACATTGTTAATATTAGGTACTTCTTCAGCTCAACTTCCTAACACACCAATCGGTTTTTCATCT
+GAAGCTAAAGCTTATCATATTGGCCAAGACGAAACGAACATCAATGAATTAATCAAATATTACACACAAAAGCCTCTC
+ACATTTTCAAATAGATGGTTATACCAATATGATGACGGCAACATTTATGTTGAATTTAAGCGTTATTCTTGGTCTGCA
+CATATACGCTTATGGGGTGCTGAAAGTTGGGGCAACATTAATCAATTAAGAGACCGCTATGTAGACGTGTTTGGTTTA
+AAAGACAAAGACACTAGACGATTATGGTGGGTATATACTGATACATTTACAGGTGGTGTTACACCTGCAGCATCGTCT
+TCTGATAAGCCTTATAATATTTATGTACAATATAAAGATAAACTACAAACATTTATCGGCGCACATAAGATATATCAA
+GGTAACAAACCAGTTTTAACGTTAAAAGAAATTGATTTCCGAGTACGTGAATCATTAATAAAAAATAAAATACTATAT
+AATGAAAATCGCAATAAAGGTAATATTCATATTACCGGTGGTGGTAATAACTTTACAATTGATTTAAGTAAAAGATTA
+CATTCTGATCTTGCAAATGTTTATGTTAAAAATCCTCAAAAAATAACAGTCGAAGTCCTCATTGATTAAATAAGGTAG
+TATGATTTATATCGAAAATACTAAGGATAAACAATAATTGAGTAATACTACAAAATGTATCAATAATATTTACACAAT
+ATTTAAATTAGTACACAGAATATTAAATGGGATTTGGAGTCTAATAGAAATGCAAAATCATTCTCTGTGTTGGGGGCC
+GCTCCAACTTGCATTGTCTGTAGAATTTCTTTTTGAAATTCTCTGTGTTGGGGCCCATCCCCAACTTGCACATTATTG
+TAAGCTGACTTTTCGTCAGCTTCTGTGTTGGGGCCCCACCCCATAATTGAAAAATGTTTGTTACATGGGCATTTTTGT
+TTGGTCAATATTTGTCTATATAATATTGTAGAGCCTAAGACGTGGTTACGTTTTAGGCTCTTAATTCAATTATTACTG
+CTCTTTTAATGTAGCATAATAACTATATAGTTTTATAATCGTTCTAAATCTAGCATCTTCTATTTTCGTTTTACCATT
+CCTCAAATCTTGCACGGTCTGATACGGCACCCCTGAATTTTTCGATATTTTGTAGCCTGATTCAGACTCAAACAAAAA
+TTGAATAGCGTTTATTATTTCATTCAACTCTTTCATTTTTAATCCTCTTTCTTCTATTAACAATATACAATGTTGTTA
+TTAAAACAGTCAGTGTATGGATGATTTCATTTCCTAAAAATATATTCAGCCATATAATAATTAGAAATGCAATATAAA
+ATAGTTTCATTATAATCCCCTATCATTTTTATATTTATCACTTTCCATTTAGTTTCAACATTAAAAGCTAACCTAGGT
+TTAAGATTATCTTATAACGCCTATAACTAGAAGTCTGCATTTTATCTTGTATATAACATTTTATAATGTTACACTACA
+CCTTTTTATATTTTTCACAAGAAGTTTTCACGAATTATTATATTTAAACTCACCCATATTCCAACACAATTAATTTTT
+CTCTATTCATAATTGATTGATCATACTAGTTAATATACAGTTAACTTTTATTTAATAGTTAATTAATTGATTTAATTC
+TAAGATATTTGTATTTTTATATTGTAATCGATTACATTTTAAAGTTAAATAAATACCTAGTTTTAAAGAAATTAATCA
+ATAAAATTAGCTTTGTCTTTTCCTTGGTTCATAAAGAGTTCATTCAACTTTGACTAAGCCTCGAAATTGAAATGCTTC
+CTTTCAAATATTAATTAAAAGTTAAAAACATATTCTTAAAATATTCACTCATCATCACTCAATCATTTAACAGTTGCT
+ACATTAAATATACTAATATAAACGATGATAAATATTTGATATGTCTCAACTGCATTATTCTAAATTGACATATTGATT
+ATTGTTTCCTCAAATCGTTTTAAAAAATAGAAGGATGATGAAAATGAAAACACGTATAGTCAGCTCAGTAACAACAAC
+ACTATTGCTAGGTTCCATATTAATGAATCCTGTCGCTAATGCCGCAGATTCTGATATTAATATTAAAACCGGTACTAC
+AGATATAGGAAGCAATACTATAGTAAAAACAGGTGATTTAGTCACTTATGATAAAGAAAATGGCATGCACAAAAAAGT
+ATTTTATAGTTTTATCGATGATAAAAATCACAATAAAAAAATATTAGTCATCAGAACGAAAGGTACCATTGCTGGTCA
+GTATAGAGTTTATAGCGAAGAAGGCGCTAATAAAAGTGGTTTAGCCTGGCCTTCAGCCTTTAAGGTACAGTTGCAACT
+ACCTGATAATGAAGTAGCACAAATTTCTGATTACTATCCTAGAAATTCAATTGATACTAAAGAATATATGAGTACATT
+AACTTATGGATTCAACGGTAATGTGACTGGTGATGATTCTGGAAAAATTGGCGGTTTGATTGGTGCAAATGTTTCAAT
+TGGTCATACACTCAAATATGTTCAACCAGATTTCAAAACAATTTTAGAAAGTCCAACTGATAAAAAAGTAGGTTGGAA
+AGTTATATTTAACAATATGGTGAATCAAAATTGGGGACCATACGACAGAGATTCTTGGAACCCAGTATACGGCAATCA
+ACTTTTCATGAAAACAAGAAACGGTTCAATGAAAGCAGCAGATAACTTCCTTGATCCTAACAAAGCAAGTTCTCTATT
+ATCTTCAGGGTTTTCACCAGACTTCGCTACAGTTATTACTATGGATAGGAAAGCAACCAAACAACAATCAAATATAGA
+TGTAATATACGAACGAGTTCGTGATGACTATCAATTACATTGGACTTCAACAAATTGGAAAGGTACTAATACTAAAGA
+TAAATGGACGGATCGTTCTTCAGAAAGATATAAAATCGATTGGGAAAAAGAAGAAATGACAAATTAATGGTCATGCAC
+ACTCAAATATTCAAATTTTAACATTAGCCGATAACATCAGAAATGATGTGTGTCGGCTATTTTAGTTGCAGTATAAAA
+TTAAACATCGATGAATAGTAATATATATATTATGCTTTTCAATATATATTCATGCTTATAAACACGATATAAGATTTA
+ATTTTTCAGTTTCAAACATTTTTAATTCATATTGTCAAACCCTTTATTTAAAAGTTTTGAAATTGTTCAAAACTTATC
+GAACACATTATGTGTTAATATATTTGCAGAATTATTTTAAAATCGTTTTAAAACTATACTGAAATAAGAAGATAAAAA
+GTATAATAAGTACATATAATTGAAAATAACTTCTAGAAATCTATTTATCTCTAATCTAGATATTGTAAGAAGTTGTAT
+GAATAAGTTAAACTTAAATTGAATCAGTTTAAATGTTCAAGGAGGATGACAAATGGTTTTTAAAGATTGGAAAGTTAA
+TGTTGTTTACACTGGGAAACATGAAGTTGTTACAAATGAAAATAATTTATTTGTCATAGATGAAGATTATGATGTCGC
+AATCGCAATCAATTATATAGACAATAAATTAAAGGTCAGTCATGTTAACTATGGATCTGAATTTACAATTGACTCATC
+TAACAAAGTACTTGAATTGATGATTCATAATCCAAATATTGACGAGAATTAAATATTAAAAAACATTTAGAAATATAA
+AGGCATACTATATATAGTCTTTTAAACGAAAAACAAACGGTAATCAAAGATTCAGATAATCATTACACTTAAAAATGC
+ACGATTTCCAAGCATTTAAAATATAACAGCTAAGGTGGTGACCAAAAATTAACATTGTGTATAACATCATTGTATATA
+TAGCATGCATGATTAACTTCGGACTAATTATAGTACCGCTGTTAACTACGACAGACGCAGATTTTGTATGGACATCTT
+CGTCATTAATATATATGGTTCTTTTAACACTGCTTATCTTAATTGTTTATATTAAAACTAAAGATAGTTTACAGTTAA
+CAATATTTATACTTAGTGTTGCATTAATAATTCTATACTGCGCACCTTTATTATTCATTTATGTGTTCTAGTGTTTCA
+TTAATATTTTAATGCGTCAGTTTAAAAACTATCAATTTTAAAAATAAGCGAAACATGTTATCATCAAATTAACTTATT
+TACAGTTAATTTTGCTTAAATTTAAAATAACACTCTTCTCAACTTTAGCTTTATATCTTTATTTCAAGGTATGTTTTC
+AACTATTTTAATGCAATTTACATTTAGATTAAGGAGTAAACATCATGAATAAACATATAAATAAAAAGACCACAAAGC
+ATCTTGAAGATTATAAAAAGGTTCAACAAAGAAATTCGGAAGAAACAAATAGAGGTTGTTTAAAAAGTGTCGCCATGC
+TTATCGTCTTATTTTTATTCATTATATTTGGTATTGTGGCATGTTCTACACACGTTAACTTTTTCTTCCAATAATATG
+CTGATTGAGTAATATTCACTACGTTTCTTACAGCATTTGATTTTATCTATGGGAGCATTATAAATATTTTTTAGATTG
+TACAAAGCAATTTTGTGCATAACATTTCTAACTATTATATTTGTATTAGTCTCCCCTATTATTGTATATTCATTGCTC
+ATACATAAATATTAAATTGTAGAATTTTTAACTATACAAATTAAAAAACAGGCGAAGACAATGATATTTATTGTCTCA
+ACCTGTTTTCTTTATTATCTATTTATAATTTCATCAATTTCTTTGTAAATGTTTTCTAATCCAACTTTAGCTTCAGCC
+ATTGATTTGAAATCATTTTTCTTTAGTGCTGCTTTTGCTCTATATTCATTCATCATAATCGTACGTTTGTAATATCGA
+TTTAAGCTACCTGCAGCCAAGTCATATACGTTCGATTGTCTAAGTAGTGATTTCAACTCTTCAGCAATTTTTTTATCG
+TGATATTTACTTTGAGTTAAATAATTGTCATAACTACTTGCTTCTGCTTTGTTCCCGTTTAACGTTGATACTGCTGTT
+GTTGATAATAGTACTGCTAATGTTCCTGCTACTATATATTTTTTAATTTTCATTGTAAATTCTCCTTTAAAAATTGAT
+ACTTAATGATTATATAGTCAATTTTAGGAAAGTTACATTAACCTACTATTAAATAGCATAGTCTTTTTATTAATAGAA
+ATTAATATTAGATTAAATTATTTTGAACTTATAATAATGACAGAAGTATTATCTCACTAATCCTTGCTTTAATACTTC
+ATCAATTCGCTCTTGCAATATCATTTTCTTAACATTGTATTCAAATGATACTAAGTTGACTGCCTTTTGTGCTTTTCT
+ATGTGCGCTCACAGTATGGGTCTTTTCAAATTCTCTCACAAGATTTTGAGCTTGAATCAATTTTTGTTCTTTTTTTAT
+AGTTGCATCAGTTTTCGCTGCTGGTTTATTAAAATGCGGACGTGGTCCATATCCAAATGTACCGTCATTATATTCCAC
+AATGTTATAATCATGTCTAAACTTAATATATTTAGGTGTTGAGTTAAATTTTGGTCTAGATTGATATTTAAAAGTACC
+ATCATTGTACTCTACGATATTGTGATTAATACTCACTGGTTTCTTTTCTCTTGGACCGTATGTCAATAGCGGTTTAAA
+AATGCTGTTTTATGGCGGTTTGAAAATGTCGTTTTTTAGCGGTTTAAGATTGTCGTAT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      gene {
+                        locus-tag "GHDFECEE_00001" } ,
+                    location
+                      int {
+                        from 212 ,
+                        to 1159 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      gene {
+                        locus-tag "GHDFECEE_00002" } ,
+                    location
+                      int {
+                        from 1465 ,
+                        to 1692 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      gene {
+                        locus-tag "GHDFECEE_00003" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 3555 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      gene {
+                        locus "arcC1" ,
+                        locus-tag "GHDFECEE_00004" } ,
+                    location
+                      int {
+                        from 3726 ,
+                        to 4661 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      gene {
+                        locus "argF" ,
+                        locus-tag "GHDFECEE_00005" } ,
+                    location
+                      int {
+                        from 4681 ,
+                        to 5682 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 22 ,
+                    data
+                      gene {
+                        locus-tag "GHDFECEE_00006" } ,
+                    location
+                      int {
+                        from 6120 ,
+                        to 6845 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 23 ,
+                    data
+                      gene {
+                        locus-tag "GHDFECEE_00007" } ,
+                    location
+                      int {
+                        from 6918 ,
+                        to 7643 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 24 ,
+                    data
+                      gene {
+                        locus-tag "GHDFECEE_00008" } ,
+                    location
+                      int {
+                        from 7723 ,
+                        to 8469 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 25 ,
+                    data
+                      gene {
+                        locus-tag "GHDFECEE_00009" } ,
+                    location
+                      int {
+                        from 8559 ,
+                        to 8756 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 26 ,
+                    data
+                      gene {
+                        locus-tag "GHDFECEE_00010" } ,
+                    location
+                      int {
+                        from 8863 ,
+                        to 9060 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 27 ,
+                    data
+                      gene {
+                        locus "hly" ,
+                        locus-tag "GHDFECEE_00011" } ,
+                    location
+                      int {
+                        from 9848 ,
+                        to 10807 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 28 ,
+                    data
+                      gene {
+                        locus-tag "GHDFECEE_00012" } ,
+                    location
+                      int {
+                        from 11261 ,
+                        to 11494 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 29 ,
+                    data
+                      gene {
+                        locus-tag "GHDFECEE_00013" } ,
+                    location
+                      int {
+                        from 12111 ,
+                        to 12296 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 30 ,
+                    data
+                      gene {
+                        locus-tag "GHDFECEE_00014" } ,
+                    location
+                      int {
+                        from 12237 ,
+                        to 12458 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 31 ,
+                    data
+                      gene {
+                        locus "scn" ,
+                        locus-tag "GHDFECEE_00015" } ,
+                    location
+                      int {
+                        from 12549 ,
+                        to 12899 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } ,
+                  {
+                    id
+                      local
+                        id 32 ,
+                    data
+                      gene {
+                        locus "fib" ,
+                        locus-tag "GHDFECEE_00016" } ,
+                    location
+                      int {
+                        from 13051 ,
+                        to 13458 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00001" } } ,
+          descr {
+            title "hypothetical protein GHDFECEE_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 315 ,
+            seq-data
+              ncbieaa "MRLQKAPLVTSGLVLGLLGLGNLLKDLSLTLNAVCGIFAFLIWIHLLCTMLKYSN
+NVKEQLNSPLVSSVFTTFFMSGFLGTTYLNTFFSNITFINSLITPIWILCLVGIMTHMIIFSIKYLKDFSLENVYPSW
+TVLFIGIAIAGLTAPVSGYFFIGQLTVIYGFVATCIVLPIVFKRLKAFPLQTSIKPNTSTICAPFSLVAAAYVIAFPK
+ANAFIVIIFLILAQIFYFYIIIQLPKLLKEPFSPVFSAFTFPLVISATALKNSLPVLMFPDIWKGLLFIEVLLATVIV
+LRVFIGYLHFFLKKENQDKFLRNASQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 33 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 314 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00002" } } ,
+          descr {
+            title "hypothetical protein GHDFECEE_00002 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 75 ,
+            seq-data
+              ncbieaa "MTHLTKVLDTLTGICVVLLFSKYFVAYANMVFDWKLRWYLLENIPHLPIILFILM
+FIFGVPSEMIKDRQRKNNGV" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 34 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 74 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00003" } } ,
+          descr {
+            title "hypothetical protein GHDFECEE_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 518 ,
+            seq-data
+              ncbieaa "MENTINESGKKKRFKLKMPGAFMILFILTVVAVIATWVIPAGAYSKLSYEPSSQE
+LKIVNPHNQVKKVPGTQQELDKMGVKIKIEQFKSGAINKPVSIPNTYERLKQHPAGPEQITSSMVEGTIEAVDIMVFI
+LVLGGLIGVVQASGSFESGLLALTKKTKGHEFMLIVFVSILMIIGGTLCGIEEEAVAFYPILVPIFIALGYDSIVSVG
+AIFLASSVGSTFSTINPFSVVIASNAAGTTFTDGLYWRIGACIVGAIFVISYLYWYCKKIKKDPKASYSYEDKDAFEQ
+QWSVLKDDDSAHFTLRKKIILTLFVLPFPIMVWGVMTQGWWFPVMASAFLIFAIIIMFIAGTGKSGLGEKGTVDAFVN
+GASSLVGVSLIIGLARGINLVLNEGMISDTILHFSSSLVQHMSGPLFIIVLLFIFFCLGFIVPSSSGLAVLSMPIFAP
+LADTVGIPRFVIVTTYQFGQYAMLFLAPTGLVMATLQMLNMRYSHWFRFVWPVVAFVLIFGGGVLITQVLIYS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 35 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 517 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00004" } } ,
+          descr {
+            title "Carbamate kinase 1 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 311 ,
+            seq-data
+              ncbieaa "MMAKIVVALGGNALGKSPQEQLELVKNTAKSLVGLITKGHEIVISHGNGPQVGSI
+NLGLNYAAEHNQGPAFPFAECGAMSQAYIGYQLQESLQNELHSIGMDKQVVTLVTQVEVNENDPAFNNPSKPIGLFYN
+KEEAEQIQKEKGFIFVEDAGRGYRRVVPSPQPISIIELESIKTLIKNDTLVIAAGGGGIPVIREQHDGFKGIDAVIDK
+DKTSALLGANIQCDQLIILTAIDYVYINFNTENQQPLETTNVDELKRYIDENQFAKGSMLPKIEAAISFIENNPKGSV
+LITSLNELDAALEGKVGTVIKK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 36 ,
+                    data
+                      prot {
+                        name {
+                          "Carbamate kinase 1" } ,
+                        ec {
+                          "2.7.2.2" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 310 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00005" } } ,
+          descr {
+            title "Ornithine carbamoyltransferase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 333 ,
+            seq-data
+              ncbieaa "MKNLRNRSFLTLLDFSRQEVEFLLTLSEDLKRAKYIGTEKPMLKNKNIALLFEKD
+STRTRCAFEVAAHDQGANVTYLGPTGSQMGKKETTKDTARVLGGMYDGIEYRGFSQRTVETLAEYSGVPVWNGLTDED
+HPTQVLADFLTAKEVLKKDYADINFTYVGDGRNNVANALMQGAAIMGMNFHLVCPKELNPTDELLNRCKNIAAENGGN
+ILITDDIDQGVKGSDVIYTDVWVSMGEPDEVWKERLELLKPYQVNKEMMDKTGNPNVIFEHCLPSFHNADTKIGQQIF
+EKYGIREMEVTDEVFESKASVVFQEAENRMHTIKAVMVATLGEF" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 37 ,
+                    data
+                      prot {
+                        name {
+                          "Ornithine carbamoyltransferase" } ,
+                        ec {
+                          "2.1.3.3" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 332 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00006" } } ,
+          descr {
+            title "Superantigen-like protein 13 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 241 ,
+            seq-data
+              ncbieaa "MKKNIMNKLVLSTALLLLGTTSTQLPKTPISFSSEAKAYNISENETNINELIKYY
+TQPHFSLSGKWLWQKPNGSIHATLQTWVWYSHIQVFGAESWGNINQLRDKYVDIFGTKDEDTVEGYWTYDETFTGGVT
+PAATSSDKSYKLFLKYSDKQQTIIGGLEFYKGNKPVLTLKELDFRIRQTLINNKKLYNGEFNKGQIKITGGGNNYTID
+LSKKLKLTDTNRYVKNPRHAEIEVILEKSN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 38 ,
+                    data
+                      prot {
+                        name {
+                          "Superantigen-like protein 13" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 240 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00007" } } ,
+          descr {
+            title "Superantigen-like protein 13 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 241 ,
+            seq-data
+              ncbieaa "MKKNITKKIILSSALLLLGAVSTQLPNTPISSKSEAKAYYINQEETNVSELIKYY
+TQQHLTFSNKWLWQKDNGTIHATLLQISWYSHIQVFGPESWGNINQLRDKYVDIFGIKDQETIDSYALSQETFTGGVT
+PAAKPNDKHYKLNVTYKDKDETFIGGYPFYTGNKPVLTLKEVDFRIRQTLIKNKKLYQDKYNKGQLTITGDDNNYTID
+LSKRLPSTDANKYVKNPQNAKIEVTLEKSN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 39 ,
+                    data
+                      prot {
+                        name {
+                          "Superantigen-like protein 13" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 240 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00007" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00008" } } ,
+          descr {
+            title "Superantigen-like protein 13 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 248 ,
+            seq-data
+              ncbieaa "MINPQKGDVQMKKNITNKIILTATLLILGTSSAQLPNTPIGFSSEAKAYHIGQDE
+TNINELIKYYTQKPLTFSNRWLYQYDDGNIYVEFKRYSWSAHIRLWGAESWGNINQLRDRYVDVFGLKDKDTRRLWWV
+YTDTFTGGVTPAASSSDKPYNIYVQYKDKLQTFIGAHKIYQGNKPVLTLKEIDFRVRESLIKNKILYNENRNKGNIHI
+TGGGNNFTIDLSKRLHSDLANVYVKNPQKITVEVLID" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 40 ,
+                    data
+                      prot {
+                        name {
+                          "Superantigen-like protein 13" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 247 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00008" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00009" } } ,
+          descr {
+            title "hypothetical protein GHDFECEE_00009 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 65 ,
+            seq-data
+              ncbieaa "MGWGPNTEADEKSAYNNVQVGDGPQHREFQKEILQTMQVGAAPNTENDFAFLLDS
+KSHLIFCVLI" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 41 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 64 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00009" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00010" } } ,
+          descr {
+            title "hypothetical protein GHDFECEE_00010 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 65 ,
+            seq-data
+              ncbieaa "MKELNEIINAIQFLFESESGYKISKNSGVPYQTVQDLRNGKTKIEDARFRTIIKL
+YSYYATLKEQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 42 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 64 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00010" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00011" } } ,
+          descr {
+            title "Alpha-hemolysin [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 319 ,
+            seq-data
+              ncbieaa "MKTRIVSSVTTTLLLGSILMNPVANAADSDINIKTGTTDIGSNTIVKTGDLVTYD
+KENGMHKKVFYSFIDDKNHNKKILVIRTKGTIAGQYRVYSEEGANKSGLAWPSAFKVQLQLPDNEVAQISDYYPRNSI
+DTKEYMSTLTYGFNGNVTGDDSGKIGGLIGANVSIGHTLKYVQPDFKTILESPTDKKVGWKVIFNNMVNQNWGPYDRD
+SWNPVYGNQLFMKTRNGSMKAADNFLDPNKASSLLSSGFSPDFATVITMDRKATKQQSNIDVIYERVRDDYQLHWTST
+NWKGTNTKDKWTDRSSERYKIDWEKEEMTN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 43 ,
+                    data
+                      prot {
+                        name {
+                          "Alpha-hemolysin" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 318 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00011" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00012" } } ,
+          descr {
+            title "hypothetical protein GHDFECEE_00012 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 77 ,
+            seq-data
+              ncbieaa "MVFKDWKVNVVYTGKHEVVTNENNLFVIDEDYDVAIAINYIDNKLKVSHVNYGSE
+FTIDSSNKVLELMIHNPNIDEN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 44 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 76 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00012" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00013" } } ,
+          descr {
+            title "hypothetical protein GHDFECEE_00013 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 61 ,
+            seq-data
+              ncbieaa "MNKHINKKTTKHLEDYKKVQQRNSEETNRGCLKSVAMLIVLFLFIIFGIVACSTH
+VNFFFQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 45 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 60 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00013" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00014" } } ,
+          descr {
+            title "hypothetical protein GHDFECEE_00014 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 73 ,
+            seq-data
+              ncbieaa "MSNEYTIIGETNTNIIVRNVMHKIALYNLKNIYNAPIDKIKCCKKRSEYYSISIL
+LEEKVNVCRTCHNTKYNE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 46 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 72 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00014" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00015" } } ,
+          descr {
+            title "Staphylococcal complement inhibitor [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 116 ,
+            seq-data
+              ncbieaa "MKIKKYIVAGTLAVLLSTTAVSTLNGNKAEASSYDNYLTQSKYHDKKIAEELKSL
+LRQSNVYDLAAGSLNRYYKRTIMMNEYRAKAALKKNDFKSMAEAKVGLENIYKEIDEIINR" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 47 ,
+                    data
+                      prot {
+                        name {
+                          "Staphylococcal complement inhibitor" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 115 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00015" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GHDFECEE_00016" } } ,
+          descr {
+            title "Fibrinogen-binding protein [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 135 ,
+            seq-data
+              ncbieaa "MTYGPREKKPVSINHNIVEYNDGTFKYQSRPKFNSTPKYIKFRHDYNIVEYNDGT
+FGYGPRPHFNKPAAKTDATIKKEQKLIQAQNLVREFEKTHTVSAHRKAQKAVNLVSFEYNVKKMILQERIDEVLKQGL
+VR" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 48 ,
+                    data
+                      prot {
+                        name {
+                          "Fibrinogen-binding protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 134 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GHDFECEE_00016" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00001" } ,
+                location
+                  int {
+                    from 212 ,
+                    to 1159 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00002" } ,
+                location
+                  int {
+                    from 1465 ,
+                    to 1692 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00003" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 3555 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00004" } ,
+                location
+                  int {
+                    from 3726 ,
+                    to 4661 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q7A627" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00005" } ,
+                location
+                  int {
+                    from 4681 ,
+                    to 5682 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P99073" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00006" } ,
+                location
+                  int {
+                    from 6120 ,
+                    to 6845 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:A0A0H3K7M3" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00007" } ,
+                location
+                  int {
+                    from 6918 ,
+                    to 7643 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:A0A0H3K7M3" } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00008" } ,
+                location
+                  int {
+                    from 7723 ,
+                    to 8469 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:A0A0H3K7M3" } } } ,
+              {
+                id
+                  local
+                    id 9 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00009" } ,
+                location
+                  int {
+                    from 8559 ,
+                    to 8756 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 10 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00010" } ,
+                location
+                  int {
+                    from 8863 ,
+                    to 9060 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 11 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00011" } ,
+                location
+                  int {
+                    from 9848 ,
+                    to 10807 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q2G1X0" } } } ,
+              {
+                id
+                  local
+                    id 12 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00012" } ,
+                location
+                  int {
+                    from 11261 ,
+                    to 11494 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 13 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00013" } ,
+                location
+                  int {
+                    from 12111 ,
+                    to 12296 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 14 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00014" } ,
+                location
+                  int {
+                    from 12237 ,
+                    to 12458 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 15 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00015" } ,
+                location
+                  int {
+                    from 12549 ,
+                    to 12899 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q2FWV6" } } } ,
+              {
+                id
+                  local
+                    id 16 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GHDFECEE_00016" } ,
+                location
+                  int {
+                    from 13051 ,
+                    to 13458 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GHDFECEE_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P0C6P2" } } } } } } } } }

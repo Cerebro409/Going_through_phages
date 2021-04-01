@@ -1,0 +1,7 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CILAMJHL_00001	gene	1557				
+CILAMJHL_00001	CDS	1557				hypothetical protein
+CILAMJHL_00002	gene	936	arcC1			
+CILAMJHL_00002	CDS	936	arcC1	2.7.2.2		Carbamate kinase 1
+CILAMJHL_00003	gene	1002	argF			
+CILAMJHL_00003	CDS	1002	argF	2.1.3.3		Ornithine carbamoyltransferase

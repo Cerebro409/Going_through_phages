@@ -1,0 +1,129 @@
+LOCUS       CEGFEPDD_1              3357 bp    DNA     linear       15-MAY-2020
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..3357
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     gene            161..1357
+                     /locus_tag="CEGFEPDD_00001"
+     CDS             161..1357
+                     /locus_tag="CEGFEPDD_00001"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:CEGFEPDD_00001"
+                     /translation="MKGIKPNYAELGRQYNCDPRTVKKYYEAGKENELERLKKRQQNK
+                     KASKLDPFKEIINKKIELGCTAMAIFKYIEKKGYEGKYTILREYCKNKKQNETKKATI
+                     RVETNPGIAAQVDWKEDMVMHDKFGRTYQFNIFLYVLHYSKMKYITLTWDRKQDTLFE
+                     CLKDAFEYTEGVPKEIWFDNMRTVVDRPRTQYKKVVFNNLFYQFSKDANFEPIACRPY
+                     RPQTKGSVESLAKFVEQRLRPYDYEFYDAVELIGLVNDLCHELNHLEISQATEQRPID
+                     VFNYEEKEHLNSFNAKLLDTYIENECIRIVSKESMINFRKGKYSVPTKYIGEEVQVIF
+                     NNSTDELLIYYDGELIRRHNLSERKFNYIVEDMSEILKSDVFKHKDDKEILTYIENSL
+                     LLYDEI"
+     gene            1369..2136
+                     /locus_tag="CEGFEPDD_00002"
+     CDS             1369..2136
+                     /locus_tag="CEGFEPDD_00002"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:ISfinder:IS712"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="IS21 family transposase IS712"
+                     /protein_id="X:CEGFEPDD_00002"
+                     /translation="MNTNHQKLLNNFEILKLKKFKDYYPNYIELLSKNEKSLTEILID
+                     LTEKEIEYQSELKFKRAVNSARFPKIKYLHDFDFMFQPSINQQEILTLKSMHFLEDSI
+                     NICFLGNSGVGKTHLAISLGIEACKQNIKTRFYTFKELIDLLTVSDSKGIINKTLKQL
+                     SRIELLIIDEIGYTPITKEQADLFYQLMSLRYEWKSTIITTNIPFSSWGESFSNKIVS
+                     AAIIDRLVHHSKVFKITGESYRLKDYKTEKSLNIRQS"
+     gene            complement(2367..2759)
+                     /locus_tag="CEGFEPDD_00003"
+     CDS             complement(2367..2759)
+                     /locus_tag="CEGFEPDD_00003"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:CEGFEPDD_00003"
+                     /translation="MKYTWWILLTIAGILSLTSVYGFILCLGSFGMLALNVMWLFVYT
+                     PHKNSKALESISKPTIILSIIGTYAVFIFMSILFYFVMKARFMEIGIKLYGEPFNMFG
+                     IPLFIIGIILFTIGTVFVYKIQQSRLKQ"
+     gene            complement(2761..3150)
+                     /locus_tag="CEGFEPDD_00004"
+     CDS             complement(2761..3150)
+                     /locus_tag="CEGFEPDD_00004"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:CEGFEPDD_00004"
+                     /translation="MEKLIKVTSLIGIIIQSFLTLLFLIFLILSATGIIQPELTTTVN
+                     GEQTIQSPETAQATFVTIFAILFVVSLASDLLGIIAMKKLFVNNRASGILYIIGAVIS
+                     ANLLTFIAWLISGISVLRYNKIGKEVS"
+ORIGIN      
+        1 gtaaatggcg gttataaaat gtaggaaaat ggcgaaatga aaatgctgtt tttcctacat
+       61 tttttctttt ttaaattata taatcatgtc ttaactcaat cttcgattgg aggttatttg
+      121 attgagacat gacatttatg aaggagtgct attttacatt atgaaaggta ttaaaccaaa
+      181 ttatgccgag cttggtcgac aatataattg tgatccaaga acagttaaaa aatattatga
+      241 agcaggaaaa gaaaatgaat tagaacgatt gaagaaaaga caacaaaata agaaagcatc
+      301 aaaactagat ccatttaaag aaattattaa taaaaaaatt gaattaggat gtacagctat
+      361 ggccattttt aaatatatag agaaaaaggg ttatgaaggt aaatatacta ttctacgaga
+      421 atactgtaaa aataaaaaac aaaatgagac taaaaaagca actatacgcg tagaaactaa
+      481 tcccggtata gctgctcaag tagactggaa agaagatatg gtaatgcatg ataagtttgg
+      541 cagaacttat caattcaaca tctttcttta cgttctacac tattcaaaaa tgaagtatat
+      601 cacattaact tgggatagaa aacaagatac cttatttgaa tgtttaaaag acgcttttga
+      661 atacaccgaa ggggttccaa aagaaatctg gttcgataat atgagaactg tagttgatcg
+      721 acctagaaca caatataaaa aagtcgtctt taataattta ttttatcaat ttagtaagga
+      781 tgccaacttt gaacctattg cttgtagacc ctatcgtcct caaacaaaag ggtctgttga
+      841 atcattagct aaatttgttg aacagcgttt aagaccatac gattatgaat tttatgatgc
+      901 tgtagaactt attgggctag taaacgattt atgtcacgaa ttgaatcact tagaaatttc
+      961 acaagcaaca gaacaacgac ctatcgacgt tttcaattat gaagaaaaag aacatttaaa
+     1021 ttcttttaat gccaagttac tagatactta catcgaaaat gagtgtataa gaatcgtttc
+     1081 taaagaatcg atgattaact ttagaaaagg taaatactcg gtacctacta aatacattgg
+     1141 tgaagaagta caagtgatat tcaataattc tactgatgaa ttgctgattt attatgatgg
+     1201 tgaattaata agacggcata atctatccga aagaaaattt aattatatcg ttgaagatat
+     1261 gagtgaaata ttaaaatcag atgtatttaa acataaggat gacaaagaaa ttcttacgta
+     1321 tatagaaaat tcattattac tgtatgacga aatttaggag gactttcgat gaatacgaac
+     1381 catcaaaaat tacttaataa ctttgaaata ttaaaactaa aaaaattcaa agattattat
+     1441 ccaaactata ttgaattact ttctaaaaat gagaaatctt taactgaaat attgattgat
+     1501 ttaacggaaa aagaaataga atatcaatca gaattaaaat ttaaacgtgc tgtgaattca
+     1561 gcacgtttcc ctaaaataaa atatttacat gattttgatt tcatgtttca acctagtata
+     1621 aatcaacaag aaatactcac tttaaaatct atgcattttt tagaagatag tataaatatt
+     1681 tgtttcttag gtaatagtgg tgttggtaaa acacacctag caatctcatt aggaatagag
+     1741 gcatgtaagc aaaatataaa gactagattc tatactttca aagaattaat agacttatta
+     1801 actgtctcag attccaaagg aatcattaat aaaacattaa agcaattaag cagaatagag
+     1861 ttacttatca ttgatgaaat tggttatact cccatcacca aagaacaagc tgatttattc
+     1921 taccagttaa tgtcactaag gtatgagtgg aaatcaacaa taattacgac taatattcca
+     1981 ttttcgagtt ggggagagtc atttagtaat aagattgtat cagcagctat aattgatcgg
+     2041 ttagttcacc attcaaaagt atttaaaatt actggagaat catatcgatt aaaagattat
+     2101 aaaaccgaaa aatcattaaa tatacgacaa tcttaaaccg ctaaaaaacg acattttcaa
+     2161 accgccataa aacagcattt ttaaaccgct attgacaacc attacatttt tatattttaa
+     2221 tattgaaaaa atcacatttt acattcattg tcattatctt tttatcttca aattgcttga
+     2281 agtcatttag attcaactac atctattatg tataaatcat taggacggat ttcttttaaa
+     2341 cccgtcccat gttaaattaa tatattctat tgctttaatc ttgattgctg tattttataa
+     2401 acgaatactg taccgattgt aaataaaatg atgccaataa tgaataatgg tattccaaac
+     2461 atattaaaag gttcaccgta aagttttatt ccaatttcca taaacctagc tttcattacg
+     2521 aagtaaaata agatagacat aaatataaat actgcatatg tcccaatgat tgataaaatt
+     2581 atcgttggtt ttgatataga ttcaagtgct ttagaatttt tatgcggtgt ataaacaaat
+     2641 agccacatga cattcagtgc caacattcca aagctaccta aacataaaat aaatccataa
+     2701 acacttgtta aacttaaaat ccctgcaatt gttaaaagta tccaccaagt atatttcatg
+     2761 ctatgacact tcttttccta ttttgttata tcttaaaaca gaaatcccac ttattaacca
+     2821 agcaataaat gttaataaat tggcgctgat tactgcacca ataatataca aaatgccact
+     2881 cgctctatta ttcacaaaca actttttcat agctataatg cctaataaat ctgaagctaa
+     2941 agaaacaaca aataatattg caaatattgt cacgaatgtt gcttgagcag tttctggact
+     3001 ttgtatagtt tgttcaccat taacagttgt ggtcaattct ggctgtataa tccctgttgc
+     3061 tgataaaatt aaaaatatta aaaataacaa tgttaaaaaa ctttgaataa taattccaat
+     3121 taaagacgtc actttgatta atttttccat tttcctactc cttaaaatta ttttacttta
+     3181 atatctttat aatctgattg gtgttctttc acgtatgttt taggattaat atctctctta
+     3241 taataaattt tgtcgttttt aaactcgtaa gtcgcgtaaa acatttgatc tttatcttta
+     3301 aataacttat agctgatgat aattaatttg ccatcatcaa atacataagt atttact
+//

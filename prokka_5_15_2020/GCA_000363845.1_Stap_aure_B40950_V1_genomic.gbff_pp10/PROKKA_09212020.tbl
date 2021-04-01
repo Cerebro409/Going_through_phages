@@ -1,0 +1,67 @@
+>Feature gnl|X|KFNNAHJN_1
+794	549	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KFNNAHJN_00001
+			product	hypothetical protein
+			protein_id	gnl|X|KFNNAHJN_00001
+794	549	gene
+			locus_tag	KFNNAHJN_00001
+1498	1067	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	KFNNAHJN_00002
+			product	hypothetical protein
+			protein_id	gnl|X|KFNNAHJN_00002
+1498	1067	gene
+			locus_tag	KFNNAHJN_00002
+2000	2446	CDS
+			gene	argR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P63580
+			locus_tag	KFNNAHJN_00003
+			product	Arginine repressor
+			protein_id	gnl|X|KFNNAHJN_00003
+2000	2446	gene
+			gene	argR
+			locus_tag	KFNNAHJN_00003
+2715	3950	CDS
+			EC_number	3.5.3.6
+			gene	arcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P63554
+			locus_tag	KFNNAHJN_00004
+			product	Arginine deiminase
+			protein_id	gnl|X|KFNNAHJN_00004
+2715	3950	gene
+			gene	arcA
+			locus_tag	KFNNAHJN_00004
+4036	5457	CDS
+			gene	arcD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P18275
+			locus_tag	KFNNAHJN_00005
+			product	Arginine/ornithine antiporter
+			protein_id	gnl|X|KFNNAHJN_00005
+4036	5457	gene
+			gene	arcD
+			locus_tag	KFNNAHJN_00005
+5499	6188	CDS
+			gene	arcR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7A381
+			locus_tag	KFNNAHJN_00006
+			product	HTH-type transcriptional regulator ArcR
+			protein_id	gnl|X|KFNNAHJN_00006
+5499	6188	gene
+			gene	arcR
+			locus_tag	KFNNAHJN_00006
+6226	7224	CDS
+			EC_number	2.1.3.3
+			gene	argF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P99073
+			locus_tag	KFNNAHJN_00007
+			product	Ornithine carbamoyltransferase
+			protein_id	gnl|X|KFNNAHJN_00007
+6226	7224	gene
+			gene	argF
+			locus_tag	KFNNAHJN_00007

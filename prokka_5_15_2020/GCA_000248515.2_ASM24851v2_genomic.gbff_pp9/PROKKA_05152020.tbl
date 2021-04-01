@@ -1,0 +1,30 @@
+>Feature gnl|X|CEGFEPDD_1
+161	1357	gene
+			locus_tag	CEGFEPDD_00001
+161	1357	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CEGFEPDD_00001
+			product	hypothetical protein
+			protein_id	gnl|X|CEGFEPDD_00001
+1369	2136	gene
+			locus_tag	CEGFEPDD_00002
+1369	2136	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:IS712
+			locus_tag	CEGFEPDD_00002
+			product	IS21 family transposase IS712
+			protein_id	gnl|X|CEGFEPDD_00002
+2759	2367	gene
+			locus_tag	CEGFEPDD_00003
+2759	2367	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CEGFEPDD_00003
+			product	hypothetical protein
+			protein_id	gnl|X|CEGFEPDD_00003
+3150	2761	gene
+			locus_tag	CEGFEPDD_00004
+3150	2761	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CEGFEPDD_00004
+			product	hypothetical protein
+			protein_id	gnl|X|CEGFEPDD_00004

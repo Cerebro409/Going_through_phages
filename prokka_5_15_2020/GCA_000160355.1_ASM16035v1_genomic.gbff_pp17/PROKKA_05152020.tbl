@@ -1,0 +1,44 @@
+>Feature gnl|X|MJEIIJNA_1
+392	901	gene
+			locus_tag	MJEIIJNA_00001
+392	901	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MJEIIJNA_00001
+			product	hypothetical protein
+			protein_id	gnl|X|MJEIIJNA_00001
+913	1983	gene
+			gene	murG
+			locus_tag	MJEIIJNA_00002
+913	1983	CDS
+			EC_number	2.4.1.227
+			gene	murG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65482
+			locus_tag	MJEIIJNA_00002
+			product	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+			protein_id	gnl|X|MJEIIJNA_00002
+2000	2614	gene
+			locus_tag	MJEIIJNA_00003
+2000	2614	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MJEIIJNA_00003
+			product	hypothetical protein
+			protein_id	gnl|X|MJEIIJNA_00003
+2731	2931	gene
+			locus_tag	MJEIIJNA_00004
+2731	2931	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MJEIIJNA_00004
+			product	hypothetical protein
+			protein_id	gnl|X|MJEIIJNA_00004
+3402	4061	gene
+			gene	arlR
+			locus_tag	MJEIIJNA_00005
+3402	4061	CDS
+			db_xref	COG:COG0745
+			gene	arlR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9KJN4
+			locus_tag	MJEIIJNA_00005
+			product	Response regulator ArlR
+			protein_id	gnl|X|MJEIIJNA_00005

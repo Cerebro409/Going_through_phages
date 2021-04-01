@@ -1,0 +1,61 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LGJHLHJI_00001	gene	561	xerD			
+LGJHLHJI_00001	CDS	561	xerD			Tyrosine recombinase XerD
+LGJHLHJI_00002	gene	204				
+LGJHLHJI_00002	CDS	204				hypothetical protein
+LGJHLHJI_00003	gene	225				
+LGJHLHJI_00003	CDS	225				hypothetical protein
+LGJHLHJI_00004	gene	930				
+LGJHLHJI_00004	CDS	930				hypothetical protein
+LGJHLHJI_00005	gene	375	sarA			
+LGJHLHJI_00005	CDS	375	sarA			Transcriptional regulator SarA
+LGJHLHJI_00006	gene	789	pip			
+LGJHLHJI_00006	CDS	789	pip	3.4.11.5		Proline iminopeptidase
+LGJHLHJI_00007	gene	717				
+LGJHLHJI_00007	CDS	717				hypothetical protein
+LGJHLHJI_00008	gene	507				
+LGJHLHJI_00008	CDS	507				hypothetical protein
+LGJHLHJI_00009	gene	801				
+LGJHLHJI_00009	CDS	801			COG0596	putative protein
+LGJHLHJI_00010	gene	720	hdl IVa			
+LGJHLHJI_00010	CDS	720	hdl IVa	3.8.1.2		(S)-2-haloacid dehalogenase 4A
+LGJHLHJI_00011	gene	987				
+LGJHLHJI_00011	CDS	987			COG0609	putative ABC transporter permease protein
+LGJHLHJI_00012	gene	888	btuF			
+LGJHLHJI_00012	CDS	888	btuF		COG0614	Vitamin B12-binding protein
+LGJHLHJI_00013	gene	636	nth			
+LGJHLHJI_00013	CDS	636	nth	4.2.99.18		Endonuclease III
+LGJHLHJI_00014	gene	1662	argS			
+LGJHLHJI_00014	CDS	1662	argS	6.1.1.19		Arginine--tRNA ligase
+LGJHLHJI_00015	gene	429	ywiB			
+LGJHLHJI_00015	CDS	429	ywiB		COG4506	putative beta-barrel protein YwiB
+LGJHLHJI_00016	gene	1011	adh			
+LGJHLHJI_00016	CDS	1011	adh	1.1.1.1		Alcohol dehydrogenase
+LGJHLHJI_00017	gene	522				
+LGJHLHJI_00017	CDS	522				hypothetical protein
+LGJHLHJI_00018	gene	1296				
+LGJHLHJI_00018	CDS	1296				hypothetical protein
+LGJHLHJI_00019	gene	477				
+LGJHLHJI_00019	CDS	477				hypothetical protein
+LGJHLHJI_00020	gene	537	ywqN			
+LGJHLHJI_00020	CDS	537	ywqN	1.-.-.-	COG0655	Putative NAD(P)H-dependent FMN-containing oxidoreductase YwqN
+LGJHLHJI_00021	gene	939	iolS			
+LGJHLHJI_00021	CDS	939	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+LGJHLHJI_00022	gene	642				
+LGJHLHJI_00022	CDS	642				hypothetical protein
+LGJHLHJI_00023	gene	549				
+LGJHLHJI_00023	CDS	549				hypothetical protein
+LGJHLHJI_00024	gene	633				
+LGJHLHJI_00024	CDS	633				hypothetical protein
+LGJHLHJI_00025	gene	1395				
+LGJHLHJI_00025	CDS	1395				hypothetical protein
+LGJHLHJI_00026	gene	441				
+LGJHLHJI_00026	CDS	441				hypothetical protein
+LGJHLHJI_00027	gene	1323	rclA			
+LGJHLHJI_00027	CDS	1323	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+LGJHLHJI_00028	gene	342				
+LGJHLHJI_00028	CDS	342				hypothetical protein
+LGJHLHJI_00029	gene	1077				
+LGJHLHJI_00029	CDS	1077		2.7.4.2		Phosphomevalonate kinase
+LGJHLHJI_00030	gene	675				
+LGJHLHJI_00030	CDS	675				hypothetical protein

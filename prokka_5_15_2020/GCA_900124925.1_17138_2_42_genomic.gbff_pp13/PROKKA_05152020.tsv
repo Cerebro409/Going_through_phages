@@ -1,0 +1,17 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MKBNMLOM_00001	gene	1878	mnmG			
+MKBNMLOM_00001	CDS	1878	mnmG			tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+MKBNMLOM_00002	gene	1380	mnmE			
+MKBNMLOM_00002	CDS	1380	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+MKBNMLOM_00003	gene	354	rnpA			
+MKBNMLOM_00003	CDS	354	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+MKBNMLOM_00004	gene	138	rpmH			
+MKBNMLOM_00004	CDS	138	rpmH			50S ribosomal protein L34
+MKBNMLOM_00005	gene	1362	dnaA			
+MKBNMLOM_00005	CDS	1362	dnaA			Chromosomal replication initiator protein DnaA
+MKBNMLOM_00006	gene	1134	dnaN			
+MKBNMLOM_00006	CDS	1134	dnaN			Beta sliding clamp
+MKBNMLOM_00007	gene	237				
+MKBNMLOM_00007	CDS	237				hypothetical protein
+MKBNMLOM_00008	gene	1113	recF			
+MKBNMLOM_00008	CDS	1113	recF		COG1195	DNA replication and repair protein RecF

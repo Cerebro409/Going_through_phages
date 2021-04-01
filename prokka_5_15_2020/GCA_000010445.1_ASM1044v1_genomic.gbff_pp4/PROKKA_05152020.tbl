@@ -1,0 +1,37 @@
+>Feature gnl|X|DGNCDLFN_1
+1663	128	gene
+			gene	yfkN
+			locus_tag	DGNCDLFN_00001
+1663	128	CDS
+			db_xref	COG:COG0737
+			gene	yfkN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34313
+			locus_tag	DGNCDLFN_00001
+			product	Trifunctional nucleotide phosphoesterase protein YfkN
+			protein_id	gnl|X|DGNCDLFN_00001
+3258	1714	gene
+			locus_tag	DGNCDLFN_00002
+3258	1714	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	DGNCDLFN_00002
+			product	hypothetical protein
+			protein_id	gnl|X|DGNCDLFN_00002
+3487	4443	gene
+			gene	phnD2
+			locus_tag	DGNCDLFN_00003
+3487	4443	CDS
+			db_xref	COG:COG3221
+			gene	phnD2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A3PDP9
+			locus_tag	DGNCDLFN_00003
+			product	putative ABC transporter phosphonate/phosphite binding protein PhnD2
+			protein_id	gnl|X|DGNCDLFN_00003
+5252	5082	gene
+			locus_tag	DGNCDLFN_00004
+5252	5082	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	DGNCDLFN_00004
+			product	hypothetical protein
+			protein_id	gnl|X|DGNCDLFN_00004

@@ -1,0 +1,81 @@
+>Feature gnl|X|JKFAJILD_1
+229	621	gene
+			locus_tag	JKFAJILD_00001
+229	621	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3K7M3
+			locus_tag	JKFAJILD_00001
+			product	Superantigen-like protein 13
+			protein_id	gnl|X|JKFAJILD_00001
+908	711	gene
+			locus_tag	JKFAJILD_00002
+908	711	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JKFAJILD_00002
+			product	hypothetical protein
+			protein_id	gnl|X|JKFAJILD_00002
+1212	1015	gene
+			locus_tag	JKFAJILD_00003
+1212	1015	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JKFAJILD_00003
+			product	hypothetical protein
+			protein_id	gnl|X|JKFAJILD_00003
+1342	1196	gene
+			locus_tag	JKFAJILD_00004
+1342	1196	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JKFAJILD_00004
+			product	hypothetical protein
+			protein_id	gnl|X|JKFAJILD_00004
+1994	2959	gene
+			gene	hly
+			locus_tag	JKFAJILD_00005
+1994	2959	CDS
+			gene	hly
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G1X0
+			locus_tag	JKFAJILD_00005
+			product	Alpha-hemolysin
+			protein_id	gnl|X|JKFAJILD_00005
+3413	3646	gene
+			locus_tag	JKFAJILD_00006
+3413	3646	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JKFAJILD_00006
+			product	hypothetical protein
+			protein_id	gnl|X|JKFAJILD_00006
+4263	4448	gene
+			locus_tag	JKFAJILD_00007
+4263	4448	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JKFAJILD_00007
+			product	hypothetical protein
+			protein_id	gnl|X|JKFAJILD_00007
+4610	4389	gene
+			locus_tag	JKFAJILD_00008
+4610	4389	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	JKFAJILD_00008
+			product	hypothetical protein
+			protein_id	gnl|X|JKFAJILD_00008
+5051	4701	gene
+			gene	scn
+			locus_tag	JKFAJILD_00009
+5051	4701	CDS
+			gene	scn
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FWV6
+			locus_tag	JKFAJILD_00009
+			product	Staphylococcal complement inhibitor
+			protein_id	gnl|X|JKFAJILD_00009
+5580	5203	gene
+			gene	fib
+			locus_tag	JKFAJILD_00010
+5580	5203	CDS
+			gene	fib
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6P2
+			locus_tag	JKFAJILD_00010
+			product	Fibrinogen-binding protein
+			protein_id	gnl|X|JKFAJILD_00010

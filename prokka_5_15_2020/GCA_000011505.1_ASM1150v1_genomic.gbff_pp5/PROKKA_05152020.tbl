@@ -1,0 +1,185 @@
+>Feature gnl|X|KNBJAHMG_1
+1663	128	gene
+			gene	yfkN
+			locus_tag	KNBJAHMG_00001
+1663	128	CDS
+			db_xref	COG:COG0737
+			gene	yfkN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34313
+			locus_tag	KNBJAHMG_00001
+			product	Trifunctional nucleotide phosphoesterase protein YfkN
+			protein_id	gnl|X|KNBJAHMG_00001
+3258	1714	gene
+			locus_tag	KNBJAHMG_00002
+3258	1714	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KNBJAHMG_00002
+			product	hypothetical protein
+			protein_id	gnl|X|KNBJAHMG_00002
+3487	4443	gene
+			gene	phnD2
+			locus_tag	KNBJAHMG_00003
+3487	4443	CDS
+			db_xref	COG:COG3221
+			gene	phnD2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A3PDP9
+			locus_tag	KNBJAHMG_00003
+			product	putative ABC transporter phosphonate/phosphite binding protein PhnD2
+			protein_id	gnl|X|KNBJAHMG_00003
+4657	5430	gene
+			gene	glnQ
+			locus_tag	KNBJAHMG_00004
+4657	5430	CDS
+			gene	glnQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27675
+			locus_tag	KNBJAHMG_00004
+			product	Glutamine transport ATP-binding protein GlnQ
+			protein_id	gnl|X|KNBJAHMG_00004
+5432	6232	gene
+			gene	phnE_1
+			locus_tag	KNBJAHMG_00005
+5432	6232	CDS
+			db_xref	COG:COG3639
+			gene	phnE_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QQ68
+			locus_tag	KNBJAHMG_00005
+			product	Phosphate-import permease protein PhnE
+			protein_id	gnl|X|KNBJAHMG_00005
+6229	7044	gene
+			gene	phnE_2
+			locus_tag	KNBJAHMG_00006
+6229	7044	CDS
+			db_xref	COG:COG3639
+			gene	phnE_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QQ68
+			locus_tag	KNBJAHMG_00006
+			product	Phosphate-import permease protein PhnE
+			protein_id	gnl|X|KNBJAHMG_00006
+8353	7175	gene
+			gene	deoB
+			locus_tag	KNBJAHMG_00007
+8353	7175	CDS
+			EC_number	5.4.2.7
+			gene	deoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99100
+			locus_tag	KNBJAHMG_00007
+			product	Phosphopentomutase
+			protein_id	gnl|X|KNBJAHMG_00007
+9043	8381	gene
+			gene	deoC1
+			locus_tag	KNBJAHMG_00008
+9043	8381	CDS
+			EC_number	4.1.2.4
+			gene	deoC1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99102
+			locus_tag	KNBJAHMG_00008
+			product	Deoxyribose-phosphate aldolase 1
+			protein_id	gnl|X|KNBJAHMG_00008
+10482	9124	gene
+			gene	tet(38)
+			locus_tag	KNBJAHMG_00009
+10482	9124	CDS
+			gene	tet(38)
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:BARRGD:NG_055983.1
+			locus_tag	KNBJAHMG_00009
+			product	tetracycline efflux MFS transporter Tet(38)
+			protein_id	gnl|X|KNBJAHMG_00009
+11190	10483	gene
+			gene	deoD
+			locus_tag	KNBJAHMG_00010
+11190	10483	CDS
+			EC_number	2.4.2.1
+			db_xref	COG:COG0813
+			gene	deoD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5EEL8
+			locus_tag	KNBJAHMG_00010
+			product	Purine nucleoside phosphorylase DeoD-type
+			protein_id	gnl|X|KNBJAHMG_00010
+11426	12181	gene
+			locus_tag	KNBJAHMG_00011
+11426	12181	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KNBJAHMG_00011
+			product	hypothetical protein
+			protein_id	gnl|X|KNBJAHMG_00011
+13123	12524	gene
+			gene	sodM
+			locus_tag	KNBJAHMG_00012
+13123	12524	CDS
+			EC_number	1.15.1.1
+			gene	sodM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66831
+			locus_tag	KNBJAHMG_00012
+			product	Superoxide dismutase [Mn/Fe] 2
+			protein_id	gnl|X|KNBJAHMG_00012
+14821	13391	gene
+			locus_tag	KNBJAHMG_00013
+14821	13391	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KNBJAHMG_00013
+			product	hypothetical protein
+			protein_id	gnl|X|KNBJAHMG_00013
+16049	14811	gene
+			locus_tag	KNBJAHMG_00014
+16049	14811	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KNBJAHMG_00014
+			product	hypothetical protein
+			protein_id	gnl|X|KNBJAHMG_00014
+17196	16030	gene
+			gene	wbnH
+			locus_tag	KNBJAHMG_00015
+17196	16030	CDS
+			EC_number	2.4.1.306
+			gene	wbnH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0DMP6
+			locus_tag	KNBJAHMG_00015
+			product	O-antigen biosynthesis glycosyltransferase WbnH
+			protein_id	gnl|X|KNBJAHMG_00015
+18098	17406	gene
+			locus_tag	KNBJAHMG_00016
+18098	17406	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KNBJAHMG_00016
+			product	hypothetical protein
+			protein_id	gnl|X|KNBJAHMG_00016
+19032	18055	gene
+			gene	wbgU
+			locus_tag	KNBJAHMG_00017
+19032	18055	CDS
+			EC_number	5.1.3.7
+			gene	wbgU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7BJX9
+			locus_tag	KNBJAHMG_00017
+			product	UDP-N-acetylglucosamine 4-epimerase
+			protein_id	gnl|X|KNBJAHMG_00017
+20153	19377	gene
+			gene	butA
+			locus_tag	KNBJAHMG_00018
+20153	19377	CDS
+			EC_number	1.1.1.304
+			gene	butA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99120
+			locus_tag	KNBJAHMG_00018
+			product	Diacetyl reductase [(S)-acetoin forming]
+			protein_id	gnl|X|KNBJAHMG_00018
+20990	20364	gene
+			locus_tag	KNBJAHMG_00019
+20990	20364	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KNBJAHMG_00019
+			product	hypothetical protein
+			protein_id	gnl|X|KNBJAHMG_00019

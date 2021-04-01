@@ -1,0 +1,28 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1          124          657            +          534      0.33525
+
+     2          650         1078            +          429      0.36307
+     (bit_score:165.622;e-value:3.40041e-50;identity:21.1%;gi|16271776|ref|NP_438113.1| putative methionine sulfoxide reductase [Streptococcus pyogenes])
+
+     3         1090         1590            +          501      0.29761
+
+     4         1590         1811            +          222      0.27732
+
+     5         2000         3490            +         1491      0.50000
+
+     6         3887         4396            +          510      0.35890
+
+     7         4408         5478            +         1071      0.38414
+

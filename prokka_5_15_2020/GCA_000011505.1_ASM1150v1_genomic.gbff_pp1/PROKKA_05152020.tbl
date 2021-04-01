@@ -1,0 +1,91 @@
+>Feature gnl|X|DELJAAJL_1
+183	707	gene
+			locus_tag	DELJAAJL_00001
+183	707	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39157
+			locus_tag	DELJAAJL_00001
+			note	UPF0340 protein YwlG
+			product	hypothetical protein
+			protein_id	gnl|X|DELJAAJL_00001
+734	1972	gene
+			gene	glyA
+			locus_tag	DELJAAJL_00002
+734	1972	CDS
+			EC_number	2.1.2.1
+			gene	glyA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99091
+			locus_tag	DELJAAJL_00002
+			product	Serine hydroxymethyltransferase
+			protein_id	gnl|X|DELJAAJL_00002
+2000	2629	gene
+			gene	upp
+			locus_tag	DELJAAJL_00003
+2000	2629	CDS
+			EC_number	2.4.2.9
+			gene	upp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67396
+			locus_tag	DELJAAJL_00003
+			product	Uracil phosphoribosyltransferase
+			protein_id	gnl|X|DELJAAJL_00003
+2653	3780	gene
+			gene	mnaA
+			locus_tag	DELJAAJL_00004
+2653	3780	CDS
+			EC_number	5.1.3.14
+			db_xref	COG:COG0381
+			gene	mnaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39131
+			locus_tag	DELJAAJL_00004
+			product	UDP-N-acetylglucosamine 2-epimerase
+			protein_id	gnl|X|DELJAAJL_00004
+3914	4300	gene
+			locus_tag	DELJAAJL_00005
+3914	4300	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	DELJAAJL_00005
+			product	hypothetical protein
+			protein_id	gnl|X|DELJAAJL_00005
+4321	5049	gene
+			gene	atpB
+			locus_tag	DELJAAJL_00006
+4321	5049	CDS
+			gene	atpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09218
+			locus_tag	DELJAAJL_00006
+			product	ATP synthase subunit a
+			protein_id	gnl|X|DELJAAJL_00006
+5093	5305	gene
+			gene	atpE
+			locus_tag	DELJAAJL_00007
+5093	5305	CDS
+			gene	atpE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00845
+			locus_tag	DELJAAJL_00007
+			product	ATP synthase subunit c
+			protein_id	gnl|X|DELJAAJL_00007
+5503	6024	gene
+			gene	atpF
+			locus_tag	DELJAAJL_00008
+5503	6024	CDS
+			gene	atpF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A4E7
+			locus_tag	DELJAAJL_00008
+			product	ATP synthase subunit b
+			protein_id	gnl|X|DELJAAJL_00008
+6024	6563	gene
+			gene	atpH
+			locus_tag	DELJAAJL_00009
+6024	6563	CDS
+			gene	atpH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99109
+			locus_tag	DELJAAJL_00009
+			product	ATP synthase subunit delta
+			protein_id	gnl|X|DELJAAJL_00009

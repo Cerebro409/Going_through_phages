@@ -1,0 +1,103 @@
+>Feature gnl|X|OCFEKFOI_1
+168	93	gene
+			locus_tag	OCFEKFOI_00001
+168	93	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	OCFEKFOI_00001
+			product	tRNA-Ala(tgc)
+265	192	gene
+			locus_tag	OCFEKFOI_00002
+265	192	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	OCFEKFOI_00002
+			product	tRNA-Pro(tgg)
+362	286	gene
+			locus_tag	OCFEKFOI_00003
+362	286	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	OCFEKFOI_00003
+			product	tRNA-Arg(acg)
+456	368	gene
+			locus_tag	OCFEKFOI_00004
+456	368	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	OCFEKFOI_00004
+			product	tRNA-Leu(taa)
+538	464	gene
+			locus_tag	OCFEKFOI_00005
+538	464	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	OCFEKFOI_00005
+			product	tRNA-Gly(gcc)
+645	571	gene
+			locus_tag	OCFEKFOI_00006
+645	571	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	OCFEKFOI_00006
+			product	tRNA-Lys(ttt)
+726	651	gene
+			locus_tag	OCFEKFOI_00007
+726	651	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	OCFEKFOI_00007
+			product	tRNA-Thr(tgt)
+818	743	gene
+			locus_tag	OCFEKFOI_00008
+818	743	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	OCFEKFOI_00008
+			product	tRNA-Val(tac)
+943	866	gene
+			locus_tag	OCFEKFOI_00009
+943	866	rRNA
+			locus_tag	OCFEKFOI_00009
+			note	aligned only 65 percent of the 5S ribosomal RNA
+			product	5S ribosomal RNA (partial)
+			score	9.3e-13
+3050	1503	gene
+			gene	lysS
+			locus_tag	OCFEKFOI_00010
+3050	1503	CDS
+			EC_number	6.1.1.6
+			gene	lysS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67610
+			locus_tag	OCFEKFOI_00010
+			product	Lysine--tRNA ligase
+			protein_id	gnl|X|OCFEKFOI_00010
+4005	3529	gene
+			gene	folK
+			locus_tag	OCFEKFOI_00011
+4005	3529	CDS
+			EC_number	2.7.6.3
+			db_xref	COG:COG0801
+			gene	folK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P43777
+			locus_tag	OCFEKFOI_00011
+			product	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+			protein_id	gnl|X|OCFEKFOI_00011
+4367	4002	gene
+			gene	folB
+			locus_tag	OCFEKFOI_00012
+4367	4002	CDS
+			EC_number	4.1.2.25
+			db_xref	COG:COG1539
+			gene	folB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P56740
+			locus_tag	OCFEKFOI_00012
+			product	Dihydroneopterin aldolase
+			protein_id	gnl|X|OCFEKFOI_00012
+4980	4345	gene
+			gene	folP
+			locus_tag	OCFEKFOI_00013
+4980	4345	CDS
+			EC_number	2.5.1.15
+			db_xref	COG:COG0294
+			gene	folP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64141
+			locus_tag	OCFEKFOI_00013
+			product	Dihydropteroate synthase
+			protein_id	gnl|X|OCFEKFOI_00013

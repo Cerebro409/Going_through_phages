@@ -1,0 +1,28 @@
+# BLASTN 2.9.0+
+# Query: GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_1
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_1	GCA_900080895.1_12625_5_54_genomic.gbff_pp2.nucleotide.seq.txt.fa_7	100.000	1968	100	2151	1968	0	0.0	3635
+GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_1	GCA_002274895.1_UCSF14054_v1.0_genomic.gbff_pp2.nucleotide.seq.txt.fa_4	100.000	1968	100	2151	1968	0	0.0	3635
+GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_1	GCA_000559825.1_Stap_aure_M41648_V1_genomic.gbff_pp1.nucleotide.seq.txt.fa_5	100.000	1968	100	2151	1968	0	0.0	3635
+GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_1	GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_1	100.000	1968	100	1968	1968	0	0.0	3635
+# BLASTN 2.9.0+
+# Query: GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_2
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_2	GCA_900080895.1_12625_5_54_genomic.gbff_pp2.nucleotide.seq.txt.fa_8	100.000	456	100	456	456	0	0.0	843
+GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_2	GCA_002274895.1_UCSF14054_v1.0_genomic.gbff_pp2.nucleotide.seq.txt.fa_5	100.000	456	100	456	456	0	0.0	843
+GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_2	GCA_000559825.1_Stap_aure_M41648_V1_genomic.gbff_pp1.nucleotide.seq.txt.fa_6	100.000	456	100	456	456	0	0.0	843
+GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_2	GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_2	100.000	456	100	456	456	0	0.0	843
+# BLASTN 2.9.0+
+# Query: GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_3
+# Database: VGASdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_3	GCA_900080895.1_12625_5_54_genomic.gbff_pp2.nucleotide.seq.txt.fa_9	100.000	168	100	168	168	0	7.01e-86	311
+GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_3	GCA_002274895.1_UCSF14054_v1.0_genomic.gbff_pp2.nucleotide.seq.txt.fa_6	100.000	168	100	168	168	0	7.01e-86	311
+GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_3	GCA_000559825.1_Stap_aure_M41648_V1_genomic.gbff_pp1.nucleotide.seq.txt.fa_7	100.000	168	100	168	168	0	7.01e-86	311
+GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_3	GCA_000443265.1_S123v1_genomic.gbff_pp1.nucleotide.seq.txt.fa_3	100.000	168	100	168	168	0	7.01e-86	311
+# BLAST processed 3 queries

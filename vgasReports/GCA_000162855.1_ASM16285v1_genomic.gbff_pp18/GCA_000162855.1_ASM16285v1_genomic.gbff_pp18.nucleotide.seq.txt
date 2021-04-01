@@ -1,0 +1,22 @@
+
+----------------------------------------------------------------------
+PREDICTED GENES
+
+>Potential gene 1:156..443, 288 bp
+atgaataagttaaacttaaattgaatcagtttaaatgttcaaggaggatgacaaatggtttttaaagatt
+ggaaagttaatgttgtttacactgggaaacatgaagttgttacaaatgaaaataatttatttgtcataga
+tgaagattatgatgtcgcaatcgcaatcaattatatagacaataaattaaaggtcagtcatgttaactat
+ggatctgaatttacaattgactcatctaacaaagtacttgaattgatgattcataatccaaatattgacg
+agaattaa
+>Potential gene 2:1186..1407, 222 bp
+atgagcaatgaatatacaataataggggagactaatacaaatataatagttagaaatgttatgcacaaaa
+ttgctttgtacaatctaaaaaatatttataatgctcccatagataaaatcaaatgctgtaagaaacgtag
+tgaatattactcaatcagcatattattggaagaaaaagttaacgtgtgtagaacatgccacaataccaaa
+tataatgaataa
+>Potential gene 3:1498..1848, 351 bp
+atgaaaattaaaaaatatatagtagcaggaacattagcagtactattatcaacaacagcagtatcaacgt
+taaacgggaacaaagcagaagcaagtagttatgacaattatttaactcaaagtaaatatcacgataaaaa
+aattgctgaagagttgaaatcactacttagacaatcgaacgtatatgacttggctgcaggtagcttaaat
+cgatattacaaacgtacgattatgatgaatgaatatagagcaaaagcagcactaaagaaaaatgatttca
+aatcaatggctgaagctaaagttggattagaaaacatttacaaagaaattgatgaaattataaatagata
+a

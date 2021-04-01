@@ -1,0 +1,11 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+BLGPNOEN_00001	gene	201				
+BLGPNOEN_00001	CDS	201				hypothetical protein
+BLGPNOEN_00002	gene	852	panC			
+BLGPNOEN_00002	CDS	852	panC	6.3.2.1		Pantothenate synthetase
+BLGPNOEN_00003	gene	819	panB			
+BLGPNOEN_00003	CDS	819	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+BLGPNOEN_00004	gene	861				
+BLGPNOEN_00004	CDS	861		1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+BLGPNOEN_00005	gene	705	aldC			
+BLGPNOEN_00005	CDS	705	aldC	4.1.1.5	COG3527	Alpha-acetolactate decarboxylase

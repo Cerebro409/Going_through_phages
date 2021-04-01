@@ -1,0 +1,44 @@
+>Feature gnl|X|PGMEDMML_1
+131	1954	gene
+			gene	mecA
+			locus_tag	PGMEDMML_00001
+131	1954	CDS
+			gene	mecA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:BARRGD:NG_047938.1
+			locus_tag	PGMEDMML_00001
+			product	PBP2a family beta-lactam-resistant peptidoglycan transpeptidase MecA
+			protein_id	gnl|X|PGMEDMML_00001
+2428	2000	gene
+			locus_tag	PGMEDMML_00002
+2428	2000	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PGMEDMML_00002
+			product	hypothetical protein
+			protein_id	gnl|X|PGMEDMML_00002
+3268	2525	gene
+			gene	ugpQ
+			locus_tag	PGMEDMML_00003
+3268	2525	CDS
+			EC_number	3.1.4.46
+			db_xref	COG:COG0584
+			gene	ugpQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P10908
+			locus_tag	PGMEDMML_00003
+			product	Glycerophosphodiester phosphodiesterase, cytoplasmic
+			protein_id	gnl|X|PGMEDMML_00003
+4007	3777	gene
+			locus_tag	PGMEDMML_00004
+4007	3777	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PGMEDMML_00004
+			product	hypothetical protein
+			protein_id	gnl|X|PGMEDMML_00004
+4272	4105	gene
+			locus_tag	PGMEDMML_00005
+4272	4105	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PGMEDMML_00005
+			product	hypothetical protein
+			protein_id	gnl|X|PGMEDMML_00005

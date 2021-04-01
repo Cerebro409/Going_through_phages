@@ -1,0 +1,1208 @@
+>Feature gnl|X|BOPJEMOM_1
+363	85	gene
+			locus_tag	BOPJEMOM_00001
+363	85	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00001
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00001
+587	1075	gene
+			gene	def1
+			locus_tag	BOPJEMOM_00002
+587	1075	CDS
+			EC_number	3.5.1.88
+			db_xref	COG:COG0242
+			gene	def1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q819U0
+			locus_tag	BOPJEMOM_00002
+			product	Peptide deformylase 1
+			protein_id	gnl|X|BOPJEMOM_00002
+1068	2003	gene
+			gene	fmt
+			locus_tag	BOPJEMOM_00003
+1068	2003	CDS
+			EC_number	2.1.2.9
+			gene	fmt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99127
+			locus_tag	BOPJEMOM_00003
+			product	Methionyl-tRNA formyltransferase
+			protein_id	gnl|X|BOPJEMOM_00003
+2000	3307	gene
+			gene	rsmB
+			locus_tag	BOPJEMOM_00004
+2000	3307	CDS
+			EC_number	2.1.1.176
+			db_xref	COG:COG0144
+			gene	rsmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P36929
+			locus_tag	BOPJEMOM_00004
+			product	Ribosomal RNA small subunit methyltransferase B
+			protein_id	gnl|X|BOPJEMOM_00004
+3310	4404	gene
+			gene	rlmN
+			locus_tag	BOPJEMOM_00005
+3310	4404	CDS
+			EC_number	2.1.1.192
+			gene	rlmN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A600
+			locus_tag	BOPJEMOM_00005
+			product	putative dual-specificity RNA methyltransferase RlmN
+			protein_id	gnl|X|BOPJEMOM_00005
+4411	5154	gene
+			gene	stp
+			locus_tag	BOPJEMOM_00006
+4411	5154	CDS
+			EC_number	3.1.3.16
+			db_xref	COG:COG0631
+			gene	stp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8Y678
+			locus_tag	BOPJEMOM_00006
+			product	Serine/threonine phosphatase stp
+			protein_id	gnl|X|BOPJEMOM_00006
+5151	7145	gene
+			gene	prkC
+			locus_tag	BOPJEMOM_00007
+5151	7145	CDS
+			EC_number	2.7.11.1
+			gene	prkC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A6QGC0
+			locus_tag	BOPJEMOM_00007
+			product	Serine/threonine-protein kinase PrkC
+			protein_id	gnl|X|BOPJEMOM_00007
+7373	8248	gene
+			gene	rsgA
+			locus_tag	BOPJEMOM_00008
+7373	8248	CDS
+			EC_number	3.6.1.-
+			gene	rsgA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67682
+			locus_tag	BOPJEMOM_00008
+			product	Small ribosomal subunit biogenesis GTPase RsgA
+			protein_id	gnl|X|BOPJEMOM_00008
+8249	8893	gene
+			gene	rpe
+			locus_tag	BOPJEMOM_00009
+8249	8893	CDS
+			EC_number	5.1.3.1
+			gene	rpe
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P74061
+			locus_tag	BOPJEMOM_00009
+			product	Ribulose-phosphate 3-epimerase
+			protein_id	gnl|X|BOPJEMOM_00009
+8900	9541	gene
+			gene	thiN
+			locus_tag	BOPJEMOM_00010
+8900	9541	CDS
+			EC_number	2.7.6.2
+			db_xref	COG:COG1564
+			gene	thiN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34664
+			locus_tag	BOPJEMOM_00010
+			product	Thiamine pyrophosphokinase
+			protein_id	gnl|X|BOPJEMOM_00010
+10110	9922	gene
+			gene	rpmB
+			locus_tag	BOPJEMOM_00011
+10110	9922	CDS
+			gene	rpmB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2YXJ2
+			locus_tag	BOPJEMOM_00011
+			product	50S ribosomal protein L28
+			protein_id	gnl|X|BOPJEMOM_00011
+10553	10927	gene
+			locus_tag	BOPJEMOM_00012
+10553	10927	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5XA14
+			locus_tag	BOPJEMOM_00012
+			product	putative protein
+			protein_id	gnl|X|BOPJEMOM_00012
+10942	12588	gene
+			locus_tag	BOPJEMOM_00013
+10942	12588	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5Z4
+			locus_tag	BOPJEMOM_00013
+			product	putative protein
+			protein_id	gnl|X|BOPJEMOM_00013
+12778	14838	gene
+			gene	recG
+			locus_tag	BOPJEMOM_00014
+12778	14838	CDS
+			EC_number	3.6.4.12
+			gene	recG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64325
+			locus_tag	BOPJEMOM_00014
+			product	ATP-dependent DNA helicase RecG
+			protein_id	gnl|X|BOPJEMOM_00014
+15056	15613	gene
+			gene	fapR
+			locus_tag	BOPJEMOM_00015
+15056	15613	CDS
+			db_xref	COG:COG2050
+			gene	fapR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34835
+			locus_tag	BOPJEMOM_00015
+			product	Transcription factor FapR
+			protein_id	gnl|X|BOPJEMOM_00015
+15618	16604	gene
+			gene	plsX
+			locus_tag	BOPJEMOM_00016
+15618	16604	CDS
+			EC_number	2.3.1.274
+			gene	plsX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65739
+			locus_tag	BOPJEMOM_00016
+			product	Phosphate acyltransferase
+			protein_id	gnl|X|BOPJEMOM_00016
+16597	17523	gene
+			gene	fabD
+			locus_tag	BOPJEMOM_00017
+16597	17523	CDS
+			EC_number	2.3.1.39
+			gene	fabD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5Z3
+			locus_tag	BOPJEMOM_00017
+			product	Malonyl CoA-acyl carrier protein transacylase
+			protein_id	gnl|X|BOPJEMOM_00017
+17516	18250	gene
+			gene	fabG
+			locus_tag	BOPJEMOM_00018
+17516	18250	CDS
+			EC_number	1.1.1.100
+			gene	fabG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99093
+			locus_tag	BOPJEMOM_00018
+			product	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+			protein_id	gnl|X|BOPJEMOM_00018
+18493	18726	gene
+			gene	acpP
+			locus_tag	BOPJEMOM_00019
+18493	18726	CDS
+			db_xref	COG:COG0236
+			gene	acpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5HGK0
+			locus_tag	BOPJEMOM_00019
+			product	Acyl carrier protein
+			protein_id	gnl|X|BOPJEMOM_00019
+18842	19573	gene
+			gene	rnc
+			locus_tag	BOPJEMOM_00020
+18842	19573	CDS
+			EC_number	3.1.26.3
+			gene	rnc
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66668
+			locus_tag	BOPJEMOM_00020
+			product	Ribonuclease 3
+			protein_id	gnl|X|BOPJEMOM_00020
+19720	23286	gene
+			gene	smc
+			locus_tag	BOPJEMOM_00021
+19720	23286	CDS
+			db_xref	COG:COG1196
+			gene	smc
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P51834
+			locus_tag	BOPJEMOM_00021
+			product	Chromosome partition protein Smc
+			protein_id	gnl|X|BOPJEMOM_00021
+23286	24536	gene
+			gene	ftsY
+			locus_tag	BOPJEMOM_00022
+23286	24536	CDS
+			gene	ftsY
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00920
+			locus_tag	BOPJEMOM_00022
+			product	Signal recognition particle receptor FtsY
+			protein_id	gnl|X|BOPJEMOM_00022
+24523	24855	gene
+			locus_tag	BOPJEMOM_00023
+24523	24855	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67248
+			locus_tag	BOPJEMOM_00023
+			note	UPF0122 protein SAV1236
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00023
+24881	26248	gene
+			gene	ffh
+			locus_tag	BOPJEMOM_00024
+24881	26248	CDS
+			db_xref	COG:COG0541
+			gene	ffh
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37105
+			locus_tag	BOPJEMOM_00024
+			product	Signal recognition particle protein
+			protein_id	gnl|X|BOPJEMOM_00024
+26683	26958	gene
+			gene	rpsP
+			locus_tag	BOPJEMOM_00025
+26683	26958	CDS
+			gene	rpsP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66440
+			locus_tag	BOPJEMOM_00025
+			product	30S ribosomal protein S16
+			protein_id	gnl|X|BOPJEMOM_00025
+27146	27649	gene
+			gene	rimM
+			locus_tag	BOPJEMOM_00026
+27146	27649	CDS
+			gene	rimM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66656
+			locus_tag	BOPJEMOM_00026
+			product	Ribosome maturation factor RimM
+			protein_id	gnl|X|BOPJEMOM_00026
+27649	28386	gene
+			gene	trmD
+			locus_tag	BOPJEMOM_00027
+27649	28386	CDS
+			EC_number	2.1.1.228
+			gene	trmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6GHJ5
+			locus_tag	BOPJEMOM_00027
+			product	tRNA (guanine-N(1)-)-methyltransferase
+			protein_id	gnl|X|BOPJEMOM_00027
+28489	28839	gene
+			gene	rplS
+			locus_tag	BOPJEMOM_00028
+28489	28839	CDS
+			gene	rplS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2YXM4
+			locus_tag	BOPJEMOM_00028
+			product	50S ribosomal protein L19
+			protein_id	gnl|X|BOPJEMOM_00028
+31689	29083	gene
+			locus_tag	BOPJEMOM_00029
+31689	29083	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00029
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00029
+32090	32974	gene
+			gene	rbgA
+			locus_tag	BOPJEMOM_00030
+32090	32974	CDS
+			db_xref	COG:COG1161
+			gene	rbgA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31743
+			locus_tag	BOPJEMOM_00030
+			product	Ribosome biogenesis GTPase A
+			protein_id	gnl|X|BOPJEMOM_00030
+32958	33725	gene
+			gene	rnhB
+			locus_tag	BOPJEMOM_00031
+32958	33725	CDS
+			EC_number	3.1.26.4
+			db_xref	COG:COG0164
+			gene	rnhB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FZ38
+			locus_tag	BOPJEMOM_00031
+			product	Ribonuclease HII
+			protein_id	gnl|X|BOPJEMOM_00031
+33834	35000	gene
+			gene	sucC
+			locus_tag	BOPJEMOM_00032
+33834	35000	CDS
+			EC_number	6.2.1.5
+			gene	sucC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99071
+			locus_tag	BOPJEMOM_00032
+			product	Succinate--CoA ligase [ADP-forming] subunit beta
+			protein_id	gnl|X|BOPJEMOM_00032
+35022	35930	gene
+			gene	sucD
+			locus_tag	BOPJEMOM_00033
+35022	35930	CDS
+			EC_number	6.2.1.5
+			gene	sucD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99070
+			locus_tag	BOPJEMOM_00033
+			product	Succinate--CoA ligase [ADP-forming] subunit alpha
+			protein_id	gnl|X|BOPJEMOM_00033
+36157	37275	gene
+			gene	lytN
+			locus_tag	BOPJEMOM_00034
+36157	37275	CDS
+			EC_number	3.-.-.-
+			gene	lytN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9ZNI1
+			locus_tag	BOPJEMOM_00034
+			product	putative cell wall hydrolase LytN
+			protein_id	gnl|X|BOPJEMOM_00034
+37303	38547	gene
+			gene	femA
+			locus_tag	BOPJEMOM_00035
+37303	38547	CDS
+			EC_number	2.3.2.17
+			gene	femA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5R3
+			locus_tag	BOPJEMOM_00035
+			product	Aminoacyltransferase FemA
+			protein_id	gnl|X|BOPJEMOM_00035
+38720	39592	gene
+			locus_tag	BOPJEMOM_00036
+38720	39592	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00036
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00036
+39766	41841	gene
+			gene	topA
+			locus_tag	BOPJEMOM_00037
+39766	41841	CDS
+			EC_number	5.6.2.1
+			gene	topA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5Y5
+			locus_tag	BOPJEMOM_00037
+			product	DNA topoisomerase 1
+			protein_id	gnl|X|BOPJEMOM_00037
+41997	43304	gene
+			gene	trmFO
+			locus_tag	BOPJEMOM_00038
+41997	43304	CDS
+			EC_number	2.1.1.74
+			gene	trmFO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64235
+			locus_tag	BOPJEMOM_00038
+			product	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+			protein_id	gnl|X|BOPJEMOM_00038
+43721	44617	gene
+			gene	xerC
+			locus_tag	BOPJEMOM_00039
+43721	44617	CDS
+			db_xref	COG:COG4974
+			gene	xerC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39776
+			locus_tag	BOPJEMOM_00039
+			product	Tyrosine recombinase XerC
+			protein_id	gnl|X|BOPJEMOM_00039
+44614	45159	gene
+			gene	hslV
+			locus_tag	BOPJEMOM_00040
+44614	45159	CDS
+			EC_number	3.4.25.2
+			gene	hslV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65797
+			locus_tag	BOPJEMOM_00040
+			product	ATP-dependent protease subunit HslV
+			protein_id	gnl|X|BOPJEMOM_00040
+45225	46628	gene
+			gene	hslU
+			locus_tag	BOPJEMOM_00041
+45225	46628	CDS
+			gene	hslU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63797
+			locus_tag	BOPJEMOM_00041
+			product	ATP-dependent protease ATPase subunit HslU
+			protein_id	gnl|X|BOPJEMOM_00041
+46653	47426	gene
+			gene	codY
+			locus_tag	BOPJEMOM_00042
+46653	47426	CDS
+			gene	codY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63844
+			locus_tag	BOPJEMOM_00042
+			product	GTP-sensing transcriptional pleiotropic repressor CodY
+			protein_id	gnl|X|BOPJEMOM_00042
+47768	48535	gene
+			gene	rpsB
+			locus_tag	BOPJEMOM_00043
+47768	48535	CDS
+			gene	rpsB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66544
+			locus_tag	BOPJEMOM_00043
+			product	30S ribosomal protein S2
+			protein_id	gnl|X|BOPJEMOM_00043
+48717	49598	gene
+			gene	tsf
+			locus_tag	BOPJEMOM_00044
+48717	49598	CDS
+			gene	tsf
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99171
+			locus_tag	BOPJEMOM_00044
+			product	Elongation factor Ts
+			protein_id	gnl|X|BOPJEMOM_00044
+49735	50457	gene
+			gene	pyrH
+			locus_tag	BOPJEMOM_00045
+49735	50457	CDS
+			EC_number	2.7.4.22
+			gene	pyrH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65936
+			locus_tag	BOPJEMOM_00045
+			product	Uridylate kinase
+			protein_id	gnl|X|BOPJEMOM_00045
+50476	51030	gene
+			gene	frr
+			locus_tag	BOPJEMOM_00046
+50476	51030	CDS
+			gene	frr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99130
+			locus_tag	BOPJEMOM_00046
+			product	Ribosome-recycling factor
+			protein_id	gnl|X|BOPJEMOM_00046
+51403	52173	gene
+			gene	uppS
+			locus_tag	BOPJEMOM_00047
+51403	52173	CDS
+			EC_number	2.5.1.-
+			gene	uppS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60477
+			locus_tag	BOPJEMOM_00047
+			product	Isoprenyl transferase
+			protein_id	gnl|X|BOPJEMOM_00047
+52180	52962	gene
+			locus_tag	BOPJEMOM_00048
+52180	52962	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00048
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00048
+53224	54510	gene
+			locus_tag	BOPJEMOM_00049
+53224	54510	CDS
+			EC_number	3.4.24.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63333
+			locus_tag	BOPJEMOM_00049
+			product	Putative zinc metalloprotease
+			protein_id	gnl|X|BOPJEMOM_00049
+54530	56233	gene
+			gene	proS
+			locus_tag	BOPJEMOM_00050
+54530	56233	CDS
+			EC_number	6.1.1.15
+			gene	proS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5Y3
+			locus_tag	BOPJEMOM_00050
+			product	Proline--tRNA ligase
+			protein_id	gnl|X|BOPJEMOM_00050
+56491	60807	gene
+			gene	polC
+			locus_tag	BOPJEMOM_00051
+56491	60807	CDS
+			EC_number	2.7.7.7
+			gene	polC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63982
+			locus_tag	BOPJEMOM_00051
+			product	DNA polymerase III PolC-type
+			protein_id	gnl|X|BOPJEMOM_00051
+61097	61564	gene
+			gene	rimP
+			locus_tag	BOPJEMOM_00052
+61097	61564	CDS
+			db_xref	COG:COG0779
+			gene	rimP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97S61
+			locus_tag	BOPJEMOM_00052
+			product	Ribosome maturation factor RimP
+			protein_id	gnl|X|BOPJEMOM_00052
+61585	62760	gene
+			gene	nusA
+			locus_tag	BOPJEMOM_00053
+61585	62760	CDS
+			db_xref	COG:COG0195
+			gene	nusA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P32727
+			locus_tag	BOPJEMOM_00053
+			product	Transcription termination/antitermination protein NusA
+			protein_id	gnl|X|BOPJEMOM_00053
+62781	63065	gene
+			locus_tag	BOPJEMOM_00054
+62781	63065	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00054
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00054
+63062	63379	gene
+			gene	rplGA
+			locus_tag	BOPJEMOM_00055
+63062	63379	CDS
+			db_xref	COG:COG1358
+			gene	rplGA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P32729
+			locus_tag	BOPJEMOM_00055
+			product	putative ribosomal protein YlxQ
+			protein_id	gnl|X|BOPJEMOM_00055
+63384	65501	gene
+			gene	infB
+			locus_tag	BOPJEMOM_00056
+63384	65501	CDS
+			gene	infB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65134
+			locus_tag	BOPJEMOM_00056
+			product	Translation initiation factor IF-2
+			protein_id	gnl|X|BOPJEMOM_00056
+65887	66237	gene
+			gene	rbfA
+			locus_tag	BOPJEMOM_00057
+65887	66237	CDS
+			gene	rbfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65967
+			locus_tag	BOPJEMOM_00057
+			product	Ribosome-binding factor A
+			protein_id	gnl|X|BOPJEMOM_00057
+66406	67323	gene
+			gene	truB
+			locus_tag	BOPJEMOM_00058
+66406	67323	CDS
+			EC_number	5.4.99.25
+			gene	truB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65855
+			locus_tag	BOPJEMOM_00058
+			product	tRNA pseudouridine synthase B
+			protein_id	gnl|X|BOPJEMOM_00058
+67338	68309	gene
+			gene	ribF
+			locus_tag	BOPJEMOM_00059
+67338	68309	CDS
+			db_xref	COG:COG0196
+			gene	ribF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG40
+			locus_tag	BOPJEMOM_00059
+			product	Bifunctional riboflavin kinase/FMN adenylyltransferase
+			protein_id	gnl|X|BOPJEMOM_00059
+68424	68693	gene
+			gene	rpsO
+			locus_tag	BOPJEMOM_00060
+68424	68693	CDS
+			gene	rpsO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5X8
+			locus_tag	BOPJEMOM_00060
+			product	30S ribosomal protein S15
+			protein_id	gnl|X|BOPJEMOM_00060
+69063	71159	gene
+			gene	pnp
+			locus_tag	BOPJEMOM_00061
+69063	71159	CDS
+			EC_number	2.7.7.8
+			gene	pnp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5X7
+			locus_tag	BOPJEMOM_00061
+			product	Polyribonucleotide nucleotidyltransferase
+			protein_id	gnl|X|BOPJEMOM_00061
+71395	73068	gene
+			gene	rnj2
+			locus_tag	BOPJEMOM_00062
+71395	73068	CDS
+			EC_number	3.1.-.-
+			gene	rnj2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5X6
+			locus_tag	BOPJEMOM_00062
+			product	Ribonuclease J 2
+			protein_id	gnl|X|BOPJEMOM_00062
+73324	75693	gene
+			gene	ftsK
+			locus_tag	BOPJEMOM_00063
+73324	75693	CDS
+			gene	ftsK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64165
+			locus_tag	BOPJEMOM_00063
+			product	DNA translocase FtsK
+			protein_id	gnl|X|BOPJEMOM_00063
+75698	76411	gene
+			gene	gamR
+			locus_tag	BOPJEMOM_00064
+75698	76411	CDS
+			gene	gamR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31459
+			locus_tag	BOPJEMOM_00064
+			product	HTH-type transcriptional repressor GamR
+			protein_id	gnl|X|BOPJEMOM_00064
+76442	77707	gene
+			locus_tag	BOPJEMOM_00065
+76442	77707	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00065
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00065
+77707	78993	gene
+			locus_tag	BOPJEMOM_00066
+77707	78993	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00066
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00066
+78993	79697	gene
+			gene	phaB
+			locus_tag	BOPJEMOM_00067
+78993	79697	CDS
+			EC_number	1.1.1.36
+			gene	phaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P14697
+			locus_tag	BOPJEMOM_00067
+			product	Acetoacetyl-CoA reductase
+			protein_id	gnl|X|BOPJEMOM_00067
+79802	80629	gene
+			locus_tag	BOPJEMOM_00068
+79802	80629	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00068
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00068
+80648	81040	gene
+			locus_tag	BOPJEMOM_00069
+80648	81040	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00069
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00069
+81074	81652	gene
+			gene	pgsA
+			locus_tag	BOPJEMOM_00070
+81074	81652	CDS
+			EC_number	2.7.8.5
+			gene	pgsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63756
+			locus_tag	BOPJEMOM_00070
+			product	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+			protein_id	gnl|X|BOPJEMOM_00070
+81879	83030	gene
+			gene	cinA
+			locus_tag	BOPJEMOM_00071
+81879	83030	CDS
+			gene	cinA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00226_B
+			locus_tag	BOPJEMOM_00071
+			product	Putative competence-damage inducible protein
+			protein_id	gnl|X|BOPJEMOM_00071
+83195	84238	gene
+			gene	recA
+			locus_tag	BOPJEMOM_00072
+83195	84238	CDS
+			gene	recA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68844
+			locus_tag	BOPJEMOM_00072
+			product	Protein RecA
+			protein_id	gnl|X|BOPJEMOM_00072
+84592	86151	gene
+			gene	rny
+			locus_tag	BOPJEMOM_00073
+84592	86151	CDS
+			EC_number	3.1.-.-
+			gene	rny
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67278
+			locus_tag	BOPJEMOM_00073
+			product	Ribonuclease Y
+			protein_id	gnl|X|BOPJEMOM_00073
+86663	86448	gene
+			locus_tag	BOPJEMOM_00074
+86663	86448	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00074
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00074
+86837	87634	gene
+			gene	ymdB
+			locus_tag	BOPJEMOM_00075
+86837	87634	CDS
+			EC_number	3.1.4.16
+			db_xref	COG:COG1692
+			gene	ymdB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31775
+			locus_tag	BOPJEMOM_00075
+			product	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+			protein_id	gnl|X|BOPJEMOM_00075
+87774	89534	gene
+			gene	korA
+			locus_tag	BOPJEMOM_00076
+87774	89534	CDS
+			EC_number	1.2.7.3
+			db_xref	COG:COG0674
+			gene	korA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O53182
+			locus_tag	BOPJEMOM_00076
+			product	2-oxoglutarate oxidoreductase subunit KorA
+			protein_id	gnl|X|BOPJEMOM_00076
+89535	90401	gene
+			locus_tag	BOPJEMOM_00077
+89535	90401	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00077
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00077
+90495	90788	gene
+			locus_tag	BOPJEMOM_00078
+90495	90788	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00078
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00078
+90922	92466	gene
+			gene	miaB
+			locus_tag	BOPJEMOM_00079
+90922	92466	CDS
+			EC_number	2.8.4.3
+			gene	miaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5W3
+			locus_tag	BOPJEMOM_00079
+			product	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+			protein_id	gnl|X|BOPJEMOM_00079
+92467	92832	gene
+			gene	ymcA
+			locus_tag	BOPJEMOM_00080
+92467	92832	CDS
+			db_xref	COG:COG4550
+			gene	ymcA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31779
+			locus_tag	BOPJEMOM_00080
+			product	putative protein YmcA
+			protein_id	gnl|X|BOPJEMOM_00080
+92859	93350	gene
+			locus_tag	BOPJEMOM_00081
+92859	93350	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00081
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00081
+93653	96271	gene
+			gene	mutS
+			locus_tag	BOPJEMOM_00082
+93653	96271	CDS
+			db_xref	COG:COG0249
+			gene	mutS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A1Y0
+			locus_tag	BOPJEMOM_00082
+			product	DNA mismatch repair protein MutS
+			protein_id	gnl|X|BOPJEMOM_00082
+96284	98293	gene
+			gene	mutL
+			locus_tag	BOPJEMOM_00083
+96284	98293	CDS
+			gene	mutL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65492
+			locus_tag	BOPJEMOM_00083
+			product	DNA mismatch repair protein MutL
+			protein_id	gnl|X|BOPJEMOM_00083
+98308	98841	gene
+			gene	glpP
+			locus_tag	BOPJEMOM_00084
+98308	98841	CDS
+			db_xref	COG:COG1954
+			gene	glpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30300
+			locus_tag	BOPJEMOM_00084
+			product	Glycerol uptake operon antiterminator regulatory protein
+			protein_id	gnl|X|BOPJEMOM_00084
+99306	100124	gene
+			gene	glpF
+			locus_tag	BOPJEMOM_00085
+99306	100124	CDS
+			db_xref	COG:COG0580
+			gene	glpF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18156
+			locus_tag	BOPJEMOM_00085
+			product	Glycerol uptake facilitator protein
+			protein_id	gnl|X|BOPJEMOM_00085
+100253	101749	gene
+			gene	glpK
+			locus_tag	BOPJEMOM_00086
+100253	101749	CDS
+			EC_number	2.7.1.30
+			db_xref	COG:COG0554
+			gene	glpK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5HGD2
+			locus_tag	BOPJEMOM_00086
+			product	Glycerol kinase
+			protein_id	gnl|X|BOPJEMOM_00086
+101907	103580	gene
+			gene	glpD
+			locus_tag	BOPJEMOM_00087
+101907	103580	CDS
+			EC_number	1.1.5.3
+			gene	glpD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5V7
+			locus_tag	BOPJEMOM_00087
+			product	Aerobic glycerol-3-phosphate dehydrogenase
+			protein_id	gnl|X|BOPJEMOM_00087
+103727	104644	gene
+			locus_tag	BOPJEMOM_00088
+103727	104644	CDS
+			EC_number	3.1.1.23
+			db_xref	COG:COG2267
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QNZ7
+			locus_tag	BOPJEMOM_00088
+			product	Monoacylglycerol lipase
+			protein_id	gnl|X|BOPJEMOM_00088
+104662	105597	gene
+			gene	miaA
+			locus_tag	BOPJEMOM_00089
+104662	105597	CDS
+			EC_number	2.5.1.75
+			db_xref	COG:COG0324
+			gene	miaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8CQL3
+			locus_tag	BOPJEMOM_00089
+			product	tRNA dimethylallyltransferase
+			protein_id	gnl|X|BOPJEMOM_00089
+105612	105845	gene
+			gene	hfq
+			locus_tag	BOPJEMOM_00090
+105612	105845	CDS
+			db_xref	COG:COG1923
+			gene	hfq
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31796
+			locus_tag	BOPJEMOM_00090
+			product	RNA-binding protein Hfq
+			protein_id	gnl|X|BOPJEMOM_00090
+106543	106067	gene
+			gene	bsaA
+			locus_tag	BOPJEMOM_00091
+106543	106067	CDS
+			gene	bsaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99097
+			locus_tag	BOPJEMOM_00091
+			product	Glutathione peroxidase BsaA
+			protein_id	gnl|X|BOPJEMOM_00091
+106655	107893	gene
+			gene	hflX
+			locus_tag	BOPJEMOM_00092
+106655	107893	CDS
+			db_xref	COG:COG2262
+			gene	hflX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25519
+			locus_tag	BOPJEMOM_00092
+			product	GTPase HflX
+			protein_id	gnl|X|BOPJEMOM_00092
+107912	109150	gene
+			locus_tag	BOPJEMOM_00093
+107912	109150	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00093
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00093
+109393	109761	gene
+			gene	glnR
+			locus_tag	BOPJEMOM_00094
+109393	109761	CDS
+			db_xref	COG:COG0789
+			gene	glnR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37582
+			locus_tag	BOPJEMOM_00094
+			product	HTH-type transcriptional regulator GlnR
+			protein_id	gnl|X|BOPJEMOM_00094
+109780	111120	gene
+			gene	glnA
+			locus_tag	BOPJEMOM_00095
+109780	111120	CDS
+			EC_number	6.3.1.2
+			gene	glnA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99095
+			locus_tag	BOPJEMOM_00095
+			product	Glutamine synthetase
+			protein_id	gnl|X|BOPJEMOM_00095
+112395	112484	gene
+			locus_tag	BOPJEMOM_00096
+112395	112484	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00096
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00096
+112511	112723	gene
+			locus_tag	BOPJEMOM_00097
+112511	112723	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00097
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00097
+113017	113223	gene
+			locus_tag	BOPJEMOM_00098
+113017	113223	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00098
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00098
+114462	114647	gene
+			locus_tag	BOPJEMOM_00099
+114462	114647	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00099
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00099
+115159	115263	gene
+			locus_tag	BOPJEMOM_00100
+115159	115263	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00100
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00100
+115392	115643	gene
+			locus_tag	BOPJEMOM_00101
+115392	115643	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00101
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00101
+115689	116273	gene
+			locus_tag	BOPJEMOM_00102
+115689	116273	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00102
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00102
+116394	116642	gene
+			locus_tag	BOPJEMOM_00103
+116394	116642	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00103
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00103
+116772	116873	gene
+			locus_tag	BOPJEMOM_00104
+116772	116873	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00104
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00104
+117182	117319	gene
+			locus_tag	BOPJEMOM_00105
+117182	117319	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00105
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00105
+117748	118038	gene
+			locus_tag	BOPJEMOM_00106
+117748	118038	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00106
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00106
+118049	118243	gene
+			locus_tag	BOPJEMOM_00107
+118049	118243	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00107
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00107
+118293	118634	gene
+			locus_tag	BOPJEMOM_00108
+118293	118634	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00108
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00108
+118641	118832	gene
+			locus_tag	BOPJEMOM_00109
+118641	118832	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00109
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00109
+120406	119381	gene
+			gene	ltaE
+			locus_tag	BOPJEMOM_00110
+120406	119381	CDS
+			EC_number	4.1.2.48
+			gene	ltaE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O50584
+			locus_tag	BOPJEMOM_00110
+			product	Low specificity L-threonine aldolase
+			protein_id	gnl|X|BOPJEMOM_00110
+120676	120873	gene
+			locus_tag	BOPJEMOM_00111
+120676	120873	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00111
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00111
+120931	122412	gene
+			gene	cls
+			locus_tag	BOPJEMOM_00112
+120931	122412	CDS
+			EC_number	2.7.8.-
+			gene	cls
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63801
+			locus_tag	BOPJEMOM_00112
+			product	Cardiolipin synthase
+			protein_id	gnl|X|BOPJEMOM_00112
+122596	123495	gene
+			gene	lnrL
+			locus_tag	BOPJEMOM_00113
+122596	123495	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1131
+			gene	lnrL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P94440
+			locus_tag	BOPJEMOM_00113
+			product	Linearmycin resistance ATP-binding protein LnrL
+			protein_id	gnl|X|BOPJEMOM_00113
+123464	124195	gene
+			locus_tag	BOPJEMOM_00114
+123464	124195	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00114
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00114
+124199	125290	gene
+			locus_tag	BOPJEMOM_00115
+124199	125290	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00115
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00115
+125287	125889	gene
+			gene	desR
+			locus_tag	BOPJEMOM_00116
+125287	125889	CDS
+			db_xref	COG:COG2197
+			gene	desR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34723
+			locus_tag	BOPJEMOM_00116
+			product	Transcriptional regulatory protein DesR
+			protein_id	gnl|X|BOPJEMOM_00116
+126181	126002	gene
+			locus_tag	BOPJEMOM_00117
+126181	126002	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00117
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00117
+126320	126853	gene
+			gene	nucH
+			locus_tag	BOPJEMOM_00118
+126320	126853	CDS
+			EC_number	3.1.31.1
+			gene	nucH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P43270
+			locus_tag	BOPJEMOM_00118
+			product	Thermonuclease
+			protein_id	gnl|X|BOPJEMOM_00118
+127850	126996	gene
+			locus_tag	BOPJEMOM_00119
+127850	126996	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00119
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00119
+128172	128756	gene
+			locus_tag	BOPJEMOM_00120
+128172	128756	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00120
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00120
+130192	128810	gene
+			gene	yclM
+			locus_tag	BOPJEMOM_00121
+130192	128810	CDS
+			EC_number	2.7.2.4
+			db_xref	COG:COG0527
+			gene	yclM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P94417
+			locus_tag	BOPJEMOM_00121
+			product	Aspartokinase 3
+			protein_id	gnl|X|BOPJEMOM_00121
+130383	131663	gene
+			locus_tag	BOPJEMOM_00122
+130383	131663	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	BOPJEMOM_00122
+			product	hypothetical protein
+			protein_id	gnl|X|BOPJEMOM_00122
+131669	132730	gene
+			gene	thrC
+			locus_tag	BOPJEMOM_00123
+131669	132730	CDS
+			EC_number	4.2.3.1
+			db_xref	COG:COG0498
+			gene	thrC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0R220
+			locus_tag	BOPJEMOM_00123
+			product	Threonine synthase
+			protein_id	gnl|X|BOPJEMOM_00123
+132732	133646	gene
+			gene	thrB
+			locus_tag	BOPJEMOM_00124
+132732	133646	CDS
+			EC_number	2.7.1.39
+			db_xref	COG:COG0083
+			gene	thrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8Y4A6
+			locus_tag	BOPJEMOM_00124
+			product	Homoserine kinase
+			protein_id	gnl|X|BOPJEMOM_00124

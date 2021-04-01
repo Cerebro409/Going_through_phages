@@ -1,0 +1,57 @@
+>Feature gnl|X|LCOCJHGB_1
+866	51	gene
+			locus_tag	LCOCJHGB_00001
+866	51	CDS
+			EC_number	3.1.1.23
+			db_xref	COG:COG2267
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O07427
+			locus_tag	LCOCJHGB_00001
+			product	Monoacylglycerol lipase
+			protein_id	gnl|X|LCOCJHGB_00001
+1727	1482	gene
+			locus_tag	LCOCJHGB_00002
+1727	1482	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LCOCJHGB_00002
+			product	hypothetical protein
+			protein_id	gnl|X|LCOCJHGB_00002
+2431	2000	gene
+			locus_tag	LCOCJHGB_00003
+2431	2000	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LCOCJHGB_00003
+			product	hypothetical protein
+			protein_id	gnl|X|LCOCJHGB_00003
+2933	3379	gene
+			gene	argR
+			locus_tag	LCOCJHGB_00004
+2933	3379	CDS
+			gene	argR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63580
+			locus_tag	LCOCJHGB_00004
+			product	Arginine repressor
+			protein_id	gnl|X|LCOCJHGB_00004
+3648	4883	gene
+			gene	arcA
+			locus_tag	LCOCJHGB_00005
+3648	4883	CDS
+			EC_number	3.5.3.6
+			gene	arcA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63554
+			locus_tag	LCOCJHGB_00005
+			product	Arginine deiminase
+			protein_id	gnl|X|LCOCJHGB_00005
+4969	6390	gene
+			gene	arcD
+			locus_tag	LCOCJHGB_00006
+4969	6390	CDS
+			db_xref	COG:COG0531
+			gene	arcD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18275
+			locus_tag	LCOCJHGB_00006
+			product	Arginine/ornithine antiporter
+			protein_id	gnl|X|LCOCJHGB_00006

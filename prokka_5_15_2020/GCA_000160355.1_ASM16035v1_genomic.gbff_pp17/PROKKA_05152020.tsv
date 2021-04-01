@@ -1,0 +1,11 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MJEIIJNA_00001	gene	510				
+MJEIIJNA_00001	CDS	510				hypothetical protein
+MJEIIJNA_00002	gene	1071	murG			
+MJEIIJNA_00002	CDS	1071	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+MJEIIJNA_00003	gene	615				
+MJEIIJNA_00003	CDS	615				hypothetical protein
+MJEIIJNA_00004	gene	201				
+MJEIIJNA_00004	CDS	201				hypothetical protein
+MJEIIJNA_00005	gene	660	arlR			
+MJEIIJNA_00005	CDS	660	arlR		COG0745	Response regulator ArlR

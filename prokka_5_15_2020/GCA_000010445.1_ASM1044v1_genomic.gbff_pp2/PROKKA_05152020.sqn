@@ -1,0 +1,776 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "IJBBBJFL_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 6319 ,
+            seq-data
+              iupacna "TCATAGATGAGATTGGGTACTTACCTATTGGAAGTGAAGATGCCAAACTATTCTT
+TCAATTAATAGATTTAAGATATGAGAAGAAAAGTACAATATTTACCACAAATATCAATTTCAACTTATGGAATGAAAT
+ATTTGATGATCCAAAAATCGCAAATGCGATTTTGGATAGGATATTGCATCATTCAAGTGTAGTTAAAATCAAAGGCAA
+ATCGTATAGATTAAAAGATCATTCACCTAAGAAGGAAATTACTTAGCAAACAATTTTGTACATTCTTATACAATCATT
+TATGTACATTTTTATATTGACATTTACAACCTACAAGATTTACATATAAAATTCTATCATGTCTGCTATATATAAACG
+AAATGATATTAGAATCCTTCATTTTCAACTTGTTTAAAATTACGTTTAATGCCGTTATAAGAATATACAACATTATAT
+AATTTTACTTGGGCGTCATGGACACTTGAGAAGGGCATTCTTACATCGTCCATATTTTTAACTTCGTGTCGAAATGCT
+TTTTCAGCTTTTTGTCTTTCTGCAAGCGACATACTTAGCCATTCTTCTTTGCTAAATAAATCTTCGAATCGAAAATCA
+AATGCGGTTCTTTTACTTTCTGCTCTTAATGCTAAAACACGCTCATGATATGTCACGTTTTATTCCTCCCTCTAATCA
+TTCAATCGAATGATAAATCACAGTATTAACTTTAGTACTAATATAATGTTTTTACAATAAAGAAGTGACGATTTTTCA
+ACATTTTTAAAAATAAAAAATATAAGCAACGATTAATTGTATATTTAGAATGGCTTGTAATGTAATTTATCTATGAAA
+ATGAAGCGAGTTATTATGACCGTTATATGAATTGTGATACGCTTTTTAAAAGTAATATGTATTTATGATTTACCCTGA
+AAAAATAAAAAGAATCAAAGGAGTCGATCATTATGACAGTATTAACAGATAAAGTAGCAGTAGTTACAGGTGCAGGTA
+GTGGTATTGGAGAAGCAATTGCAACATTACTACATGAAGAGGGTGTGAAAGTCATCTTAGCCGGTAGAAATAAAGATA
+AACTACAAAATGTGGCGAATCAATTAGCTCAAGATAGTGTGAAGGTAGTGCCAACAGATGTAACGAAAAAAGAAGAAG
+TCGATGAATTGATAAAAATTGCACAACAAACATTCGGTGGTTTGGATATTGTTATCAATAGTGCGGGACAAATGTTAT
+CGTCTAAGATTACTGATTATCAAGTAGATGAGTGGGATAGTATGATTGATGTGAATATCAAAGGCACTTTATATACGG
+CACAGGCTGCATTACCAACTATGTTAGAACAATCAAGTGGTCATCTTATTAACATTGCATCTATTTCTGGCTTTGAAG
+TAACGAAAAGCAGTACGATTTATAGTGCGACGAAAGCAGCAGTTCACACTATTACTCAAGGATTAGAAAAAGAGTTGG
+CAAAGACAGGTGTTAAAGTAACAAGCATTTCTCCAGGAATGGTAGATACAGCAATAACTGCCGCATACAATCCAACAG
+ATCGTAAAAAACTTGAACCACAAGATATTGCAGAAGCAGTATTATATGCATTAACACAACCAAAGCACGTTAACGTGA
+ATGAAATTACAGTGCGTCCTGTATAAAAAGGTGTTTGAGGTCTGGGATATAGGCATTTAATGTAATAGCTATCGGTTT
+TGTTAATATTAGTAAGGCAATAATGATATAAGGGCATGATAGACAATTATTCCTTGTACAATTCTCAGTAATTGGTGA
+TTTTAACAATCAAGTGAGTGAAGGCGACTATATTAGTGTTATGATTTATAATCTATAATGTTCATAATTACAGAACTA
+TAAAAACTTTTTCATTTCCTACCATATTCTAGGAGTTGCTTTAATGACCAAAAAACATGTTTTTATAATTATTGGTGT
+TATTTTATGTATATGTATAGTTGCTACAGTCATTTATTTAAAAGTGAAATATGACGAAAAAGAAAAGCAAAAATCAAT
+TTATTATAAAGAACAACAAGAGCGTATTACACTCTATCTCAAGCATAACACTAAAGAACCGAACACGATCAAATCTGT
+GCATTTCACAAGTTTAAAGACAGGACCTATGGGCGATGCCGTAATTGAAGGTTACATCAATGAAAATAAAGAAGATAA
+TTTTGTTGCATATGGGTCTCCAGAACATAATTATCAATTTGGTGGAAGTTTAATCAAAAGTAAAAATTTAAGCACATT
+ATTAAAACCAGCACATCAAACCAAAACGCCTGATGATATAAAAAAAGAACTAGATTCTAAAAAGAACGACCGCTAAAA
+CAATGCGGTCGTTTTAATTTTGCTTTCAAGTTAATCATACTTACACATAAAAATGAAAAGTTGAATTTTTAGTACAAT
+TTTCACTGTATTTATCTGTTAACCACTTCATAACCGCAATATTCCGATGATCTTAAATGAACACTTTTGGCTGCTTTT
+CCTTGACCTAGATTAAAATTATAGATTTTCTTTGTAAGAGTGTGTTTTGTAGTATCATAAATATGTAAACTGTATAAA
+ATCCCACCACATTTTAGGAGCTGGTGATAGATGTCGAAAAAGAAAATTTTAATATTAACTAGTATTATGTTAATCATA
+TTAATTAGTGTTGCAAGTATCTATTTTAAAATGAAATATGACGAAAAAGAAAAACAAAAATCAATATACTATAAAGAA
+CAACAAGCGCGCATTACACTTTATCTCAAGCATAACACTAAAGAACCGAACACGATTAAATCTGTGCATTTCACAAAA
+TTGGAAACAAGTCCTATGGGAAGTGCTGTGATTGAAGGTTACATAAATGAAAACAAAAAAGATGATTTTGTTGCCTAT
+GCATCACCTGAAAATAACTTTCAATTTGTAGGTGATTTAATTAAAAGTGAAAGATTAAGTGAGTTACTAAAACCAGCG
+CATCAATTAAAATCACCAGATGGTATAAAAAAAGAACTAAATAAAAAGAAGAGTTACTAAAGTTAGGAGTTGCTTTAA
+TGTCCAAAAAACATGGTTTTATAATTATTGGTGTCATTTTATGTATATGTATAGTTGCATCCGTCATTTATTTAAAAA
+TGAAATATGACGAAAAAGAAAAACAAAAAGAAATTTATTACAAAGGACAACAAGAGCGCATTACACTTTATCTCAAGC
+ATAATACCAAAGAACCCAATACCATCAAATCTGTACATTTCACAAGTTTAAAAAGAGGACCTATGGGCGATGCAGTAA
+TTGAAGGTTACATCAATGAAAATAAAGAAGCTGATTTTGTTGCATATGGGTCACCTGAAGAAAACTATCAATTCACTG
+GAGGATTGACAGGAAGTAATGAAGTCTTAGGAAAATTAAAGAACGCTGAAAATTTAAAATCTCCTGAAAAAATTAAAG
+AAGAAATAAACAAAAAGAAAAACACTAAACAGTGATTTTCACGTAATATTTAGCTTGATTTGTACATGTTTAATATCG
+TTTGCTATCGAAGGTGTTTCGCAATTAATATAAATCACTTCATCATCACCAATACTTCCCCAGTTTTTTACAGTACAT
+TAACACAAGCGAACCCCATTAATGTAAATGGAATAATAGTTTGGCCATTATAAGAACAATATATACCTAATAACAATG
+GCGATGGCGTGATTTATTGACATTATCAAATTTTCTCAAATGTGTGTGATTTTTTATAAAAAAGGGTAGAGCAAGGTA
+TAATATCCTTTCAATCTGTTTTCATATTTTATATATTTTTTAAATATAAGCGCTAAATGTTTTAACTAAAGCATAGAT
+TGACAAGATGTTATACAGAATTTCAAATTCTATCCAATATTGTTCGAAGTGTAGTATCACTGGATTGGTATTAAACAA
+TGTAAAGGAGAGATTGCAAATGCCGTATAATTACAAGAAACAAAATGGAGAGTTAATGTCTGTAATGAGCCAAGGTGA
+AAAGTTTATTCATCAATCACCCGTTAATGATGAACTTAGTGCATTGATTAAGTTATTAATTTCTAAAATTAACGGTTG
+TCATTATTGTGTTGATATCCATAAAAAAGAATTAAAGGAATTGGGTGTAACACAAATGAAAATTGATGAAGTCTTGAG
+TTTTAGACATTTAGATTTATTTACTGATCAAGAAAAAGTGACGCTTGAATTTGCAGAAATGTTAAATTCAATCAAAGA
+CTTTAAGAAGTTTGAAATTATTGACCGGCTAAAATCATTTTATGATGAAGAACAAATTATTGATCTTGTCTTTGTTGT
+AAACCAAATTAACGGTTGGAACAGACTAAATATTATTAGTGATAAACTATAATTGTTCATATAAATACAGAGTTTCAT
+CTCGAGCGCTATATCATAACAAATCATGCCACTATACAGGTCAAATCTTGTATAGTGGCATTTTAATTTATCCCTTTG
+AATACTGTTATTTAACGAATATCGGTCCACCTGGTCCAACAGGGATACCTAATAGGAACCAAATAATGACAAATACTG
+TCCACACAATACTTAGTGCGATTGAATACGGCATTAAACTAGAAAGTAAGGCTCCGAGTTTCATGCGTTTATCGTATT
+TTTGTGCATAAGTTAATAATAAAGGTAAGTACGGCATCATCGGTGTAATTGGATTGGTAATTGAATCTCCTACACGGT
+AAATGACTTGTGTGAATGCGGGATGAAAGCCGATAAGGATTAACATTGGTACGAATATCGGTCCTAAAATACCCCATT
+TAGCCGATGCGCTTCCGATTAACATGTTGACCATTGCACTCAGTACGATAATACCTAGTATCAATACAATACCGTTTT
+GATGTTCTAATAATTTGGCACCTTTAACAGCAGCGATAATTCCTAAATTACTCCACTTTAAATACGCAAGTAGCTGTG
+CTGCAAAAAACACAATAACGATAAATGTTCCCATTGATCCTACAGCATCGCCGAACATTTTACCTAAGTCTTTTGTAT
+TTTTAATTTCTTTGCTTAAAATCCCATAAACTAATCCAGGTACTAAAAATACGACAAGAATAATTAATCCGACACCGT
+TAATTAATGGCGCATCGTCTAGTAAGCTGCCTGTTTTAGCATTTCTTAAAAAGCTATGTTCAGGAATGGCTGTAATAA
+TTAATAAAATAATTGTGACTATGAAACTGATATTTGCCCATTTTAAAGCATGTGCTTCTTTGTCAGTAATATGTGAAG
+ATGTTTCTTCATGGTCATCATGCATTAAACTGTCATCATATTTTCCTAATCTAGGAATAATGAGCTTAGTTGTAACTA
+GCAATATCGTAGGAAGTAATACAACGACACTCGCTGCGATAAAGTACCAGTTCATAGCAACGTTTGTTTTAATAGAAT
+CTGAAACGATACGTGTTGCCGGTTCTGTAAATGAATAGACCAAAGCATCTTGCATACCAACAACTATATTTGCTGCAA
+ATCCTCCAACAGCGGAAGCATATGCCATCGTTAAACCAGCAATAGGGTGATAGCCAATTTTAATAAAAAGCATTGCTG
+CAAGCGGCGGCAAGATAATTGTCGCAGCATCGCCGGCTGTACTACCTAAAATACCAATTAATATAATAGTCGGTAAAA
+TTAAAAATCGTGGTGCGCGATTCACAACAGAAATCATTAACTTGTCGAAGTATCCTGTTTTCTCTGCAACACCAATAC
+CAATCATCACTGCTAGTACTAAGCCTAATGCTGGGAACTCTGAGAAATTTTTAATCGTATCATTCATTATCATCGTAA
+ATCCATCATGGCTAATTATATTTTTAATATAAATGGTTTGATGTGTACCTGGATGCTTAACAGATACATTAAATAATG
+AGATAACCCACGTCATAATGGCTAAGCCTATACACATTAAAAAGAATAAGACGCTAGGATCTGGCAATTTATTTCCAA
+TTTTTTCAACACTATTCAAGAAACGATTGACGATAGACCCCTTTTGTTGATGTTTTGATGTCATCAATGATTCCCCCC
+TTTGTTAAATATTTAAAGTGTAACAAAAAATACTCTCAAAAGTAACAATTTTCAGAAAATGAAAAGACTAATATTGTT
+AAATATTTTGAGTTATTCAATAGAAATTGTATAGCAGAGAGTAGCTAAGACTGCCTGGAGACTTATCTATTAGGTTTA
+TGAAGCATTGAACAGTGGAAAATAAGGACTGTAAGTTTAAGATATGTTGTATAGGAGTGACTGAATGAAACGTTTGGA
+AAATAAAGTTGCAGTCGTAACAGGAGCAAGTACAGGTATCGGACAAGCTTCTGCAATCGCTTTAGCTCAAGAAGGTGC
+GTATGTATTGGCGGTAGACATAGC" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 8 ,
+                    data
+                      gene {
+                        locus-tag "IJBBBJFL_00001" } ,
+                    location
+                      int {
+                        from 375 ,
+                        to 656 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "IJBBBJFL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      gene {
+                        locus-tag "IJBBBJFL_00002" } ,
+                    location
+                      int {
+                        from 945 ,
+                        to 1640 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "IJBBBJFL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      gene {
+                        locus-tag "IJBBBJFL_00003" } ,
+                    location
+                      int {
+                        from 1892 ,
+                        to 2314 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "IJBBBJFL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus-tag "IJBBBJFL_00004" } ,
+                    location
+                      int {
+                        from 2581 ,
+                        to 3000 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "IJBBBJFL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus-tag "IJBBBJFL_00005" } ,
+                    location
+                      int {
+                        from 3018 ,
+                        to 3443 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "IJBBBJFL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      gene {
+                        locus-tag "IJBBBJFL_00006" } ,
+                    location
+                      int {
+                        from 3896 ,
+                        to 4318 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "IJBBBJFL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      gene {
+                        locus "abgT" ,
+                        locus-tag "IJBBBJFL_00007" } ,
+                    location
+                      int {
+                        from 4430 ,
+                        to 5968 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "IJBBBJFL_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "IJBBBJFL_00001" } } ,
+          descr {
+            title "hypothetical protein IJBBBJFL_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 93 ,
+            seq-data
+              ncbieaa "MTYHERVLALRAESKRTAFDFRFEDLFSKEEWLSMSLAERQKAEKAFRHEVKNMD
+DVRMPFSSVHDAQVKLYNVVYSYNGIKRNFKQVENEGF" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 92 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "IJBBBJFL_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "IJBBBJFL_00002" } } ,
+          descr {
+            title "putative oxidoreductase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 231 ,
+            seq-data
+              ncbieaa "MTVLTDKVAVVTGAGSGIGEAIATLLHEEGVKVILAGRNKDKLQNVANQLAQDSV
+KVVPTDVTKKEEVDELIKIAQQTFGGLDIVINSAGQMLSSKITDYQVDEWDSMIDVNIKGTLYTAQAALPTMLEQSSG
+HLINIASISGFEVTKSSTIYSATKAAVHTITQGLEKELAKTGVKVTSISPGMVDTAITAAYNPTDRKKLEPQDIAEAV
+LYALTQPKHVNVNEITVRPV" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      prot {
+                        name {
+                          "putative oxidoreductase" } ,
+                        ec {
+                          "1.-.-.-" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 230 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "IJBBBJFL_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "IJBBBJFL_00003" } } ,
+          descr {
+            title "hypothetical protein IJBBBJFL_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 140 ,
+            seq-data
+              ncbieaa "MTKKHVFIIIGVILCICIVATVIYLKVKYDEKEKQKSIYYKEQQERITLYLKHNT
+KEPNTIKSVHFTSLKTGPMGDAVIEGYINENKEDNFVAYGSPEHNYQFGGSLIKSKNLSTLLKPAHQTKTPDDIKKEL
+DSKKNDR" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 139 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "IJBBBJFL_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "IJBBBJFL_00004" } } ,
+          descr {
+            title "hypothetical protein IJBBBJFL_00004 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 139 ,
+            seq-data
+              ncbieaa "MSKKKILILTSIMLIILISVASIYFKMKYDEKEKQKSIYYKEQQARITLYLKHNT
+KEPNTIKSVHFTKLETSPMGSAVIEGYINENKKDDFVAYASPENNFQFVGDLIKSERLSELLKPAHQLKSPDGIKKEL
+NKKKSY" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 138 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "IJBBBJFL_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "IJBBBJFL_00005" } } ,
+          descr {
+            title "hypothetical protein IJBBBJFL_00005 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 141 ,
+            seq-data
+              ncbieaa "MSKKHGFIIIGVILCICIVASVIYLKMKYDEKEKQKEIYYKGQQERITLYLKHNT
+KEPNTIKSVHFTSLKRGPMGDAVIEGYINENKEADFVAYGSPEENYQFTGGLTGSNEVLGKLKNAENLKSPEKIKEEI
+NKKKNTKQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 140 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "IJBBBJFL_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "IJBBBJFL_00006" } } ,
+          descr {
+            title "hypothetical protein IJBBBJFL_00006 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 140 ,
+            seq-data
+              ncbieaa "MPYNYKKQNGELMSVMSQGEKFIHQSPVNDELSALIKLLISKINGCHYCVDIHKK
+ELKELGVTQMKIDEVLSFRHLDLFTDQEKVTLEFAEMLNSIKDFKKFEIIDRLKSFYDEEQIIDLVFVVNQINGWNRL
+NIISDKL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 139 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "IJBBBJFL_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "IJBBBJFL_00007" } } ,
+          descr {
+            title "p-aminobenzoyl-glutamate transport protein [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 512 ,
+            seq-data
+              ncbieaa "MTSKHQQKGSIVNRFLNSVEKIGNKLPDPSVLFFLMCIGLAIMTWVISLFNVSVK
+HPGTHQTIYIKNIISHDGFTMIMNDTIKNFSEFPALGLVLAVMIGIGVAEKTGYFDKLMISVVNRAPRFLILPTIILI
+GILGSTAGDAATIILPPLAAMLFIKIGYHPIAGLTMAYASAVGGFAANIVVGMQDALVYSFTEPATRIVSDSIKTNVA
+MNWYFIAASVVVLLPTILLVTTKLIIPRLGKYDDSLMHDDHEETSSHITDKEAHALKWANISFIVTIILLIITAIPEH
+SFLRNAKTGSLLDDAPLINGVGLIILVVFLVPGLVYGILSKEIKNTKDLGKMFGDAVGSMGTFIVIVFFAAQLLAYLK
+WSNLGIIAAVKGAKLLEHQNGIVLILGIIVLSAMVNMLIGSASAKWGILGPIFVPMLILIGFHPAFTQVIYRVGDSIT
+NPITPMMPYLPLLLTYAQKYDKRMKLGALLSSLMPYSIALSIVWTVFVIIWFLLGIPVGPGGPIFVK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      prot {
+                        name {
+                          "p-aminobenzoyl-glutamate transport protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 511 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "IJBBBJFL_00007" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "IJBBBJFL_00001" } ,
+                location
+                  int {
+                    from 375 ,
+                    to 656 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "IJBBBJFL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "IJBBBJFL_00002" } ,
+                location
+                  int {
+                    from 945 ,
+                    to 1640 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "IJBBBJFL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q7A3L9" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "IJBBBJFL_00003" } ,
+                location
+                  int {
+                    from 1892 ,
+                    to 2314 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "IJBBBJFL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "IJBBBJFL_00004" } ,
+                location
+                  int {
+                    from 2581 ,
+                    to 3000 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "IJBBBJFL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "IJBBBJFL_00005" } ,
+                location
+                  int {
+                    from 3018 ,
+                    to 3443 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "IJBBBJFL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "IJBBBJFL_00006" } ,
+                location
+                  int {
+                    from 3896 ,
+                    to 4318 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "IJBBBJFL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "IJBBBJFL_00007" } ,
+                location
+                  int {
+                    from 4430 ,
+                    to 5968 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "IJBBBJFL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P46133" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG2978" } } } } } } } } }

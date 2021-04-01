@@ -1,0 +1,330 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GBJONDLN_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 4674 ,
+            seq-data
+              iupacna "TATTCCTCCTCTTGTCTTTCATAAGGAAGTACACACCAAAAAGTGGTACCGCTCG
+ATGTCGATTCAAATTGTAATGCTGCGGATTTTCCAAATAATCCTTTTAGGCGTAAGTTTAAATTTTCTAAAGCACTAC
+CAGTTCCAGACTCTGATTCTACAGATGTTTCTCCCAACAAATGCATTTTATCTTTAGAAATACCCTGACCATTATCTT
+GTACAATAATACGTACATGTGTTGCAGTTTCTTTAATCACTGACACGTCAATATCGTTACCTTGCTTTCGATTCGTAA
+ACGCATGTTTGATGGCATTTTCAACTAAAATTTGAATTAAAAATGGTGGTACAAGCACATCGCGATACTTGTCTTCAA
+CATTAATATTGATATTAAATCTTCCTGGATAACGTGCTTGTTCGAGTGATAAGTATGCACGCACTTGACTTAACTCTT
+TATCTAAAGTAATCGTATGTTGCTTTGAGCCTTGTAAATTCGCTCTGAAAAAATAACTCAATTCTAATAGTAACTCTC
+GTGCCTTTTCGCTATTTATTCTAACTAAAGCTGAAATCGTGTTAATTGAATTGAAGAAAAAATGCGGACTCACTTGTG
+CCTGCAATGACTTAATTTCAGCATCTTTCAATAACTTACTTTGCGTTTCGGCTTCACCAAGTTCAATTTGGCTACTAA
+AAATATTTGCCAATCCTTCTGCAAGTTGACGTTCCACAAAAGTTAAATCATTAGGGTTTGTAAAATACATCTTCAATG
+TACCGACGATAGAACCATGCATCTCAAGTGGTATCACGATAGCTGCTCTAAGCGGGCAATTCGGATGACTACAACCAA
+TCTCTTCTTTAGTATGAACTTCTTTCAACTTTCCTGATTTCAATACATCTTTAGACAGACTTGTTAATATTTCATTTG
+TTGGTATGTGATGATCACTACCTGCACCTACATGCGATAAGATTTCATTTTTGCTTGTAATTGCTACGGCAGATACTT
+TCATTAAATTTTTAATAATCATCGCAATTTGCTGTGCCGATTCTCTATTCAATCCTTCTTTAAAATACGGCAATGTCT
+GGTTCATCAATTGCAGTACATCATGTGTTTGAACAGCCTTCATTTGCTCCTCTTGCTTTAATGTTGAAATGATAATAG
+ACATAAAAATCGCCGTACCAACGCTATTAACAATAATCATTGGTAGTGCAATTAATGATATGAGGTCAACCGCATATG
+CTTTGTCGTGGGAAAATGTTAAAATGCTCAACATTTGAATCATTTCCATAACAATTCCAATCATGGCACTTTTCGCAA
+TACTCGGGTAACGCTTGCGTCTTTGAGCTTGTAAACCAAAATAACCAGCAATTATACCGATAAATATAGATGAGATAA
+GATAAACTTGTGCATCCGCCCCACCCATATACACTCTGAAAATACCTGAAATAACGCCAACAAATAGACCTACAAAAG
+GGCCACCAACTAATCCTGCGACACCTATTGTCAATACACGTGTGTTAGCTAAAGATACATCATCATCTAAACGGAAGT
+ACACACTTCCTGACAAACTATGTTGATGATCGATGACGATACCAGTTAAATTAGACATTAAGGCAAACAAACTGAAAA
+TAATACATAATTGCCAACGTGCTTTCCATGTACGTCGACGATTCATTAAGTTTTTAAAATATGGAATATTCATCAACA
+CATAGGCCAAAATAATAATTAAACCTACACGCTCAAGTAATAACATTGTTAGCGATAGCACGATAGCACCTCAGTGAA
+TTATAATTATGTTTATTTTATCATAATAGTGCATGTAAAATTCATGAATAAATTATTAAAAAAACACGATACTATTTA
+ATTACCTATACCATTAAAATTTCATATCAATTCTTATGCTAAGTTGACAATTTTCCTTTTCAAAATAATGACTATCAT
+GTCACTAAATTTCTGTTAAGTATAGCGAAAAACTGCTGACATTACTTTGCCAACAGTTTCTAATCGCGTTATTTATGA
+TACTTTTTTAAATAAAACATGATTCTCTAAATGAACATGCTCATGTGTTAACACTTCAAGTGCTTTTAATCTCTGATA
+AACGAGTCGCCAAGTACCACATGCCTCTATCGGTGGTTCATAGCTTGATGTTAAATCGCTCATTTTCACTAACAATTG
+TCCCGTTGCAATGTGATCAGATACTAAATCATCAATCACTGTATTAATATCGTCTACTACTTCACCTTGTTCATATTT
+AATGAGTTTTGGAAAATCAACATCATCTTCTTTTTGCATATGCTCTAACATGCCATTTTTAAATGTATCGTATGTTGC
+TTTTAACTCAACTAAATATGGATGATTAGGTCCATGTACTTTCGATAACTTTGTCACATAAGGTGTTAAATTTTTAAA
+TTCTTCTCTTAGAGGTTCATGATATGCTGCTTGAATATATTGAATAAGTGATGAAACATTTAAAAATTTAGGATTTAA
+CGAACCTGGTGTATTCGTTTGTTCAACTTCATTGAGACGTTGTAATAATTCGTTCAAATCTACATTTTTCTTTTCTAA
+GACTGCTGCTTCTATACTTACTTGTCCGCCACAACAAAAATCTATTCCCACACTTCTAAAAATATCTGCTGCTTTCGG
+ATAATCAGTTACTACATCTGCTACTATGTCATTTTTATTTATCATTATAGATAACCTCCTCATTTTCAGTGTATACAA
+TTTAATGTATTTGAAAATGATAAACGAGGAAATGTCATAATCATGTCATAAACAGCAAAATAAAACCCTCAAATCATG
+TTAGTTCACATAGATTTGAGGGCATTTATTATTTATTTTAGCGAGTAAGTCATATGTGCAGTGTTTAACTTAACAATA
+TTTTTGAAGTCTCGCTTCTTAATATCTTTACTAAGTAAGATTTCCACTTCGTTTTCTGACGTTTGGCTTAACATTCCC
+ATCACCATGTCGTCTTTTAGCACGACACTAGCCATACCTTCTTCAAATACATAACCACGATCCAGACCGGTTAAAATG
+ATTTTGTTTTTACCTTTTAACTTCATTGAGATTGAATCCGTTAATGTAATAGCTGTAAAGTATAACGAAATGTTATTA
+AAGTCTTTTGTGAAATACGGTGTTAATCTATAAAAATCATTATTCAAATGAATTAATGCACTTGTTTCTGCAGTATAT
+GCATATTTATTACGTTGATTACCAACACGCACTTCAAATACTTCCGTACCTATTTGGACTTCTAAGAAAACATCCCAA
+ATTTTTTCTTTAGGTAAATCCGCTTTAATATCTTCTAACATAATGTTAAAACGATATTGTTTATTCGCATTGACAGTT
+AAAGGTACATACATTGTGTGCTTCTTGTTTCGTGAATGTAATTTAAGTCTGACATCATAATGTCCTTCGCCAATCATA
+AATTCATTTAACGTTAGCTCTGTAACAATTTTATGATTATCAAATTTAAATGCTGTCATTTTCACTTTTGGCTTAGCG
+ATATCAATGCCTTCAAAGTATGGTTCGCCTTCATTGAATTGAATGTTTAATTTACCATCTACAATATCAAAACGGTAG
+TATTGACCTTGACGGTAACTTTCTTCTACAGTTCTATAGTTGTCTATATCTTTCGCTCTCGCGTAGTGCAACAATGGT
+CGTAATTTACTCATCACCAATGCATCTACACGTTCTGGAACTGCTTGTATAAAGTCTCCTAGAGCATTAATCCATTGC
+GGTTGATCTTCTAGTTTAACTTTAAGTGAGAAGCCATTCGTACGAGAAAAACTAAAATGACGATTTAAAAATTCTGCT
+AAGATTTGATCTTTATGAGCTTCTTCTAAATCTGCATTTAATATTTCTACAGCAATCAATCTCATGACTTCGTAAAAG
+TCTTCAGGTGAAACATACGCACTACTCATATGTTCCCCTTCACGCTTTGTAGCATAATAATACGCTTTATCACTTAAC
+ACACTGATTCGATTTGCATTCAAATATGCTTTCATTGTAAATAATTGATCTTCTGCACTCTTTAATTCTTCTGGAAAA
+TAAATGTCATTATCTTTTAGTAATGCTGTTCTATAGATTTTAGTCGGGCTTAAAGTATAGATAATTCTTGAATTTAAC
+AATGTAACTTCAGGTGCTGTTTCTTTAAACATAGATTGTGGTACACCACGACCATTAACACCTTTCATTTTAATCAAT
+AAGACATCTGAGTGATGTTCATCAATAAATGCTGCTGCATCCTTTAAAGTCTCTTTGTTTATATAGTCATCGGAGTCC
+ACAAATAATACAAATTCACCTTCTGCTTGTTTTAACGCCACATTTCTAGGTTTACCTGGACCACCAGAATTTGTTTCG
+AGTTGACTTACTTTCAAGTTCAATTTATTGCGATACTTTTCAACTATTTGTAACGTTTGATCTGTTGAACAGTCATCA
+ACTACAACCACTTCAAATTCAGTTTTCGGAAAATCTTGTTTCGCAAGGCTATTAAGTAATTCTGTTATATACTTTTCT
+GAATTGTATGTTGGAACTATTACTGAAAATTTCATCATTATACCTCTCCCACTTTGAATACTATATAAACTTAGCTAC
+CAAATAAATTTCTGACTAAACGCTCACTTGATCGGCCATCTTGATATTTAAAATGTTTATCTAAGAATGGAATGACTT
+TTTCTCCTTCATAATCT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 3 ,
+                    data
+                      gene {
+                        locus "scdA" ,
+                        locus-tag "GBJONDLN_00001" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 2673 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GBJONDLN_1" } } } ,
+                  {
+                    id
+                      local
+                        id 4 ,
+                    data
+                      gene {
+                        locus "tarS" ,
+                        locus-tag "GBJONDLN_00002" } ,
+                    location
+                      int {
+                        from 2817 ,
+                        to 4538 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GBJONDLN_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GBJONDLN_00001" } } ,
+          descr {
+            title "Iron-sulfur cluster repair protein ScdA [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 224 ,
+            seq-data
+              ncbieaa "MINKNDIVADVVTDYPKAADIFRSVGIDFCCGGQVSIEAAVLEKKNVDLNELLQR
+LNEVEQTNTPGSLNPKFLNVSSLIQYIQAAYHEPLREEFKNLTPYVTKLSKVHGPNHPYLVELKATYDTFKNGMLEHM
+QKEDDVDFPKLIKYEQGEVVDDINTVIDDLVSDHIATGQLLVKMSDLTSSYEPPIEACGTWRLVYQRLKALEVLTHEH
+VHLENHVLFKKVS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 5 ,
+                    data
+                      prot {
+                        name {
+                          "Iron-sulfur cluster repair protein ScdA" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 223 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GBJONDLN_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "GBJONDLN_00002" } } ,
+          descr {
+            title "Poly(ribitol-phosphate)
+ beta-N-acetylglucosaminyltransferase TarS [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 573 ,
+            seq-data
+              ncbieaa "MMKFSVIVPTYNSEKYITELLNSLAKQDFPKTEFEVVVVDDCSTDQTLQIVEKYR
+NKLNLKVSQLETNSGGPGKPRNVALKQAEGEFVLFVDSDDYINKETLKDAAAFIDEHHSDVLLIKMKGVNGRGVPQSM
+FKETAPEVTLLNSRIIYTLSPTKIYRTALLKDNDIYFPEELKSAEDQLFTMKAYLNANRISVLSDKAYYYATKREGEH
+MSSAYVSPEDFYEVMRLIAVEILNADLEEAHKDQILAEFLNRHFSFSRTNGFSLKVKLEDQPQWINALGDFIQAVPER
+VDALVMSKLRPLLHYARAKDIDNYRTVEESYRQGQYYRFDIVDGKLNIQFNEGEPYFEGIDIAKPKVKMTAFKFDNHK
+IVTELTLNEFMIGEGHYDVRLKLHSRNKKHTMYVPLTVNANKQYRFNIMLEDIKADLPKEKIWDVFLEVQIGTEVFEV
+RVGNQRNKYAYTAETSALIHLNNDFYRLTPYFTKDFNNISLYFTAITLTDSISMKLKGKNKIILTGLDRGYVFEEGMA
+SVVLKDDMVMGMLSQTSENEVEILLSKDIKKRDFKNIVKLNTAHMTYSLK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 6 ,
+                    data
+                      prot {
+                        name {
+                          "Poly(ribitol-phosphate)
+ beta-N-acetylglucosaminyltransferase TarS" } ,
+                        ec {
+                          "2.4.1.355" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 572 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "GBJONDLN_00002" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GBJONDLN_00001" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 2673 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GBJONDLN_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q5HJB7" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG2846" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "GBJONDLN_00002" } ,
+                location
+                  int {
+                    from 2817 ,
+                    to 4538 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "GBJONDLN_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:A0A0H3JPC6" } } } } } } } } }

@@ -1,0 +1,1450 @@
+>Feature gnl|X|CAFLMJIC_1
+33	1121	gene
+			gene	hemA
+			locus_tag	CAFLMJIC_00001
+33	1121	CDS
+			EC_number	1.2.1.70
+			db_xref	COG:COG0373
+			gene	hemA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16618
+			locus_tag	CAFLMJIC_00001
+			product	Glutamyl-tRNA reductase
+			protein_id	gnl|X|CAFLMJIC_00001
+1143	1958	gene
+			locus_tag	CAFLMJIC_00002
+1143	1958	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00002
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00002
+2000	2926	gene
+			gene	hemC
+			locus_tag	CAFLMJIC_00003
+2000	2926	CDS
+			EC_number	2.5.1.61
+			gene	hemC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64341
+			locus_tag	CAFLMJIC_00003
+			product	Porphobilinogen deaminase
+			protein_id	gnl|X|CAFLMJIC_00003
+2948	3616	gene
+			locus_tag	CAFLMJIC_00004
+2948	3616	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00004
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00004
+3619	4593	gene
+			gene	hemB
+			locus_tag	CAFLMJIC_00005
+3619	4593	CDS
+			EC_number	4.2.1.24
+			gene	hemB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64334
+			locus_tag	CAFLMJIC_00005
+			product	Delta-aminolevulinic acid dehydratase
+			protein_id	gnl|X|CAFLMJIC_00005
+4641	5927	gene
+			gene	hemL1
+			locus_tag	CAFLMJIC_00006
+4641	5927	CDS
+			EC_number	5.4.3.8
+			gene	hemL1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99096
+			locus_tag	CAFLMJIC_00006
+			product	Glutamate-1-semialdehyde 2,1-aminomutase 1
+			protein_id	gnl|X|CAFLMJIC_00006
+6129	7196	gene
+			locus_tag	CAFLMJIC_00007
+6129	7196	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00007
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00007
+7979	7419	gene
+			gene	tag
+			locus_tag	CAFLMJIC_00008
+7979	7419	CDS
+			EC_number	3.2.2.20
+			db_xref	COG:COG2818
+			gene	tag
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P05100
+			locus_tag	CAFLMJIC_00008
+			product	DNA-3-methyladenine glycosylase 1
+			protein_id	gnl|X|CAFLMJIC_00008
+8383	11013	gene
+			gene	valS
+			locus_tag	CAFLMJIC_00009
+8383	11013	CDS
+			EC_number	6.1.1.9
+			gene	valS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99TJ8
+			locus_tag	CAFLMJIC_00009
+			product	Valine--tRNA ligase
+			protein_id	gnl|X|CAFLMJIC_00009
+11026	12297	gene
+			gene	fpgS
+			locus_tag	CAFLMJIC_00010
+11026	12297	CDS
+			EC_number	6.3.2.17
+			gene	fpgS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P15925
+			locus_tag	CAFLMJIC_00010
+			product	Folylpolyglutamate synthase
+			protein_id	gnl|X|CAFLMJIC_00010
+12567	13274	gene
+			gene	comC
+			locus_tag	CAFLMJIC_00011
+12567	13274	CDS
+			gene	comC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P15378
+			locus_tag	CAFLMJIC_00011
+			product	Type 4 prepilin-like proteins leader peptide-processing enzyme
+			protein_id	gnl|X|CAFLMJIC_00011
+13271	13957	gene
+			locus_tag	CAFLMJIC_00012
+13271	13957	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q02170
+			locus_tag	CAFLMJIC_00012
+			note	UPF0758 protein YsxA
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00012
+14025	14309	gene
+			locus_tag	CAFLMJIC_00013
+14025	14309	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00013
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00013
+14623	14426	gene
+			locus_tag	CAFLMJIC_00014
+14623	14426	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00014
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00014
+14783	15256	gene
+			locus_tag	CAFLMJIC_00015
+14783	15256	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00015
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00015
+15330	15449	gene
+			locus_tag	CAFLMJIC_00016
+15330	15449	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00016
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00016
+15649	16491	gene
+			gene	mreC
+			locus_tag	CAFLMJIC_00017
+15649	16491	CDS
+			db_xref	COG:COG1792
+			gene	mreC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8Y6Y4
+			locus_tag	CAFLMJIC_00017
+			product	Cell shape-determining protein MreC
+			protein_id	gnl|X|CAFLMJIC_00017
+16491	17021	gene
+			locus_tag	CAFLMJIC_00018
+16491	17021	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00018
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00018
+17257	17565	gene
+			gene	rplU
+			locus_tag	CAFLMJIC_00019
+17257	17565	CDS
+			gene	rplU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A583
+			locus_tag	CAFLMJIC_00019
+			product	50S ribosomal protein L21
+			protein_id	gnl|X|CAFLMJIC_00019
+17571	17891	gene
+			locus_tag	CAFLMJIC_00020
+17571	17891	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00020
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00020
+17903	18187	gene
+			gene	rpmA
+			locus_tag	CAFLMJIC_00021
+17903	18187	CDS
+			gene	rpmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66133
+			locus_tag	CAFLMJIC_00021
+			product	50S ribosomal protein L27
+			protein_id	gnl|X|CAFLMJIC_00021
+18407	19699	gene
+			gene	obg
+			locus_tag	CAFLMJIC_00022
+18407	19699	CDS
+			EC_number	3.6.5.-
+			gene	obg
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A584
+			locus_tag	CAFLMJIC_00022
+			product	GTPase Obg
+			protein_id	gnl|X|CAFLMJIC_00022
+19709	20167	gene
+			locus_tag	CAFLMJIC_00023
+19709	20167	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00023
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00023
+20181	20783	gene
+			gene	ruvA
+			locus_tag	CAFLMJIC_00024
+20181	20783	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0632
+			gene	ruvA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A809
+			locus_tag	CAFLMJIC_00024
+			product	Holliday junction ATP-dependent DNA helicase RuvA
+			protein_id	gnl|X|CAFLMJIC_00024
+20815	21819	gene
+			gene	ruvB
+			locus_tag	CAFLMJIC_00025
+20815	21819	CDS
+			EC_number	3.6.4.12
+			gene	ruvB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66758
+			locus_tag	CAFLMJIC_00025
+			product	Holliday junction ATP-dependent DNA helicase RuvB
+			protein_id	gnl|X|CAFLMJIC_00025
+21821	22846	gene
+			gene	queA
+			locus_tag	CAFLMJIC_00026
+21821	22846	CDS
+			EC_number	2.4.99.17
+			gene	queA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65951
+			locus_tag	CAFLMJIC_00026
+			product	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+			protein_id	gnl|X|CAFLMJIC_00026
+22869	24008	gene
+			gene	tgt
+			locus_tag	CAFLMJIC_00027
+22869	24008	CDS
+			EC_number	2.4.2.29
+			gene	tgt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66905
+			locus_tag	CAFLMJIC_00027
+			product	Queuine tRNA-ribosyltransferase
+			protein_id	gnl|X|CAFLMJIC_00027
+24027	24287	gene
+			gene	yajC
+			locus_tag	CAFLMJIC_00028
+24027	24287	CDS
+			db_xref	COG:COG1862
+			gene	yajC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ADZ7
+			locus_tag	CAFLMJIC_00028
+			product	Sec translocon accessory complex subunit YajC
+			protein_id	gnl|X|CAFLMJIC_00028
+24562	26841	gene
+			gene	secDF
+			locus_tag	CAFLMJIC_00029
+24562	26841	CDS
+			db_xref	COG:COG0341
+			gene	secDF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32047
+			locus_tag	CAFLMJIC_00029
+			product	Protein translocase subunit SecDF
+			protein_id	gnl|X|CAFLMJIC_00029
+27044	29317	gene
+			locus_tag	CAFLMJIC_00030
+27044	29317	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00030
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00030
+29339	29857	gene
+			gene	apt
+			locus_tag	CAFLMJIC_00031
+29339	29857	CDS
+			EC_number	2.4.2.7
+			gene	apt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68779
+			locus_tag	CAFLMJIC_00031
+			product	Adenine phosphoribosyltransferase
+			protein_id	gnl|X|CAFLMJIC_00031
+30264	32474	gene
+			gene	relA
+			locus_tag	CAFLMJIC_00032
+30264	32474	CDS
+			EC_number	2.7.6.5
+			gene	relA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99TL8
+			locus_tag	CAFLMJIC_00032
+			product	GTP pyrophosphokinase
+			protein_id	gnl|X|CAFLMJIC_00032
+32486	32791	gene
+			gene	dtd
+			locus_tag	CAFLMJIC_00033
+32486	32791	CDS
+			EC_number	3.1.1.96
+			gene	dtd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A026
+			locus_tag	CAFLMJIC_00033
+			product	D-aminoacyl-tRNA deacylase
+			protein_id	gnl|X|CAFLMJIC_00033
+32934	33809	gene
+			locus_tag	CAFLMJIC_00034
+32934	33809	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00034
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00034
+34270	35532	gene
+			gene	hisS
+			locus_tag	CAFLMJIC_00035
+34270	35532	CDS
+			EC_number	6.1.1.21
+			db_xref	COG:COG0124
+			gene	hisS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60911
+			locus_tag	CAFLMJIC_00035
+			product	Histidine--tRNA ligase
+			protein_id	gnl|X|CAFLMJIC_00035
+35548	37314	gene
+			gene	aspS
+			locus_tag	CAFLMJIC_00036
+35548	37314	CDS
+			EC_number	6.1.1.12
+			gene	aspS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67015
+			locus_tag	CAFLMJIC_00036
+			product	Aspartate--tRNA ligase
+			protein_id	gnl|X|CAFLMJIC_00036
+37775	38548	gene
+			locus_tag	CAFLMJIC_00037
+37775	38548	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00037
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00037
+39983	38709	gene
+			locus_tag	CAFLMJIC_00038
+39983	38709	CDS
+			db_xref	COG:COG2256
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WQN1
+			locus_tag	CAFLMJIC_00038
+			product	putative AAA domain-containing protein
+			protein_id	gnl|X|CAFLMJIC_00038
+40068	40490	gene
+			gene	cymR
+			locus_tag	CAFLMJIC_00039
+40068	40490	CDS
+			gene	cymR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34527
+			locus_tag	CAFLMJIC_00039
+			product	HTH-type transcriptional regulator CymR
+			protein_id	gnl|X|CAFLMJIC_00039
+40590	40772	gene
+			locus_tag	CAFLMJIC_00040
+40590	40772	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A593
+			locus_tag	CAFLMJIC_00040
+			note	UPF0337 protein SA1452
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00040
+40812	40958	gene
+			locus_tag	CAFLMJIC_00041
+40812	40958	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00041
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00041
+42208	41195	gene
+			locus_tag	CAFLMJIC_00042
+42208	41195	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00042
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00042
+42520	43662	gene
+			gene	iscS
+			locus_tag	CAFLMJIC_00043
+42520	43662	CDS
+			EC_number	2.8.1.7
+			db_xref	COG:COG1104
+			gene	iscS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A6B7
+			locus_tag	CAFLMJIC_00043
+			product	Cysteine desulfurase IscS
+			protein_id	gnl|X|CAFLMJIC_00043
+43663	44781	gene
+			gene	mnmA
+			locus_tag	CAFLMJIC_00044
+43663	44781	CDS
+			EC_number	2.8.1.13
+			gene	mnmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99TM8
+			locus_tag	CAFLMJIC_00044
+			product	tRNA-specific 2-thiouridylase MnmA
+			protein_id	gnl|X|CAFLMJIC_00044
+45298	45966	gene
+			gene	yrrB
+			locus_tag	CAFLMJIC_00045
+45298	45966	CDS
+			gene	yrrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34452
+			locus_tag	CAFLMJIC_00045
+			product	TPR repeat-containing protein YrrB
+			protein_id	gnl|X|CAFLMJIC_00045
+45968	48445	gene
+			gene	recD2
+			locus_tag	CAFLMJIC_00046
+45968	48445	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0507
+			gene	recD2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RT63
+			locus_tag	CAFLMJIC_00046
+			product	ATP-dependent RecD-like DNA helicase
+			protein_id	gnl|X|CAFLMJIC_00046
+48785	51418	gene
+			gene	alaS
+			locus_tag	CAFLMJIC_00047
+48785	51418	CDS
+			EC_number	6.1.1.7
+			gene	alaS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67011
+			locus_tag	CAFLMJIC_00047
+			product	Alanine--tRNA ligase
+			protein_id	gnl|X|CAFLMJIC_00047
+51481	51741	gene
+			locus_tag	CAFLMJIC_00048
+51481	51741	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60359
+			locus_tag	CAFLMJIC_00048
+			note	UPF0297 protein SA1445
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00048
+51745	52173	gene
+			gene	yrrK
+			locus_tag	CAFLMJIC_00049
+51745	52173	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0816
+			gene	yrrK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34634
+			locus_tag	CAFLMJIC_00049
+			product	Putative pre-16S rRNA nuclease
+			protein_id	gnl|X|CAFLMJIC_00049
+52188	52496	gene
+			locus_tag	CAFLMJIC_00050
+52188	52496	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A598
+			locus_tag	CAFLMJIC_00050
+			note	UPF0473 protein SA1443
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00050
+52781	53419	gene
+			gene	trmR
+			locus_tag	CAFLMJIC_00051
+52781	53419	CDS
+			EC_number	2.1.1.-
+			db_xref	COG:COG4122
+			gene	trmR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32036
+			locus_tag	CAFLMJIC_00051
+			product	tRNA 5-hydroxyuridine methyltransferase
+			protein_id	gnl|X|CAFLMJIC_00051
+53422	54345	gene
+			gene	rlhA
+			locus_tag	CAFLMJIC_00052
+53422	54345	CDS
+			db_xref	COG:COG0826
+			gene	rlhA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76104
+			locus_tag	CAFLMJIC_00052
+			product	23S rRNA 5-hydroxycytidine synthase
+			protein_id	gnl|X|CAFLMJIC_00052
+54357	55625	gene
+			locus_tag	CAFLMJIC_00053
+54357	55625	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00053
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00053
+55625	56248	gene
+			gene	udk
+			locus_tag	CAFLMJIC_00054
+55625	56248	CDS
+			EC_number	2.7.1.48
+			gene	udk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67411
+			locus_tag	CAFLMJIC_00054
+			product	Uridine kinase
+			protein_id	gnl|X|CAFLMJIC_00054
+56276	56752	gene
+			gene	greA
+			locus_tag	CAFLMJIC_00055
+56276	56752	CDS
+			gene	greA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99156
+			locus_tag	CAFLMJIC_00055
+			product	Transcription elongation factor GreA
+			protein_id	gnl|X|CAFLMJIC_00055
+57079	57813	gene
+			gene	pxpB
+			locus_tag	CAFLMJIC_00056
+57079	57813	CDS
+			EC_number	3.5.2.9
+			db_xref	COG:COG2049
+			gene	pxpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60495
+			locus_tag	CAFLMJIC_00056
+			product	5-oxoprolinase subunit B
+			protein_id	gnl|X|CAFLMJIC_00056
+57803	58813	gene
+			gene	pxpC
+			locus_tag	CAFLMJIC_00057
+57803	58813	CDS
+			EC_number	3.5.2.9
+			db_xref	COG:COG1984
+			gene	pxpC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7WY77
+			locus_tag	CAFLMJIC_00057
+			product	5-oxoprolinase subunit C
+			protein_id	gnl|X|CAFLMJIC_00057
+58815	59264	gene
+			gene	accB_1
+			locus_tag	CAFLMJIC_00058
+58815	59264	CDS
+			db_xref	COG:COG0511
+			gene	accB_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0ABD8
+			locus_tag	CAFLMJIC_00058
+			product	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+			protein_id	gnl|X|CAFLMJIC_00058
+59278	60639	gene
+			gene	accC
+			locus_tag	CAFLMJIC_00059
+59278	60639	CDS
+			EC_number	6.3.4.14
+			db_xref	COG:COG0439
+			gene	accC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37798
+			locus_tag	CAFLMJIC_00059
+			product	Biotin carboxylase
+			protein_id	gnl|X|CAFLMJIC_00059
+60639	61391	gene
+			gene	pxpA
+			locus_tag	CAFLMJIC_00060
+60639	61391	CDS
+			EC_number	3.5.2.9
+			db_xref	COG:COG1540
+			gene	pxpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42963
+			locus_tag	CAFLMJIC_00060
+			product	5-oxoprolinase subunit A
+			protein_id	gnl|X|CAFLMJIC_00060
+61403	62635	gene
+			gene	mntH
+			locus_tag	CAFLMJIC_00061
+61403	62635	CDS
+			gene	mntH
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00221
+			locus_tag	CAFLMJIC_00061
+			product	Divalent metal cation transporter MntH
+			protein_id	gnl|X|CAFLMJIC_00061
+62927	64147	gene
+			locus_tag	CAFLMJIC_00062
+62927	64147	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00062
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00062
+64645	65502	gene
+			gene	entA
+			locus_tag	CAFLMJIC_00063
+64645	65502	CDS
+			gene	entA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A0L2
+			locus_tag	CAFLMJIC_00063
+			product	Enterotoxin type A
+			protein_id	gnl|X|CAFLMJIC_00063
+65973	65704	gene
+			locus_tag	CAFLMJIC_00064
+65973	65704	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00064
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00064
+66287	66973	gene
+			gene	mtnN
+			locus_tag	CAFLMJIC_00065
+66287	66973	CDS
+			EC_number	3.2.2.9
+			gene	mtnN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5B0
+			locus_tag	CAFLMJIC_00065
+			product	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+			protein_id	gnl|X|CAFLMJIC_00065
+66993	67520	gene
+			locus_tag	CAFLMJIC_00066
+66993	67520	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00066
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00066
+67521	68621	gene
+			gene	yqeH
+			locus_tag	CAFLMJIC_00067
+67521	68621	CDS
+			db_xref	COG:COG1161
+			gene	yqeH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54453
+			locus_tag	CAFLMJIC_00067
+			product	putative protein YqeH
+			protein_id	gnl|X|CAFLMJIC_00067
+68635	69441	gene
+			gene	aroE
+			locus_tag	CAFLMJIC_00068
+68635	69441	CDS
+			EC_number	1.1.1.25
+			db_xref	COG:COG0169
+			gene	aroE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5HNV1
+			locus_tag	CAFLMJIC_00068
+			product	Shikimate dehydrogenase (NADP(+))
+			protein_id	gnl|X|CAFLMJIC_00068
+69445	69735	gene
+			locus_tag	CAFLMJIC_00069
+69445	69735	CDS
+			db_xref	COG:COG1534
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P71376
+			locus_tag	CAFLMJIC_00069
+			product	RNA-binding protein
+			protein_id	gnl|X|CAFLMJIC_00069
+69738	70307	gene
+			gene	nadD
+			locus_tag	CAFLMJIC_00070
+69738	70307	CDS
+			EC_number	2.7.7.18
+			db_xref	COG:COG1057
+			gene	nadD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5HFG7
+			locus_tag	CAFLMJIC_00070
+			product	putative nicotinate-nucleotide adenylyltransferase
+			protein_id	gnl|X|CAFLMJIC_00070
+70297	70881	gene
+			locus_tag	CAFLMJIC_00071
+70297	70881	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00071
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00071
+70882	71235	gene
+			gene	rsfS
+			locus_tag	CAFLMJIC_00072
+70882	71235	CDS
+			db_xref	COG:COG0799
+			gene	rsfS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9KD89
+			locus_tag	CAFLMJIC_00072
+			product	Ribosomal silencing factor RsfS
+			protein_id	gnl|X|CAFLMJIC_00072
+71238	71954	gene
+			gene	tam
+			locus_tag	CAFLMJIC_00073
+71238	71954	CDS
+			EC_number	2.1.1.144
+			gene	tam
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00560
+			locus_tag	CAFLMJIC_00073
+			product	Trans-aconitate 2-methyltransferase
+			protein_id	gnl|X|CAFLMJIC_00073
+72003	72680	gene
+			gene	comEA
+			locus_tag	CAFLMJIC_00074
+72003	72680	CDS
+			db_xref	COG:COG1555
+			gene	comEA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39694
+			locus_tag	CAFLMJIC_00074
+			product	ComE operon protein 1
+			protein_id	gnl|X|CAFLMJIC_00074
+72802	73233	gene
+			gene	tadA
+			locus_tag	CAFLMJIC_00075
+72802	73233	CDS
+			EC_number	3.5.4.33
+			gene	tadA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00972
+			locus_tag	CAFLMJIC_00075
+			product	tRNA-specific adenosine deaminase
+			protein_id	gnl|X|CAFLMJIC_00075
+73238	75439	gene
+			gene	comEC
+			locus_tag	CAFLMJIC_00076
+73238	75439	CDS
+			db_xref	COG:COG0658
+			gene	comEC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39695
+			locus_tag	CAFLMJIC_00076
+			product	ComE operon protein 3
+			protein_id	gnl|X|CAFLMJIC_00076
+75496	76470	gene
+			gene	yqeN
+			locus_tag	CAFLMJIC_00077
+75496	76470	CDS
+			db_xref	COG:COG1466
+			gene	yqeN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54459
+			locus_tag	CAFLMJIC_00077
+			product	putative protein YqeN
+			protein_id	gnl|X|CAFLMJIC_00077
+76766	76515	gene
+			gene	rpsT
+			locus_tag	CAFLMJIC_00078
+76766	76515	CDS
+			gene	rpsT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5C0
+			locus_tag	CAFLMJIC_00078
+			product	30S ribosomal protein S20
+			protein_id	gnl|X|CAFLMJIC_00078
+77112	78935	gene
+			gene	lepA
+			locus_tag	CAFLMJIC_00079
+77112	78935	CDS
+			EC_number	3.6.5.-
+			gene	lepA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65272
+			locus_tag	CAFLMJIC_00079
+			product	Elongation factor 4
+			protein_id	gnl|X|CAFLMJIC_00079
+79410	80567	gene
+			gene	hemW
+			locus_tag	CAFLMJIC_00080
+79410	80567	CDS
+			db_xref	COG:COG0635
+			gene	hemW
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54304
+			locus_tag	CAFLMJIC_00080
+			product	Heme chaperone HemW
+			protein_id	gnl|X|CAFLMJIC_00080
+80668	81645	gene
+			gene	hrcA
+			locus_tag	CAFLMJIC_00081
+80668	81645	CDS
+			db_xref	COG:COG1420
+			gene	hrcA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P68794
+			locus_tag	CAFLMJIC_00081
+			product	Heat-inducible transcription repressor HrcA
+			protein_id	gnl|X|CAFLMJIC_00081
+81677	82303	gene
+			gene	grpE
+			locus_tag	CAFLMJIC_00082
+81677	82303	CDS
+			gene	grpE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99086
+			locus_tag	CAFLMJIC_00082
+			product	Protein GrpE
+			protein_id	gnl|X|CAFLMJIC_00082
+82372	84204	gene
+			gene	dnaK
+			locus_tag	CAFLMJIC_00083
+82372	84204	CDS
+			gene	dnaK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99110
+			locus_tag	CAFLMJIC_00083
+			product	Chaperone protein DnaK
+			protein_id	gnl|X|CAFLMJIC_00083
+84340	85479	gene
+			gene	dnaJ
+			locus_tag	CAFLMJIC_00084
+84340	85479	CDS
+			gene	dnaJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63971
+			locus_tag	CAFLMJIC_00084
+			product	Chaperone protein DnaJ
+			protein_id	gnl|X|CAFLMJIC_00084
+85483	86421	gene
+			gene	prmA
+			locus_tag	CAFLMJIC_00085
+85483	86421	CDS
+			EC_number	2.1.1.-
+			db_xref	COG:COG2264
+			gene	prmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A0P5
+			locus_tag	CAFLMJIC_00085
+			product	Ribosomal protein L11 methyltransferase
+			protein_id	gnl|X|CAFLMJIC_00085
+86423	87175	gene
+			gene	rsmE
+			locus_tag	CAFLMJIC_00086
+86423	87175	CDS
+			EC_number	2.1.1.193
+			db_xref	COG:COG1385
+			gene	rsmE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54461
+			locus_tag	CAFLMJIC_00086
+			product	Ribosomal RNA small subunit methyltransferase E
+			protein_id	gnl|X|CAFLMJIC_00086
+87182	88528	gene
+			gene	mtaB
+			locus_tag	CAFLMJIC_00087
+87182	88528	CDS
+			EC_number	2.8.4.5
+			db_xref	COG:COG0621
+			gene	mtaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54462
+			locus_tag	CAFLMJIC_00087
+			product	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+			protein_id	gnl|X|CAFLMJIC_00087
+88821	88997	gene
+			gene	rpsU
+			locus_tag	CAFLMJIC_00088
+88821	88997	CDS
+			gene	rpsU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66521
+			locus_tag	CAFLMJIC_00088
+			product	30S ribosomal protein S21
+			protein_id	gnl|X|CAFLMJIC_00088
+89217	89924	gene
+			locus_tag	CAFLMJIC_00089
+89217	89924	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00089
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00089
+89942	90931	gene
+			locus_tag	CAFLMJIC_00090
+89942	90931	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5C5
+			locus_tag	CAFLMJIC_00090
+			note	UPF0365 protein SA1402
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00090
+90948	91646	gene
+			locus_tag	CAFLMJIC_00091
+90948	91646	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00091
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00091
+91950	92897	gene
+			locus_tag	CAFLMJIC_00092
+91950	92897	CDS
+			db_xref	COG:COG1702
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WIA3
+			locus_tag	CAFLMJIC_00092
+			product	PhoH-like protein
+			protein_id	gnl|X|CAFLMJIC_00092
+92898	93365	gene
+			gene	ybeY
+			locus_tag	CAFLMJIC_00093
+92898	93365	CDS
+			EC_number	3.1.-.-
+			gene	ybeY
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00009
+			locus_tag	CAFLMJIC_00093
+			product	Endoribonuclease YbeY
+			protein_id	gnl|X|CAFLMJIC_00093
+93368	93712	gene
+			gene	dgkA
+			locus_tag	CAFLMJIC_00094
+93368	93712	CDS
+			EC_number	2.7.1.66
+			db_xref	COG:COG0818
+			gene	dgkA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q05888
+			locus_tag	CAFLMJIC_00094
+			product	Undecaprenol kinase
+			protein_id	gnl|X|CAFLMJIC_00094
+93723	94127	gene
+			gene	cdd
+			locus_tag	CAFLMJIC_00095
+93723	94127	CDS
+			EC_number	3.5.4.5
+			db_xref	COG:COG0295
+			gene	cdd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P19079
+			locus_tag	CAFLMJIC_00095
+			product	Cytidine deaminase
+			protein_id	gnl|X|CAFLMJIC_00095
+94128	95027	gene
+			gene	era
+			locus_tag	CAFLMJIC_00096
+94128	95027	CDS
+			gene	era
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64085
+			locus_tag	CAFLMJIC_00096
+			product	GTPase Era
+			protein_id	gnl|X|CAFLMJIC_00096
+95055	95801	gene
+			gene	recO
+			locus_tag	CAFLMJIC_00097
+95055	95801	CDS
+			db_xref	COG:COG1381
+			gene	recO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42095
+			locus_tag	CAFLMJIC_00097
+			product	DNA repair protein RecO
+			protein_id	gnl|X|CAFLMJIC_00097
+97343	95952	gene
+			gene	glyQS
+			locus_tag	CAFLMJIC_00098
+97343	95952	CDS
+			EC_number	6.1.1.14
+			gene	glyQS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99129
+			locus_tag	CAFLMJIC_00098
+			product	Glycine--tRNA ligase
+			protein_id	gnl|X|CAFLMJIC_00098
+97762	98301	gene
+			gene	ccpN
+			locus_tag	CAFLMJIC_00099
+97762	98301	CDS
+			db_xref	COG:COG0517
+			gene	ccpN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34994
+			locus_tag	CAFLMJIC_00099
+			product	Transcriptional repressor CcpN
+			protein_id	gnl|X|CAFLMJIC_00099
+98312	99130	gene
+			gene	yqfL
+			locus_tag	CAFLMJIC_00100
+98312	99130	CDS
+			EC_number	2.7.11.32
+			db_xref	COG:COG1806
+			gene	yqfL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54470
+			locus_tag	CAFLMJIC_00100
+			product	Putative pyruvate, phosphate dikinase regulatory protein
+			protein_id	gnl|X|CAFLMJIC_00100
+99191	101008	gene
+			gene	dnaG
+			locus_tag	CAFLMJIC_00101
+99191	101008	CDS
+			EC_number	2.7.7.-
+			db_xref	COG:COG0358
+			gene	dnaG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63964
+			locus_tag	CAFLMJIC_00101
+			product	DNA primase
+			protein_id	gnl|X|CAFLMJIC_00101
+101232	102338	gene
+			gene	sigA
+			locus_tag	CAFLMJIC_00102
+101232	102338	CDS
+			gene	sigA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99TT5
+			locus_tag	CAFLMJIC_00102
+			product	RNA polymerase sigma factor SigA
+			protein_id	gnl|X|CAFLMJIC_00102
+102469	103146	gene
+			gene	trmK
+			locus_tag	CAFLMJIC_00103
+102469	103146	CDS
+			EC_number	2.1.1.217
+			db_xref	COG:COG2384
+			gene	trmK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54471
+			locus_tag	CAFLMJIC_00103
+			product	tRNA (adenine(22)-N(1))-methyltransferase
+			protein_id	gnl|X|CAFLMJIC_00103
+103149	104249	gene
+			locus_tag	CAFLMJIC_00104
+103149	104249	CDS
+			db_xref	COG:COG0327
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67272
+			locus_tag	CAFLMJIC_00104
+			product	GTP cyclohydrolase 1 type 2 
+			protein_id	gnl|X|CAFLMJIC_00104
+104363	105709	gene
+			gene	cshB
+			locus_tag	CAFLMJIC_00105
+104363	105709	CDS
+			EC_number	3.6.4.13
+			db_xref	COG:COG0513
+			gene	cshB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54475
+			locus_tag	CAFLMJIC_00105
+			product	DEAD-box ATP-dependent RNA helicase CshB
+			protein_id	gnl|X|CAFLMJIC_00105
+105719	106609	gene
+			gene	nfo
+			locus_tag	CAFLMJIC_00106
+105719	106609	CDS
+			EC_number	3.1.21.2
+			gene	nfo
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63538
+			locus_tag	CAFLMJIC_00106
+			product	putative endonuclease 4
+			protein_id	gnl|X|CAFLMJIC_00106
+106735	107520	gene
+			gene	btuD
+			locus_tag	CAFLMJIC_00107
+106735	107520	CDS
+			EC_number	7.6.2.8
+			gene	btuD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01005
+			locus_tag	CAFLMJIC_00107
+			product	Vitamin B12 import ATP-binding protein BtuD
+			protein_id	gnl|X|CAFLMJIC_00107
+107553	108425	gene
+			gene	znuB
+			locus_tag	CAFLMJIC_00108
+107553	108425	CDS
+			db_xref	COG:COG1108
+			gene	znuB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34610
+			locus_tag	CAFLMJIC_00108
+			product	High-affinity zinc uptake system membrane protein ZnuB
+			protein_id	gnl|X|CAFLMJIC_00108
+108412	108822	gene
+			gene	zur
+			locus_tag	CAFLMJIC_00109
+108412	108822	CDS
+			db_xref	COG:COG0735
+			gene	zur
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54479
+			locus_tag	CAFLMJIC_00109
+			product	Zinc-specific metallo-regulatory protein
+			protein_id	gnl|X|CAFLMJIC_00109
+109098	109697	gene
+			gene	sodA
+			locus_tag	CAFLMJIC_00110
+109098	109697	CDS
+			EC_number	1.15.1.1
+			gene	sodA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99098
+			locus_tag	CAFLMJIC_00110
+			product	Superoxide dismutase [Mn/Fe] 1
+			protein_id	gnl|X|CAFLMJIC_00110
+109818	111893	gene
+			gene	pbpH
+			locus_tag	CAFLMJIC_00111
+109818	111893	CDS
+			db_xref	COG:COG0768
+			gene	pbpH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q796K8
+			locus_tag	CAFLMJIC_00111
+			product	Penicillin-binding protein H
+			protein_id	gnl|X|CAFLMJIC_00111
+112006	112155	gene
+			gene	rpmG2
+			locus_tag	CAFLMJIC_00112
+112006	112155	CDS
+			db_xref	COG:COG0267
+			gene	rpmG2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FY22
+			locus_tag	CAFLMJIC_00112
+			product	50S ribosomal protein L33 2
+			protein_id	gnl|X|CAFLMJIC_00112
+112310	112903	gene
+			gene	yqgN
+			locus_tag	CAFLMJIC_00113
+112310	112903	CDS
+			db_xref	COG:COG0212
+			gene	yqgN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54491
+			locus_tag	CAFLMJIC_00113
+			product	putative protein YqgN
+			protein_id	gnl|X|CAFLMJIC_00113
+112915	114378	gene
+			gene	gluP
+			locus_tag	CAFLMJIC_00114
+112915	114378	CDS
+			EC_number	3.4.21.105
+			db_xref	COG:COG0705
+			gene	gluP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54493
+			locus_tag	CAFLMJIC_00114
+			product	Rhomboid protease GluP
+			protein_id	gnl|X|CAFLMJIC_00114
+114359	114562	gene
+			locus_tag	CAFLMJIC_00115
+114359	114562	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00115
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00115
+114559	115545	gene
+			gene	glcK
+			locus_tag	CAFLMJIC_00116
+114559	115545	CDS
+			EC_number	2.7.1.2
+			db_xref	COG:COG1940
+			gene	glcK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54495
+			locus_tag	CAFLMJIC_00116
+			product	Glucokinase
+			protein_id	gnl|X|CAFLMJIC_00116
+115545	115874	gene
+			locus_tag	CAFLMJIC_00117
+115545	115874	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00117
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00117
+115871	116494	gene
+			locus_tag	CAFLMJIC_00118
+115871	116494	CDS
+			EC_number	3.-.-.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5XD24
+			locus_tag	CAFLMJIC_00118
+			product	putative metallo-hydrolase
+			protein_id	gnl|X|CAFLMJIC_00118
+116546	117520	gene
+			gene	comGA
+			locus_tag	CAFLMJIC_00119
+116546	117520	CDS
+			db_xref	COG:COG2804
+			gene	comGA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25953
+			locus_tag	CAFLMJIC_00119
+			product	ComG operon protein 1
+			protein_id	gnl|X|CAFLMJIC_00119
+117492	118562	gene
+			locus_tag	CAFLMJIC_00120
+117492	118562	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00120
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00120
+118576	118887	gene
+			gene	comGC
+			locus_tag	CAFLMJIC_00121
+118576	118887	CDS
+			db_xref	COG:COG4537
+			gene	comGC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25955
+			locus_tag	CAFLMJIC_00121
+			product	ComG operon protein 3
+			protein_id	gnl|X|CAFLMJIC_00121
+118877	119311	gene
+			locus_tag	CAFLMJIC_00122
+118877	119311	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00122
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00122
+119298	119597	gene
+			locus_tag	CAFLMJIC_00123
+119298	119597	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00123
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00123
+119545	120012	gene
+			locus_tag	CAFLMJIC_00124
+119545	120012	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00124
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00124
+120245	120769	gene
+			gene	aroK
+			locus_tag	CAFLMJIC_00125
+120245	120769	CDS
+			EC_number	2.7.1.71
+			gene	aroK
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00109
+			locus_tag	CAFLMJIC_00125
+			product	Shikimate kinase
+			protein_id	gnl|X|CAFLMJIC_00125
+120928	122019	gene
+			gene	gcvT
+			locus_tag	CAFLMJIC_00126
+120928	122019	CDS
+			EC_number	2.1.2.10
+			gene	gcvT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64225
+			locus_tag	CAFLMJIC_00126
+			product	Aminomethyltransferase
+			protein_id	gnl|X|CAFLMJIC_00126
+122039	123385	gene
+			gene	gcvPA
+			locus_tag	CAFLMJIC_00127
+122039	123385	CDS
+			EC_number	1.4.4.2
+			gene	gcvPA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64218
+			locus_tag	CAFLMJIC_00127
+			product	putative glycine dehydrogenase (decarboxylating) subunit 1
+			protein_id	gnl|X|CAFLMJIC_00127
+123378	124850	gene
+			gene	gcvPB
+			locus_tag	CAFLMJIC_00128
+123378	124850	CDS
+			EC_number	1.4.4.2
+			gene	gcvPB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99168
+			locus_tag	CAFLMJIC_00128
+			product	putative glycine dehydrogenase (decarboxylating) subunit 2
+			protein_id	gnl|X|CAFLMJIC_00128
+125601	125215	gene
+			gene	yibN
+			locus_tag	CAFLMJIC_00129
+125601	125215	CDS
+			db_xref	COG:COG0607
+			gene	yibN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AG27
+			locus_tag	CAFLMJIC_00129
+			product	putative protein YibN
+			protein_id	gnl|X|CAFLMJIC_00129
+125759	126589	gene
+			gene	lipM
+			locus_tag	CAFLMJIC_00130
+125759	126589	CDS
+			EC_number	2.3.1.181
+			db_xref	COG:COG0095
+			gene	lipM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54511
+			locus_tag	CAFLMJIC_00130
+			product	Octanoyltransferase LipM
+			protein_id	gnl|X|CAFLMJIC_00130
+126871	126653	gene
+			locus_tag	CAFLMJIC_00131
+126871	126653	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00131
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00131
+127466	126885	gene
+			locus_tag	CAFLMJIC_00132
+127466	126885	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CAFLMJIC_00132
+			product	hypothetical protein
+			protein_id	gnl|X|CAFLMJIC_00132
+127571	128632	gene
+			gene	ypdF
+			locus_tag	CAFLMJIC_00133
+127571	128632	CDS
+			EC_number	3.4.11.-
+			db_xref	COG:COG0006
+			gene	ypdF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76524
+			locus_tag	CAFLMJIC_00133
+			product	Aminopeptidase YpdF
+			protein_id	gnl|X|CAFLMJIC_00133
+128658	129215	gene
+			gene	efp
+			locus_tag	CAFLMJIC_00134
+128658	129215	CDS
+			gene	efp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99066
+			locus_tag	CAFLMJIC_00134
+			product	Elongation factor P
+			protein_id	gnl|X|CAFLMJIC_00134
+129689	130153	gene
+			gene	accB_2
+			locus_tag	CAFLMJIC_00135
+129689	130153	CDS
+			db_xref	COG:COG0511
+			gene	accB_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P49786
+			locus_tag	CAFLMJIC_00135
+			product	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+			protein_id	gnl|X|CAFLMJIC_00135
+130153	131508	gene
+			gene	cfiB
+			locus_tag	CAFLMJIC_00136
+130153	131508	CDS
+			EC_number	6.4.1.7
+			db_xref	COG:COG0439
+			gene	cfiB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:D3DJ42
+			locus_tag	CAFLMJIC_00136
+			product	2-oxoglutarate carboxylase small subunit
+			protein_id	gnl|X|CAFLMJIC_00136
+131523	131885	gene
+			locus_tag	CAFLMJIC_00137
+131523	131885	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5XA93
+			locus_tag	CAFLMJIC_00137
+			product	putative protein
+			protein_id	gnl|X|CAFLMJIC_00137
+131945	132334	gene
+			gene	nusB
+			locus_tag	CAFLMJIC_00138
+131945	132334	CDS
+			gene	nusB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65578
+			locus_tag	CAFLMJIC_00138
+			product	Transcription antitermination protein NusB
+			protein_id	gnl|X|CAFLMJIC_00138
+132351	133688	gene
+			gene	xseA
+			locus_tag	CAFLMJIC_00139
+132351	133688	CDS
+			EC_number	3.1.11.6
+			db_xref	COG:COG1570
+			gene	xseA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04994
+			locus_tag	CAFLMJIC_00139
+			product	Exodeoxyribonuclease 7 large subunit
+			protein_id	gnl|X|CAFLMJIC_00139
+133681	133911	gene
+			gene	xseB
+			locus_tag	CAFLMJIC_00140
+133681	133911	CDS
+			EC_number	3.1.11.6
+			gene	xseB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00337
+			locus_tag	CAFLMJIC_00140
+			product	Exodeoxyribonuclease 7 small subunit
+			protein_id	gnl|X|CAFLMJIC_00140
+133889	134770	gene
+			locus_tag	CAFLMJIC_00141
+133889	134770	CDS
+			EC_number	2.5.1.10
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q08291
+			locus_tag	CAFLMJIC_00141
+			product	Farnesyl diphosphate synthase
+			protein_id	gnl|X|CAFLMJIC_00141
+135201	135653	gene
+			gene	argR
+			locus_tag	CAFLMJIC_00142
+135201	135653	CDS
+			gene	argR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63580
+			locus_tag	CAFLMJIC_00142
+			product	Arginine repressor
+			protein_id	gnl|X|CAFLMJIC_00142
+135669	137348	gene
+			gene	recN
+			locus_tag	CAFLMJIC_00143
+135669	137348	CDS
+			db_xref	COG:COG0497
+			gene	recN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P05824
+			locus_tag	CAFLMJIC_00143
+			product	DNA repair protein RecN
+			protein_id	gnl|X|CAFLMJIC_00143
+137499	138920	gene
+			locus_tag	CAFLMJIC_00144
+137499	138920	CDS
+			EC_number	1.8.1.4
+			db_xref	COG:COG1249
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18925
+			locus_tag	CAFLMJIC_00144
+			product	Dihydrolipoyl dehydrogenase
+			protein_id	gnl|X|CAFLMJIC_00144

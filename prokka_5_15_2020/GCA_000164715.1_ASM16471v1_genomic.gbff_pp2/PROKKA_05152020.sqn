@@ -1,0 +1,823 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PNPDPCJG_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 3471 ,
+            seq-data
+              iupacna "TACTTATAATTTTAGAAAGTTTGAAAATTCTAAAGTTAGAAATATTGGTTTTCAC
+AACGAATTTAAGTAGAATTATAGTTAAGGAGGATTTACAAATGAAAGTCAATAAAGCCATTTATGTTATTGTTGCATT
+ATTTCTTGGAGGTTTAGGTATTCATAAATTTTATGCTGATAAATTTGGACAAGGTCTTTTTCACTTATTATTTTTCTG
+GACAGGTATCCCTACCATCATCTCAATAATACATGCCATTTTTGTCATTTTTACTAAAAAAGCAGACAGAGACGGTTA
+TATTATATTCCCTAAAAATTAAATTGTGACAATGACGTTTAAAAAGCATATATGAATGGGTATATAGTTCATAAGATA
+AAGAGAAATGAGGTATGTAACGATGCGTCAATTCATTAAAAGAATTGTTAAAACAATCCTTGTCGGTTATGTATTAAA
+ATTTATTCGAAATAAACTTTCAGGTAAATCATCACATTCAACAAATAACAAACATAATTAAAAATACAGCGCCACTCT
+TATATGATTTCCGAGTGGCGCTGTATTTTTATTTTGCTTTTTCTGCAATTTTCTCTAAATCTTCTGCCATACTTTCAC
+TTGCGATAATACCTCTTGATTGCAACCACTTATTTCGGTCAACGTCATAAACTTTATTATCTTTCACAGCTTTTAATG
+ATTTCCAAACTGCAGGATCAATGAATTTCGTTCTATTTTTATCTGTTTTTCCATTCGTAGCTAAAATCATAACTTTTG
+GATTGATATTGGCAAGCTCTTCATTATTTAAATATATATAAGGGCCACCCTTGCGTTCACCAACATGCGCAGTTTTGT
+CTTTTGTGACTTCAGGTTGAATACCCATTTTAATTAAGAATTGTCCCATAAATGTATCTTCATTATTAATAAACATAC
+CTGCTCTTGAGATACCGAATGCAAATGCAGATTTTAACGTACTCTGTTCAATTTTCTTTCTAATCTCCGCTTATTTTA
+TCATGCTTTTCCAGACGCTTCTCGCCTTCTTTCTCTTTGCCTACTGCTTTAGCGACTGTTTTAAATGCTTCAATATTT
+GCATTATAATCTCCCGTACCGCTAACTAACATGATTGTCGGCGCAATTTTGCTCAATTCTGATTTGATTTTCTTATGT
+CTGCTAACATCTGCAATGATCAAATCCGGTTTTAATTTACTTATTACTTCCATATTCGGTTGCGGTCTAGATCCAACC
+GATTCATATGCTCCAATCTTATCTCTTACTGACTTTGTTATATTTTTAGTGCTGCCATCATCTGCAATACCAACAGGT
+TTCATATCTAATGCTGCTAAATAATCAGCAAAACTATATTCTAATACAATAACACGTTTAGGATTTTTCTTAATTTTT
+TCAGTTCCTAATTCATCTTTTATTGTCGTCATTTCAGTTTTCTCTTCAGTATCTTTTTGTCCACAACCCGCTACTGCT
+ACAACTAAGATTAGCATAAACACAACTAATTTAACGATATTCCTATTCACACATTTACCTCCAAACAACTTTAATAGA
+AAACCACATTATTATTTTATCATTTAATTTGTTTATGATATATTTAGGATGTTATTATTTTTTTCTTATCATAGTTGA
+TTATCAAATCTTCTTATTATAAACAGCAAATGGCCTCTAATTTGAAGATGACGCACTGGTTAATAACACGCATTTATC
+TCAAACCATCATTCTAATTGTCCATACTACTCTTGCAATTTCATAATAGTGTTTACGATTCATAAATAGCGATGCAAT
+AGTTAATTCATTTCCCTATAATCTTTGCACTATGCTGTACTAATCTTTATTTATAAATACAAAAAGTAACTGATGACT
+TAAACATCTTTCTACAACAATTGTTCAATACAATAGAACATTTAATAAATATTTAATAATTATTTTTATAAATAATCT
+TTACTTTCCACTTCTTTACAAATATAATTTGGACTATGTTTTAAGAAAAAAATGTATGTTGGAGGTGACATGATGAAA
+TTAGGTATGCTTTTAATTAGATGGATGTTAGCAACATCATTCTTAGTGCATGGTACTTTGAAATTTGTTGATTTAGAT
+GGAACAATTCACTTCTTAGGCTCTTTAGGTTTACCACCTACCATCGCAGTATTGATGTCCATTGGTGAAGTTGTTGGA
+GGTTTAGCACTTATTATCGGCTTTTTAACGCCTTATGTTAATGTTTTTTATATTTGTGTTATGTTAGGCTCAATCTTC
+ACACTTAAACTTACAAGAGGATATGTAAGTGGTTATGAATTTGAAATCATACATATCGTAATGAACTTAGCTTGTATT
+AGTAGTTACAGCTGGAAGAAATGGCTACAATTTTATTAACTATTATTTGAGAGGACTATCCTCTCTTTTTTTGTATAT
+ATAATGCGTAAAAATCCTAGGTACTCATGAATACCTAGGATTTTTTCATTTAGCTATTGAAAAGATTTAACCATTTTT
+CTAATATTGATTCCGTTGAATATTTTTCTATAATGTTTTCTCTCGCTTTCGAACCAAACTCCTCTGCTAAAACATCAT
+TATTAACAAGCTTTAATATTTTATCAGCCATGTCGTTTATATTATGGTTTTCTATTAAATAACCATTTTTATTATCTT
+CTATAAAATCACCTTTTAATCAAGCCAATTCAATTTAATTTCAAATTCTTCTACCGCACAATTTAATTTTATTGTATG
+ATGTATTTAAAATGATTGTTTTGCGCATATCATTTTAAAATGAAAATTGGAGGTGTAATTTTGACTAGAACTTATAAT
+ATTATTGGTATCCTTTCTTGTCTTATATCTTTTATTATTATGGCGTTACCAATGATTTGGTACACAGCTTCAGCATTA
+TGGTTCTTCCCAGGTGCAATCATGATATTGTTGTTATCTTTAGTCATTGTTTTTTGCTATATTAAAACGAAAAATCAA
+TTACATTTATTACTACTCGTATTAAATATTATTATATTGCTTTTTTTCAGTTTGCCGTTGTTACTTTCATAACTTAGT
+AACACATTATAAAAGCCAATCAAACGGAGTGTTGAAGTCAACATTTCCCATTGATTGGCTTTTAATTTTATCTTTTGG
+ATATCACATAGATGCTACTTTTCTATACTGTTCTAAATCTATTATTTCGTCACATTGATTTGCAATAGCCATATCATG
+TGTTGCTAAAATCAGCACTTTATTTTCATCGACCAAATCAAATAATGATTGAATAATCATCTGTCCTGTTTTAGGATC
+TAACGCACCCGTTGGTTCATCAGCTAACATAACAATCGGATCTTTTAACATCATTCTAATTAAAGCGACACGTTGGTG
+TTCACCTCCACTTAGCGTATGAACTTTTCTTTTTAAACTGTTTGACAGACCAAACTGTTCTATATGTCAATAGCGGTT
+TAAAAATGCTGTTTTATGGCGGTTTGAAAATGTCGTTTTTTAGCGGTTTAAGATTGTCGTAT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      gene {
+                        locus-tag "PNPDPCJG_00001" } ,
+                    location
+                      int {
+                        from 95 ,
+                        to 310 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      gene {
+                        locus-tag "PNPDPCJG_00002" } ,
+                    location
+                      int {
+                        from 389 ,
+                        to 505 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus "yfmC_1" ,
+                        locus-tag "PNPDPCJG_00003" } ,
+                    location
+                      int {
+                        from 551 ,
+                        to 910 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus "yfmC_2" ,
+                        locus-tag "PNPDPCJG_00004" } ,
+                    location
+                      int {
+                        from 972 ,
+                        to 1508 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      gene {
+                        locus-tag "PNPDPCJG_00005" } ,
+                    location
+                      int {
+                        from 1978 ,
+                        to 2355 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      gene {
+                        locus "tarM" ,
+                        locus-tag "PNPDPCJG_00006" } ,
+                    location
+                      int {
+                        from 2444 ,
+                        to 2581 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      gene {
+                        locus-tag "PNPDPCJG_00007" } ,
+                    location
+                      int {
+                        from 2778 ,
+                        to 2909 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      gene {
+                        locus-tag "PNPDPCJG_00008" } ,
+                    location
+                      int {
+                        from 3100 ,
+                        to 3306 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PNPDPCJG_00001" } } ,
+          descr {
+            title "hypothetical protein PNPDPCJG_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 71 ,
+            seq-data
+              ncbieaa "MKVNKAIYVIVALFLGGLGIHKFYADKFGQGLFHLLFFWTGIPTIISIIHAIFVI
+FTKKADRDGYIIFPKN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 70 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PNPDPCJG_00002" } } ,
+          descr {
+            title "hypothetical protein PNPDPCJG_00002 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 38 ,
+            seq-data
+              ncbieaa "MRQFIKRIVKTILVGYVLKFIRNKLSGKSSHSTNNKHN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 37 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PNPDPCJG_00003" } } ,
+          descr {
+            title "Fe(3+)-citrate-binding protein YfmC [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 119 ,
+            seq-data
+              ncbieaa "MFINNEDTFMGQFLIKMGIQPEVTKDKTAHVGERKGGPYIYLNNEELANINPKVM
+ILATNGKTDKNRTKFIDPAVWKSLKAVKDNKVYDVDRNKWLQSRGIIASESMAEDLEKIAEKAK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      prot {
+                        name {
+                          "Fe(3+)-citrate-binding protein YfmC" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 118 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PNPDPCJG_00004" } } ,
+          descr {
+            title "Fe(3+)-citrate-binding protein YfmC [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 178 ,
+            seq-data
+              ncbieaa "MNRNIVKLVVFMLILVVAVAGCGQKDTEEKTEMTTIKDELGTEKIKKNPKRVIVL
+EYSFADYLAALDMKPVGIADDGSTKNITKSVRDKIGAYESVGSRPQPNMEVISKLKPDLIIADVSRHKKIKSELSKIA
+PTIMLVSGTGDYNANIEAFKTVAKAVGKEKEGEKRLEKHDKISGD" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      prot {
+                        name {
+                          "Fe(3+)-citrate-binding protein YfmC" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 177 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PNPDPCJG_00005" } } ,
+          descr {
+            title "hypothetical protein PNPDPCJG_00005 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 125 ,
+            seq-data
+              ncbieaa "MYVGGDMMKLGMLLIRWMLATSFLVHGTLKFVDLDGTIHFLGSLGLPPTIAVLMS
+IGEVVGGLALIIGFLTPYVNVFYICVMLGSIFTLKLTRGYVSGYEFEIIHIVMNLACISSYSWKKWLQFY" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 124 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PNPDPCJG_00006" } } ,
+          descr {
+            title "Poly(ribitol-phosphate)
+ alpha-N-acetylglucosaminyltransferase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 45 ,
+            seq-data
+              ncbieaa "MADKILKLVNNDVLAEEFGSKARENIIEKYSTESILEKWLNLFNS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 22 ,
+                    data
+                      prot {
+                        name {
+                          "Poly(ribitol-phosphate)
+ alpha-N-acetylglucosaminyltransferase" } ,
+                        ec {
+                          "2.4.1.70" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 44 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PNPDPCJG_00007" } } ,
+          descr {
+            title "hypothetical protein PNPDPCJG_00007 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 43 ,
+            seq-data
+              ncbieaa "MTKDNNNIMIAPGKNHNAEAVYQIIGNAIIIKDIRQERIPIIL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 23 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 42 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_00007" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "PNPDPCJG_00008" } } ,
+          descr {
+            title "hypothetical protein PNPDPCJG_00008 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 68 ,
+            seq-data
+              ncbieaa "MMLKDPIVMLADEPTGALDPKTGQMIIQSLFDLVDENKVLILATHDMAIANQCDE
+IIDLEQYRKVASM" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 24 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 67 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "PNPDPCJG_00008" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "PNPDPCJG_00001" } ,
+                location
+                  int {
+                    from 95 ,
+                    to 310 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "PNPDPCJG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "PNPDPCJG_00002" } ,
+                location
+                  int {
+                    from 389 ,
+                    to 505 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "PNPDPCJG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "PNPDPCJG_00003" } ,
+                location
+                  int {
+                    from 551 ,
+                    to 910 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "PNPDPCJG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:O34348" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG4594" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "PNPDPCJG_00004" } ,
+                location
+                  int {
+                    from 972 ,
+                    to 1508 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "PNPDPCJG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:O34348" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG4594" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "PNPDPCJG_00005" } ,
+                location
+                  int {
+                    from 1978 ,
+                    to 2355 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "PNPDPCJG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "PNPDPCJG_00006" } ,
+                location
+                  int {
+                    from 2444 ,
+                    to 2581 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "PNPDPCJG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:A0A0H2WWV6" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "PNPDPCJG_00007" } ,
+                location
+                  int {
+                    from 2778 ,
+                    to 2909 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "PNPDPCJG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "PNPDPCJG_00008" } ,
+                location
+                  int {
+                    from 3100 ,
+                    to 3306 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "PNPDPCJG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } } } } } } }

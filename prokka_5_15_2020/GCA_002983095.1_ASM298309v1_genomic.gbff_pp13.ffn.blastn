@@ -1,0 +1,42 @@
+# BLASTN 2.9.0+
+# Query: LMPLBELI_00001 Chromosomal replication initiator protein DnaA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+LMPLBELI_00001	MKBNMLOM_00005	100.000	177	100	1362	177	0	7.31e-91	327
+LMPLBELI_00001	LMPLBELI_00001	100.000	177	100	177	177	0	7.31e-91	327
+LMPLBELI_00001	DOACAIIE_00005	100.000	177	100	1362	177	0	7.31e-91	327
+LMPLBELI_00001	CMLBKDKH_00012	100.000	177	100	1362	177	0	7.31e-91	327
+# BLASTN 2.9.0+
+# Query: LMPLBELI_00002 Beta sliding clamp
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+LMPLBELI_00002	MKBNMLOM_00006	100.000	1134	100	1134	1134	0	0.0	2095
+LMPLBELI_00002	LMPLBELI_00002	100.000	1134	100	1134	1134	0	0.0	2095
+LMPLBELI_00002	DOACAIIE_00006	100.000	1134	100	1134	1134	0	0.0	2095
+LMPLBELI_00002	CMLBKDKH_00013	100.000	1134	100	1134	1134	0	0.0	2095
+# BLASTN 2.9.0+
+# Query: LMPLBELI_00003 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+LMPLBELI_00003	LMPLBELI_00003	100.000	246	100	246	246	0	4.63e-129	455
+LMPLBELI_00003	MKBNMLOM_00007	100.000	246	96	237	237	0	4.66e-124	438
+LMPLBELI_00003	CMLBKDKH_00014	100.000	246	96	237	237	0	4.66e-124	438
+# BLASTN 2.9.0+
+# Query: LMPLBELI_00004 DNA replication and repair protein RecF
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+LMPLBELI_00004	MKBNMLOM_00008	100.000	1113	100	1113	1113	0	0.0	2056
+LMPLBELI_00004	LMPLBELI_00004	100.000	1113	100	1113	1113	0	0.0	2056
+LMPLBELI_00004	CMLBKDKH_00015	100.000	1113	100	1113	1113	0	0.0	2056
+# BLASTN 2.9.0+
+# Query: LMPLBELI_00005 DNA gyrase subunit B
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+LMPLBELI_00005	LMPLBELI_00005	100.000	1935	100	1935	1935	0	0.0	3574
+LMPLBELI_00005	CMLBKDKH_00016	100.000	1935	100	1935	1935	0	0.0	3574
+# BLAST processed 5 queries

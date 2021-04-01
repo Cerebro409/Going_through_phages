@@ -1,0 +1,203 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+DGPDLLBB_00001	gene	345				
+DGPDLLBB_00001	CDS	345				IS1182 family transposase ISSau3
+DGPDLLBB_00002	gene	1560	rny			
+DGPDLLBB_00002	CDS	1560	rny	3.1.-.-		Ribonuclease Y
+DGPDLLBB_00003	gene	1044	recA			
+DGPDLLBB_00003	CDS	1044	recA			Protein RecA
+DGPDLLBB_00004	gene	1152	cinA			
+DGPDLLBB_00004	CDS	1152	cinA			Putative competence-damage inducible protein
+DGPDLLBB_00005	gene	579	pgsA			
+DGPDLLBB_00005	CDS	579	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+DGPDLLBB_00006	gene	393				
+DGPDLLBB_00006	CDS	393				hypothetical protein
+DGPDLLBB_00007	gene	828				
+DGPDLLBB_00007	CDS	828				hypothetical protein
+DGPDLLBB_00008	gene	705	phaB			
+DGPDLLBB_00008	CDS	705	phaB	1.1.1.36		Acetoacetyl-CoA reductase
+DGPDLLBB_00009	gene	1287				
+DGPDLLBB_00009	CDS	1287				hypothetical protein
+DGPDLLBB_00010	gene	1266				
+DGPDLLBB_00010	CDS	1266				hypothetical protein
+DGPDLLBB_00011	gene	714	gamR			
+DGPDLLBB_00011	CDS	714	gamR			HTH-type transcriptional repressor GamR
+DGPDLLBB_00012	gene	2370	ftsK			
+DGPDLLBB_00012	CDS	2370	ftsK			DNA translocase FtsK
+DGPDLLBB_00013	gene	1674	rnj2			
+DGPDLLBB_00013	CDS	1674	rnj2	3.1.-.-		Ribonuclease J 2
+DGPDLLBB_00014	gene	2097	pnp			
+DGPDLLBB_00014	CDS	2097	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+DGPDLLBB_00015	gene	270	rpsO			
+DGPDLLBB_00015	CDS	270	rpsO			30S ribosomal protein S15
+DGPDLLBB_00016	gene	972	ribF			
+DGPDLLBB_00016	CDS	972	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+DGPDLLBB_00017	gene	918	truB			
+DGPDLLBB_00017	CDS	918	truB	5.4.99.25		tRNA pseudouridine synthase B
+DGPDLLBB_00018	gene	351	rbfA			
+DGPDLLBB_00018	CDS	351	rbfA			Ribosome-binding factor A
+DGPDLLBB_00019	gene	2118	infB			
+DGPDLLBB_00019	CDS	2118	infB			Translation initiation factor IF-2
+DGPDLLBB_00020	gene	318	rplGA			
+DGPDLLBB_00020	CDS	318	rplGA		COG1358	putative ribosomal protein YlxQ
+DGPDLLBB_00021	gene	285				
+DGPDLLBB_00021	CDS	285				hypothetical protein
+DGPDLLBB_00022	gene	1176	nusA			
+DGPDLLBB_00022	CDS	1176	nusA		COG0195	Transcription termination/antitermination protein NusA
+DGPDLLBB_00023	gene	468	rimP			
+DGPDLLBB_00023	CDS	468	rimP		COG0779	Ribosome maturation factor RimP
+DGPDLLBB_00024	gene	4317	polC			
+DGPDLLBB_00024	CDS	4317	polC	2.7.7.7		DNA polymerase III PolC-type
+DGPDLLBB_00025	gene	1704	proS			
+DGPDLLBB_00025	CDS	1704	proS	6.1.1.15		Proline--tRNA ligase
+DGPDLLBB_00026	gene	1287				
+DGPDLLBB_00026	CDS	1287		3.4.24.-		Putative zinc metalloprotease
+DGPDLLBB_00027	gene	783				
+DGPDLLBB_00027	CDS	783				hypothetical protein
+DGPDLLBB_00028	gene	771	uppS			
+DGPDLLBB_00028	CDS	771	uppS	2.5.1.-		Isoprenyl transferase
+DGPDLLBB_00029	gene	555	frr			
+DGPDLLBB_00029	CDS	555	frr			Ribosome-recycling factor
+DGPDLLBB_00030	gene	723	pyrH			
+DGPDLLBB_00030	CDS	723	pyrH	2.7.4.22		Uridylate kinase
+DGPDLLBB_00031	gene	882	tsf			
+DGPDLLBB_00031	CDS	882	tsf			Elongation factor Ts
+DGPDLLBB_00032	gene	768	rpsB			
+DGPDLLBB_00032	CDS	768	rpsB			30S ribosomal protein S2
+DGPDLLBB_00033	gene	774	codY			
+DGPDLLBB_00033	CDS	774	codY			GTP-sensing transcriptional pleiotropic repressor CodY
+DGPDLLBB_00034	gene	1404	hslU			
+DGPDLLBB_00034	CDS	1404	hslU			ATP-dependent protease ATPase subunit HslU
+DGPDLLBB_00035	gene	546	hslV			
+DGPDLLBB_00035	CDS	546	hslV	3.4.25.2		ATP-dependent protease subunit HslV
+DGPDLLBB_00036	gene	897	xerC			
+DGPDLLBB_00036	CDS	897	xerC		COG4974	Tyrosine recombinase XerC
+DGPDLLBB_00037	gene	1308	trmFO			
+DGPDLLBB_00037	CDS	1308	trmFO	2.1.1.74		Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+DGPDLLBB_00038	gene	2076	topA			
+DGPDLLBB_00038	CDS	2076	topA	5.6.2.1		DNA topoisomerase 1
+DGPDLLBB_00039	gene	873				
+DGPDLLBB_00039	CDS	873				hypothetical protein
+DGPDLLBB_00040	gene	1245	femA			
+DGPDLLBB_00040	CDS	1245	femA	2.3.2.17	COG2348	Aminoacyltransferase FemA
+DGPDLLBB_00041	gene	1119	lytN			
+DGPDLLBB_00041	CDS	1119	lytN	3.-.-.-		putative cell wall hydrolase LytN
+DGPDLLBB_00042	gene	909	sucD			
+DGPDLLBB_00042	CDS	909	sucD	6.2.1.5		Succinate--CoA ligase [ADP-forming] subunit alpha
+DGPDLLBB_00043	gene	1167	sucC			
+DGPDLLBB_00043	CDS	1167	sucC	6.2.1.5		Succinate--CoA ligase [ADP-forming] subunit beta
+DGPDLLBB_00044	gene	768	rnhB			
+DGPDLLBB_00044	CDS	768	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+DGPDLLBB_00045	gene	885	rbgA			
+DGPDLLBB_00045	CDS	885	rbgA		COG1161	Ribosome biogenesis GTPase A
+DGPDLLBB_00046	gene	2607				
+DGPDLLBB_00046	CDS	2607				hypothetical protein
+DGPDLLBB_00047	gene	351	rplS			
+DGPDLLBB_00047	CDS	351	rplS			50S ribosomal protein L19
+DGPDLLBB_00048	gene	738	trmD			
+DGPDLLBB_00048	CDS	738	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+DGPDLLBB_00049	gene	504	rimM			
+DGPDLLBB_00049	CDS	504	rimM			Ribosome maturation factor RimM
+DGPDLLBB_00050	gene	276	rpsP			
+DGPDLLBB_00050	CDS	276	rpsP			30S ribosomal protein S16
+DGPDLLBB_00051	gene	1368	ffh			
+DGPDLLBB_00051	CDS	1368	ffh		COG0541	Signal recognition particle protein
+DGPDLLBB_00052	gene	333				
+DGPDLLBB_00052	CDS	333				hypothetical protein
+DGPDLLBB_00053	gene	1251	ftsY			
+DGPDLLBB_00053	CDS	1251	ftsY			Signal recognition particle receptor FtsY
+DGPDLLBB_00054	gene	3567	smc			
+DGPDLLBB_00054	CDS	3567	smc		COG1196	Chromosome partition protein Smc
+DGPDLLBB_00055	gene	732	rnc			
+DGPDLLBB_00055	CDS	732	rnc	3.1.26.3		Ribonuclease 3
+DGPDLLBB_00056	gene	234	acpP			
+DGPDLLBB_00056	CDS	234	acpP		COG0236	Acyl carrier protein
+DGPDLLBB_00057	gene	735	fabG			
+DGPDLLBB_00057	CDS	735	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+DGPDLLBB_00058	gene	927	fabD			
+DGPDLLBB_00058	CDS	927	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+DGPDLLBB_00059	gene	987	plsX			
+DGPDLLBB_00059	CDS	987	plsX	2.3.1.274		Phosphate acyltransferase
+DGPDLLBB_00060	gene	558	fapR			
+DGPDLLBB_00060	CDS	558	fapR		COG2050	Transcription factor FapR
+DGPDLLBB_00061	gene	2061	recG			
+DGPDLLBB_00061	CDS	2061	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+DGPDLLBB_00062	gene	1647				
+DGPDLLBB_00062	CDS	1647				putative protein
+DGPDLLBB_00063	gene	375				
+DGPDLLBB_00063	CDS	375				putative protein
+DGPDLLBB_00064	gene	189	rpmB			
+DGPDLLBB_00064	CDS	189	rpmB			50S ribosomal protein L28
+DGPDLLBB_00065	gene	642	thiN			
+DGPDLLBB_00065	CDS	642	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+DGPDLLBB_00066	gene	645	rpe			
+DGPDLLBB_00066	CDS	645	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+DGPDLLBB_00067	gene	876	rsgA			
+DGPDLLBB_00067	CDS	876	rsgA	3.6.1.-		Small ribosomal subunit biogenesis GTPase RsgA
+DGPDLLBB_00068	gene	1995	prkC			
+DGPDLLBB_00068	CDS	1995	prkC	2.7.11.1		Serine/threonine-protein kinase PrkC
+DGPDLLBB_00069	gene	744	stp			
+DGPDLLBB_00069	CDS	744	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+DGPDLLBB_00070	gene	1095	rlmN			
+DGPDLLBB_00070	CDS	1095	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+DGPDLLBB_00071	gene	1308	rsmB			
+DGPDLLBB_00071	CDS	1308	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+DGPDLLBB_00072	gene	936	fmt			
+DGPDLLBB_00072	CDS	936	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+DGPDLLBB_00073	gene	489	def1			
+DGPDLLBB_00073	CDS	489	def1	3.5.1.88	COG0242	Peptide deformylase 1
+DGPDLLBB_00074	gene	279				
+DGPDLLBB_00074	CDS	279				hypothetical protein
+DGPDLLBB_00075	gene	954				
+DGPDLLBB_00075	CDS	954				hypothetical protein
+DGPDLLBB_00076	gene	2409	priA			
+DGPDLLBB_00076	CDS	2409	priA	3.6.4.-		primosomal protein N'
+DGPDLLBB_00077	gene	1200	coaBC			
+DGPDLLBB_00077	CDS	1200	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+DGPDLLBB_00078	gene	219	rpoZ			
+DGPDLLBB_00078	CDS	219	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+DGPDLLBB_00079	gene	624	gmk			
+DGPDLLBB_00079	CDS	624	gmk	2.7.4.8		Guanylate kinase
+DGPDLLBB_00080	gene	1698	rqcH			
+DGPDLLBB_00080	CDS	1698	rqcH		COG1293	Rqc2 RqcH
+DGPDLLBB_00081	gene	402				
+DGPDLLBB_00081	CDS	402				hypothetical protein
+DGPDLLBB_00082	gene	213				
+DGPDLLBB_00082	CDS	213				hypothetical protein
+DGPDLLBB_00083	gene	612	pyrE			
+DGPDLLBB_00083	CDS	612	pyrE	2.4.2.10		Orotate phosphoribosyltransferase
+DGPDLLBB_00084	gene	693	pyrF			
+DGPDLLBB_00084	CDS	693	pyrF	4.1.1.23		Orotidine 5'-phosphate decarboxylase
+DGPDLLBB_00085	gene	3174	carB			
+DGPDLLBB_00085	CDS	3174	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+DGPDLLBB_00086	gene	1101	carA			
+DGPDLLBB_00086	CDS	1101	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+DGPDLLBB_00087	gene	1278	pyrC			
+DGPDLLBB_00087	CDS	1278	pyrC	3.5.2.3		Dihydroorotase
+DGPDLLBB_00088	gene	882	pyrB			
+DGPDLLBB_00088	CDS	882	pyrB	2.1.3.2		Aspartate carbamoyltransferase
+DGPDLLBB_00089	gene	1308	pyrP			
+DGPDLLBB_00089	CDS	1308	pyrP			Uracil permease
+DGPDLLBB_00090	gene	528	pyrR			
+DGPDLLBB_00090	CDS	528	pyrR			Bifunctional protein PyrR
+DGPDLLBB_00091	gene	918	rluD			
+DGPDLLBB_00091	CDS	918	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+DGPDLLBB_00092	gene	492	lspA			
+DGPDLLBB_00092	CDS	492	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+DGPDLLBB_00093	gene	174				
+DGPDLLBB_00093	CDS	174				hypothetical protein
+DGPDLLBB_00094	gene	798	catE			
+DGPDLLBB_00094	CDS	798	catE	1.13.11.2	COG2514	Catechol-2,3-dioxygenase
+DGPDLLBB_00095	gene	2754	ileS			
+DGPDLLBB_00095	CDS	2754	ileS	6.1.1.5		Isoleucine--tRNA ligase
+DGPDLLBB_00096	gene	618				
+DGPDLLBB_00096	CDS	618				hypothetical protein
+DGPDLLBB_00097	gene	807				
+DGPDLLBB_00097	CDS	807				hypothetical protein
+DGPDLLBB_00098	gene	291				
+DGPDLLBB_00098	CDS	291				hypothetical protein
+DGPDLLBB_00099	gene	555	sepF			
+DGPDLLBB_00099	CDS	555	sepF			Cell division protein SepF
+DGPDLLBB_00100	gene	675	yggS			
+DGPDLLBB_00100	CDS	675	yggS		COG0325	Pyridoxal phosphate homeostasis protein
+DGPDLLBB_00101	gene	318				
+DGPDLLBB_00101	CDS	318				hypothetical protein

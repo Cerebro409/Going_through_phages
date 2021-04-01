@@ -1,0 +1,117 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+PDHDOIKH_00001	gene	1212				
+PDHDOIKH_00001	CDS	1212				hypothetical protein
+PDHDOIKH_00002	gene	627				
+PDHDOIKH_00002	CDS	627				hypothetical protein
+PDHDOIKH_00003	gene	642				
+PDHDOIKH_00003	CDS	642				hypothetical protein
+PDHDOIKH_00004	gene	618				
+PDHDOIKH_00004	CDS	618				hypothetical protein
+PDHDOIKH_00005	gene	630				
+PDHDOIKH_00005	CDS	630				hypothetical protein
+PDHDOIKH_00006	gene	621				
+PDHDOIKH_00006	CDS	621				hypothetical protein
+PDHDOIKH_00007	gene	642				
+PDHDOIKH_00007	CDS	642				hypothetical protein
+PDHDOIKH_00008	gene	312				
+PDHDOIKH_00008	CDS	312				hypothetical protein
+PDHDOIKH_00009	gene	630				
+PDHDOIKH_00009	CDS	630				hypothetical protein
+PDHDOIKH_00010	gene	651				
+PDHDOIKH_00010	CDS	651				hypothetical protein
+PDHDOIKH_00011	gene	636				
+PDHDOIKH_00011	CDS	636				hypothetical protein
+PDHDOIKH_00012	gene	246				
+PDHDOIKH_00012	CDS	246				hypothetical protein
+PDHDOIKH_00013	gene	627				
+PDHDOIKH_00013	CDS	627				hypothetical protein
+PDHDOIKH_00014	gene	939	iolS			
+PDHDOIKH_00014	CDS	939	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+PDHDOIKH_00015	gene	537	ywqN			
+PDHDOIKH_00015	CDS	537	ywqN	1.-.-.-	COG0655	Putative NAD(P)H-dependent FMN-containing oxidoreductase YwqN
+PDHDOIKH_00016	gene	477				
+PDHDOIKH_00016	CDS	477				hypothetical protein
+PDHDOIKH_00017	gene	1296				
+PDHDOIKH_00017	CDS	1296				hypothetical protein
+PDHDOIKH_00018	gene	522				
+PDHDOIKH_00018	CDS	522				hypothetical protein
+PDHDOIKH_00019	gene	1011	adh			
+PDHDOIKH_00019	CDS	1011	adh	1.1.1.1		Alcohol dehydrogenase
+PDHDOIKH_00020	gene	429	ywiB			
+PDHDOIKH_00020	CDS	429	ywiB		COG4506	putative beta-barrel protein YwiB
+PDHDOIKH_00021	gene	1662	argS			
+PDHDOIKH_00021	CDS	1662	argS	6.1.1.19		Arginine--tRNA ligase
+PDHDOIKH_00022	gene	636	nth			
+PDHDOIKH_00022	CDS	636	nth	4.2.99.18		Endonuclease III
+PDHDOIKH_00023	gene	888	btuF			
+PDHDOIKH_00023	CDS	888	btuF		COG0614	Vitamin B12-binding protein
+PDHDOIKH_00024	gene	987				
+PDHDOIKH_00024	CDS	987			COG0609	putative ABC transporter permease protein
+PDHDOIKH_00025	gene	720	hdl IVa			
+PDHDOIKH_00025	CDS	720	hdl IVa	3.8.1.2		(S)-2-haloacid dehalogenase 4A
+PDHDOIKH_00026	gene	801				
+PDHDOIKH_00026	CDS	801			COG0596	putative protein
+PDHDOIKH_00027	gene	507				
+PDHDOIKH_00027	CDS	507				hypothetical protein
+PDHDOIKH_00028	gene	717				
+PDHDOIKH_00028	CDS	717				hypothetical protein
+PDHDOIKH_00029	gene	789	pip			
+PDHDOIKH_00029	CDS	789	pip	3.4.11.5		Proline iminopeptidase
+PDHDOIKH_00030	gene	375	sarA			
+PDHDOIKH_00030	CDS	375	sarA			Transcriptional regulator SarA
+PDHDOIKH_00031	gene	498				
+PDHDOIKH_00031	CDS	498				hypothetical protein
+PDHDOIKH_00032	gene	450				
+PDHDOIKH_00032	CDS	450			COG2826	IS30 family transposase ISSau5
+PDHDOIKH_00033	gene	504				
+PDHDOIKH_00033	CDS	504			COG2826	IS30 family transposase ISSau5
+PDHDOIKH_00034	gene	357				
+PDHDOIKH_00034	CDS	357				hypothetical protein
+PDHDOIKH_00035	gene	591				
+PDHDOIKH_00035	CDS	591				hypothetical protein
+PDHDOIKH_00036	gene	1047				
+PDHDOIKH_00036	CDS	1047				hypothetical protein
+PDHDOIKH_00037	gene	1848	infB			
+PDHDOIKH_00037	CDS	1848	infB			Translation initiation factor IF-2
+PDHDOIKH_00038	gene	1359				
+PDHDOIKH_00038	CDS	1359				hypothetical protein
+PDHDOIKH_00039	gene	2496				
+PDHDOIKH_00039	CDS	2496				hypothetical protein
+PDHDOIKH_00040	gene	384				
+PDHDOIKH_00040	CDS	384				hypothetical protein
+PDHDOIKH_00041	gene	261				
+PDHDOIKH_00041	CDS	261				hypothetical protein
+PDHDOIKH_00042	gene	1101				
+PDHDOIKH_00042	CDS	1101				hypothetical protein
+PDHDOIKH_00043	gene	1092				
+PDHDOIKH_00043	CDS	1092				hypothetical protein
+PDHDOIKH_00044	gene	303				
+PDHDOIKH_00044	CDS	303				hypothetical protein
+PDHDOIKH_00045	gene	321				
+PDHDOIKH_00045	CDS	321				hypothetical protein
+PDHDOIKH_00046	gene	285				
+PDHDOIKH_00046	CDS	285				hypothetical protein
+PDHDOIKH_00047	gene	402				
+PDHDOIKH_00047	CDS	402				hypothetical protein
+PDHDOIKH_00048	gene	225				
+PDHDOIKH_00048	CDS	225				hypothetical protein
+PDHDOIKH_00049	gene	204				
+PDHDOIKH_00049	CDS	204				hypothetical protein
+PDHDOIKH_00050	gene	561	xerD			
+PDHDOIKH_00050	CDS	561	xerD			Tyrosine recombinase XerD
+PDHDOIKH_00051	gene	2403	mrpA			
+PDHDOIKH_00051	CDS	2403	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+PDHDOIKH_00052	gene	426	mrpB			
+PDHDOIKH_00052	CDS	426	mrpB		COG2111	Na(+)/H(+) antiporter subunit B
+PDHDOIKH_00053	gene	345	mrpC			
+PDHDOIKH_00053	CDS	345	mrpC		COG1006	Na(+)/H(+) antiporter subunit C
+PDHDOIKH_00054	gene	1500	mnhD1			
+PDHDOIKH_00054	CDS	1500	mnhD1		COG0651	Na(+)/H(+) antiporter subunit D1
+PDHDOIKH_00055	gene	483	mrpE			
+PDHDOIKH_00055	CDS	483	mrpE		COG1863	Na(+)/H(+) antiporter subunit E
+PDHDOIKH_00056	gene	303	mrpF			
+PDHDOIKH_00056	CDS	303	mrpF		COG2212	Na(+)/H(+) antiporter subunit F
+PDHDOIKH_00057	gene	447				
+PDHDOIKH_00057	CDS	447				hypothetical protein
+PDHDOIKH_00058	gene	138				
+PDHDOIKH_00058	CDS	138				hypothetical protein

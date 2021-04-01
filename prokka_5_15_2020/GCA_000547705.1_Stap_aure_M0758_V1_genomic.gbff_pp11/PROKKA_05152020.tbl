@@ -1,0 +1,89 @@
+>Feature gnl|X|LBIPJCMD_1
+157	993	gene
+			locus_tag	LBIPJCMD_00001
+157	993	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LBIPJCMD_00001
+			product	hypothetical protein
+			protein_id	gnl|X|LBIPJCMD_00001
+1564	1923	gene
+			locus_tag	LBIPJCMD_00002
+1564	1923	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LBIPJCMD_00002
+			product	hypothetical protein
+			protein_id	gnl|X|LBIPJCMD_00002
+2329	2000	gene
+			locus_tag	LBIPJCMD_00003
+2329	2000	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LBIPJCMD_00003
+			product	hypothetical protein
+			protein_id	gnl|X|LBIPJCMD_00003
+3674	2709	gene
+			locus_tag	LBIPJCMD_00004
+3674	2709	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LBIPJCMD_00004
+			product	hypothetical protein
+			protein_id	gnl|X|LBIPJCMD_00004
+4076	4246	gene
+			locus_tag	LBIPJCMD_00005
+4076	4246	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LBIPJCMD_00005
+			product	hypothetical protein
+			protein_id	gnl|X|LBIPJCMD_00005
+5783	5163	gene
+			locus_tag	LBIPJCMD_00006
+5783	5163	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LBIPJCMD_00006
+			product	hypothetical protein
+			protein_id	gnl|X|LBIPJCMD_00006
+6283	5912	gene
+			locus_tag	LBIPJCMD_00007
+6283	5912	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LBIPJCMD_00007
+			product	hypothetical protein
+			protein_id	gnl|X|LBIPJCMD_00007
+6417	6280	gene
+			locus_tag	LBIPJCMD_00008
+6417	6280	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LBIPJCMD_00008
+			product	hypothetical protein
+			protein_id	gnl|X|LBIPJCMD_00008
+6536	7540	gene
+			gene	gloB
+			locus_tag	LBIPJCMD_00009
+6536	7540	CDS
+			EC_number	3.1.2.6
+			gene	gloB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01374
+			locus_tag	LBIPJCMD_00009
+			product	Hydroxyacylglutathione hydrolase
+			protein_id	gnl|X|LBIPJCMD_00009
+9654	8164	gene
+			locus_tag	LBIPJCMD_00010
+9654	8164	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LBIPJCMD_00010
+			product	hypothetical protein
+			protein_id	gnl|X|LBIPJCMD_00010
+11088	9997	gene
+			locus_tag	LBIPJCMD_00011
+11088	9997	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LBIPJCMD_00011
+			product	hypothetical protein
+			protein_id	gnl|X|LBIPJCMD_00011
+11185	11475	gene
+			locus_tag	LBIPJCMD_00012
+11185	11475	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LBIPJCMD_00012
+			product	hypothetical protein
+			protein_id	gnl|X|LBIPJCMD_00012

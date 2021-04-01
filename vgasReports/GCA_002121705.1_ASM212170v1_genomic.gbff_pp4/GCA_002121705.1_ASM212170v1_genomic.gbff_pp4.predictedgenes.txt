@@ -1,0 +1,27 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1          802         1398            -          597      0.41086
+
+     2         1399         1788            -          390      0.37202
+
+     3         1755         3485            -         1731      0.50000
+     (bit_score:213.001;e-value:6.18792e-63;identity:32.9%;gi|304360727|ref|YP_003856858.1| putative DNA polymerase III [Clostridium phage phiCTP1])
+     (bit_score:189.504;e-value:3.03816e-54;identity:35.4%;gi|327198331|ref|YP_004306905.1| DnaX DNA polymerase III clamp loader complex gamma-tau-delta subunit [Streptococcus phage Dp-1])
+
+     4         3578         4192            -          615      0.38323
+
+     5         4745         5473            -          729      0.43192
+
+     6         5498         6082            -          585      0.40736
+

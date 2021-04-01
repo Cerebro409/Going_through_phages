@@ -1,0 +1,42 @@
+# BLASTN 2.9.0+
+# Query: CIENGLJJ_00001 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CIENGLJJ_00001	CIENGLJJ_00001	100.000	171	100	171	171	0	1.52e-87	316
+CIENGLJJ_00001	LBIPJCMD_00005	100.000	171	100	171	171	0	1.52e-87	316
+# BLASTN 2.9.0+
+# Query: CIENGLJJ_00002 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CIENGLJJ_00002	OFJEEBPC_00001	100.000	621	100	621	621	0	0.0	1147
+CIENGLJJ_00002	CIENGLJJ_00002	100.000	621	100	621	621	0	0.0	1147
+CIENGLJJ_00002	LBIPJCMD_00006	100.000	621	100	621	621	0	0.0	1147
+# BLASTN 2.9.0+
+# Query: CIENGLJJ_00003 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CIENGLJJ_00003	OFJEEBPC_00002	100.000	372	100	372	372	0	0.0	688
+CIENGLJJ_00003	CIENGLJJ_00003	100.000	372	100	372	372	0	0.0	688
+CIENGLJJ_00003	LBIPJCMD_00007	100.000	372	100	372	372	0	0.0	688
+# BLASTN 2.9.0+
+# Query: CIENGLJJ_00004 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+CIENGLJJ_00004	EJFNCMDJ_00001	100.000	138	100	138	138	0	2.66e-69	255
+CIENGLJJ_00004	OFJEEBPC_00003	100.000	138	100	138	138	0	2.66e-69	255
+CIENGLJJ_00004	CIENGLJJ_00004	100.000	138	100	138	138	0	2.66e-69	255
+CIENGLJJ_00004	LBIPJCMD_00008	100.000	138	100	138	138	0	2.66e-69	255
+# BLASTN 2.9.0+
+# Query: CIENGLJJ_00005 Hydroxyacylglutathione hydrolase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+CIENGLJJ_00005	EJFNCMDJ_00002	100.000	1005	100	1005	1005	0	0.0	1857
+CIENGLJJ_00005	OFJEEBPC_00004	100.000	1005	100	1005	1005	0	0.0	1857
+CIENGLJJ_00005	CIENGLJJ_00005	100.000	1005	100	1005	1005	0	0.0	1857
+CIENGLJJ_00005	LBIPJCMD_00009	100.000	1005	100	1005	1005	0	0.0	1857
+# BLAST processed 5 queries

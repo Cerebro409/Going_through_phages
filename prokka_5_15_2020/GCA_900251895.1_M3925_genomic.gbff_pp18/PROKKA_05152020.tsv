@@ -1,0 +1,9 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EBNOFCCN_00001	gene	1515	ebh			
+EBNOFCCN_00001	CDS	1515	ebh			Extracellular matrix-binding protein ebh
+EBNOFCCN_00002	gene	402	rnhA			
+EBNOFCCN_00002	CDS	402	rnhA		COG0328	14.7 kDa ribonuclease H-like protein
+EBNOFCCN_00003	gene	705				
+EBNOFCCN_00003	CDS	705				queuosine precursor transporter
+EBNOFCCN_00004	gene	252				
+EBNOFCCN_00004	CDS	252				hypothetical protein

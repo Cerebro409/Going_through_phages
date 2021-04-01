@@ -1,0 +1,85 @@
+# BLASTN 2.9.0+
+# Query: FHBPMMBH_00001 Asparagine--tRNA ligase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+FHBPMMBH_00001	IBPBOOHP_00022	100.000	1293	100	1293	1293	0	0.0	2388
+FHBPMMBH_00001	FHBPMMBH_00001	100.000	1293	100	1293	1293	0	0.0	2388
+FHBPMMBH_00001	PAJFPAMC_00021	100.000	1293	100	1293	1293	0	0.0	2388
+FHBPMMBH_00001	KHDAMHGJ_00021	100.000	1293	100	1293	1293	0	0.0	2388
+FHBPMMBH_00001	CNEAMKEG_00022	100.000	1293	100	1293	1293	0	0.0	2388
+# BLASTN 2.9.0+
+# Query: FHBPMMBH_00002 DNA replication protein DnaD
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+FHBPMMBH_00002	IBPBOOHP_00023	100.000	687	100	687	687	0	0.0	1269
+FHBPMMBH_00002	FHBPMMBH_00002	100.000	687	100	687	687	0	0.0	1269
+FHBPMMBH_00002	KHDAMHGJ_00022	100.000	687	100	687	687	0	0.0	1269
+FHBPMMBH_00002	CNEAMKEG_00023	100.000	687	100	687	687	0	0.0	1269
+# BLASTN 2.9.0+
+# Query: FHBPMMBH_00003 Endonuclease III
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+FHBPMMBH_00003	IBPBOOHP_00024	100.000	660	100	660	660	0	0.0	1219
+FHBPMMBH_00003	FHBPMMBH_00003	100.000	660	100	660	660	0	0.0	1219
+FHBPMMBH_00003	KHDAMHGJ_00023	100.000	660	100	660	660	0	0.0	1219
+FHBPMMBH_00003	CNEAMKEG_00024	100.000	660	100	660	660	0	0.0	1219
+# BLASTN 2.9.0+
+# Query: FHBPMMBH_00004 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+FHBPMMBH_00004	IBPBOOHP_00025	100.000	342	100	342	342	0	0.0	632
+FHBPMMBH_00004	FHBPMMBH_00004	100.000	342	100	342	342	0	0.0	632
+FHBPMMBH_00004	KHDAMHGJ_00024	100.000	342	100	342	342	0	0.0	632
+FHBPMMBH_00004	CNEAMKEG_00025	100.000	342	100	342	342	0	0.0	632
+# BLASTN 2.9.0+
+# Query: FHBPMMBH_00005 Penicillin-binding protein 1A/1B
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+FHBPMMBH_00005	IBPBOOHP_00026	100.000	2184	100	2184	2184	0	0.0	4034
+FHBPMMBH_00005	FHBPMMBH_00005	100.000	2184	100	2184	2184	0	0.0	4034
+FHBPMMBH_00005	CNEAMKEG_00026	100.000	2184	100	2184	2184	0	0.0	4034
+FHBPMMBH_00005	KHDAMHGJ_00025	100.000	2184	20	447	447	0	0.0	826
+# BLASTN 2.9.0+
+# Query: FHBPMMBH_00006 Holliday junction resolvase RecU
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FHBPMMBH_00006	IBPBOOHP_00027	100.000	678	100	678	678	0	0.0	1253
+FHBPMMBH_00006	FHBPMMBH_00006	100.000	678	100	678	678	0	0.0	1253
+FHBPMMBH_00006	CNEAMKEG_00027	100.000	678	100	678	678	0	0.0	1253
+# BLASTN 2.9.0+
+# Query: FHBPMMBH_00007 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FHBPMMBH_00007	IBPBOOHP_00028	100.000	402	100	402	402	0	0.0	743
+FHBPMMBH_00007	FHBPMMBH_00007	100.000	402	100	402	402	0	0.0	743
+FHBPMMBH_00007	CNEAMKEG_00028	100.000	402	100	402	402	0	0.0	743
+# BLASTN 2.9.0+
+# Query: FHBPMMBH_00008 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+FHBPMMBH_00008	IBPBOOHP_00029	100.000	564	100	564	564	0	0.0	1042
+FHBPMMBH_00008	FHBPMMBH_00008	100.000	564	100	564	564	0	0.0	1042
+FHBPMMBH_00008	CNEAMKEG_00029	100.000	564	100	564	564	0	0.0	1042
+FHBPMMBH_00008	IBPBOOHP_00030	100.000	564	6	393	35	0	2.19e-11	65.8
+FHBPMMBH_00008	FHBPMMBH_00009	100.000	564	6	393	35	0	2.19e-11	65.8
+FHBPMMBH_00008	CNEAMKEG_00030	100.000	564	6	393	35	0	2.19e-11	65.8
+# BLASTN 2.9.0+
+# Query: FHBPMMBH_00009 Cell cycle protein GpsB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+FHBPMMBH_00009	IBPBOOHP_00030	100.000	393	100	393	393	0	0.0	726
+FHBPMMBH_00009	FHBPMMBH_00009	100.000	393	100	393	393	0	0.0	726
+FHBPMMBH_00009	CNEAMKEG_00030	100.000	393	100	393	393	0	0.0	726
+FHBPMMBH_00009	IBPBOOHP_00029	100.000	393	9	564	35	0	1.50e-11	65.8
+FHBPMMBH_00009	FHBPMMBH_00008	100.000	393	9	564	35	0	1.50e-11	65.8
+FHBPMMBH_00009	CNEAMKEG_00029	100.000	393	9	564	35	0	1.50e-11	65.8
+# BLAST processed 9 queries

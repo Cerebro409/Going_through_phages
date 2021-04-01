@@ -1,0 +1,24 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1          161         1357            +         1197      0.50000
+
+     2         1369         2136            +          768      0.38006
+     (bit_score:178.333;e-value:1.52696e-54;identity:33.2%;gi|557307613|ref|YP_008766949.1| IS21 transposition protein [Enterobacteria phage fiAA91-ss])
+
+     3         2367         2759            -          393      0.20831
+
+     4         2761         3150            -          390      0.09683
+
+     5         2873         3181            +          309      0.12276
+

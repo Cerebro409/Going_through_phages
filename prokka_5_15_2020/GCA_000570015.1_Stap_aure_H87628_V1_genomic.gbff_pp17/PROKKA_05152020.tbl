@@ -1,0 +1,46 @@
+>Feature gnl|X|PIMDMHEP_1
+2	139	gene
+			gene	rplT
+			locus_tag	PIMDMHEP_00001
+2	139	CDS
+			gene	rplT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66108
+			locus_tag	PIMDMHEP_00001
+			product	50S ribosomal protein L20
+			protein_id	gnl|X|PIMDMHEP_00001
+281	889	gene
+			locus_tag	PIMDMHEP_00002
+281	889	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PIMDMHEP_00002
+			product	hypothetical protein
+			protein_id	gnl|X|PIMDMHEP_00002
+908	1837	gene
+			locus_tag	PIMDMHEP_00003
+908	1837	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	PIMDMHEP_00003
+			product	hypothetical protein
+			protein_id	gnl|X|PIMDMHEP_00003
+2000	3301	gene
+			gene	tig
+			locus_tag	PIMDMHEP_00004
+2000	3301	CDS
+			EC_number	5.2.1.8
+			gene	tig
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99080
+			locus_tag	PIMDMHEP_00004
+			product	Trigger factor
+			protein_id	gnl|X|PIMDMHEP_00004
+3452	4714	gene
+			gene	clpX
+			locus_tag	PIMDMHEP_00005
+3452	4714	CDS
+			gene	clpX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63790
+			locus_tag	PIMDMHEP_00005
+			product	ATP-dependent Clp protease ATP-binding subunit ClpX
+			protein_id	gnl|X|PIMDMHEP_00005

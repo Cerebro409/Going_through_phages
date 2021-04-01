@@ -1,0 +1,669 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MMFDLKPG_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 5628 ,
+            seq-data
+              iupacna "TGAAAAATATGTTTGAGAACTATGGATTAATCTCATTAAAAGATGACCATATCGA
+AGTAAAAATAATTGCGAACGTTTTTAAACAGATGCTAAACAATCATCAATTTCAAGATGTTAATAATGTTGTCAACGC
+CTTAAGAGATAAAGGTTTCATATTAGCTGACCGTGGACGCCAAACAACTAAAAGAAGTGTCAAAGATAATAGCGGTAA
+AAAACAATCACTTGTATTTTACCATCTAAAATTAGATGTAGAGTTTGCATCTATCCTCGGATTAACTAAAGATAAGTC
+GTTACTTCAAAATTGGACACCGTCAAATGATAACAAAGCTGCGAAAGAACTTTTTAAATCCGCTAATGAAGGGATAGG
+CCCTTCAGGAGTTCACGAAGATTTCTAATTGTCTTTATCATACAACTGTGAAGCATCAAACTGAATAATCGACGTATT
+GAAGATAGAACAAATAACGGAGTGAAAAACATGGATGAACTTATCGAGATATTAGCCGATTTGGTAATTGAAGAAATC
+AATCAAACAAATGACTAATATGGACGCCCAACATCTCATTGATGTTGGGCTTATATATCAATTCATCCATAAATATAT
+ATTATCACTGTGAAAGGAGGAGCCGATATGAAACAAGTCATAGGCTATTTACGTCAAAGTACGATGAAACAACAATCT
+CTTGCAGCACAGAAACAAGCTATCGAAGCAATAGCCGAAAAACATCATATTCAACATATCAACTTTTATAGCGACAAA
+CAATCAGGTCGCAAAGATAATCGTAGTGGGTATCGACAAATAACACAATTAATTCAACAAGGACAGTGTGACATATTA
+TGCTGTTATCGTCTTAATAGGTTGCATCGTAATCTGAAAAATGCATTAAAACTCATCAAATTATGTCAAACGTACCAT
+GTTCATATCTTAAGCGTACATGATGGTTACTTTGATATGGATCAAGCTTTCGACCGACTCAAGCTTAATATCTTCATC
+AGTTTAGCCGAACTTGAATCGGATAACATTGGAGAACAAGTCAGAAATGGGCTTCAAGAAAAAGCAAAGCAAGGTCGA
+TTGATTACAACACATGCACCTTTTGGTTACGAATATCACAACGGAACATTCATCATCAATCAAAATGAGTCACCAACG
+GTAAAGGCTGTATTCAATTATTACATTAAAGGTCATGGTTATAAGAAAATTGCACAGTTATTAGAAGAAGATAACACG
+TATATCAATCGACAACCCTATCAAGTTCGTAACATTATCATCAATCCTAATTATTGTGGTCGTGTCAACAATCAATAT
+GGCCAATTCGACAATATGTTTCCTTCTATTGTTTCCACAAGTATATATGAGCAAGCGCAGAGACTTCGATTGCAAAAA
+CAAACCAAACAGACACCTTCGGATAATCAACTCAAACAAAAAATCAAATGCCCATGTTGTAATGCAACACTTACAAAT
+ATGACCATTAGAAAAAAGAATCATACATTACGTTACTACGTCTGTCCTAAAAACATGAATGCTTCACGCTTTGTCTGT
+GATTTTAAAGGCATCAATGCACAAACACTTGAAGATAAAGTATTAGAAGTGTGCCGAGACTTTTATCAAAATCAACGC
+ATCTACACAAAAATTAAAAGTGCGATTGACAAACGCATCAAAAGACAAAGAAACATAGAAAAACATCACACATTGACT
+CAAGAACAACTGATAGAAAAGTTGGCACAAGGCATCATTGATGCAGAAACGTTCAGAGAGCAAACACAATCATTACGT
+CAACAACCGCAACGCACTACATCTATCAATGGGCATCAAATACAACACATCATTCAAAATATTATTCAAAAACGTTTC
+ACGTTAAACATATTGTACCCCTATATTGAAACCATTCACATTACGAAAGATAAAAATCTTATAGGAATCTATTTCAAA
+AATGAACCACTCAATATTGTCAATCAAACCATGCAATCATCGATTGCATAAATGAAGAAAGGATGTAACATAATGCAA
+CAACTTAAAACAAAACGTGTCGGTATCTATGTACGTGTATCAACAGAAATGCAAAGCACAGAAGGTTATAGTATCGAC
+GGACAAATCAATCAAATCAAAGAATACTGTGACTTCCATCATTTTGAAGTTAAAGATATATACGCTGACCGTGGTATT
+TCAGGTAAATCTATGAACAGACCTGAGCTCCAACGTATGTTGAAAGATGCAAAAGAAGGCAATATCGACTGTGTTATG
+GTATACAAAACAAACCGATTAGCTCGTAATACATCTGATCTTCTCAAAATTGTCGAAGATTTACACAAACAAAATGTC
+GAATTTTTCAGTTTGTCAGAGCGTATGGAAGTCAATACTTCTTCTGGTAAACTCATGTTACAGATACTTGCGAGTTTC
+TCAGAATTCGAACGTAATAACATTGTCGAGAACGTATTTATGGGTCAAACGAGACGTGCCCAAGAAGGCTATTATCAA
+GGCAATTTACCACTAGGTTATGACAAAATACCAGATAGTAAACACGAGCTAATGATTAACCAACATGAAGCTAATATT
+GTAAAATATATATTCGAGTGCTATGCCAAAGGACATGGCTATCGTAAAATTGCCAATGCATTGAATCACAAAGGATAT
+GTCACTAAAAAGGGGAAACCTTTCAGTATTAGTTCAATCACATACATCTTAGCTAACCCTTTCTATATCGGCAAAATT
+CAATTTGCGAAATACAAAGATTGGAGTGAAAAACGTCGTAAAGGGCTGAATGATAAACCAGTGATAGCTGAAGGTAAG
+CATTCCCCCATTATTAATCAAGATTTATGGGATAAAGTACAAATGCGTAAGAAACAAGTCAGTCAAAAACCCCAAGTC
+CATGGCAAAGGAACGAATCTGCTTACAGGCATTATTCACTGTCCCCAATGTGGCGCACCTATGGCAGCAAGCAATACC
+ACGAATACTCTTAAAGACGGGACTAAGAAACGTATTCGTTACTATTCATGTAGTAATTTTCGGAACAAGGGTTCCAAA
+GTATGTTCGGCAAACAGTGTAAGAGCTGATGTGATTGAAGATTATGTGATGAAGCAAATACTTGAAATAGTCAAAAGT
+GATAAAGTCATTCAACGCGTAGTAACACACGTCAATCAAGAAAATCAAGTTGATGGCGCTGCACTTCATCACGATATT
+GCTTATAAGCAACAACAATATGATGAAGTACAAATCAAAATAAATAACTTGATTAAAACCATCGAGGATAATCCGGAC
+TTAACATCAGTAATCAGACCAAGTATTCAAAAATATGAAAAGCAACTCAATGACATTACGAATCAAATCAACCAACTC
+AAAAATCAACAAAATGAAGATAAGACTTTATTTGATGCCAAAGAAATCAGTAAACTATTACAACACATCTTTCATGAT
+ATTAAGCACATAGAAAAATCTCGACTCAAAGCATTGTATCTATCAGTGATTGATCGCATTGATATTAAAAAAGATGGT
+AATCATAAAAAACAATTCTATGTCACACTCAAACTTAATAACGAAATCATTAAACAACTTTTCAATAATAAACAACTC
+GACGAAGTGCATCTCAGCACTTCGTCTTTATTTTTGCCCCAAACACTATATCTTACTATTTAGCTAATAGAATCATTG
+TTATAACAATAATTTTCACTATATTCTTTCGCTTATTTTATCTAACTATTTTCAAGAATTGCTCTTTATCAATTTCAA
+TAACACTTATCTAATGAAACAGTTATTGTCGTAATTTTTTCATAACTATACAATGCTTATATTGAAATTGCTAAAGAA
+CATCCCACAATGATTTTTTATCGGGAAATGATTGGGATTTGCAGATTCGAAGAAACAGAAGGATTGTGCAAGCACAAT
+CCCAAAATCCCGTTACTTTTTATAAATAAATAATATATATAAGGAAGCAGAGACACAACCCTATCATCAATACTTATA
+AATAATGAGTTGATTGTTTGTCAAAATAGGCGGAATTTCAGGATTTCCTTGGCATACCAACGTTTGTAGCGGGTTTTT
+ATATGGAATTTTCTCTTATTCCCACCGGGATTCGTAATAAATGACAAATCAAATATATATTATCTCAATGATGTATAT
+GAACTACATCACTATTACACTATCTAGGAGGCAATAATATGAAAACCATCACTCAAGAACTCAAACAATATATAACCC
+ACCTATTCCAACTATCTAATAACGAAGCTTGGGAATGTGAAGCGCTGGAGGAAGCAGCAGAAAATATTCTACCGGAAC
+GTTTTATTAATGATTCTCCACTGGTACATCTCACACTCGAGACTTATACCTACTATAATGATGAACTACATGAGCTAA
+GTATCTATCCATTTCTAATGTATGCCAATAACCAACTCATCAGTGTCGGATACTTAGACCATTTTGACATGGACTTTC
+TGTACCTTACAGATACTCAAAATATCATTATTGATGAACGTCATTTACTAAAACAAGGAGGTCAGGACCATGAATAAT
+TGGATCATAGTTGCTCAATTATCCGTCACAGTTATCAACGAAATCATCGACATCATGAAAGAAAAGCAGAAGGGAGGG
+AAATAGCATGAAAATCAATCGATACATCACAAGAGGAATTAATGAAAGTATTCCACTAGACCTTCAAATCTTACTTTG
+GCACATGGTAGAAAAAAAAGATAACCAGCCTCATACAGATTACCTACACATTTTTAAATTACAAGAAGATGAGAATAT
+ACTCTCAATCACACATGAACAAGAACAACCCACATACAAATTGGAATATCACTATACAAACTATGAAAAAAATCAAAA
+TGCATTACCTAAGAAAGTCTACGTCATTCGTGAAGATGACGTGGACGCTTTTTATTATGTGATGCTTTTACCAGAAGA
+ATACTAAAGGAAGTGACGATGATGAATACAATCAAAAGTACGATACACACAGAAGCCATATTTAGCGATGATGAACAG
+CACCGCTATTTACTCAAGAAAACATGGGATGAAAAGAAAGCTGCATGCACAGTGATAACGATGTATCCTCATTTAGAC
+GGTGTATTATCACTCGATCTCACAACTGTTCTTATCCTCAACCAATTAGCCAATTCAGAACGATACGGTGCTGTATAT
+CTTGTAAATCTATTCTCTAATATTAGAACACCCGAAAACCTCAAACATATCAAAAATCCATACGATGAGCACACTGAT
+ATTCATTTGATGAAAGCGATTAGTGAAAGTGACACAGTGATTCTTGCTTATGGTGCCTATGCGAAGCGACCAGTTGTT
+ATCGACCGTGTCGAACAAGTGATGGAAATGTTAAAACCTCATAAAAAGAAAGTAAAAAAGCTCATCAATCCAGTAACA
+AATGAAATTATGCATCCACTCAACCCTAAGGCACGTCAAAAATGGATTTTGAAATCATAGCAAATACATGGAGGTCAA
+TATGGAAACAAAACAAATCAACATCGTTTTACTGTAAATGATATTGTTGAAACAATTCCTGACAATGAATTCGACGAA
+TTCAGACATCACCGTGGTGCAACTTCGTACCATCCTAAAATGATGTTAAAAGTGATTCTATATGCCTACACACAATCT
+GTATTCTCAGGTCGTAAAATAGAAAAAATGCTTAA" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 7 ,
+                    data
+                      gene {
+                        locus-tag "MMFDLKPG_00001" } ,
+                    location
+                      int {
+                        from 8 ,
+                        to 394 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MMFDLKPG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 8 ,
+                    data
+                      gene {
+                        locus-tag "MMFDLKPG_00002" } ,
+                    location
+                      int {
+                        from 610 ,
+                        to 1977 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MMFDLKPG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      gene {
+                        locus-tag "MMFDLKPG_00003" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 3627 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MMFDLKPG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      gene {
+                        locus-tag "MMFDLKPG_00004" } ,
+                    location
+                      int {
+                        from 4149 ,
+                        to 4499 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MMFDLKPG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus-tag "MMFDLKPG_00005" } ,
+                    location
+                      int {
+                        from 4586 ,
+                        to 4897 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MMFDLKPG_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus-tag "MMFDLKPG_00006" } ,
+                    location
+                      int {
+                        from 4909 ,
+                        to 5418 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MMFDLKPG_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MMFDLKPG_00001" } } ,
+          descr {
+            title "hypothetical protein MMFDLKPG_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 128 ,
+            seq-data
+              ncbieaa "MFENYGLISLKDDHIEVKIIANVFKQMLNNHQFQDVNNVVNALRDKGFILADRGR
+QTTKRSVKDNSGKKQSLVFYHLKLDVEFASILGLTKDKSLLQNWTPSNDNKAAKELFKSANEGIGPSGVHEDF" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 127 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MMFDLKPG_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MMFDLKPG_00002" } } ,
+          descr {
+            title "hypothetical protein MMFDLKPG_00002 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 455 ,
+            seq-data
+              ncbieaa "MKGGADMKQVIGYLRQSTMKQQSLAAQKQAIEAIAEKHHIQHINFYSDKQSGRKD
+NRSGYRQITQLIQQGQCDILCCYRLNRLHRNLKNALKLIKLCQTYHVHILSVHDGYFDMDQAFDRLKLNIFISLAELE
+SDNIGEQVRNGLQEKAKQGRLITTHAPFGYEYHNGTFIINQNESPTVKAVFNYYIKGHGYKKIAQLLEEDNTYINRQP
+YQVRNIIINPNYCGRVNNQYGQFDNMFPSIVSTSIYEQAQRLRLQKQTKQTPSDNQLKQKIKCPCCNATLTNMTIRKK
+NHTLRYYVCPKNMNASRFVCDFKGINAQTLEDKVLEVCRDFYQNQRIYTKIKSAIDKRIKRQRNIEKHHTLTQEQLIE
+KLAQGIIDAETFREQTQSLRQQPQRTTSINGHQIQHIIQNIIQKRFTLNILYPYIETIHITKDKNLIGIYFKNEPLNI
+VNQTMQSSIA" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 454 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MMFDLKPG_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MMFDLKPG_00003" } } ,
+          descr {
+            title "hypothetical protein MMFDLKPG_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 542 ,
+            seq-data
+              ncbieaa "MQQLKTKRVGIYVRVSTEMQSTEGYSIDGQINQIKEYCDFHHFEVKDIYADRGIS
+GKSMNRPELQRMLKDAKEGNIDCVMVYKTNRLARNTSDLLKIVEDLHKQNVEFFSLSERMEVNTSSGKLMLQILASFS
+EFERNNIVENVFMGQTRRAQEGYYQGNLPLGYDKIPDSKHELMINQHEANIVKYIFECYAKGHGYRKIANALNHKGYV
+TKKGKPFSISSITYILANPFYIGKIQFAKYKDWSEKRRKGLNDKPVIAEGKHSPIINQDLWDKVQMRKKQVSQKPQVH
+GKGTNLLTGIIHCPQCGAPMAASNTTNTLKDGTKKRIRYYSCSNFRNKGSKVCSANSVRADVIEDYVMKQILEIVKSD
+KVIQRVVTHVNQENQVDGAALHHDIAYKQQQYDEVQIKINNLIKTIEDNPDLTSVIRPSIQKYEKQLNDITNQINQLK
+NQQNEDKTLFDAKEISKLLQHIFHDIKHIEKSRLKALYLSVIDRIDIKKDGNHKKQFYVTLKLNNEIIKQLFNNKQLD
+EVHLSTSSLFLPQTLYLTI" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 541 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MMFDLKPG_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MMFDLKPG_00004" } } ,
+          descr {
+            title "hypothetical protein MMFDLKPG_00004 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 116 ,
+            seq-data
+              ncbieaa "MKTITQELKQYITHLFQLSNNEAWECEALEEAAENILPERFINDSPLVHLTLETY
+TYYNDELHELSIYPFLMYANNQLISVGYLDHFDMDFLYLTDTQNIIIDERHLLKQGGQDHE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 115 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MMFDLKPG_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MMFDLKPG_00005" } } ,
+          descr {
+            title "hypothetical protein MMFDLKPG_00005 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 103 ,
+            seq-data
+              ncbieaa "MKINRYITRGINESIPLDLQILLWHMVEKKDNQPHTDYLHIFKLQEDENILSITH
+EQEQPTYKLEYHYTNYEKNQNALPKKVYVIREDDVDAFYYVMLLPEEY" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 102 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MMFDLKPG_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "MMFDLKPG_00006" } } ,
+          descr {
+            title "hypothetical protein MMFDLKPG_00006 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 169 ,
+            seq-data
+              ncbieaa "MMNTIKSTIHTEAIFSDDEQHRYLLKKTWDEKKAACTVITMYPHLDGVLSLDLTT
+VLILNQLANSERYGAVYLVNLFSNIRTPENLKHIKNPYDEHTDIHLMKAISESDTVILAYGAYAKRPVVIDRVEQVME
+MLKPHKKKVKKLINPVTNEIMHPLNPKARQKWILKS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 168 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "MMFDLKPG_00006" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "MMFDLKPG_00001" } ,
+                location
+                  int {
+                    from 8 ,
+                    to 394 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "MMFDLKPG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "MMFDLKPG_00002" } ,
+                location
+                  int {
+                    from 610 ,
+                    to 1977 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "MMFDLKPG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "MMFDLKPG_00003" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 3627 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "MMFDLKPG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "MMFDLKPG_00004" } ,
+                location
+                  int {
+                    from 4149 ,
+                    to 4499 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "MMFDLKPG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "MMFDLKPG_00005" } ,
+                location
+                  int {
+                    from 4586 ,
+                    to 4897 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "MMFDLKPG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "MMFDLKPG_00006" } ,
+                location
+                  int {
+                    from 4909 ,
+                    to 5418 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "MMFDLKPG_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } } } } } } }

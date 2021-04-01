@@ -1,0 +1,112 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1          377         1654            -         1278      0.35944
+
+     2         1701         1934            +          234      0.10339
+
+     3         2000         2914            +          915      0.43161
+
+     4         2788         3633            +          846      0.32963
+
+     5         3888         4589            -          702      0.40899
+
+     6         4405         5598            -         1194      0.43302
+
+     7         5622         5864            -          243      0.32828
+
+     8         6094         6891            -          798      0.36315
+
+     9         6764         7366            -          603      0.35123
+
+    10         7332         8867            -         1536      0.47824
+
+    11         8881        12570            -         3690      0.50000
+
+    12        12874        13851            -          978      0.44547
+
+    13        13842        14156            -          315      0.40219
+
+    14        14160        16565            -         2406      0.45818
+
+    15        16630        17400            -          771      0.36536
+
+    16        17594        18130            -          537      0.42530
+
+    17        18364        19110            -          747      0.31274
+
+    18        19391        19588            -          198      0.24752
+
+    19        19660        20127            -          468      0.34773
+
+    20        20313        21863            -         1551      0.39635
+
+    21        22001        22270            +          270      0.15114
+
+    22        22157        22423            -          267      0.34696
+
+    23        22423        22674            -          252      0.29321
+
+    24        22945        23544            -          600      0.34959
+
+    25        24180        25430            +         1251      0.42651
+
+    26        25515        26309            -          795      0.37155
+
+    27        26156        26962            -          807      0.38869
+
+    28        26943        27722            -          780      0.34206
+
+    29        27843        29282            -         1440      0.33659
+
+    30        29714        30400            -          687      0.39890
+
+    31        30727        31593            -          867      0.36771
+
+    32        32291        33601            +         1311      0.37918
+
+    33        34056        35021            +          966      0.37969
+     (bit_score:424.091;e-value:2.00715e-149;identity:65.3%;gi|431810285|ref|YP_007237170.1| Panton-Valentine leukocidin chain S [Staphylococcus phage phi5967PVL])
+     (bit_score:424.091;e-value:2.00715e-149;identity:65.3%;gi|119443709|ref|YP_918947.1| Panton-Valentine leukocidin chain S precursor [Staphylococcus phage Pvl108])
+     (bit_score:424.091;e-value:2.00715e-149;identity:65.3%;gi|156603947|ref|YP_001429894.1| Panton-Valentine leukocidin chain S precursor [Staphylococcus phage tp310-1])
+
+    34        35589        36551            +          963      0.38493
+     (bit_score:517.694;e-value:0.0;identity:78.8%;gi|448244684|ref|YP_007392406.1| Panton-Valentine leukocidin chain S precursor [Staphylococcus phage phi7401PVL])
+     (bit_score:517.694;e-value:0.0;identity:78.8%;gi|239507421|ref|YP_002939732.1| Panton-Valentine leukocidin chain S precursor [Staphylococcus phage phiPVL-CN125])
+     (bit_score:517.694;e-value:0.0;identity:78.8%;gi|209363611|ref|YP_002268029.1| Panton-Valentine leukocidin chain S precursor [Staphylococcus phage phi2958PVL])
+
+    35        36436        37515            +         1080      0.40350
+     (bit_score:469.159;e-value:2.19009e-166;identity:70.1%;gi|9635737|ref|NP_061650.1| LukF-PV(P83) precursor [Staphylococcus prophage phiPV83])
+     (bit_score:457.603;e-value:7.80521e-162;identity:71.6%;gi|431810286|ref|YP_007237171.1| Panton-Valentine leukocidin chain S [Staphylococcus phage phi5967PVL])
+     (bit_score:457.603;e-value:7.80521e-162;identity:71.6%;gi|239507422|ref|YP_002939733.1| Panton-Valentine leukocidin chain F precursor [Staphylococcus phage phiPVL-CN125])
+
+    36        37567        38058            -          492      0.18006
+
+    37        38045        38737            -          693      0.38787
+
+    38        38730        39917            -         1188      0.39806
+
+    39        39805        40848            -         1044      0.41113
+
+    40        40850        42208            -         1359      0.43735
+
+    41        42186        42872            -          687      0.42457
+
+    42        42927        43094            -          168      0.14248
+
+    43        43245        43439            -          195      0.19680
+
+    44        43902        44258            -          357      0.29804
+     (bit_score:245.743;e-value:7.95505e-80;identity:21.1%;gi|119443708|ref|YP_918946.1| putative transposase [Staphylococcus phage Pvl108])
+     (bit_score:245.743;e-value:9.04918e-80;identity:20.9%;gi|9635722|ref|NP_061635.1| transposase [Staphylococcus prophage phiPV83])
+

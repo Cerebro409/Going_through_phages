@@ -1,0 +1,21 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+HOHICCDL_00001	gene	345	menA			
+HOHICCDL_00001	CDS	345	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+HOHICCDL_00002	gene	552				
+HOHICCDL_00002	CDS	552				hypothetical protein
+HOHICCDL_00003	gene	216				
+HOHICCDL_00003	CDS	216				hypothetical protein
+HOHICCDL_00004	gene	117				
+HOHICCDL_00004	CDS	117				hypothetical protein
+HOHICCDL_00005	gene	360	yfmC_1			
+HOHICCDL_00005	CDS	360	yfmC_1		COG4594	Fe(3+)-citrate-binding protein YfmC
+HOHICCDL_00006	gene	537	yfmC_2			
+HOHICCDL_00006	CDS	537	yfmC_2		COG4594	Fe(3+)-citrate-binding protein YfmC
+HOHICCDL_00007	gene	378				
+HOHICCDL_00007	CDS	378				hypothetical protein
+HOHICCDL_00008	gene	138	tarM			
+HOHICCDL_00008	CDS	138	tarM	2.4.1.70		Poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase
+HOHICCDL_00009	gene	132				
+HOHICCDL_00009	CDS	132				hypothetical protein
+HOHICCDL_00010	gene	207				
+HOHICCDL_00010	CDS	207				hypothetical protein

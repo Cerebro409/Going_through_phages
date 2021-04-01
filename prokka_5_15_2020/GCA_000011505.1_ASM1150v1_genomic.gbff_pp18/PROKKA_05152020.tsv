@@ -1,0 +1,37 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EOLKNJBM_00001	gene	615	der			
+EOLKNJBM_00001	CDS	615	der			GTPase Der
+EOLKNJBM_00002	gene	999	gpsA			
+EOLKNJBM_00002	CDS	999	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+EOLKNJBM_00003	gene	273	hup			
+EOLKNJBM_00003	CDS	273	hup			DNA-binding protein HU
+EOLKNJBM_00004	gene	573				
+EOLKNJBM_00004	CDS	573				hypothetical protein
+EOLKNJBM_00005	gene	726	menG			
+EOLKNJBM_00005	CDS	726	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+EOLKNJBM_00006	gene	945	hepT			
+EOLKNJBM_00006	CDS	945	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+EOLKNJBM_00007	gene	450	ndk			
+EOLKNJBM_00007	CDS	450	ndk	2.7.4.6		Nucleoside diphosphate kinase
+EOLKNJBM_00008	gene	201				
+EOLKNJBM_00008	CDS	201				hypothetical protein
+EOLKNJBM_00009	gene	1167	aroC			
+EOLKNJBM_00009	CDS	1167	aroC	4.2.3.5	COG0082	Chorismate synthase
+EOLKNJBM_00010	gene	1065	aroB			
+EOLKNJBM_00010	CDS	1065	aroB	4.2.3.4		3-dehydroquinate synthase
+EOLKNJBM_00011	gene	1299	aroA			
+EOLKNJBM_00011	CDS	1299	aroA	2.5.1.19		3-phosphoshikimate 1-carboxyvinyltransferase
+EOLKNJBM_00012	gene	1245	bepA			
+EOLKNJBM_00012	CDS	1245	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+EOLKNJBM_00013	gene	588				
+EOLKNJBM_00013	CDS	588				hypothetical protein
+EOLKNJBM_00014	gene	588				
+EOLKNJBM_00014	CDS	588				hypothetical protein
+EOLKNJBM_00015	gene	699				
+EOLKNJBM_00015	CDS	699				hypothetical protein
+EOLKNJBM_00016	gene	318	ypjD			
+EOLKNJBM_00016	CDS	318	ypjD		COG1694	putative protein YpjD
+EOLKNJBM_00017	gene	1143	bshA			
+EOLKNJBM_00017	CDS	1143	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+EOLKNJBM_00018	gene	1203	cca			
+EOLKNJBM_00018	CDS	1203	cca	2.7.7.72		CCA-adding enzyme

@@ -1,0 +1,60 @@
+# BLASTN 2.9.0+
+# Query: LOAGNOMO_00001 Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+LOAGNOMO_00001	JBIMIPIB_00003	100.000	165	100	465	165	0	3.16e-84	305
+LOAGNOMO_00001	NPBCENDG_00003	100.000	165	100	465	165	0	3.16e-84	305
+LOAGNOMO_00001	LOAGNOMO_00001	100.000	165	100	165	165	0	3.16e-84	305
+LOAGNOMO_00001	CICOJLPI_00001	100.000	165	100	165	165	0	3.16e-84	305
+LOAGNOMO_00001	CAFLMJIC_00135	100.000	165	100	465	165	0	3.16e-84	305
+# BLASTN 2.9.0+
+# Query: LOAGNOMO_00002 2-oxoglutarate carboxylase small subunit
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+LOAGNOMO_00002	JBIMIPIB_00004	100.000	1356	100	1356	1356	0	0.0	2505
+LOAGNOMO_00002	NPBCENDG_00004	100.000	1356	100	1356	1356	0	0.0	2505
+LOAGNOMO_00002	LOAGNOMO_00002	100.000	1356	100	1356	1356	0	0.0	2505
+LOAGNOMO_00002	CICOJLPI_00002	100.000	1356	100	1356	1356	0	0.0	2505
+LOAGNOMO_00002	CAFLMJIC_00136	100.000	1356	100	1356	1356	0	0.0	2505
+# BLASTN 2.9.0+
+# Query: LOAGNOMO_00003 putative protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+LOAGNOMO_00003	JBIMIPIB_00005	100.000	363	100	363	363	0	0.0	671
+LOAGNOMO_00003	NPBCENDG_00005	100.000	363	100	363	363	0	0.0	671
+LOAGNOMO_00003	LOAGNOMO_00003	100.000	363	100	363	363	0	0.0	671
+LOAGNOMO_00003	CICOJLPI_00003	100.000	363	100	363	363	0	0.0	671
+LOAGNOMO_00003	CAFLMJIC_00137	100.000	363	100	363	363	0	0.0	671
+# BLASTN 2.9.0+
+# Query: LOAGNOMO_00004 Transcription antitermination protein NusB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+LOAGNOMO_00004	JBIMIPIB_00006	100.000	390	100	390	390	0	0.0	721
+LOAGNOMO_00004	NPBCENDG_00006	100.000	390	100	390	390	0	0.0	721
+LOAGNOMO_00004	LOAGNOMO_00004	100.000	390	100	390	390	0	0.0	721
+LOAGNOMO_00004	CICOJLPI_00004	100.000	390	100	390	390	0	0.0	721
+LOAGNOMO_00004	CAFLMJIC_00138	100.000	390	100	390	390	0	0.0	721
+# BLASTN 2.9.0+
+# Query: LOAGNOMO_00005 Exodeoxyribonuclease 7 large subunit
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+LOAGNOMO_00005	JBIMIPIB_00007	100.000	1338	100	1338	1338	0	0.0	2471
+LOAGNOMO_00005	LOAGNOMO_00005	100.000	1338	100	1338	1338	0	0.0	2471
+LOAGNOMO_00005	CICOJLPI_00005	100.000	1338	100	1338	1338	0	0.0	2471
+LOAGNOMO_00005	CAFLMJIC_00139	100.000	1338	100	1338	1338	0	0.0	2471
+LOAGNOMO_00005	NPBCENDG_00007	100.000	1338	42	561	561	0	0.0	1037
+# BLASTN 2.9.0+
+# Query: LOAGNOMO_00006 Exodeoxyribonuclease 7 small subunit
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+LOAGNOMO_00006	JBIMIPIB_00008	100.000	231	100	231	231	0	9.42e-121	427
+LOAGNOMO_00006	LOAGNOMO_00006	100.000	231	100	231	231	0	9.42e-121	427
+LOAGNOMO_00006	CICOJLPI_00006	100.000	231	100	231	231	0	9.42e-121	427
+LOAGNOMO_00006	CAFLMJIC_00140	100.000	231	100	231	231	0	9.42e-121	427
+# BLAST processed 6 queries

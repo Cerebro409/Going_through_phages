@@ -1,0 +1,215 @@
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00001 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00001	AIALGFFB_00001	100.000	855	100	855	855	0	0.0	1580
+AIALGFFB_00001	BOPJEMOM_00119	99.532	855	100	855	855	4	0.0	1557
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00002 Thermonuclease
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00002	AIALGFFB_00002	100.000	573	100	573	573	0	0.0	1059
+AIALGFFB_00002	BOPJEMOM_00118	100.000	573	93	534	534	0	0.0	987
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00003 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00003	AIALGFFB_00003	100.000	189	100	189	189	0	1.68e-97	350
+AIALGFFB_00003	BOPJEMOM_00117	95.238	189	100	180	189	0	1.03e-79	291
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00004 Transcriptional regulatory protein DesR
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00004	AIALGFFB_00004	100.000	603	100	603	603	0	0.0	1114
+AIALGFFB_00004	BOPJEMOM_00116	99.834	603	100	603	603	1	0.0	1109
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00005 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00005	AIALGFFB_00005	100.000	1092	100	1092	1092	0	0.0	2017
+AIALGFFB_00005	BOPJEMOM_00115	99.725	1092	100	1092	1092	3	0.0	2001
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00006 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+AIALGFFB_00006	AIALGFFB_00006	100.000	732	100	732	732	0	0.0	1352
+AIALGFFB_00006	BOPJEMOM_00114	99.863	732	100	732	732	1	0.0	1347
+AIALGFFB_00006	BOPJEMOM_00113	100.000	732	4	900	32	0	1.33e-09	60.2
+AIALGFFB_00006	AIALGFFB_00007	100.000	732	4	900	32	0	1.33e-09	60.2
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00007 Linearmycin resistance ATP-binding protein LnrL
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+AIALGFFB_00007	AIALGFFB_00007	100.000	900	100	900	900	0	0.0	1663
+AIALGFFB_00007	BOPJEMOM_00113	98.111	900	100	900	900	17	0.0	1568
+AIALGFFB_00007	BOPJEMOM_00114	100.000	900	4	732	32	0	1.64e-09	60.2
+AIALGFFB_00007	AIALGFFB_00006	100.000	900	4	732	32	0	1.64e-09	60.2
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00008 Cardiolipin synthase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00008	AIALGFFB_00008	100.000	1482	100	1482	1482	0	0.0	2737
+AIALGFFB_00008	BOPJEMOM_00112	91.228	1482	100	1482	1482	130	0.0	2017
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00009 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00009	AIALGFFB_00009	100.000	198	100	198	198	0	1.76e-102	366
+AIALGFFB_00009	BOPJEMOM_00111	90.404	198	100	198	198	19	8.53e-71	261
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00010 Low specificity L-threonine aldolase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00010	AIALGFFB_00010	100.000	1056	100	1056	1056	0	0.0	1951
+AIALGFFB_00010	BOPJEMOM_00110	98.928	1056	97	1026	1026	11	0.0	1834
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00011 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00011	BOPJEMOM_00109	100.000	192	100	192	192	0	3.67e-99	355
+AIALGFFB_00011	AIALGFFB_00011	100.000	192	100	192	192	0	3.67e-99	355
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00012 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00012	AIALGFFB_00012	100.000	351	100	351	351	0	0.0	649
+AIALGFFB_00012	BOPJEMOM_00108	100.000	351	97	342	342	0	0.0	632
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00013 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00013	BOPJEMOM_00107	100.000	195	100	195	195	0	8.04e-101	361
+AIALGFFB_00013	AIALGFFB_00013	100.000	195	100	195	195	0	8.04e-101	361
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00014 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00014	BOPJEMOM_00106	100.000	291	100	291	291	0	5.36e-154	538
+AIALGFFB_00014	AIALGFFB_00014	100.000	291	100	291	291	0	5.36e-154	538
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00015 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00015	AIALGFFB_00015	100.000	135	100	135	135	0	1.20e-67	250
+AIALGFFB_00015	BOPJEMOM_00102	98.347	135	90	585	121	2	1.58e-56	213
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00016 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00016	BOPJEMOM_00105	100.000	138	100	138	138	0	2.66e-69	255
+AIALGFFB_00016	AIALGFFB_00016	100.000	138	100	138	138	0	2.66e-69	255
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00017 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+AIALGFFB_00017	AIALGFFB_00017	100.000	267	100	267	267	0	1.07e-140	494
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00018 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00018	BOPJEMOM_00104	100.000	102	100	102	102	0	1.91e-49	189
+AIALGFFB_00018	AIALGFFB_00018	100.000	102	100	102	102	0	1.91e-49	189
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00019 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+AIALGFFB_00019	AIALGFFB_00019	100.000	1296	100	1296	1296	0	0.0	2394
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00020 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+AIALGFFB_00020	AIALGFFB_00020	100.000	888	100	888	888	0	0.0	1640
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00021 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+AIALGFFB_00021	AIALGFFB_00021	100.000	225	100	225	225	0	1.98e-117	416
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00022 RNA polymerase sigma factor SigS
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+AIALGFFB_00022	AIALGFFB_00022	100.000	549	100	549	549	0	0.0	1014
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00023 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+AIALGFFB_00023	AIALGFFB_00023	100.000	444	100	444	444	0	0.0	821
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00024 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+AIALGFFB_00024	AIALGFFB_00024	100.000	444	100	444	444	0	0.0	821
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00025 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+AIALGFFB_00025	AIALGFFB_00025	100.000	636	100	636	636	0	0.0	1175
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00026 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+AIALGFFB_00026	AIALGFFB_00026	100.000	621	100	621	621	0	0.0	1147
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00027 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+AIALGFFB_00027	AIALGFFB_00027	100.000	147	100	147	147	0	2.81e-74	272
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00028 Transaldolase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+AIALGFFB_00028	AIALGFFB_00028	100.000	714	100	714	714	0	0.0	1319
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00029 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+AIALGFFB_00029	AIALGFFB_00029	100.000	303	100	303	303	0	1.19e-160	560
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00030 Putative fluoride ion transporter CrcB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+AIALGFFB_00030	AIALGFFB_00030	100.000	366	100	366	366	0	0.0	676
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00031 Putative fluoride ion transporter CrcB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+AIALGFFB_00031	AIALGFFB_00031	100.000	354	100	354	354	0	0.0	654
+# BLASTN 2.9.0+
+# Query: AIALGFFB_00032 IS1182 family transposase ISSau3
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AIALGFFB_00032	AIALGFFB_00032	100.000	174	100	174	174	0	3.34e-89	322
+AIALGFFB_00032	MBJHDCJA_00044	98.824	174	98	357	170	2	1.21e-83	303
+# BLAST processed 32 queries

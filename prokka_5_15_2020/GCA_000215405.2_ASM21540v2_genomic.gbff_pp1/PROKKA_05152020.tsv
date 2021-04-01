@@ -1,0 +1,21 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MEGLDCKF_00001	gene	126				
+MEGLDCKF_00001	CDS	126				hypothetical protein
+MEGLDCKF_00002	gene	507				
+MEGLDCKF_00002	CDS	507				hypothetical protein
+MEGLDCKF_00003	gene	396	flr			
+MEGLDCKF_00003	CDS	396	flr			FPRL1 inhibitory protein
+MEGLDCKF_00004	gene	330				
+MEGLDCKF_00004	CDS	330				hypothetical protein
+MEGLDCKF_00005	gene	168				
+MEGLDCKF_00005	CDS	168				hypothetical protein
+MEGLDCKF_00006	gene	504				
+MEGLDCKF_00006	CDS	504		3.1.4.-		Putative metallophosphoesterase MG207 
+MEGLDCKF_00007	gene	588				
+MEGLDCKF_00007	CDS	588		3.6.1.66		dITP/XTP pyrophosphatase
+MEGLDCKF_00008	gene	801	murI			
+MEGLDCKF_00008	CDS	801	murI	5.1.1.3		Glutamate racemase
+MEGLDCKF_00009	gene	816	frdB			
+MEGLDCKF_00009	CDS	816	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+MEGLDCKF_00010	gene	1767	frdA			
+MEGLDCKF_00010	CDS	1767	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit

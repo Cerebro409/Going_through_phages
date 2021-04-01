@@ -1,0 +1,15 @@
+locus_tag	ftype	gene	EC_number	product
+KFNNAHJN_00001	CDS	hypothetical protein
+KFNNAHJN_00001	gene
+KFNNAHJN_00002	CDS	hypothetical protein
+KFNNAHJN_00002	gene
+KFNNAHJN_00003	CDS	argR	Arginine repressor
+KFNNAHJN_00003	gene	argR
+KFNNAHJN_00004	CDS	arcA	3.5.3.6	Arginine deiminase
+KFNNAHJN_00004	gene	arcA
+KFNNAHJN_00005	CDS	arcD	Arginine/ornithine antiporter
+KFNNAHJN_00005	gene	arcD
+KFNNAHJN_00006	CDS	arcR	HTH-type transcriptional regulator ArcR
+KFNNAHJN_00006	gene	arcR
+KFNNAHJN_00007	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+KFNNAHJN_00007	gene	argF

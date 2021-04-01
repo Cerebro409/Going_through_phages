@@ -1,0 +1,9 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MJBPLCNM_00001	gene	702	lrgB			
+MJBPLCNM_00001	CDS	702	lrgB		COG1346	Antiholin-like protein LrgB
+MJBPLCNM_00002	gene	438	lrgA			
+MJBPLCNM_00002	CDS	438	lrgA		COG1380	Antiholin-like protein LrgA
+MJBPLCNM_00003	gene	741	lytR			
+MJBPLCNM_00003	CDS	741	lytR		COG3279	Sensory transduction protein LytR
+MJBPLCNM_00004	gene	1755	ypdA			
+MJBPLCNM_00004	CDS	1755	ypdA	2.7.13.3	COG3275	Sensor histidine kinase YpdA

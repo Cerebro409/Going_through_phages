@@ -1,0 +1,37 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FBFNHGHC_00001	gene	384	ybaN			
+FBFNHGHC_00001	CDS	384	ybaN		COG2832	Inner membrane protein YbaN
+FBFNHGHC_00002	gene	327	isdI			
+FBFNHGHC_00002	CDS	327	isdI	1.14.99.48		Heme oxygenase (staphylobilin-producing) 2
+FBFNHGHC_00003	gene	1146	mnaA			
+FBFNHGHC_00003	CDS	1146	mnaA	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+FBFNHGHC_00004	gene	1263	wecC			
+FBFNHGHC_00004	CDS	1263	wecC	1.1.1.336	COG0677	UDP-N-acetyl-D-mannosamine dehydrogenase
+FBFNHGHC_00005	gene	888	fcl			
+FBFNHGHC_00005	CDS	888	fcl	1.1.1.271		GDP-L-fucose synthase
+FBFNHGHC_00006	gene	558	epsL			
+FBFNHGHC_00006	CDS	558	epsL	2.-.-.-	COG2148	putative sugar transferase EpsL
+FBFNHGHC_00007	gene	1206				
+FBFNHGHC_00007	CDS	1206				hypothetical protein
+FBFNHGHC_00008	gene	1206				
+FBFNHGHC_00008	CDS	1206				hypothetical protein
+FBFNHGHC_00009	gene	1167				
+FBFNHGHC_00009	CDS	1167				hypothetical protein
+FBFNHGHC_00010	gene	1110				
+FBFNHGHC_00010	CDS	1110				hypothetical protein
+FBFNHGHC_00011	gene	627	dapH			
+FBFNHGHC_00011	CDS	627	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+FBFNHGHC_00012	gene	1125	wbpI			
+FBFNHGHC_00012	CDS	1125	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+FBFNHGHC_00013	gene	1110	wbjC			
+FBFNHGHC_00013	CDS	1110	wbjC	1.1.1.367		UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
+FBFNHGHC_00014	gene	1029	capD			
+FBFNHGHC_00014	CDS	1029	capD	5.1.3.2	COG1086	UDP-glucose 4-epimerase
+FBFNHGHC_00015	gene	1635	pglF			
+FBFNHGHC_00015	CDS	1635	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+FBFNHGHC_00016	gene	765	ywqE			
+FBFNHGHC_00016	CDS	765	ywqE	3.1.3.48	COG4464	Tyrosine-protein phosphatase YwqE
+FBFNHGHC_00017	gene	687	ywqD			
+FBFNHGHC_00017	CDS	687	ywqD	2.7.10.2	COG0489	Tyrosine-protein kinase YwqD
+FBFNHGHC_00018	gene	618	cap8A			
+FBFNHGHC_00018	CDS	618	cap8A		COG3944	Capsular polysaccharide type 8 biosynthesis protein cap8A

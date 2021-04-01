@@ -1,0 +1,643 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "AMIHLCIC_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 4092 ,
+            seq-data
+              iupacna "AAGTTTCAGACTTTAGCGAGGAATGGAAACTTTCTATCGGGGCGTTATCGGCAGG
+TGTTCCCTTTCGGGACATACTTCTGATAATGCCTTTTTCTTCGCACAATTGATAATAAGCATAAGATGTATAAACGCT
+GCCTTGATCACTATGTAATATACAACCCTCAGGTATATCGATTTGATTTAATGTATCATTAACTAAACTTTGGTCTTG
+TTTATCATCTATTTTATACGCCACAATTTCTCCGTTATAAATATCCATTATCGAAGATAAATACAACATAGAATGACC
+AAATGGTAAATAAGTAATATCGGTTGTTAATACTTCCATTGGACAACTCGCTTTAAATTGTCTTTGTAATAAATTGTC
+CGTTTTATAATACGGTTTACCTATTTTTGTCATCTTTTTAGGTCTAACTCGGCAGTTCAAATGATGCTTCTGCATCAT
+TCTCTGTACTCTCTTATGATTAATTGGTGATGTATAACATTGATTAATCAATGCTGTAATCTTACGATAACCGTAGGT
+ATAGTGGTTAGCTTTACATAATTCAATAACTTTTTGTGTTACGGTATCATTTTTATGGGTTTTGTTTTTCCATCGGTA
+ATATGTTGATTTAGGTATGTTTAATACTTTTAGTAGCAATTTGATTGAATATTTTACTTTTAATTGATCCACTAAATC
+TATGACTACTGTTGGTACCACTTCCTTTCCAATACCTTGTACTTTTTTAAAATATCCAATTCTATATCTTTTCTCTTA
+TTTTCTAATTTTAATTGTTCTACTTCTGACAGCTCTTCTAATCCTTTACCGTAGGTATATTGTTTACCAACTTGTTGT
+GAAAATCTATATGCTAGTTTTGGTAAAACTGAGGAAGGACGCTGGATAGCTAAGAATGCCCATAATTATGGATTTATT
+ATAAGATATCCTAAAAACAAAGAAAGCATCACAGGATATCAATATGAACCTTGGCATTTACGTTATTTAGGAAAAAGA
+AGGCGACAAAAGTGTACAAATCTGGTGAAACATTAGAGGGATTTGTAGGCTTAAAATGATCAATTTAAAATAATCGAA
+ACTTCAACTACCTTATTATCGACGAAGTGTATTCCAGCACTTCGTCTTTATTTTTACCGCAAACATTATACCTTACTA
+TTTAATAAATCTATTTTATATCTACATACTTCCTCTTTCTTTTTCTAAAAATTTTTGAGAATTCTCTTTATCAATTTC
+AATAACACTTATCTAATGAAACAGTCATTGTCGTAATTTTTTCATAACTACACGAGGCTTATATTGAAATTGCTAAAG
+AACATCCCACGATGATTTTTTATCGGGAAAGGAATGGGATTTGCAGATTAGAAGAAGCAGAAGGATTGTGCAAGCACA
+ATCCCAAAATCCCGTTATTCTTTATAAATAAATAATATATATAAGGAAGCAGAGACCCCACCCTATCATCAATACTTA
+TAAATAATGAGTTGATTGTTCGTCAAAATAGGCGGAATTTCGGGATTTCCTTGTCATACCAAGGTTTGTAGCGGTTTT
+TTATATGGAATTTTCTCATATTGTCAACGGGATCAGTAATAAATGACAAATCAAATATATATTATCTCAATGATGTAT
+ATGAAGTACATCACTATCACACTATCTAGGGAGGCAATGATATGAAAACAACTACTCAAGAACTCAAACAATATATGA
+CTCGCTTATTCCAATTATCTAACAATGAAACATGGGAATGTGAAACACTGGAGGAAGCGGCAGAAAATATTCTACCCA
+AACGTTTTATTAATGATTCCCCACTTGCACATCTTATACTTGAAACTTATACCTACTATAATAATGAGCTACATGAAC
+TAAGTATCTATCCATTTCTAATGTATTCTAATAACCAACTCATCAGTATTGGTTATCTGGATCATTTTGATATGGACT
+TTCTATACCTCACAGATACTAAAAATACGATTATCGATGAACGTCATTTACTAAAAGAAGGAGGGAATAACCATGAAT
+AATTGGATCAAAGTGGCACAAATATCTGTTACAGTCATTAACGAAGTGATTGACATCATGAAAGAAAAGCAAAATGGA
+GGAAAATAGTATGAAAATCAATCGATACATCACAAGAGGCATTAGTGAACAACTATCTCTAGACCTTCAAATCTTACT
+TTGGAACATGGTAAAAGATCGAGACAATCAACTTAATACAGATTACCTACACATTTTCAAACTACAAGAAGATGATAA
+TATGTTGTCAATTACACATGAACAAGAACAACCCGCATACAAATTGGAATATCACTATACAAACTATATAAAAAATCA
+AAATGCATTACCTAAGAAAGTCTACGTCATCCGAGAAGATGATGTAGACGCTTTTTATTATGTGATGCTTTTGCCAGA
+AGAATACTAAAGGAAGTGACGATATATGAATACAATCAAAAGTACGATACACACAGAAGCGATATTTAGCGATGATGA
+ACAACATCGCTACTTACTCAAAAAGATATGGGATGACAAGAAACCGGCTTGTACTGTGATAACGATGTATCTTCATTT
+AGATGGTGTATTATCACTCGATCTTACTACGGTTCTCATCCTCAATCAATTAGCTAATTCTGAGCAATATGGCGCTGT
+TTATCTCGTTAATCTTTTCTCTAATATTAAAACACCAGAGAACCTTAAACATATCAAAGAGCCTTATGATGAGCACAC
+AGATATACACTTAATGAAAGCAATTAGTGAAAGTGACACAGTCATTCTTGCTTATGGTGCCTATGCGAAGCGACCAGT
+TGTTATCGACCGTGTCGAACAAGTGATGGAAATGTTAAAACCTCATAAAAAGAAAGTAAAAAAGCTCATAAATCCAGT
+AACGAACGAAGTTATGCATCCACTCAACCCTAAAGCACGTCAAAAATGGACACTAAAGTAAAGGAGTATTATCTATGA
+ACCATGACAACACTATACAATCCAATTGGCGAACGGTTGCTAGTTGTTTAGCATCACAAAATTACATTTCAATAGTAA
+AAGGTCTGGTGCATCATTTCACAGCCATCGATGACGAGGAAATACTTGATAAAATCTATGAAGAGTTTATAAATGATG
+ACTCTATTACAACGGTACTTAACAATGATTTACAAACAATTATTAATCATTATCTATCAAAATGAAAACTATATTCTA
+ATAAAACTAGAGCATCCTTCACTTTTGCGGTGAAGGATGCTCCTATATCTTTTTTTATCTAAAAAAACTATTAGTAAT
+TAGTTTTAAAACATTTATCTTCTAATATATAGATATGAAATGTAAAAATACAATTAGATTGGCAGTCACAATGCAAAT
+GTAATATTTGTCAGTAATCTTCCTACTCAAATTGTTATTCTTTTCATAGAAATCAAGAGGAGGAACGACTTGAATTCT
+ATTATATTCAATGCATCTTCATTATAATTCTACCTACTTCACCATTAGACAAACGATCAAATCCCTCATTAATTTCAT
+CTAAAGTGATAACCTCACTGATGAGTGAATCAATATTTAAACGTCCTTGGTTGTATAGATTAACGAACCTTGGTATAT
+CTCTGTCAGGTACACAACTTCCTACATATGATCCTTTAATGGTACGTTCTTCAGCCGCTAAAGTAACTTGAGGGAAAG
+AAAAATTATCTTTAGGATTAGGCAGTCCTGTTGTTACAGTTGTCCCCCCTCGTTTAGTAATCTGATAAGCAACTTTCA
+TAGCTGGCACTACACCCGCTGTTTCAAAAGCATATTCTACTCCGCCAGGAATATATTCTTTAATTTGCTCATCGATAT
+CTTTATCGCTTGAATTAAATGTTGCTGTAGCCCCAAATTGCTTTGCTAATTCAAATTTATCTTCGTTAATATCTAAAG
+CAATAATTTCATTGGCTCCCGCTAGTTTAGCTCCAATAATAGCATTCAATCCAATACCTCCTAAACCAACAACCGCTA
+CATTACTACCAGAACGAATTTGGGCTGTATTCACCACAGCACCGATACCTGTGATAATAGCACAACCAAATGCAGCTG
+CACGTTCAAAAGGTATTTTTTTATCAATTTTAACTATAGAGTTTTCAGAGACAACAGAA" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 7 ,
+                    data
+                      gene {
+                        locus-tag "AMIHLCIC_00001" } ,
+                    location
+                      int {
+                        from 1656 ,
+                        to 2006 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "AMIHLCIC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 8 ,
+                    data
+                      gene {
+                        locus-tag "AMIHLCIC_00002" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 2091 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "AMIHLCIC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      gene {
+                        locus-tag "AMIHLCIC_00003" } ,
+                    location
+                      int {
+                        from 2093 ,
+                        to 2404 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "AMIHLCIC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      gene {
+                        locus-tag "AMIHLCIC_00004" } ,
+                    location
+                      int {
+                        from 2420 ,
+                        to 2923 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "AMIHLCIC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus-tag "AMIHLCIC_00005" } ,
+                    location
+                      int {
+                        from 2937 ,
+                        to 3161 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "AMIHLCIC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus-tag "AMIHLCIC_00006" } ,
+                    location
+                      int {
+                        from 3416 ,
+                        to 3991 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "AMIHLCIC_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "AMIHLCIC_00001" } } ,
+          descr {
+            title "hypothetical protein AMIHLCIC_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 116 ,
+            seq-data
+              ncbieaa "MKTTTQELKQYMTRLFQLSNNETWECETLEEAAENILPKRFINDSPLAHLILETY
+TYYNNELHELSIYPFLMYSNNQLISIGYLDHFDMDFLYLTDTKNTIIDERHLLKEGGNNHE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 115 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "AMIHLCIC_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "AMIHLCIC_00002" } } ,
+          descr {
+            title "hypothetical protein AMIHLCIC_00002 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 30 ,
+            seq-data
+              ncbieaa "MNNWIKVAQISVTVINEVIDIMKEKQNGGK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 29 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "AMIHLCIC_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "AMIHLCIC_00003" } } ,
+          descr {
+            title "hypothetical protein AMIHLCIC_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 103 ,
+            seq-data
+              ncbieaa "MKINRYITRGISEQLSLDLQILLWNMVKDRDNQLNTDYLHIFKLQEDDNMLSITH
+EQEQPAYKLEYHYTNYIKNQNALPKKVYVIREDDVDAFYYVMLLPEEY" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 102 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "AMIHLCIC_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "AMIHLCIC_00004" } } ,
+          descr {
+            title "hypothetical protein AMIHLCIC_00004 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 167 ,
+            seq-data
+              ncbieaa "MNTIKSTIHTEAIFSDDEQHRYLLKKIWDDKKPACTVITMYLHLDGVLSLDLTTV
+LILNQLANSEQYGAVYLVNLFSNIKTPENLKHIKEPYDEHTDIHLMKAISESDTVILAYGAYAKRPVVIDRVEQVMEM
+LKPHKKKVKKLINPVTNEVMHPLNPKARQKWTLK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 166 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "AMIHLCIC_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "AMIHLCIC_00005" } } ,
+          descr {
+            title "hypothetical protein AMIHLCIC_00005 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 74 ,
+            seq-data
+              ncbieaa "MNHDNTIQSNWRTVASCLASQNYISIVKGLVHHFTAIDDEEILDKIYEEFINDDS
+ITTVLNNDLQTIINHYLSK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 73 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "AMIHLCIC_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "AMIHLCIC_00006" } } ,
+          descr {
+            title "S-(hydroxymethyl)mycothiol dehydrogenase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 191 ,
+            seq-data
+              ncbieaa "MVNTAQIRSGSNVAVVGLGGIGLNAIIGAKLAGANEIIALDINEDKFELAKQFGA
+TATFNSSDKDIDEQIKEYIPGGVEYAFETAGVVPAMKVAYQITKRGGTTVTTGLPNPKDNFSFPQVTLAAEERTIKGS
+YVGSCVPDRDIPRFVNLYNQGRLNIDSLISEVITLDEINEGFDRLSNGEVGRIIMKMH" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      prot {
+                        name {
+                          "S-(hydroxymethyl)mycothiol dehydrogenase" } ,
+                        ec {
+                          "1.1.1.306" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 190 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "AMIHLCIC_00006" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "AMIHLCIC_00001" } ,
+                location
+                  int {
+                    from 1656 ,
+                    to 2006 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "AMIHLCIC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "AMIHLCIC_00002" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 2091 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "AMIHLCIC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "AMIHLCIC_00003" } ,
+                location
+                  int {
+                    from 2093 ,
+                    to 2404 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "AMIHLCIC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "AMIHLCIC_00004" } ,
+                location
+                  int {
+                    from 2420 ,
+                    to 2923 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "AMIHLCIC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "AMIHLCIC_00005" } ,
+                location
+                  int {
+                    from 2937 ,
+                    to 3161 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "AMIHLCIC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "AMIHLCIC_00006" } ,
+                location
+                  int {
+                    from 3416 ,
+                    to 3991 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "AMIHLCIC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P80094" } } } } } } } } }

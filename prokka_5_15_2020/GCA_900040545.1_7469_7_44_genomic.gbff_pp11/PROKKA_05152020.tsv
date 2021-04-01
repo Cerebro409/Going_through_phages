@@ -1,0 +1,11 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EJFNCMDJ_00001	gene	138				
+EJFNCMDJ_00001	CDS	138				hypothetical protein
+EJFNCMDJ_00002	gene	1005	gloB			
+EJFNCMDJ_00002	CDS	1005	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+EJFNCMDJ_00003	gene	1491				
+EJFNCMDJ_00003	CDS	1491				hypothetical protein
+EJFNCMDJ_00004	gene	1092				
+EJFNCMDJ_00004	CDS	1092				hypothetical protein
+EJFNCMDJ_00005	gene	291				
+EJFNCMDJ_00005	CDS	291				hypothetical protein

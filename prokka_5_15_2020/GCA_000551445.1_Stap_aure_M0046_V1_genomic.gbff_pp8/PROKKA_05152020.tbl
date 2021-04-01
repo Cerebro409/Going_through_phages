@@ -1,0 +1,94 @@
+>Feature gnl|X|GHCIEDJE_1
+869	243	gene
+			gene	dapH
+			locus_tag	GHCIEDJE_00001
+869	243	CDS
+			EC_number	2.3.1.89
+			gene	dapH
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01691
+			locus_tag	GHCIEDJE_00001
+			product	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+			protein_id	gnl|X|GHCIEDJE_00001
+1996	872	gene
+			gene	wbpI
+			locus_tag	GHCIEDJE_00002
+1996	872	CDS
+			EC_number	5.1.3.23
+			db_xref	COG:COG0381
+			gene	wbpI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:G3XD61
+			locus_tag	GHCIEDJE_00002
+			product	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+			protein_id	gnl|X|GHCIEDJE_00002
+3109	2000	gene
+			gene	wbjC
+			locus_tag	GHCIEDJE_00003
+3109	2000	CDS
+			EC_number	1.1.1.367
+			gene	wbjC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9XC60
+			locus_tag	GHCIEDJE_00003
+			product	UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
+			protein_id	gnl|X|GHCIEDJE_00003
+4150	3122	gene
+			gene	capD
+			locus_tag	GHCIEDJE_00004
+4150	3122	CDS
+			EC_number	5.1.3.2
+			db_xref	COG:COG1086
+			gene	capD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9ZDJ5
+			locus_tag	GHCIEDJE_00004
+			product	UDP-glucose 4-epimerase
+			protein_id	gnl|X|GHCIEDJE_00004
+5774	4140	gene
+			gene	pglF
+			locus_tag	GHCIEDJE_00005
+5774	4140	CDS
+			EC_number	4.2.1.135
+			db_xref	COG:COG1086
+			gene	pglF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q0P9D4
+			locus_tag	GHCIEDJE_00005
+			product	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+			protein_id	gnl|X|GHCIEDJE_00005
+6742	5978	gene
+			gene	ywqE
+			locus_tag	GHCIEDJE_00006
+6742	5978	CDS
+			EC_number	3.1.3.48
+			db_xref	COG:COG4464
+			gene	ywqE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P96717
+			locus_tag	GHCIEDJE_00006
+			product	Tyrosine-protein phosphatase YwqE
+			protein_id	gnl|X|GHCIEDJE_00006
+7431	6745	gene
+			gene	ywqD
+			locus_tag	GHCIEDJE_00007
+7431	6745	CDS
+			EC_number	2.7.10.2
+			db_xref	COG:COG0489
+			gene	ywqD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P96716
+			locus_tag	GHCIEDJE_00007
+			product	Tyrosine-protein kinase YwqD
+			protein_id	gnl|X|GHCIEDJE_00007
+8064	7447	gene
+			gene	cap8A
+			locus_tag	GHCIEDJE_00008
+8064	7447	CDS
+			db_xref	COG:COG3944
+			gene	cap8A
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P72367
+			locus_tag	GHCIEDJE_00008
+			product	Capsular polysaccharide type 8 biosynthesis protein cap8A
+			protein_id	gnl|X|GHCIEDJE_00008

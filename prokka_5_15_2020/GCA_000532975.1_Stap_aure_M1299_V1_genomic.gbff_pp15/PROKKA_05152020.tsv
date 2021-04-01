@@ -1,0 +1,17 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+KOPLHBGH_00001	gene	444	lysP			
+KOPLHBGH_00001	CDS	444	lysP		COG0833	Lysine-specific permease
+KOPLHBGH_00002	gene	561	infC			
+KOPLHBGH_00002	CDS	561	infC			Translation initiation factor IF-3
+KOPLHBGH_00003	gene	201	rpmI			
+KOPLHBGH_00003	CDS	201	rpmI			50S ribosomal protein L35
+KOPLHBGH_00004	gene	357	rplT			
+KOPLHBGH_00004	CDS	357	rplT			50S ribosomal protein L20
+KOPLHBGH_00005	gene	609				
+KOPLHBGH_00005	CDS	609				hypothetical protein
+KOPLHBGH_00006	gene	930				
+KOPLHBGH_00006	CDS	930				hypothetical protein
+KOPLHBGH_00007	gene	1302	tig			
+KOPLHBGH_00007	CDS	1302	tig	5.2.1.8		Trigger factor
+KOPLHBGH_00008	gene	1263	clpX			
+KOPLHBGH_00008	CDS	1263	clpX			ATP-dependent Clp protease ATP-binding subunit ClpX

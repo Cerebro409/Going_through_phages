@@ -1,0 +1,52 @@
+>Feature gnl|X|GLMMBHIE_1
+544	341	gene
+			locus_tag	GLMMBHIE_00001
+544	341	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GLMMBHIE_00001
+			product	hypothetical protein
+			protein_id	gnl|X|GLMMBHIE_00001
+1988	525	gene
+			gene	glpG
+			locus_tag	GLMMBHIE_00002
+1988	525	CDS
+			EC_number	3.4.21.105
+			gene	glpG
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01594
+			locus_tag	GLMMBHIE_00002
+			product	Rhomboid protease GlpG
+			protein_id	gnl|X|GLMMBHIE_00002
+2593	2000	gene
+			gene	yqgN
+			locus_tag	GLMMBHIE_00003
+2593	2000	CDS
+			db_xref	COG:COG0212
+			gene	yqgN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54491
+			locus_tag	GLMMBHIE_00003
+			product	putative protein YqgN
+			protein_id	gnl|X|GLMMBHIE_00003
+2897	2748	gene
+			gene	rpmG2
+			locus_tag	GLMMBHIE_00004
+2897	2748	CDS
+			db_xref	COG:COG0267
+			gene	rpmG2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FY22
+			locus_tag	GLMMBHIE_00004
+			product	50S ribosomal protein L33 2
+			protein_id	gnl|X|GLMMBHIE_00004
+4566	3010	gene
+			gene	pbpH
+			locus_tag	GLMMBHIE_00005
+4566	3010	CDS
+			db_xref	COG:COG0768
+			gene	pbpH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q796K8
+			locus_tag	GLMMBHIE_00005
+			product	Penicillin-binding protein H
+			protein_id	gnl|X|GLMMBHIE_00005

@@ -1,0 +1,51 @@
+# BLASTN 2.9.0+
+# Query: CDHGIKDO_00001 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+CDHGIKDO_00001	LCOCJHGB_00002	100.000	246	100	246	246	0	4.63e-129	455
+CDHGIKDO_00001	MFMLEMAL_00002	100.000	246	100	246	246	0	4.63e-129	455
+CDHGIKDO_00001	KBLMPEBM_00001	100.000	246	100	246	246	0	4.63e-129	455
+CDHGIKDO_00001	JIAHOEME_00002	100.000	246	100	246	246	0	4.63e-129	455
+CDHGIKDO_00001	CDHGIKDO_00001	100.000	246	100	246	246	0	4.63e-129	455
+CDHGIKDO_00001	CMLBKDKH_00041	97.976	246	100	675	247	4	1.01e-120	427
+# BLASTN 2.9.0+
+# Query: CDHGIKDO_00002 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+CDHGIKDO_00002	LCOCJHGB_00003	100.000	432	100	432	432	0	0.0	798
+CDHGIKDO_00002	MFMLEMAL_00003	100.000	432	100	432	432	0	0.0	798
+CDHGIKDO_00002	KBLMPEBM_00002	100.000	432	100	432	432	0	0.0	798
+CDHGIKDO_00002	JIAHOEME_00003	100.000	432	100	432	432	0	0.0	798
+CDHGIKDO_00002	CDHGIKDO_00002	100.000	432	100	432	432	0	0.0	798
+# BLASTN 2.9.0+
+# Query: CDHGIKDO_00003 Arginine repressor
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+CDHGIKDO_00003	LCOCJHGB_00004	100.000	447	100	447	447	0	0.0	826
+CDHGIKDO_00003	MFMLEMAL_00004	100.000	447	100	447	447	0	0.0	826
+CDHGIKDO_00003	KBLMPEBM_00003	100.000	447	100	447	447	0	0.0	826
+CDHGIKDO_00003	JIAHOEME_00004	100.000	447	100	447	447	0	0.0	826
+CDHGIKDO_00003	CDHGIKDO_00003	100.000	447	100	447	447	0	0.0	826
+# BLASTN 2.9.0+
+# Query: CDHGIKDO_00004 Arginine deiminase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+CDHGIKDO_00004	LCOCJHGB_00005	100.000	1236	100	1236	1236	0	0.0	2283
+CDHGIKDO_00004	MFMLEMAL_00005	100.000	1236	100	1236	1236	0	0.0	2283
+CDHGIKDO_00004	KBLMPEBM_00004	100.000	1236	100	1236	1236	0	0.0	2283
+CDHGIKDO_00004	JIAHOEME_00005	100.000	1236	100	1236	1236	0	0.0	2283
+CDHGIKDO_00004	CDHGIKDO_00004	100.000	1236	100	1236	1236	0	0.0	2283
+# BLASTN 2.9.0+
+# Query: CDHGIKDO_00005 Arginine/ornithine antiporter
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+CDHGIKDO_00005	LCOCJHGB_00006	100.000	1422	100	1422	1422	0	0.0	2627
+CDHGIKDO_00005	MFMLEMAL_00006	100.000	1422	100	1422	1422	0	0.0	2627
+CDHGIKDO_00005	JIAHOEME_00006	100.000	1422	100	1422	1422	0	0.0	2627
+CDHGIKDO_00005	CDHGIKDO_00005	100.000	1422	100	1422	1422	0	0.0	2627
+# BLAST processed 5 queries

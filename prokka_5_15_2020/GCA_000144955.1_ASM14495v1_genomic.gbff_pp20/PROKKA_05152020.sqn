@@ -1,0 +1,1036 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DCLJHIOD_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 6665 ,
+            seq-data
+              iupacna "TACTAAAATTATTTAAGTAACCCTTATTTATAAAAAATACAAGGAGCATTTTAAA
+TGAAAAAAAACATTACGAAAAAAATTATTTTATCATCAGCGTTGTTACTATTAGGCGCTGTATCAACACAACTTCCTA
+ACACACCAATCAGTTCTAAATCTGAAGCTAAAGCTTATTATATTAATCAAGAGGAAACAAATGTAAGTGAGTTAATCA
+AGTATTACACTCAGCAACATTTAACCTTTTCAAATAAATGGTTATGGCAAAAAGATAATGGCACAATTCATGCAACGT
+TACTTCAGATATCATGGTATAGCCATATTCAAGTATTTGGCCCTGAAAGTTGGGGTAATATTAATCAATTAAGAGATA
+AATATGTAGATATTTTCGGCATAAAAGACCAAGAAACTATTGACTCATATGCACTATCTCAAGAAACATTTACTGGTG
+GCGTTACACCTGCAGCAAAACCTAACGATAAACACTATAAATTGAATGTAACATATAAAGATAAAGATGAAACATTTA
+TTGGTGGATATCCATTTTATACAGGTAATAAGCCAGTTTTAACTTTAAAAGAAGTTGATTTCCGTATCCGACAAACAT
+TAATTAAAAACAAAAAATTATATCAAGATAAATATAATAAAGGTCAACTCACGATTACTGGTGACGATAATAATTACA
+CAATTGATTTAAGTAAGAGATTACCGTCAACTGACGCAAATAAATATGTTAAAAATCCTCAAAATGCCAAAATTGAAG
+TTACCCTCGAAAAATCTAACTAGTATCGAAATCGGAGTCAACAAATAATAATCTCATTCATTATATTGACGCCGCTCA
+CTTTTATATTTGATATTCCTCGCAATGATAAATCCACAGAAAGGAGATGTTCAAATGAAAAAGAACATCACGAACAAA
+ATAATATTAACAGCAACATTGTTAATATTAGGTACTTCTTCAGCTCAACTTCCTAACACACCAATCGGTTTTTCATCT
+GAAGCTAAAGCTTATCATATTGGCCAAGACGAAACGAACATCAATGAATTAATCAAATATTACACACAAAAGCCTCTC
+ACATTTTCAAATAGATGGTTATACCAATATGATGACGGCAACATTTATGTTGAATTTAAGCGTTATTCTTGGTCTGCA
+CATATACGCTTATGGGGTGCTGAAAGTTGGGGCAACATTAATCAATTAAGAGACCGCTATGTAGACGTGTTTGGTTTA
+AAAGACAAAGACACTAGACGATTATGGTGGGTATATACTGATACATTTACAGGTGGTGTTACACCTGCAGCATCGTCT
+TCTGATAAGCCTTATAATATTTATGTACAATATAAAGATAAACTACAAACATTTATCGGCGCACATAAGATATATCAA
+GGTAACAAACCAGTTTTAACGTTAAAAGAAATTGATTTCCGAGTACGTGAATCATTAATAAAAAATAAAATACTATAT
+AATGAAAATCGCAATAAAGGTAATATTCATATTACCGGTGGTGGTAATAACTTTACAATTGATTTAAGTAAAAGATTA
+CATTCTGATCTTGCAAATGTTTATGTTAAAAATCCTCAAAAAATAACAGTCGAAGTCCTCATTGATTAAATAAGGTAG
+TATGATTTATATCGAAAATACTAAGGATAAACAATAATTGAGTAATACTACAAAATGTATCAATAATATTTACACAAT
+ATTTAAATTAGTACACAGAATATTAAATGGGATTTGGAGTCTAATAGAAATGCAAAATCATTCTCTGTGTTGGGGGCC
+GCTCCAACTTGCATTGTCTGTAGAATTTCTTTTTGAAATTCTCTGTGTTGGGGCCCATCCCCAACTTGCACATTATTG
+TAAGCTGACTTTTCGTCAGCTTCTGTGTTGGGGCCCCACCCCATAATTGAAAAATGTTTGTTACATGGGCATTTTTGT
+TTGGTCAATATTTGTCTATATAATATTGTAGAGCCTAAGACGTGGTTACGTTTTAGGCTCTTAATTCAATTATTACTG
+CTCTTTTAATGTAGCATAATAACTATATAGTTTTATAATCGTTCTAAATCTAGCATCTTCTATTTTCGTTTTACCATT
+CCTCAAATCTTGCACGGTCTGATACGGCACCCCTGAATTTTTCGATATTTTGTAGCCTGATTCAGACTCAAACAAAAA
+TTGAATAGCGTTTATTATTTCATTCAACTCTTTCATTTTTAATCCTCTTTCTTCTATTAACAATATACAATGTTGTTA
+TTAAAACAGTCAGTGTATGGATGATTTCATTTCCTAAAAATATATTCAGCCATATAATAATTAGAAATGCAATATAAA
+ATAGTTTCATTATAATCCCCTATCATTTTTATATTTATCACTTTCCATTTAGTTTCAACATTAAAAGCTAACCTAGGT
+TTAAGATTATCTTATAACGCCTATAACTAGAAGTCTGCATTTTATCTTGTATATAACATTTTATAATGTTACACTACA
+CCTTTTTATATTTTTCACAAGAAGTTTTCACGAATTATTATATTTAAACTCACCCATATTCCAACACAATTAATTTTT
+CTCTATTCATAATTGATTGATCATACTAGTTAATATACAGTTAACTTTTATTTAATAGTTAATTAATTGATTTAATTC
+TAAGATATTTGTATTTTTATATTGTAATCGATTACATTTTAAAGTTAAATAAATACCTAGTTTTAAAGAAATTAATCA
+ATAAAATTAGCTTTGTCTTTTCCTTGGTTCATAAAGAGTTCATTCAACTTTGACTAAGCCTCGAAATTGAAATGCTTC
+CTTTCAAATATTAATTAAAAGTTAAAAACATATTCTTAAAATATTCACTCATCATCACTCAATCATTTAACAGTTGCT
+ACATTAAATATACTAATATAAACGATGATAAATATTTGATATGTCTCAACTGCATTATTCTAAATTGACATATTGATT
+ATTGTTTCCTCAAATCGTTTTAAAAAATAGAAGGATGATGAAAATGAAAACACGTATAGTCAGCTCAGTAACAACAAC
+ACTATTGCTAGGTTCCATATTAATGAATCCTGTCGCTAATGCCGCAGATTCTGATATTAATATTAAAACCGGTACTAC
+AGATATAGGAAGCAATACTATAGTAAAAACAGGTGATTTAGTCACTTATGATAAAGAAAATGGCATGCACAAAAAAGT
+ATTTTATAGTTTTATCGATGATAAAAATCACAATAAAAAAATATTAGTCATCAGAACGAAAGGTACCATTGCTGGTCA
+GTATAGAGTTTATAGCGAAGAAGGCGCTAATAAAAGTGGTTTAGCCTGGCCTTCAGCCTTTAAGGTACAGTTGCAACT
+ACCTGATAATGAAGTAGCACAAATTTCTGATTACTATCCTAGAAATTCAATTGATACTAAAGAATATATGAGTACATT
+AACTTATGGATTCAACGGTAATGTGACTGGTGATGATTCTGGAAAAATTGGCGGTTTGATTGGTGCAAATGTTTCAAT
+TGGTCATACACTCAAATATGTTCAACCAGATTTCAAAACAATTTTAGAAAGTCCAACTGATAAAAAAGTAGGTTGGAA
+AGTTATATTTAACAATATGGTGAATCAAAATTGGGGACCATACGACAGAGATTCTTGGAACCCAGTATACGGCAATCA
+ACTTTTCATGAAAACAAGAAACGGTTCAATGAAAGCAGCAGATAACTTCCTTGATCCTAACAAAGCAAGTTCTCTATT
+ATCTTCAGGGTTTTCACCAGACTTCGCTACAGTTATTACTATGGATAGGAAAGCAACCAAACAACAATCAAATATAGA
+TGTAATATACGAACGAGTTCGTGATGACTATCAATTACATTGGACTTCAACAAATTGGAAAGGTACTAATACTAAAGA
+TAAATGGACGGATCGTTCTTCAGAAAGATATAAAATCGATTGGGAAAAAGAAGAAATGACAAATTAATGGTCATGCAC
+ACTCAAATATTCAAATTTTAACATTAGCCGATAACATCAGAAATGATGTGTGTCGGCTATTTTAGTTGCAGTATAAAA
+TTAAACATCGATGAATAGTAATATATATATTATGCTTTTCAATATATATTCATGCTTATAAACACGATATAAGATTTA
+ATTTTTCAGTTTCAAACATTTTTAATTCATATTGTCAAACCCTTTATTTAAAAGTTTTGAAATTGTTCAAAACTTATC
+GAACACATTATGTGTTAATATATTTGCAGAATTATTTTAAAATCGTTTTAAAACTATACTGAAATAAGAAGATAAAAA
+GTATAATAAGTACATATAATTGAAAATAACTTCTAGAAATCTATTTATCTCTAATCTAGATATTGTAAGAAGTTGTAT
+GAATAAGTTAAACTTAAATTGAATCAGTTTAAATGTTCAAGGAGGATGACAAATGGTTTTTAAAGATTGGAAAGTTAA
+TGTTGTTTACACTGGGAAACATGAAGTTGTTACAAATGAAAATAATTTATTTGTCATAGATGAAGATTATGATGTCGC
+AATCGCAATCAATTATATAGACAATAAATTAAAGGTCAGTCATGTTAACTATGGATCTGAATTTACAATTGACTCATC
+TAACAAAGTACTTGAATTGATGATTCATAATCCAAATATTGACGAGAATTAAATATTAAAAAACATTTAGAAATATAA
+AGGCATACTATATATAGTCTTTTAAACGAAAAACAAACGGTAATCAAAGATTCAGATAATCATTACACTTAAAAATGC
+ACGATTTCCAAGCATTTAAAATATAACAGCTAAGGTGGTGACCAAAAATTAACATTGTGTATAACATCATTGTATATA
+TAGCATGCATGATTAACTTCGGACTAATTATAGTACCGCTGTTAACTACGACAGACGCAGATTTTGTATGGACATCTT
+CGTCATTAATATATATGGTTCTTTTAACACTGCTTATCTTAATTGTTTATATTAAAACTAAAGATAGTTTACAGTTAA
+CAATATTTATACTTAGTGTTGCATTAATAATTCTATACTGCGCACCTTTATTATTCATTTATGTGTTCTAGTGTTTCA
+TTAATATTTTAATGCGTCAGTTTAAAAACTATCAATTTTAAAAATAAGCGAAACATGTTATCATCAAATTAACTTATT
+TACAGTTAATTTTGCTTAAATTTAAAATAACACTCTTCTCAACTTTAGCTTTATATCTTTATTTCAAGGTATGTTTTC
+AACTATTTTAATGCAATTTACATTTAGATTAAGGAGTAAACATCATGAATAAACATATAAATAAAAAGACCACAAAGC
+ATCTTGAAGATTATAAAAAGGTTCAACAAAGAAATTCGGAAGAAACAAATAGAGGTTGTTTAAAAAGTGTCGCCATGC
+TTATCGTCTTATTTTTATTCATTATATTTGGTATTGTGGCATGTTCTACACACGTTAACTTTTTCTTCCAATAATATG
+CTGATTGAGTAATATTCACTACGTTTCTTACAGCATTTGATTTTATCTATGGGAGCATTATAAATATTTTTTAGATTG
+TACAAAGCAATTTTGTGCATAACATTTCTAACTATTATATTTGTATTAGTCTCCCCTATTATTGTATATTCATTGCTC
+ATACATAAATATTAAATTGTAGAATTTTTAACTATACAAATTAAAAAACAGGCGAAGACAATGATATTTATTGTCTCA
+ACCTGTTTTCTTTATTATCTATTTATAATTTCATCAATTTCTTTGTAAATGTTTTCTAATCCAACTTTAGCTTCAGCC
+ATTGATTTGAAATCATTTTTCTTTAGTGCTGCTTTTGCTCTATATTCATTCATCATAATCGTACGTTTGTAATATCGA
+TTTAAGCTACCTGCAGCCAAGTCATATACGTTCGATTGTCTAAGTAGTGATTTCAACTCTTCAGCAATTTTTTTATCG
+TGATATTTACTTTGAGTTAAATAATTGTCATAACTACTTGCTTCTGCTTTGTTCCCGTTTAACGTTGATACTGCTGTT
+GTTGATAATAGTACTGCTAATGTTCCTGCTACTATATATTTTTTAATTTTCATTGTAAATTCTCCTTTAAAAATTGAT
+ACTTAATGATTATATAGTCAATTTTAGGAAAGTTACATTAACCTACTATTAAATAGCATAGTCTTTTTATTAATAGAA
+ATTAATATTAGATTAAATTATTTTGAACTTATAATAATGACAGAAGTATTATCTCACTAATCCTTGCTTTAATACTTC
+ATCAATTCGCTCTTGCAATATCATTTTCTTAACATTGTATTCAAATGATACTAAGTTGACTGCCTTTTGTGCTTTTCT
+ATGTGCGCTCACAGTATGGGTCTTTTCAAATTCTCTCACAAGATTTTGAGCTTGAATCAATTTTTGTTCTTTTTTTAT
+AGTTGCATCAGTTTTCGCTGCTGGTTTATTAAAATGCGGACGTGGTCCATATCCAAATGTACCGTCATTATATTCCAC
+AATGTTATAATCATGTCTAAACTTAATATATTTAGGTGTTGAGTTAAATTTTGGTCTAGATTGATATTTAAAAGTACC
+ATCATTGTACTCTACGATATTGTGATTAATACTCACTGGTTTCTTTTCTCTTGGACCGTATGTCAATAGCGGTTTAAA
+AATGCTGTTTTATGGCGGTTTGAAAATGTCGTTTTTTAGCGGTTTAAGATTGTCGTAT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus-tag "DCLJHIOD_00001" } ,
+                    location
+                      int {
+                        from 54 ,
+                        to 779 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus-tag "DCLJHIOD_00002" } ,
+                    location
+                      int {
+                        from 859 ,
+                        to 1605 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_1" } } } ,
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      gene {
+                        locus-tag "DCLJHIOD_00003" } ,
+                    location
+                      int {
+                        from 1695 ,
+                        to 1892 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_1" } } } ,
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      gene {
+                        locus-tag "DCLJHIOD_00004" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 2196 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_1" } } } ,
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      gene {
+                        locus "hly" ,
+                        locus-tag "DCLJHIOD_00005" } ,
+                    location
+                      int {
+                        from 2984 ,
+                        to 3943 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_1" } } } ,
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      gene {
+                        locus-tag "DCLJHIOD_00006" } ,
+                    location
+                      int {
+                        from 4397 ,
+                        to 4630 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_1" } } } ,
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      gene {
+                        locus-tag "DCLJHIOD_00007" } ,
+                    location
+                      int {
+                        from 5247 ,
+                        to 5432 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_1" } } } ,
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      gene {
+                        locus-tag "DCLJHIOD_00008" } ,
+                    location
+                      int {
+                        from 5373 ,
+                        to 5594 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_1" } } } ,
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      gene {
+                        locus "scn" ,
+                        locus-tag "DCLJHIOD_00009" } ,
+                    location
+                      int {
+                        from 5685 ,
+                        to 6035 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_1" } } } ,
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      gene {
+                        locus "fib" ,
+                        locus-tag "DCLJHIOD_00010" } ,
+                    location
+                      int {
+                        from 6187 ,
+                        to 6594 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DCLJHIOD_00001" } } ,
+          descr {
+            title "Superantigen-like protein 13 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 241 ,
+            seq-data
+              ncbieaa "MKKNITKKIILSSALLLLGAVSTQLPNTPISSKSEAKAYYINQEETNVSELIKYY
+TQQHLTFSNKWLWQKDNGTIHATLLQISWYSHIQVFGPESWGNINQLRDKYVDIFGIKDQETIDSYALSQETFTGGVT
+PAAKPNDKHYKLNVTYKDKDETFIGGYPFYTGNKPVLTLKEVDFRIRQTLIKNKKLYQDKYNKGQLTITGDDNNYTID
+LSKRLPSTDANKYVKNPQNAKIEVTLEKSN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      prot {
+                        name {
+                          "Superantigen-like protein 13" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 240 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DCLJHIOD_00002" } } ,
+          descr {
+            title "Superantigen-like protein 13 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 248 ,
+            seq-data
+              ncbieaa "MINPQKGDVQMKKNITNKIILTATLLILGTSSAQLPNTPIGFSSEAKAYHIGQDE
+TNINELIKYYTQKPLTFSNRWLYQYDDGNIYVEFKRYSWSAHIRLWGAESWGNINQLRDRYVDVFGLKDKDTRRLWWV
+YTDTFTGGVTPAASSSDKPYNIYVQYKDKLQTFIGAHKIYQGNKPVLTLKEIDFRVRESLIKNKILYNENRNKGNIHI
+TGGGNNFTIDLSKRLHSDLANVYVKNPQKITVEVLID" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 22 ,
+                    data
+                      prot {
+                        name {
+                          "Superantigen-like protein 13" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 247 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DCLJHIOD_00003" } } ,
+          descr {
+            title "hypothetical protein DCLJHIOD_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 65 ,
+            seq-data
+              ncbieaa "MGWGPNTEADEKSAYNNVQVGDGPQHREFQKEILQTMQVGAAPNTENDFAFLLDS
+KSHLIFCVLI" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 23 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 64 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DCLJHIOD_00004" } } ,
+          descr {
+            title "hypothetical protein DCLJHIOD_00004 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 65 ,
+            seq-data
+              ncbieaa "MKELNEIINAIQFLFESESGYKISKNSGVPYQTVQDLRNGKTKIEDARFRTIIKL
+YSYYATLKEQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 24 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 64 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DCLJHIOD_00005" } } ,
+          descr {
+            title "Alpha-hemolysin [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 319 ,
+            seq-data
+              ncbieaa "MKTRIVSSVTTTLLLGSILMNPVANAADSDINIKTGTTDIGSNTIVKTGDLVTYD
+KENGMHKKVFYSFIDDKNHNKKILVIRTKGTIAGQYRVYSEEGANKSGLAWPSAFKVQLQLPDNEVAQISDYYPRNSI
+DTKEYMSTLTYGFNGNVTGDDSGKIGGLIGANVSIGHTLKYVQPDFKTILESPTDKKVGWKVIFNNMVNQNWGPYDRD
+SWNPVYGNQLFMKTRNGSMKAADNFLDPNKASSLLSSGFSPDFATVITMDRKATKQQSNIDVIYERVRDDYQLHWTST
+NWKGTNTKDKWTDRSSERYKIDWEKEEMTN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 25 ,
+                    data
+                      prot {
+                        name {
+                          "Alpha-hemolysin" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 318 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DCLJHIOD_00006" } } ,
+          descr {
+            title "hypothetical protein DCLJHIOD_00006 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 77 ,
+            seq-data
+              ncbieaa "MVFKDWKVNVVYTGKHEVVTNENNLFVIDEDYDVAIAINYIDNKLKVSHVNYGSE
+FTIDSSNKVLELMIHNPNIDEN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 26 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 76 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DCLJHIOD_00007" } } ,
+          descr {
+            title "hypothetical protein DCLJHIOD_00007 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 61 ,
+            seq-data
+              ncbieaa "MNKHINKKTTKHLEDYKKVQQRNSEETNRGCLKSVAMLIVLFLFIIFGIVACSTH
+VNFFFQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 27 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 60 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_00007" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DCLJHIOD_00008" } } ,
+          descr {
+            title "hypothetical protein DCLJHIOD_00008 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 73 ,
+            seq-data
+              ncbieaa "MSNEYTIIGETNTNIIVRNVMHKIALYNLKNIYNAPIDKIKCCKKRSEYYSISIL
+LEEKVNVCRTCHNTKYNE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 28 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 72 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_00008" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DCLJHIOD_00009" } } ,
+          descr {
+            title "Staphylococcal complement inhibitor [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 116 ,
+            seq-data
+              ncbieaa "MKIKKYIVAGTLAVLLSTTAVSTLNGNKAEASSYDNYLTQSKYHDKKIAEELKSL
+LRQSNVYDLAAGSLNRYYKRTIMMNEYRAKAALKKNDFKSMAEAKVGLENIYKEIDEIINR" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 29 ,
+                    data
+                      prot {
+                        name {
+                          "Staphylococcal complement inhibitor" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 115 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_00009" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DCLJHIOD_00010" } } ,
+          descr {
+            title "Fibrinogen-binding protein [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 135 ,
+            seq-data
+              ncbieaa "MTYGPREKKPVSINHNIVEYNDGTFKYQSRPKFNSTPKYIKFRHDYNIVEYNDGT
+FGYGPRPHFNKPAAKTDATIKKEQKLIQAQNLVREFEKTHTVSAHRKAQKAVNLVSFEYNVKKMILQERIDEVLKQGL
+VR" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 30 ,
+                    data
+                      prot {
+                        name {
+                          "Fibrinogen-binding protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 134 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DCLJHIOD_00010" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DCLJHIOD_00001" } ,
+                location
+                  int {
+                    from 54 ,
+                    to 779 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DCLJHIOD_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:A0A0H3K7M3" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DCLJHIOD_00002" } ,
+                location
+                  int {
+                    from 859 ,
+                    to 1605 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DCLJHIOD_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:A0A0H3K7M3" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DCLJHIOD_00003" } ,
+                location
+                  int {
+                    from 1695 ,
+                    to 1892 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DCLJHIOD_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DCLJHIOD_00004" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 2196 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DCLJHIOD_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DCLJHIOD_00005" } ,
+                location
+                  int {
+                    from 2984 ,
+                    to 3943 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DCLJHIOD_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q2G1X0" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DCLJHIOD_00006" } ,
+                location
+                  int {
+                    from 4397 ,
+                    to 4630 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DCLJHIOD_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DCLJHIOD_00007" } ,
+                location
+                  int {
+                    from 5247 ,
+                    to 5432 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DCLJHIOD_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DCLJHIOD_00008" } ,
+                location
+                  int {
+                    from 5373 ,
+                    to 5594 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DCLJHIOD_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 9 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DCLJHIOD_00009" } ,
+                location
+                  int {
+                    from 5685 ,
+                    to 6035 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DCLJHIOD_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q2FWV6" } } } ,
+              {
+                id
+                  local
+                    id 10 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DCLJHIOD_00010" } ,
+                location
+                  int {
+                    from 6187 ,
+                    to 6594 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DCLJHIOD_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P0C6P2" } } } } } } } } }

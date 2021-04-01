@@ -1,0 +1,37 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+BDFALBBM_00001	gene	76				
+BDFALBBM_00001	tRNA	76				tRNA-Ala(tgc)
+BDFALBBM_00002	gene	74				
+BDFALBBM_00002	tRNA	74				tRNA-Pro(tgg)
+BDFALBBM_00003	gene	77				
+BDFALBBM_00003	tRNA	77				tRNA-Arg(acg)
+BDFALBBM_00004	gene	89				
+BDFALBBM_00004	tRNA	89				tRNA-Leu(taa)
+BDFALBBM_00005	gene	75				
+BDFALBBM_00005	tRNA	75				tRNA-Gly(gcc)
+BDFALBBM_00006	gene	75				
+BDFALBBM_00006	tRNA	75				tRNA-Lys(ttt)
+BDFALBBM_00007	gene	76				
+BDFALBBM_00007	tRNA	76				tRNA-Thr(tgt)
+BDFALBBM_00008	gene	76				
+BDFALBBM_00008	tRNA	76				tRNA-Val(tac)
+BDFALBBM_00009	gene	78				
+BDFALBBM_00009	rRNA	78				5S ribosomal RNA (partial)
+BDFALBBM_00010	gene	1548	lysS			
+BDFALBBM_00010	CDS	1548	lysS	6.1.1.6		Lysine--tRNA ligase
+BDFALBBM_00011	gene	477	folK			
+BDFALBBM_00011	CDS	477	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+BDFALBBM_00012	gene	366	folB			
+BDFALBBM_00012	CDS	366	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+BDFALBBM_00013	gene	804	folP			
+BDFALBBM_00013	CDS	804	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+BDFALBBM_00014	gene	933	cysK			
+BDFALBBM_00014	CDS	933	cysK	2.5.1.47		Cysteine synthase
+BDFALBBM_00015	gene	882	hslO			
+BDFALBBM_00015	CDS	882	hslO			33 kDa chaperonin
+BDFALBBM_00016	gene	2094	ftsH			
+BDFALBBM_00016	CDS	2094	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+BDFALBBM_00017	gene	558	hpt			
+BDFALBBM_00017	CDS	558	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+BDFALBBM_00018	gene	984	tilS			
+BDFALBBM_00018	CDS	984	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase

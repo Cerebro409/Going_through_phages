@@ -1,0 +1,21 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GLEPIHLP_00001	gene	1557				
+GLEPIHLP_00001	CDS	1557		2.1.1.72	COG0286	putative type I restriction enzymeP M protein
+GLEPIHLP_00002	gene	684				
+GLEPIHLP_00002	CDS	684				Staphylococcal superantigen-like 10
+GLEPIHLP_00003	gene	699	ssl7_1			
+GLEPIHLP_00003	CDS	699	ssl7_1			Staphylococcal superantigen-like 7
+GLEPIHLP_00004	gene	696	ssl7_2			
+GLEPIHLP_00004	CDS	696	ssl7_2			Staphylococcal superantigen-like 7
+GLEPIHLP_00005	gene	705	ssl5			
+GLEPIHLP_00005	CDS	705	ssl5			Staphylococcal superantigen-like 5
+GLEPIHLP_00006	gene	1128	ssl3			
+GLEPIHLP_00006	CDS	1128	ssl3			Staphylococcal superantigen-like 3
+GLEPIHLP_00007	gene	702	ssl4			
+GLEPIHLP_00007	CDS	702	ssl4			Staphylococcal superantigen-like 4
+GLEPIHLP_00008	gene	681	ssl1			
+GLEPIHLP_00008	CDS	681	ssl1	3.4.21.-		Staphylococcal superantigen-like 1
+GLEPIHLP_00009	gene	846	qorB			
+GLEPIHLP_00009	CDS	846	qorB	1.6.5.2	COG0702	Quinone oxidoreductase 2
+GLEPIHLP_00010	gene	360				
+GLEPIHLP_00010	CDS	360				hypothetical protein

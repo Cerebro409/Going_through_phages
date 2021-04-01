@@ -1,0 +1,612 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "LMPLBELI_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 5345 ,
+            seq-data
+              iupacna "TGCATATCCGCGTCAAATAGCTATGTACTTGTCTAGAGAGCTTACAGATTTCTCA
+TTACCTAAAATTGGTGAAGAATTTGGTGGGCGTGATCATACGACCGTCATTCATGCTCATGAAAAAATATCTAAAGAT
+TTAAAAGAAGATCCTATTTTTAAACAAGAAGTAGAGAATCTTGAAAAAGAAATAAGAAATGTATAAGTAGGAAACTTT
+GGGAAATGTAATCTGTTATATAACAGCACTAATAATAACTGTCATTTTTTACATTTCTATATACTAATGTGGCAAGAT
+GAGCAAAACTCATTTTGTGGATAATGTTTAAAAGTCATACACATCATACACAAGTTATCAACATGTGTATAACTTCGC
+CAAATCTATGTTTTTAAGACTTATCCACCAATCCACAGCACCTACTACTATTACTAAGAACTTAAAACCTATATAATT
+ATATATAAACGACTGGAAGGAGTTTTAATTAATGATGGAATTCACTATTAAAAGAGATTATTTTATTACACAATTAAA
+TGACACATTAAAAGCTATTTCACCAAGAACAACATTACCTATATTAACTGGTATCAAAATCGATGCGAAAGAACATGA
+AGTTATACTAACTGGTTCAGACTCTGAAATTTCAATAGAAATCACTATTCCTAAAACTGTAGATGGCGAAGATATTGT
+CAATATTTCAGAAACAGGCTCAGTAGTACTTCCTGGACGATTCTTTGTTGATATTATAAAAAAATTACCTGGTAAAGA
+TGTTAAATTATCTACAAATGAACAATTCCAGACATTAATTACATCAGGTCATTCTGAATTTAATTTGAGTGGCTTAGA
+TCCAGATCAATATCCTTTATTACCTCAAGTTTCTAGAGATGACGCAATTCAATTGTCGGTAAAAGTGCTTAAAAACGT
+AATTGCACAAACGAATTTTGCAGTGTCCACCTCAGAAACACGCCCAGTACTAACTGGTGTGAACTGGCTTATACAAGA
+AAATGAATTAATATGCACAGCGACTGACTCGCACCGCTTGGCTGTAAGAAAGTTGCAGTTAGAAGATGTTTCTGAAAA
+CAAAAATGTCATCATTCCAGGTAAGGCTTTAGCTGAATTAAATAAAATTATGTCTGACAATGAAGAAGACATTGATAT
+CTTCTTTGCTTCAAACCAAGTTTTATTTAAAGTTGGAAATGTGAACTTTATTTCTCGATTATTAGAAGGACATTATCC
+TGATACAACACGTTTATTCCCTGAAAACTATGAAATTAAATTAAGTATAGACAATGGGGAGTTTTATCATGCGATTGA
+TCGTGCATCTTTATTAGCACGTGAAGGTGGTAATAACGTTATTAAATTAAGTACAGGTGATGACGTTGTTGAATTGTC
+TTCTACATCACCAGAAATTGGTACTGTAAAAGAAGAAGTCGATGCAAACGATGTTGAAGGTGGTAACCTGAAAATTTC
+ATTCAACTCTAAATATATGATGGATGCTTTAAAAGCAATCGATAATGATGAGGTTGAAGTTGAATTCTTCGGTACAAT
+GAAACCATTTATTCTAAAACCAAAAGGTGACGACTCAGTAACGCAATTAATTTTACCAATCAGAACTTACTAAAAATA
+AATATAAATAAAGGATGACGTGATTAATTAAAACGTCATCCTTTATTTTTTGGCAAAAATAATTCTAGATGCGTATGT
+AAAATAAATTTGACAGCATTTTAAACAGCAAATAAAAGACGCCAATTAAATTTATGACAAATGTATCCAAAATTTAAT
+AAGTGTGCTTATATGCCCTTTAAATTTAAAATTTTAATAGTCAATAACAAGTTGAATATAAAAGTTAAACGCCGTTAA
+ATAGCGTTAAAAAATTGAAAATGACAGTATTGCCCAAAAATAAGAATTAATTATTTATATGTAAACGGTTTCTACCTC
+TATTTTAAATGAAATTTGTGACAAAAAAAGGTATAATATATTAATGACATACAAAGAAATGGAGTGATTATTTTGGTT
+CAAGAAGTTGTAGTAGAAGGAGACATTAATTTAGGTCAATTTCTAAAAACAGAAGGGATTATTGAATCTGGTGGTCAA
+GCAAAATGGTTCTTGCAAGACGTTGAAGTATTAATTAATGGAGTGCGTGAAACACGTCGCGGTAAAAAGTTAGAACAT
+CAAGATCGTATAGATATCCCAGAATTACCTGAAGATGCTGGTTCTTTCTTAATCATTCATCAAGGTGAACAATGAAGT
+TAAATACACTCCAATTAGAAAATTATCGTAACTATGATGAGGTTACGTTGAAATGTCATCCTGACGTGAATATCCTCA
+TTGGAGAAAATGCACAAGGAAAGACAAATTTACTTGAATCAATTTATACCTTAGCTTTAGCAAAAAGTCATAGAACGA
+GTAATGATAAGGAACTCATACGTTTTAATGCTGATTATGCTAAAATAGAAGGTGAGCTTAGTTATAGACACGGCACGA
+TGCCATTAACAATGTTTATAACTAAAAAAGGTAAACAAGTCAAAGTGAATCACTTAGAGCAAAGTCGACTAACTCAAT
+ATATTGGACACCTCAATGTGGTTCTATTTGCGCCAGAAGATTTGAATATTGTAAAAGGCTCTCCTCAAATAAGACGAC
+GCTTTATAGATATGGAGTTGGGCCAAATTTCTGCTGTTTACTTAAATGATTTAGCTCAATACCAACGTATTTTAAAGC
+AAAAGAATAATTACTTAAAGCAGTTACAATTAGGCCAAAAAAAGGACTTAACAATGTTGGAAGTATTAAATCAGCAGT
+TTGCTGAATATGCAATGAAAGTAACTGATAAACGTGCACATTTTATTCAAGAGCTAGAGTCGTTAGCTAAACCGATTC
+ATGCTGGTATCACAAATGATAAAGAAGCGTTGTCGCTAAATTATTTACCTAGTCTTAAATTTGATTATGCTCAAAATG
+AAGCGGCACGACTTGAAGAAATTATGTCTATTCTTAGCGATAATATGCAAAGAGAAAAAGAACGAGGCATTAGCTTAT
+TCGGACCACATCGAGATGATATAAGTTTTGATGTGAATGGCATGGATGCTCAAACATATGGTTCTCAAGGACAGCAAC
+GTACAACGGCTTTGTCCATTAAATTAGCTGAAATTGAGTTAATGAATATCGAAGTTGGGGAATATCCCATCTTATTAT
+TAGACGATGTACTCAGTGAATTAGATGATTCGCGTCAAACGCATTTATTAAGTACGATTCAGCATAAAGTACAAACAT
+TTGTCACTACGACATCTGTAGATGGTATTGATCATGAAATCATGAATAACGCTAAATTGTATCGTATTAATCAAGGTG
+AAATTATAAAGTAACAGAAAGCGATGGTGACTGCATTGTCAGATGTAAACAACACGGATAATTATGGTGCTGGGCAAA
+TACAAGTATTAGAAGGTTTAGAAGCAGTACGTAAAAGACCAGGTATGTATATAGGATCGACTTCAGAGAGAGGTTTGC
+ACCATTTAGTGTGGGAAATTGTCGATAATAGTATCGATGAAGCATTAGCTGGTTATGCAAATCAAATTGAAGTTGTTA
+TTGAAAAAGATAACTGGATTAAAGTAACGGATAACGGACGTGGTATCCCAGTTGATATTCAAGAAAAAATGGGACGTC
+CAGCTGTCGAAGTTATTTTAACTGTTTTACATGCTGGTGGTAAATTCGGCGGTGGCGGATACAAAGTATCTGGTGGTT
+TACATGGTGTTGGTTCATCAGTTGTAAACGCATTGTCACAAGACTTAGAAGTATATGTACACAGAAATGAGACTATAT
+ATCATCAAGCATATAAAAAAGGTGTACCTCAATTTGACTTAAAAGAAGTTGGCACAACTGATAAGACAGGTACTGTCA
+TTCGTTTTAAAGCAGATGGAGAAATCTTCACAGAGACAACTGTCTACAACTATGAAACATTACAGCAACGTATTAGAG
+AGCTTGCTTTCTTAAACAAAGGAATTCAAATCACATTAAGAGATGAACGTGATGAAGAAAACGTTAGAGAAGACTCCT
+ATCATTATGAGGGCGGTATTAAATCTTATGTTGAGTTATTGAACGAAAATAAAGAACCTATTCATGATGAGCCAATTT
+ATATTCATCAATCTAAAGATGATATTGAAGTAGAAATTGCGATTCAATATAACTCAGGATATGCCACAAATCTTTTAA
+CTTACGCAAATAACATTCATACGTACGAAGGTGGTACGCATGAAGACGGATTCAAACGTGCATTAACGCGTGTCTTAA
+ATAGTTATGGTTTAAGTAGCAAGATTATGAAAGAAGAAAAAGATAGACTTTCTGGTGAAGATACACGTGAAGGCATGA
+CAGCAATTATATCTATCAAACATGGTGATCCTCAATTCGAAGGTCAAACGAAGACAAAATTAGGTAATTCTGAAGTGC
+GTCAAGTTGTAGATAAATTATTCTCAGAGCACTTTGAACGATTTTTATATGAAAATCCACAAGTCGCACGTACAGTGG
+TTGAAAAAGGTATTATGGCGGCACGTGCACGTGTTGCTGCGAAAAAAGCGCGTGAAGTTACACGTCGTAAATCAGCGT
+TAGATGTAGCAAGTCTTCCAGGTAAATTAGCCGATTGCTCTAGTAAAAGTCCTGAAGAATGTGAGATTTTCTTAGTCG
+AAGGGGACTCTGCCGGGGGGTCTACAAAATCTGGTCGTGACTCTAGAACACAGGCGATTTTACCATTACGAGGTAAGA
+TATTAAATGTTGAAAAAGCACGATTAGATAGAATTTTGAATAACAATGAAATTCGTCAAATGATTACAGCATTTGGTA
+CAGGAATCGGTGGCGACTTTGATCTAGCGAAAGCAAGATATCACAAAATCGTCATTATGACTGATGCCGATGTGGATG
+GAGCGCATATTAGAACATTGTTATTAACATTCTTCTATCGATTTATGAGACCGTTAATTGAAGCAGGCTATGTGTATA
+TTGCACAGCCACCGTTGTATAAACTGACACAAGGTAAACAAAAGTATTATGTATACAATGATAGGGAACTTGATAAAC
+TTAAATCTGAATTGAATCCAACACCAAAATGGTCTATTGCACGATACAAAGGTCTTGGAGAAATGAATGCAGATCAAT
+TATGGGAAACAACAATGAACCCTGAGCACCGCGCTCTTTTACAAGTAAAACTTGAAGATGCGATTGAAGCGGACCAAA
+CATTTGAAATGTTAATGGGTGATGTTGTAGAAAACCGTAGACAATTTATAGAAGATAATGCAGTTTATGCAAACTTAG
+ACTTCTAAGCGCTGTGAACTGAACTTTTGAAGGAGGAACTCTTGATGGCTGAATTACCTCAATC" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 6 ,
+                    data
+                      gene {
+                        locus "dnaA" ,
+                        locus-tag "LMPLBELI_00001" } ,
+                    location
+                      int {
+                        from 22 ,
+                        to 198 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "LMPLBELI_1" } } } ,
+                  {
+                    id
+                      local
+                        id 7 ,
+                    data
+                      gene {
+                        locus "dnaN" ,
+                        locus-tag "LMPLBELI_00002" } ,
+                    location
+                      int {
+                        from 476 ,
+                        to 1609 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "LMPLBELI_1" } } } ,
+                  {
+                    id
+                      local
+                        id 8 ,
+                    data
+                      gene {
+                        locus-tag "LMPLBELI_00003" } ,
+                    location
+                      int {
+                        from 1990 ,
+                        to 2235 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "LMPLBELI_1" } } } ,
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      gene {
+                        locus "recF" ,
+                        locus-tag "LMPLBELI_00004" } ,
+                    location
+                      int {
+                        from 2232 ,
+                        to 3344 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "LMPLBELI_1" } } } ,
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      gene {
+                        locus "gyrB" ,
+                        locus-tag "LMPLBELI_00005" } ,
+                    location
+                      int {
+                        from 3354 ,
+                        to 5288 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "LMPLBELI_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "LMPLBELI_00001" } } ,
+          descr {
+            title "Chromosomal replication initiator protein DnaA [Genus
+ species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 58 ,
+            seq-data
+              ncbieaa "MYLSRELTDFSLPKIGEEFGGRDHTTVIHAHEKISKDLKEDPIFKQEVENLEKEI
+RNV" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      prot {
+                        name {
+                          "Chromosomal replication initiator protein DnaA" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 57 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "LMPLBELI_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "LMPLBELI_00002" } } ,
+          descr {
+            title "Beta sliding clamp [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 377 ,
+            seq-data
+              ncbieaa "MMEFTIKRDYFITQLNDTLKAISPRTTLPILTGIKIDAKEHEVILTGSDSEISIE
+ITIPKTVDGEDIVNISETGSVVLPGRFFVDIIKKLPGKDVKLSTNEQFQTLITSGHSEFNLSGLDPDQYPLLPQVSRD
+DAIQLSVKVLKNVIAQTNFAVSTSETRPVLTGVNWLIQENELICTATDSHRLAVRKLQLEDVSENKNVIIPGKALAEL
+NKIMSDNEEDIDIFFASNQVLFKVGNVNFISRLLEGHYPDTTRLFPENYEIKLSIDNGEFYHAIDRASLLAREGGNNV
+IKLSTGDDVVELSSTSPEIGTVKEEVDANDVEGGNLKISFNSKYMMDALKAIDNDEVEVEFFGTMKPFILKPKGDDSV
+TQLILPIRTY" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      prot {
+                        name {
+                          "Beta sliding clamp" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 376 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "LMPLBELI_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "LMPLBELI_00003" } } ,
+          descr {
+            title "hypothetical protein LMPLBELI_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 81 ,
+            seq-data
+              ncbieaa "MIILVQEVVVEGDINLGQFLKTEGIIESGGQAKWFLQDVEVLINGVRETRRGKKL
+EHQDRIDIPELPEDAGSFLIIHQGEQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 80 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "LMPLBELI_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "LMPLBELI_00004" } } ,
+          descr {
+            title "DNA replication and repair protein RecF [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 370 ,
+            seq-data
+              ncbieaa "MKLNTLQLENYRNYDEVTLKCHPDVNILIGENAQGKTNLLESIYTLALAKSHRTS
+NDKELIRFNADYAKIEGELSYRHGTMPLTMFITKKGKQVKVNHLEQSRLTQYIGHLNVVLFAPEDLNIVKGSPQIRRR
+FIDMELGQISAVYLNDLAQYQRILKQKNNYLKQLQLGQKKDLTMLEVLNQQFAEYAMKVTDKRAHFIQELESLAKPIH
+AGITNDKEALSLNYLPSLKFDYAQNEAARLEEIMSILSDNMQREKERGISLFGPHRDDISFDVNGMDAQTYGSQGQQR
+TTALSIKLAEIELMNIEVGEYPILLLDDVLSELDDSRQTHLLSTIQHKVQTFVTTTSVDGIDHEIMNNAKLYRINQGE
+IIK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      prot {
+                        name {
+                          "DNA replication and repair protein RecF" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 369 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "LMPLBELI_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "LMPLBELI_00005" } } ,
+          descr {
+            title "DNA gyrase subunit B [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 644 ,
+            seq-data
+              ncbieaa "MVTALSDVNNTDNYGAGQIQVLEGLEAVRKRPGMYIGSTSERGLHHLVWEIVDNS
+IDEALAGYANQIEVVIEKDNWIKVTDNGRGIPVDIQEKMGRPAVEVILTVLHAGGKFGGGGYKVSGGLHGVGSSVVNA
+LSQDLEVYVHRNETIYHQAYKKGVPQFDLKEVGTTDKTGTVIRFKADGEIFTETTVYNYETLQQRIRELAFLNKGIQI
+TLRDERDEENVREDSYHYEGGIKSYVELLNENKEPIHDEPIYIHQSKDDIEVEIAIQYNSGYATNLLTYANNIHTYEG
+GTHEDGFKRALTRVLNSYGLSSKIMKEEKDRLSGEDTREGMTAIISIKHGDPQFEGQTKTKLGNSEVRQVVDKLFSEH
+FERFLYENPQVARTVVEKGIMAARARVAAKKAREVTRRKSALDVASLPGKLADCSSKSPEECEIFLVEGDSAGGSTKS
+GRDSRTQAILPLRGKILNVEKARLDRILNNNEIRQMITAFGTGIGGDFDLAKARYHKIVIMTDADVDGAHIRTLLLTF
+FYRFMRPLIEAGYVYIAQPPLYKLTQGKQKYYVYNDRELDKLKSELNPTPKWSIARYKGLGEMNADQLWETTMNPEHR
+ALLQVKLEDAIEADQTFEMLMGDVVENRRQFIEDNAVYANLDF" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      prot {
+                        name {
+                          "DNA gyrase subunit B" } ,
+                        ec {
+                          "5.6.2.2" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 643 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "LMPLBELI_00005" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "LMPLBELI_00001" } ,
+                location
+                  int {
+                    from 22 ,
+                    to 198 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "LMPLBELI_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P68866" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "LMPLBELI_00002" } ,
+                location
+                  int {
+                    from 476 ,
+                    to 1609 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "LMPLBELI_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P99103" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "LMPLBELI_00003" } ,
+                location
+                  int {
+                    from 1990 ,
+                    to 2235 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "LMPLBELI_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "LMPLBELI_00004" } ,
+                location
+                  int {
+                    from 2232 ,
+                    to 3344 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "LMPLBELI_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q8RDL3" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG1195" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "LMPLBELI_00005" } ,
+                location
+                  int {
+                    from 3354 ,
+                    to 5288 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "LMPLBELI_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P0A0K8" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG0187" } } } } } } } } }

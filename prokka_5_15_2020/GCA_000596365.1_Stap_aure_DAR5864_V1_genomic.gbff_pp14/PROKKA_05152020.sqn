@@ -1,0 +1,1003 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "FKFNBKLF_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 6630 ,
+            seq-data
+              iupacna "GGAAAGCAGATTAATAAGAGTGGTAAAATGACTGATTATGACATTGGTACGTTTA
+CTTCTCAATTTGCAGTTGGATCTTCTGTAAAAGGTGGAACATTATTAGCTGGTTATCAGAATAAAGCTATCAAAGTTG
+GAGAAACAATGGTCGATGAACCATTACATTTCCAAGGTGGTTTGACAAAACGATCATACTTTAATAAAAACGGGCATG
+TATCTATTAATGATAAGCAAGCTTTGATGCATTCATCAAACGTATATATGTTTAAAACAGCATTAAAATTAGCGGGAG
+ACCCTTATTATTCTGGTATGGCTTTACCATCAGACATAAGTTCACCTGCCCAAAAGCTAAGAAGAGGATTGAATCAAG
+TAGGCTTAGGTGTGAAAACAGGTATAGATTTACCAAATGAAACAAAAGGTCAAATCGAACCATTAACAAATAATCCAG
+GTAATTATCTAGATTTATCAATTGGTCAATATGATACCTATACACCATTACAATTATCACAATATGTTTCAACTATAG
+CGAATGATGGTTATAGAATACAACCACACATTGGATTAACGATTCATGAATCAACTAATAAAGATGAGGTTGGTCCAC
+TCAAGAAGAAAATTAATGGCACCGTCTTGAACAAAGTTAATAATACTGAAAATGAAATCAAACAAATTCAAGAAGGGT
+TCAAAATGGCGTTTAATGATAAAGATGGTACTGGATATGTTAGTTTTAAAGATACAGTAGTGCCTACTGCTGGTAAAA
+CTGGTACCGCTGAAGTGTTCCAAAACGGAGAGCCAAGAGTTAACTCTACTTATATAGGATACGCGCCAATTGATGATC
+CAAAATTAGCGTTTTCAATTGTATATACAAATCAGCCTGTACCACCACCATGGTTAACAGGTGGAGACTTAGGTAGAG
+ATGTAATTAACTACTACTTTAAGCAGTTAGGTAAAGATGATAAAAATAAAGATAAAGATAAATAAAATTTAACCTGAC
+GATTGTGTAGCGCATGGTTGTAAAATTTTAACTTTGCAAATATTATAGATGTTGGTATAATAATAAAGTCGTATTTAG
+AAATGATAAGGAGGAATAACCATGCGCGTAAACGTAACTTTAGCTTGTACGGAATGTGGTGACAGAAACTACATTACA
+ACTAAGAACAAAAGAAATAATCCAGAACGTGTTGAAATGAAGAAATTCTGTTCACGTGAAAACAAACAAACTTTACAC
+CGTGAAACAAAATAATCATTAAAATTAAATTTAAATTAACAATAAAAAAGGTGAAATCTCAAAATAAGAGGTTTCACC
+TTTTTAATTGTGCACACGTATGAAATGATAAAAGATTTTCAATTGAAATAATAAATTTTAGAATTGTCGCATAATTCA
+TCATGACAACATAATGACATGTATTGTTATTAACGATATAATAGAATTGAATAAAGTGGGTGATAATGTGACTAAAAA
+TGAGATTAGAAAATACATTTTACATAAAATGAAGAATTTTAATAAGGCTGAAAAGCGAAAAGCAGACACATGGTTAAG
+AAATCAATTTTTTGCAACTGAAGAATATAAAGAAGCAAACGCAATTGCGCTAGTTCTTTCTTTTAATCATGAAGTAGA
+TACTTTTTCTATTATTGAACAAGCCTTAATGGATCATAAACGTATTTTTGTACCGAAAATGGATTATTTAAATCATCA
+AATGACTTTTAAAGAGATATTTAATCTCAAAGATATTGATGTCGATAATAAGGGGGTTTACTATCCAACTTCAAAAGG
+TGAAACAACGAATAACCTAGATTTAATTGTTGTTCCTGGTGTTGGATTTCAAGACGATGGATATAGAATTGGGTATGG
+TGGTGGCTATTACGACAGGTTTTTAGCTAATTATCAGACAAAGACAATAAGCTTATTATACGATTTTCAAATAACATC
+ATTTGAACCGGAATCATTCGATCAACCAGTCGATAAATTGATTATATATCAATCAGCATAGTGGAGGACTAAATGAAC
+ATAGACAAACAATTTTGGAAAACAATATATTATTGGATTAGGTACTTGAATTTTGATATTGTCAGTAGGGAAAAAGAT
+GACCAAGAAATTTGGTTAGCCCATAAAAGAAAAAAACAAGTAGTCATTTTTAAACAACATATCAAGTCTACCCAAGAA
+ATACGTTTTGACAAAGCGAAAGTGCTTGAACACAAAGATGAAATAGCAAATTTTATTTCTTTCGAACCACAAAGTTTT
+GAATTTTATTATTTTACAGAATCGGAATTTTCAGAAGAACAATTAAATGAAGTTTCGCCAATTAGAATTAAATTCAAT
+GTTATAAGACACACAAAAGATTTGGTAAAGCATATGCCGAATATATTTTTGGCTAGACTTATTTCAGAAGATAATGAT
+AAAAAGACATATATGTTCTATAAACGCAAAGTATTAACCGATAACTTTTTAGATAAATATATGCAGAAATTTTCACCG
+GCAACATACACAATAATATTTGTAAATGTCTTAATATGGTTATGTATGATTTTATATTTAAATAATTTTTCGGATGTA
+AAATTATTAGATGTTGGCGGGTTAGTGCATTTTAATGTCGTACATGGTGAATGGTATCGAATTGTTACATCGATGTTT
+TTACATTTTAGTTTTGAACATATACTTATGAATATGCTTTCATTATTTATTTTTGGTAAAATAGTCGAAGCAATTATT
+GGTTCATGGCGGATGTTAACTGTATACTTTATTGCAGGGTTGTTTGGAAACTTTGTATCACTATCATTTAATACGACT
+ACAATTTCAGTTGGGGCTAGTGGTGCTATATTTGGTCTGATTGGATCAATTTTTGCGATGATGTATGTTTCAAAAACA
+TTTAACAAAAAAATGTTAGGGCAGTTATTAATTGCATTAGTGATATTAGTTGGTGTTTCTCTGTTTATGTCAAATATA
+AATATTGTGGCGCATATTGGAGGATTCATTGGTGGTTTATTAATAACTTTAATTGGCTATTACTATAAAGTGAATCGT
+AATATTTTTTGGATTTTACTAATTGGTATGCTTGTTATATTTATTGCACTTCAAATTAGAATTTTTACAATTAAAGAA
+GATAATATTTATAATAAATTGATCAAAGATGATATGACTAGTGGTAATTATGATAATGCTCAAAATATTGTGAAGCAG
+ACAATAAATAAAAATTATGCCGATGATCAAACATATTATTTAAGTGGTATGATTATGGCTACTATCAATTCTAAGTCT
+GAAGGTATGACAGAATGGGAGCGAGGACTTAGAATGTTTCCTAAATCAGGTTTATTAAATTTTGAGTTAGCGATAGCA
+AATCGTTCATTAAATGATGATGAAAAAGCATTAAAATATGTGCGTAAAGCATTAAATACAGACCCTAAAAATACAGAT
+TATATTAACTTAGAAAAAGAGTTGACTAAATCAAATGAGTCGAAAAATAAATAACTTTTATGATGTACAACAGTTATT
+GAAAAGTTACGGTTTTCTAATATATTTTAAAAATCCAGAAGATATGTACGAAATGATTCAACAGGAGATTTCATCATT
+GTATCAATATGAACTGTTATCTAAGGAAGAATATTTGAAATGTACGTTGATAATTAATCAGAGAAGGAATGAACAGAA
+ATGACAAAAATTATTTTAGCAGCTGATGTAGGCGGGACGACTTGTAAATTAGGTATTTTCACACCTGAATTAGAACAA
+TTACATAAATGGTCTATTCACACTGATACATCTGATAGTACAGGATATACACTTTTGAAAGGAATTTATGATTCGTTT
+GTTGAAAAAGTAAATGAAAATAATTATAATTTTTCAAATGTACTTGGCGTAGGTATTGGTGTTCCAGGTCCTGTTGAC
+TTTGAAAAAGGTACAGTAAATGGAGCAGTAAACTTATATTGGCCAGAAAAAGTTAATGTACGTGAGATTTTTGAACAA
+TTCGTTGATTGTCCAGTGTATGTAGATAATGATGCTAACATAGCTGCTTTAGGGGAGAAACACAAAGGTGCTGGTGAA
+GGTGCCGATGATGTTGTTGCCATCACACTTGGTACAGGTCTAGGTGGAGGAATTATTTCAAATGGTGAAATCGTACAT
+GGTCATAATGGCTCTGGCGCAGAAATAGGTCATTTTAGAGCAGACTTCGATCAACGATTTAAATGTAATTGTGGTCGT
+TCTGGATGTATTGAAACAGTTGCTTCAGCGACAGGCGTTGTTAACTTAGTTAACTTCTACTATCCGAAGTTGACGTTT
+AGATCTTCTATATTAGAATTGATTAAAGAAAATAAGGTTACAGCAAAAGCTGTTTTTGATGCGGCAAAAGCTGGTGAC
+CAATTCTGTATTTTCATTACTGAAAAGGTTGCAAACTATATTGGATATTTATGTAGTATTATTAGTGTTACAAGTAAT
+CCGAAATATATCGTTTTAGGTGGAGGAATGTCTACTGCAGGACCTATTTTAATTGAAAATATTAAAACAGAATATCAT
+AATTTAACATTTACACCTGCTCAATTTGAAACTGAAATTGTTCAAGCGAAATTAGGTAATGATGCAGGTATTACAGGA
+GCAGCAGGATTAATCAAGACCTATGTATTAGATAAAGAGGGGGTAAAATAATGGCTATTGTTGATGTGGTTGTTATTC
+CAGTTGGAACGGAAGGTCCGAGTGTTAGTAAATATATTGCAGATATTCAGAAAAAACTTCAAGAATATAAAGCGATGG
+GTAAAATTGACTTTCAATTAACACCAATGAATACTCTAATTGAAGGTGAATTAAGCGATGTATTAGAAGTTGTGCAAG
+TGATACATGAATTACCTTTTGATAAAGGTTTAAGTAGAGTTTGTACAAATATCCGTATTGATGACCGACGAGACAAAT
+CTAGAAAAATGAATGATAAACTAACATCAGTACAAAAACATTTAGAAAATAGTGGTGAAAACCTATGAGGATTTCAAG
+CTTAACTTTAGGCTTAGTTGATACTAATACGTATTTCATCGAAAATGACAAAGCTGTTATTCTGATTGACCCTTCAGG
+TGAAAGTGAAAAAATTATTAAAAAATTAAACCAAATAAATAAACCGTTAAAAGCTATTTTATTAACACATGCACACTT
+TGATCATATCGGAGCAGTCGATGATATAGTTGATCGATTCGATGTCCCGGTTTATATGCATGAAGCAGAGTTTGATTT
+TCTAAAAGATCCCGTTAAAAATGGGGCAGATAAATTTAAGCAATATGGATTACCAATTATTACAAGTAAGGTAACTCC
+TGAAAAGTTAAACGAAGGTAGCACAGAAATAGAAGGATTTAAGTTTAATGTGTTACACACACCTGGACATTCACCAGG
+AAGTTTAACATATGTGTTCGATGAATTCGCAGTTGTTGGAGATACATTATTTAATAATGGAATTGGACGTACAGATTT
+ATATAAAGGTGATTATGAAACTCTAGTTGATTCTATTCTAGATAAAATATTTGAATTAGAAGGCGATTTACCTTTATT
+CCCTGGACATGGTCCATATACGACGGTTGATGATGAACAATTAAATCCATTTTTACATGGTTAAATTGAAGTAATAAA
+AACACCTCCTACGTGATTATATGTAGGAGGTGTTTTTTTGAAGATTCTATTTCAAGAAATAATTAATAAAGCGATAGA
+AATGAAAGCGAGTGATGTACATTTTATTCCAGTTAAAAATGAAGTAAGTATTAAATTTAGAATTAATGATAACTTGGA
+GCAGTATGAACAAATTGGGAATGGCATTTATCAAAAGTTATTAGTTTATATGAAGTTTCAAGCTGGGCTTGATGTTTC
+TACACAGCAAGTCGCACAGAGCGGTCGATATAGTTACCATTTCAATAAAATTTATTTTTTGAGAATATCAACATTACC
+ATTGTCACTTGGCCAAGAAAGTTGTGTTATCAGAATTGTACCTCAATTTTTTCAACAACAGAAATCAACTTATAAATT
+CAATGATTTTAAACACCTCATGAACAAGAAACAAGGATTACTATTGTTTAGTGGACCAACTGGTTCAGGAAAGAGTAC
+ATTAATGTATCAAATGGTCTCATACGCGAATAAAGCCTTGAATTTAAATGTAATTTCTATAGAGGATCCTGTAGAGAT
+GCAAATTCCTGGTATTGTTCAAATTAATGTGAATGATAAAGCTGGCATTAACTATGTAAATTCGTTTAAAGCTATTTT
+AAGATGTGATCCCGATGTTATTTTAATAGGTGAAATCAGAGATAAAGATGTTGCCAAGTGTGTTATACAGGCTAGTTT
+AAGTGGTCACCTTGTTCTGACTACATTGCATGCAACTGATTGTAAAGGTGCTATTTTAAGGCTATTAGAAATGGGTGT
+TTCTGTACAAGAATTGATACAGGCAACTAACTTAATTATAAACCAACGACTTGTAACTACTATTAAGCAACAGCGACA
+ATTAGTATGTGAAATTCTATCTCAGCAACAACTCCGATATTTCTTTTCCCATAATCATTCATTACCATCATCATTTAA
+GAACTTAGAAGATAAACTTGATGATATGACAAAAGCAGGTGTCATTTGTGAAACTACAATGGATAAATACATTTAAAC
+TACATTCTAAGAAGCGACAATTA" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      gene {
+                        locus "pbpH" ,
+                        locus-tag "FKFNBKLF_00001" } ,
+                    location
+                      int {
+                        from 27 ,
+                        to 977 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_1" } } } ,
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus "rpmG2" ,
+                        locus-tag "FKFNBKLF_00002" } ,
+                    location
+                      int {
+                        from 1090 ,
+                        to 1239 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus "yqgN" ,
+                        locus-tag "FKFNBKLF_00003" } ,
+                    location
+                      int {
+                        from 1394 ,
+                        to 1987 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_1" } } } ,
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      gene {
+                        locus "gluP" ,
+                        locus-tag "FKFNBKLF_00004" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 3462 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_1" } } } ,
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      gene {
+                        locus-tag "FKFNBKLF_00005" } ,
+                    location
+                      int {
+                        from 3443 ,
+                        to 3646 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_1" } } } ,
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      gene {
+                        locus "glcK" ,
+                        locus-tag "FKFNBKLF_00006" } ,
+                    location
+                      int {
+                        from 3643 ,
+                        to 4629 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_1" } } } ,
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      gene {
+                        locus-tag "FKFNBKLF_00007" } ,
+                    location
+                      int {
+                        from 4629 ,
+                        to 4958 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_1" } } } ,
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      gene {
+                        locus-tag "FKFNBKLF_00008" } ,
+                    location
+                      int {
+                        from 4955 ,
+                        to 5578 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_1" } } } ,
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      gene {
+                        locus "comGA" ,
+                        locus-tag "FKFNBKLF_00009" } ,
+                    location
+                      int {
+                        from 5630 ,
+                        to 6604 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "FKFNBKLF_00001" } } ,
+          descr {
+            title "Penicillin-binding protein H [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 316 ,
+            seq-data
+              ncbieaa "MTDYDIGTFTSQFAVGSSVKGGTLLAGYQNKAIKVGETMVDEPLHFQGGLTKRSY
+FNKNGHVSINDKQALMHSSNVYMFKTALKLAGDPYYSGMALPSDISSPAQKLRRGLNQVGLGVKTGIDLPNETKGQIE
+PLTNNPGNYLDLSIGQYDTYTPLQLSQYVSTIANDGYRIQPHIGLTIHESTNKDEVGPLKKKINGTVLNKVNNTENEI
+KQIQEGFKMAFNDKDGTGYVSFKDTVVPTAGKTGTAEVFQNGEPRVNSTYIGYAPIDDPKLAFSIVYTNQPVPPPWLT
+GGDLGRDVINYYFKQLGKDDKNKDKDK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      prot {
+                        name {
+                          "Penicillin-binding protein H" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 315 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "FKFNBKLF_00002" } } ,
+          descr {
+            title "50S ribosomal protein L33 2 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 49 ,
+            seq-data
+              ncbieaa "MRVNVTLACTECGDRNYITTKNKRNNPERVEMKKFCSRENKQTLHRETK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      prot {
+                        name {
+                          "50S ribosomal protein L33 2" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 48 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "FKFNBKLF_00003" } } ,
+          descr {
+            title "putative protein YqgN [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 197 ,
+            seq-data
+              ncbieaa "MTCIVINDIIELNKVGDNVTKNEIRKYILHKMKNFNKAEKRKADTWLRNQFFATE
+EYKEANAIALVLSFNHEVDTFSIIEQALMDHKRIFVPKMDYLNHQMTFKEIFNLKDIDVDNKGVYYPTSKGETTNNLD
+LIVVPGVGFQDDGYRIGYGGGYYDRFLANYQTKTISLLYDFQITSFEPESFDQPVDKLIIYQSA" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      prot {
+                        name {
+                          "putative protein YqgN" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 196 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "FKFNBKLF_00004" } } ,
+          descr {
+            title "Rhomboid protease GluP [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 487 ,
+            seq-data
+              ncbieaa "MNIDKQFWKTIYYWIRYLNFDIVSREKDDQEIWLAHKRKKQVVIFKQHIKSTQEI
+RFDKAKVLEHKDEIANFISFEPQSFEFYYFTESEFSEEQLNEVSPIRIKFNVIRHTKDLVKHMPNIFLARLISEDNDK
+KTYMFYKRKVLTDNFLDKYMQKFSPATYTIIFVNVLIWLCMILYLNNFSDVKLLDVGGLVHFNVVHGEWYRIVTSMFL
+HFSFEHILMNMLSLFIFGKIVEAIIGSWRMLTVYFIAGLFGNFVSLSFNTTTISVGASGAIFGLIGSIFAMMYVSKTF
+NKKMLGQLLIALVILVGVSLFMSNINIVAHIGGFIGGLLITLIGYYYKVNRNIFWILLIGMLVIFIALQIRIFTIKED
+NIYNKLIKDDMTSGNYDNAQNIVKQTINKNYADDQTYYLSGMIMATINSKSEGMTEWERGLRMFPKSGLLNFELAIAN
+RSLNDDEKALKYVRKALNTDPKNTDYINLEKELTKSNESKNK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 22 ,
+                    data
+                      prot {
+                        name {
+                          "Rhomboid protease GluP" } ,
+                        ec {
+                          "3.4.21.105" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 486 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "FKFNBKLF_00005" } } ,
+          descr {
+            title "hypothetical protein FKFNBKLF_00005 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 67 ,
+            seq-data
+              ncbieaa "MSRKINNFYDVQQLLKSYGFLIYFKNPEDMYEMIQQEISSLYQYELLSKEEYLKC
+TLIINQRRNEQK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 23 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 66 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "FKFNBKLF_00006" } } ,
+          descr {
+            title "Glucokinase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 328 ,
+            seq-data
+              ncbieaa "MTKIILAADVGGTTCKLGIFTPELEQLHKWSIHTDTSDSTGYTLLKGIYDSFVEK
+VNENNYNFSNVLGVGIGVPGPVDFEKGTVNGAVNLYWPEKVNVREIFEQFVDCPVYVDNDANIAALGEKHKGAGEGAD
+DVVAITLGTGLGGGIISNGEIVHGHNGSGAEIGHFRADFDQRFKCNCGRSGCIETVASATGVVNLVNFYYPKLTFRSS
+ILELIKENKVTAKAVFDAAKAGDQFCIFITEKVANYIGYLCSIISVTSNPKYIVLGGGMSTAGPILIENIKTEYHNLT
+FTPAQFETEIVQAKLGNDAGITGAAGLIKTYVLDKEGVK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 24 ,
+                    data
+                      prot {
+                        name {
+                          "Glucokinase" } ,
+                        ec {
+                          "2.7.1.2" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 327 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "FKFNBKLF_00007" } } ,
+          descr {
+            title "hypothetical protein FKFNBKLF_00007 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 109 ,
+            seq-data
+              ncbieaa "MAIVDVVVIPVGTEGPSVSKYIADIQKKLQEYKAMGKIDFQLTPMNTLIEGELSD
+VLEVVQVIHELPFDKGLSRVCTNIRIDDRRDKSRKMNDKLTSVQKHLENSGENL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 25 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 108 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_00007" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "FKFNBKLF_00008" } } ,
+          descr {
+            title "putative metallo-hydrolase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 207 ,
+            seq-data
+              ncbieaa "MRISSLTLGLVDTNTYFIENDKAVILIDPSGESEKIIKKLNQINKPLKAILLTHA
+HFDHIGAVDDIVDRFDVPVYMHEAEFDFLKDPVKNGADKFKQYGLPIITSKVTPEKLNEGSTEIEGFKFNVLHTPGHS
+PGSLTYVFDEFAVVGDTLFNNGIGRTDLYKGDYETLVDSILDKIFELEGDLPLFPGHGPYTTVDDEQLNPFLHG" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 26 ,
+                    data
+                      prot {
+                        name {
+                          "putative metallo-hydrolase" } ,
+                        ec {
+                          "3.-.-.-" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 206 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_00008" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "FKFNBKLF_00009" } } ,
+          descr {
+            title "ComG operon protein 1 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 324 ,
+            seq-data
+              ncbieaa "MKILFQEIINKAIEMKASDVHFIPVKNEVSIKFRINDNLEQYEQIGNGIYQKLLV
+YMKFQAGLDVSTQQVAQSGRYSYHFNKIYFLRISTLPLSLGQESCVIRIVPQFFQQQKSTYKFNDFKHLMNKKQGLLL
+FSGPTGSGKSTLMYQMVSYANKALNLNVISIEDPVEMQIPGIVQINVNDKAGINYVNSFKAILRCDPDVILIGEIRDK
+DVAKCVIQASLSGHLVLTTLHATDCKGAILRLLEMGVSVQELIQATNLIINQRLVTTIKQQRQLVCEILSQQQLRYFF
+SHNHSLPSSFKNLEDKLDDMTKAGVICETTMDKYI" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 27 ,
+                    data
+                      prot {
+                        name {
+                          "ComG operon protein 1" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 323 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "FKFNBKLF_00009" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "FKFNBKLF_00001" } ,
+                location
+                  int {
+                    from 27 ,
+                    to 977 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "FKFNBKLF_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q796K8" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG0768" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "FKFNBKLF_00002" } ,
+                location
+                  int {
+                    from 1090 ,
+                    to 1239 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "FKFNBKLF_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q2FY22" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG0267" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "FKFNBKLF_00003" } ,
+                location
+                  int {
+                    from 1394 ,
+                    to 1987 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "FKFNBKLF_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P54491" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG0212" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "FKFNBKLF_00004" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 3462 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "FKFNBKLF_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P54493" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG0705" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "FKFNBKLF_00005" } ,
+                location
+                  int {
+                    from 3443 ,
+                    to 3646 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "FKFNBKLF_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "FKFNBKLF_00006" } ,
+                location
+                  int {
+                    from 3643 ,
+                    to 4629 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "FKFNBKLF_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P54495" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG1940" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "FKFNBKLF_00007" } ,
+                location
+                  int {
+                    from 4629 ,
+                    to 4958 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "FKFNBKLF_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "FKFNBKLF_00008" } ,
+                location
+                  int {
+                    from 4955 ,
+                    to 5578 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "FKFNBKLF_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q5XD24" } } } ,
+              {
+                id
+                  local
+                    id 9 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "FKFNBKLF_00009" } ,
+                location
+                  int {
+                    from 5630 ,
+                    to 6604 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "FKFNBKLF_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P25953" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG2804" } } } } } } } } }

@@ -1,0 +1,65 @@
+# BLASTN 2.9.0+
+# Query: PNPDPCJG_00001 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+PNPDPCJG_00001	HOHICCDL_00003	100.000	216	100	216	216	0	1.91e-112	399
+PNPDPCJG_00001	PNPDPCJG_00001	100.000	216	100	216	216	0	1.91e-112	399
+# BLASTN 2.9.0+
+# Query: PNPDPCJG_00002 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+PNPDPCJG_00002	HOHICCDL_00004	100.000	117	100	117	117	0	1.03e-57	217
+PNPDPCJG_00002	PNPDPCJG_00002	100.000	117	100	117	117	0	1.03e-57	217
+# BLASTN 2.9.0+
+# Query: PNPDPCJG_00003 Fe(3+)-citrate-binding protein YfmC
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+PNPDPCJG_00003	HOHICCDL_00005	100.000	360	100	360	360	0	0.0	665
+PNPDPCJG_00003	PNPDPCJG_00003	100.000	360	100	360	360	0	0.0	665
+# BLASTN 2.9.0+
+# Query: PNPDPCJG_00004 Fe(3+)-citrate-binding protein YfmC
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PNPDPCJG_00004	HOHICCDL_00006	100.000	537	100	537	537	0	0.0	992
+PNPDPCJG_00004	PNPDPCJG_00004	100.000	537	100	537	537	0	0.0	992
+PNPDPCJG_00004	EOHBAPLG_00001	100.000	537	100	537	537	0	0.0	992
+# BLASTN 2.9.0+
+# Query: PNPDPCJG_00005 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+PNPDPCJG_00005	HOHICCDL_00007	100.000	378	100	378	378	0	0.0	699
+PNPDPCJG_00005	PNPDPCJG_00005	100.000	378	100	378	378	0	0.0	699
+PNPDPCJG_00005	EOHBAPLG_00002	100.000	378	100	378	378	0	0.0	699
+PNPDPCJG_00005	FAPDFBMB_00001	100.000	378	100	378	378	0	0.0	699
+# BLASTN 2.9.0+
+# Query: PNPDPCJG_00006 Poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+PNPDPCJG_00006	HOHICCDL_00008	100.000	138	100	138	138	0	2.66e-69	255
+PNPDPCJG_00006	PNPDPCJG_00006	100.000	138	100	138	138	0	2.66e-69	255
+PNPDPCJG_00006	EOHBAPLG_00003	100.000	138	100	138	138	0	2.66e-69	255
+PNPDPCJG_00006	FAPDFBMB_00002	100.000	138	100	138	138	0	2.66e-69	255
+# BLASTN 2.9.0+
+# Query: PNPDPCJG_00007 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PNPDPCJG_00007	HOHICCDL_00009	100.000	132	100	132	132	0	5.46e-66	244
+PNPDPCJG_00007	PNPDPCJG_00007	100.000	132	100	132	132	0	5.46e-66	244
+PNPDPCJG_00007	EOHBAPLG_00004	100.000	132	100	132	132	0	5.46e-66	244
+# BLASTN 2.9.0+
+# Query: PNPDPCJG_00008 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+PNPDPCJG_00008	HOHICCDL_00010	100.000	207	100	207	207	0	1.83e-107	383
+PNPDPCJG_00008	PNPDPCJG_00008	100.000	207	100	207	207	0	1.83e-107	383
+PNPDPCJG_00008	EOHBAPLG_00005	100.000	207	100	207	207	0	1.83e-107	383
+PNPDPCJG_00008	FAPDFBMB_00003	100.000	207	100	207	207	0	1.83e-107	383
+# BLAST processed 8 queries

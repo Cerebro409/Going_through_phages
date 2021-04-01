@@ -1,0 +1,19 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CIOHMFKN_00001	gene	1557				
+CIOHMFKN_00001	CDS	1557				hypothetical protein
+CIOHMFKN_00002	gene	936	arcC1			
+CIOHMFKN_00002	CDS	936	arcC1	2.7.2.2		Carbamate kinase 1
+CIOHMFKN_00003	gene	1002	argF			
+CIOHMFKN_00003	CDS	1002	argF	2.1.3.3		Ornithine carbamoyltransferase
+CIOHMFKN_00004	gene	726				
+CIOHMFKN_00004	CDS	726				Superantigen-like protein 13
+CIOHMFKN_00005	gene	726				
+CIOHMFKN_00005	CDS	726				Superantigen-like protein 13
+CIOHMFKN_00006	gene	747				
+CIOHMFKN_00006	CDS	747				Superantigen-like protein 13
+CIOHMFKN_00007	gene	198				
+CIOHMFKN_00007	CDS	198				hypothetical protein
+CIOHMFKN_00008	gene	198				
+CIOHMFKN_00008	CDS	198				hypothetical protein
+CIOHMFKN_00009	gene	147				
+CIOHMFKN_00009	CDS	147				hypothetical protein

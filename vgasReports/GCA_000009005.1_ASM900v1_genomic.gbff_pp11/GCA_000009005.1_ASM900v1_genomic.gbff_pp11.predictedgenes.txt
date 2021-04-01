@@ -1,0 +1,51 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1         1610         2326            +          717      0.41528
+
+     2         2391         3566            -         1176      0.45638
+
+     3         3613         4875            -         1263      0.44757
+
+     4         4929         5816            -          888      0.42520
+
+     5         6288         7589            -         1302      0.41864
+
+     6         7590         8795            -         1206      0.29334
+
+     7         8788         9954            -         1167      0.34224
+
+     8         9968        11077            -         1110      0.44422
+
+     9        11082        11714            -          633      0.39096
+
+    10        11699        12835            -         1137      0.44392
+     (bit_score:422.55;e-value:4.70407e-147;identity:55.1%;gi|363540634|ref|YP_004894587.1| UDP-N-acetylglucosamine 2-epimerase [Megavirus chiliensis])
+
+    11        12839        13189            -          351      0.37195
+
+    12        13438        13587            -          150      0.16019
+
+    13        13961        15145            -         1185      0.45920
+     (bit_score:177.178;e-value:1.5164e-51;identity:33.4%;gi|363539870|ref|YP_004894585.1| putative dTDP-d-glucose 4 6-dehydratase [Megavirus chiliensis])
+
+    14        14937        16613            -         1677      0.50000
+
+    15        16615        16884            -          270      0.26007
+
+    16        16817        17581            -          765      0.41728
+
+    17        17584        18270            -          687      0.40254
+
+    18        18286        18768            -          483      0.40994
+

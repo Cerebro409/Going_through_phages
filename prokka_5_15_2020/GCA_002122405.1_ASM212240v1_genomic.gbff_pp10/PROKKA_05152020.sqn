@@ -1,0 +1,565 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CIENGLJJ_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 4371 ,
+            seq-data
+              iupacna "ATTTTCTAATTAAACTATCGTAATGTCTATAATATTTAATTATTTTTTATAAAAA
+TTAAACATTTTATTAAACTATTTTTATAAAATAAAATAATATTACAATATAATTAATTATAAAAATTTAAGGGTATAT
+TGAAGTAATACATTACATAGGAGTGATAAAATGCCAAGTCGTTGGGTAAAAGTTAAAACCTTTAAGTCATTATCTACT
+TCCAAATTAGAGAAAAAGTTACAAAATTTCAAATCATATAATAGCTTTGATATTATAGAAATTAAAAGACATTCATAT
+TTATTTTTAAATATAGTCGAAGTTTATTACAAAGATAAAACTTAGACTTTTTATTACTACTTTTTTAAAATCTGTCTA
+TTTTTACAGCATTGAATTTCCAGCCGTATAATTTAAAATTCTAATGTAATTCTAAATATTTTATAGATAAAGTAGAAA
+ACGTTAATACTACACTTATATGAATTATATAAAATATTAGATGATTTTAAAAAGAGAATTACCTATGAACCGTGACAC
+TACATAACCTGATTGGTGAATAATTACAAACAGTTTAGCTTCGCAAAATTATATATAGCTCATAAAAAGACTAGTACA
+TCGCTTTACAGCTATTGAAGATGAGGAAATACTTGATAAAATCTATAAAAATTTTATGAATGATGATACTATAACAAC
+GATATTTAACAATAATTTACAGGCAATTATTAACCATTACCTATCAATATGAATATTAAATAAAACTAGAACCTCCTT
+CACTTAGCACTGAGGAATATTCTTACATTTTTTAATAAGTGGTGATATAAAAAAGCAGTTAGTGGCCATAGATTCAAT
+TTCTAAGGTAGCTTCCCTTTCAATAATTTTTGAATTCAAAATTTTAATATAAATCCCTTCCTTTTATATTATACACAA
+TCTATTTTTTAGTTTTATTTGTGATACGCTTCTGCTTATCAGTTAATGATGCGGTTTTTGAAAAATAACTACAGAAAT
+TTATAGAAGAACAACAAAACTCAAACGCTATATCATATAATAAGTTCTTAGAAGCTTACAAAGTAGACACGTCTTCTG
+ATTAAACTAATACAGTTGATGAATTAACAGAAAATCCAGTATGTACTGAGTACATAAGAGATCGAACAGAAGCTAGAG
+AAAAAGGTCAAGGTAGAACTTATTAAGCATATTAAATTAATTAACTTGATACTTTTCAATAAAAAACAGAGCACCTCC
+ATAACGTGGAGGATGCTCTATTTTTTTATAACGCATTTACTAATATTTCAAATTCATCTTTATTAATATTAATACCTT
+CAAGATTAACATTTACTAAATTAGGGTGTTGACCGCTTGTTAGGACATATACTTCAATATGTGGACATGTTTCATTAA
+CGATAGGCATGATTTCTTCATCAAACCGCTTCGGTCCATTGTTTTCACTGTAAATCACAACATGAAATTTAATATCAT
+CAGCTATATTCATAGGAATTTTGTCTTCTCTCTTTCTAGACAATACACACTGTTTTCCTACGATATTTGAAATCCATT
+CTTCTTTCTTTCGGCAATAATCTATAAAATCTTTTCTTTGATATCCTAAGTCCATTTTAACTTCTAGTATATTTTTAA
+TTTCATTATCTTCACAAATTAATAAATCCGGATATCTTGTACTTAAAGATTTATCAATCATAGATAAAGGCTGATCAA
+TAAATATTTGGACACCTTCCAATCTACTAATCAAATAAGCACCCAGCAAGTCTTCTCCAATACCTGAAATACTATGAT
+TACGTCCTCGATATAAATTTTCATGAGGATAAGTAGGCTTTCCTGCTTCTTTATATGCCTTTACAAGATGTTCGATAA
+CTTCCACTTCAGTGAATTTCATACTCAATCACCCTATCTATAGATACTCTATATTTCAACAAACAAAGTATATCACAC
+ATTTGAAAGCATAAATACAAAAAACCTCCTAATAAATTAAGAGGGTTGAATGATAGTTTATAAAATATTAAATTATTT
+GCTATTATAATTAACTATTTTGGTTAATTCTTTAATCGTTAAAGGTTTTTTAGTATTTCTATGAATCATTTTATGGCA
+ATTAGAACATAGTGGGACTAAATCTTTTTGTGGATTTACTTTTATTTCTCTTTTTATTGAAAACATTGGTTTTAAATG
+ATGAATTTCAATAAAACCCTCACCTAAATCGCCATACTTAGCTTTAAAATCAAATCCACATACTTTACATGTAGTTCC
+ATGAATTTTAATAGCTTCATTTCTTAATGCCTGATTTCTTTCATATTTAATACCGTACTGTACATATGGTTTACCTTC
+GACATATTCAGTGTTTTCTAACTCATTATCTAAATTTAAAATATTCGTTTTCAAGACTTTTGTATATAACTTTTTAAA
+GGTTCCTTTAAAGTCATAGGACCTTGAACATTACCTTTTAACCCATTATCTTGTAAAAATTCTAAATCTAATTGGTCA
+TCATCAAGTTTGTTTAATAACTTTAATTCCATGTAATTACCATAGTTAATATAATTATCACCCTTGATAACAAATTGA
+CTATCATCAATTTATGATAAACATTTATCTCAAGCATCTTATTTAATCGGTTGTCAAAAAACTGGAGAAGCCATGATC
+ATTGATCCTATTTGTGACTTATCTTCATATATTCGAGTTGCCGATGAAGAGAGTTTAACCATTACTCATGCAGCTGAA
+ACACATATACATGCAAATTTTGTTTCAGGAATTAGAGATGTTGCTATAAAGTTAAATGCTAGTATTTATGTATCGGGC
+GAAAGTGATGACATGTTAGGTTATAAAAATATGCCTAACCACACTCATTTTGTTCAACATAATGATGATATTTATGTA
+GGAAATATAAAATTAAAAGTGCTTCATACACCTGGTCACACGCCAGAAAGTATAAGTTTTTTACTTACTGACGAAGGT
+GCTGGAGCACAAGTTCCAATGGGACTATTCAGTGGTGATTTTATTTTTGTAGGAGATATCGGTAGACCTGATTTACTA
+GAAAAAGCTGTTAAAGTAGAAGGATTATCTGAAATAGGCGCAAAACAAATGTTTAAATCTATTGAAAGTATTAAAGAC
+TTGCCAGACTACATTCAAATTTGGCCTGGTCATGGCGCTGGTAGTCCTTGTGGTAAATCTTTAGGTGCTATTCCAACA
+TCTACGCTTGGCTATGAAAAACAAACGAACTGGGCTTTTTCTGAAAATAATGAAGCTACCTTTATCGATAAACTCATT
+TCTGACCAACCTGCACCACCACATCATTTTGCACAAATGAAAAAAATTAATCAATTCGGTATGAATTTATATCAACCT
+TATACGGTTTATCCAGCTACAAGTACAAACAGATTAACTTTTGATCTCCGCAGTAAGGAGGCTTATCATGGTGGACAT
+ATTGAAGGTACAATCAATATTCCATATGATAAAAATTTCATCAATCAAATTGGCTGGTATCTAAACTATAATCAAGAA
+ATTAACTTGATTGGAGACTATCACCTTGTTTCAAAAGCAACACATAACATACTTTACAACTTATTGGATATGATAATG
+TGTCTGGATATCAGTTACCACAAGCTCAAATTCAAACACAATCTGTTCATAGTAAAGACATAACTGGTAATGAAGCAC
+ATGTCTTAGATGTACGTAATGATAATGAATGGAATAATGGCCACTTATCCCAAGCGGTTCATGTGCCACACGGCAAAC
+TTTTAGAAACAGATTTACCTTTCAATAGAAACGATGTTATTTATGTAGACTGTCAGTCTGGCATTAGAAGTTCTATAG
+CTATTGGTATTTTAGAACACAAAGGTTATCACAACATTATTAATGTAAACGAAGGTTACAAAGATATATACCTTTCTT
+AATAATTATATTTATACTAATGAAGAAGGACTATAAGTAGTTAGATATAGCTTTTAGATATAGCTTATAGTTCCTTTT
+TATATTATTGGATAAATATCTATTTAAAAATCATTTATATACCCTCGCTTTATATCATTTAATAAATATTTTACATAG
+TACATACCTTTTTTGTTTATTGATGTGATCAAAAAACATAACAGCAATTCCTATAAACCTCATATGTTCTGATACGTT
+CAAAATCCCTTTATGAAGTGTCTAAAAAACCGCATCTCTGCGTATCGGTTAATGATACGGTTTTCTATGATATTTATT
+AATAAATATAAGATGCGAAGCATTTGTATAATCCAAACACTTCGCACCTATCTCTTGTTTTTTTATTTATTCCTAAAG
+AAAGACTCTAAACTTTTAATTACTTTTTTAGTTCGCAATATATCAGCTTCTTTTGATTCTATTAACACATATTTAGTA
+GCCGGACCTTCACCTTCTTTTTTTAT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 6 ,
+                    data
+                      gene {
+                        locus-tag "CIENGLJJ_00001" } ,
+                    location
+                      int {
+                        from 163 ,
+                        to 333 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CIENGLJJ_1" } } } ,
+                  {
+                    id
+                      local
+                        id 7 ,
+                    data
+                      gene {
+                        locus-tag "CIENGLJJ_00002" } ,
+                    location
+                      int {
+                        from 1250 ,
+                        to 1870 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CIENGLJJ_1" } } } ,
+                  {
+                    id
+                      local
+                        id 8 ,
+                    data
+                      gene {
+                        locus-tag "CIENGLJJ_00003" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 2370 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CIENGLJJ_1" } } } ,
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      gene {
+                        locus-tag "CIENGLJJ_00004" } ,
+                    location
+                      int {
+                        from 2367 ,
+                        to 2504 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CIENGLJJ_1" } } } ,
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      gene {
+                        locus "gloB" ,
+                        locus-tag "CIENGLJJ_00005" } ,
+                    location
+                      int {
+                        from 2623 ,
+                        to 3627 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CIENGLJJ_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CIENGLJJ_00001" } } ,
+          descr {
+            title "hypothetical protein CIENGLJJ_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 56 ,
+            seq-data
+              ncbieaa "MPSRWVKVKTFKSLSTSKLEKKLQNFKSYNSFDIIEIKRHSYLFLNIVEVYYKDK
+T" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 55 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CIENGLJJ_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CIENGLJJ_00002" } } ,
+          descr {
+            title "hypothetical protein CIENGLJJ_00002 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 206 ,
+            seq-data
+              ncbieaa "MKFTEVEVIEHLVKAYKEAGKPTYPHENLYRGRNHSISGIGEDLLGAYLISRLEG
+VQIFIDQPLSMIDKSLSTRYPDLLICEDNEIKNILEVKMDLGYQRKDFIDYCRKKEEWISNIVGKQCVLSRKREDKIP
+MNIADDIKFHVVIYSENNGPKRFDEEIMPIVNETCPHIEVYVLTSGQHPNLVNVNLEGININKDEFEILVNAL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 205 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CIENGLJJ_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CIENGLJJ_00003" } } ,
+          descr {
+            title "hypothetical protein CIENGLJJ_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 123 ,
+            seq-data
+              ncbieaa "MKTNILNLDNELENTEYVEGKPYVQYGIKYERNQALRNEAIKIHGTTCKVCGFDF
+KAKYGDLGEGFIEIHHLKPMFSIKREIKVNPQKDLVPLCSNCHKMIHRNTKKPLTIKELTKIVNYNSK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 122 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CIENGLJJ_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CIENGLJJ_00004" } } ,
+          descr {
+            title "hypothetical protein CIENGLJJ_00004 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 45 ,
+            seq-data
+              ncbieaa "MELKLLNKLDDDQLDLEFLQDNGLKGNVQGPMTLKEPLKSYIQKS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 44 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CIENGLJJ_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "CIENGLJJ_00005" } } ,
+          descr {
+            title "Hydroxyacylglutathione hydrolase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 334 ,
+            seq-data
+              ncbieaa "MIIDPICDLSSYIRVADEESLTITHAAETHIHANFVSGIRDVAIKLNASIYVSGE
+SDDMLGYKNMPNHTHFVQHNDDIYVGNIKLKVLHTPGHTPESISFLLTDEGAGAQVPMGLFSGDFIFVGDIGRPDLLE
+KAVKVEGLSEIGAKQMFKSIESIKDLPDYIQIWPGHGAGSPCGKSLGAIPTSTLGYEKQTNWAFSENNEATFIDKLIS
+DQPAPPHHFAQMKKINQFGMNLYQPYTVYPATSTNRLTFDLRSKEAYHGGHIEGTINIPYDKNFINQIGWYLNYNQEI
+NLIGDYHLVSKATHNILYNLLDMIMCLDISYHKLKFKHNLFIVKT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      prot {
+                        name {
+                          "Hydroxyacylglutathione hydrolase" } ,
+                        ec {
+                          "3.1.2.6" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 333 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "CIENGLJJ_00005" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CIENGLJJ_00001" } ,
+                location
+                  int {
+                    from 163 ,
+                    to 333 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CIENGLJJ_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CIENGLJJ_00002" } ,
+                location
+                  int {
+                    from 1250 ,
+                    to 1870 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CIENGLJJ_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CIENGLJJ_00003" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 2370 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CIENGLJJ_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CIENGLJJ_00004" } ,
+                location
+                  int {
+                    from 2367 ,
+                    to 2504 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CIENGLJJ_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "CIENGLJJ_00005" } ,
+                location
+                  int {
+                    from 2623 ,
+                    to 3627 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "CIENGLJJ_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "protein motif:HAMAP:MF_01374" } } } } } } } } }

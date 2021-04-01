@@ -1,0 +1,990 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DELJAAJL_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 7305 ,
+            seq-data
+              iupacna "AACAAAAGAAATGTATGTACATACCTATGAAGAACTTGTGAGTTTAATTTTAAAA
+TTAAAAGATATTATTTGCTAGTAGGAATTCTGTATAATTAGTATATGTTAACAGTTAAATAAGTTATAATAGAGGAGT
+GTAGCACTTTGCTATATTCCTTTTTTATTTTTAGGAAGGGTGGGCTTTTATGAAAGATTTGACAATGTTATTAGACGA
+ATTAAAAGATATGTCCTTTTTTAACAAAGGAGATATATGTTTAATTGGATGTTCAACATCGGAAGTCATTGGCGAAAA
+AATTGGGACTGTCGGTTCGATGGAAGTTGCAGAAACTATTTTTAATGCATTAGATGTTGTGAGTAAAGAGACAGGCGT
+TACTTTTGCTTTTCAAGGATGTGAACATATCAACAGAGCGATAACAATAGAAAAATCTCAGTATAATCCATTAACAAT
+GGAAGAAGTTTCCGTCGTTCCAAATGTACATGCTGGAGGGAGTTTGGCAACATACGCTTTTCAGCATATGAAGGATCC
+GATCGTGGTCGAACATATTACTGTTCCTTGTGGAATTGATATTGGTCAAACATTAATAGGCATGCATATTAAACATGT
+ATGTGTACCTGTAAGGACCTCAGTAAAGCAAGTAGGACAGGCAATTGTAACTATTGCCACATCTAGGCCGAAAAAGAT
+TGGTGGCGAACGTGCTAAATACCAATAAGTTTTTTTGAAAGAAGGGGAGATTTTATGTCTTATATCACCAAGCAAGAT
+AAAGTTATCGCAGAAGCAATCGAGAGAGAATTTCAGAGACAAAATAGCAACATAGAGTTAATCGCATCGGAAAATTTT
+GTATCGGAAGCGGTTATGGAAGCACAAGGTTCAGTGTTGACTAATAAGTATGCTGAAGGCTATCCAGGACGCCGATAT
+TATGGTGGCTGTGAGTTTGTAGATGTTACTGAAAGCATCGCAATTAATCGTGCAAAAGCATTGTTTGGAGCTGAACAT
+GTCAATGTTCAACCACATTCAGGTTCGCAAGCGAACATGGCTGTTTACTTAGTTGCATTAGAAATGGGCGACACGGTT
+TTAGGTATGAATTTGAGTCATGGTGGTCACTTGACACATGGAGCGCCTGTTAATTTTAGTGGTAAATTCTACAATTTC
+GTTGAATATGGAGTAGATAAAGACACAGAACGAATCAATTATGATGAAGTTCGTAAATTAGCGTTAGAGCATAAGCCT
+AAGCTTATTGTGGCAGGAGCATCAGCATATTCAAGAACAATTGACTTCAAAAAGTTTAAAGAAATCGCAGATGAAGTA
+AACGCTAAGTTAATGGTAGACATGGCACATATTGCAGGATTAGTAGCGGCAGGTTTACATCCAAATCCAGTAGAATAT
+GCTGATTTTGTAACAACTACAACACACAAAACATTACGCGGACCACGTGGTGGTATGATTTTATGTAAGGAAGAATAT
+AAAAAAGACATAGATAAAACAATTTTCCCTGGTATTCAAGGTGGACCTCTTGAGCATGTTATTGCAGCAAAAGCAGTT
+GCTTTTGGAGAAGCGTTAGAAAATAATTTCAAAACGTATCAACAACAAGTGGTTAAAAACGCAAAAGTTCTTGCAGAA
+GCATTAATTAATGAAGGATTTAGAATTGTTTCTGGCGGTACAGATAATCACTTAGTAGCTGTTGATGTAAAAGGGTCT
+ATAGGACTTACTGGTAAAGAAGCTGAAGAGACTTTAGATTCAGTTGGTATCACATGTAACAAAAATACCATTCCGTTC
+GATCAAGAAAAACCTTTTGTAACGAGTGGTATACGTTTAGGTACACCTGCTGCAACAACGCGTGGATTTGATGAAAAA
+GCTTTTGAGGAAGTTGCAAAAATCATCAGTTTAGCATTGAAAAATAGTAAAGATGAAGAAAAATTACAACAAGCTAAA
+GAACGCGTTGCGAAATTAACAGCTGAATATCCTCTATATCAATAAACATACACAAAGATAGGAGTAATTTTTATGAGT
+AAAGTACACGTTTTCGATCATCCATTAATTCAACACAAACTAAGCTATATTAGAGATGTAAATACAGGTACTAAAGAA
+TTTAGAGAACTTGTAGACGAAGTTGGTATGTTGATGGCATATGAAGTAACTAGAGACTTAGAGCTTCAGGATGTTGAT
+ATTGAAACGCCTGTAACTAAAATGACGGCTAAACGATTAGCTGGTAAAAAATTAGCTATCGTTCCAATTTTAAGAGCT
+GGTTTAGGTATGACTGATGGTATTTTAAGTTTAGTGCCTGCAGCCAGAGTTGGACATATCGGTTTGTATCGAGATCCC
+GAAACATTAAAGGCTGTAGAGTATTTTGCTAAGTTACCTCAAGATATTACTGAAAGACAAATCATTGTTGTTGATCCT
+ATGTTAGCAACAGGCGCATCAGCAATTGAAGCTATTACTTCATTGAAGAAACGTGGCGCTAAAAATATTCGCTTCATG
+TGTTTAATTGCAGCACCAGAAGGCGTAGAAAAGATGCATGAAGCACATCCAGATGTAGATATTTATATTGCTGCACTT
+GATGAAAAGCTAAATGATAAAGCATATATCACACCAGGGTTAGGCGACGCTGGAGATAGATTGTTTGGTACTAAATAG
+AAGAATCGGAGATAAGTAGTTTGATGAAAAAGATTATGACCATATTTGGAACAAGACCCGAAGCCATAAAGATGGCTC
+CTTTAGTTAAAGCTTTGGAACAAGAAAAAATGCTCGAGCCAATTGTTGTTGTTACAGCACAGCATAGAGAAATGCTTG
+ATTCAGTATTAAGTACCTTTGAAATCAAACCAAAATACGATTTGAATATTATGAAATCAGGACAGACACTTTCTGAGA
+TAACTTCTAAATCAATCACTCAATTAGAACAAGTGATTCAATTAGAAAAACCAGATATGGTACTTGTACATGGTGATA
+CGATGACGACATTTGCAGGTGGTTTAGCGGCATTTTATAACCAAGTGCCGATTGGACACGTTGAAGCAGGGCTTAGAA
+GTTATGATAAATATTCACCTTTTCCAGAAGAGGTGAATAGACAATTAGTTGGTGTATTAGCTGACTTACATTTTGCAC
+CTACTAAAAATGCTGCATCGCATTTGTTAAGTGAAGGGAAATATTCAGAAAGTGTTGTTGTCACTGGTAATACAGCGA
+TTGATGCTATGAAATATACAGTTGATGACAATTATAAATCTAACATCATGGATAAATATCATGACAAAAAATTCATTC
+TTATGACAGCACACCGACGAGAAAATATCGGGCAACCCATGGAAAATATATTTAAAGCGGTTAGACGCTTAATAGATG
+AGTATACTGATTTAGCACTAGTATATCCAATGCATAAAAACCCGAAAGTTCGAGAGGTGGCTCAAAAGATTTTAGGTA
+GTCATGACAGAATTGAATTGATTGAACCTTTGGATGTAGTAGATTTCCATAATTTTGCTAAAAAATCTTATTTTATTT
+TGACAGATTCAGGTGGAATTCAGGAAGAAGCGCCATCATTTAATAAGCCAGTTTTAGTTTTGCGAAGCGTTACAGAAC
+GTCCTGAAGGTGTTGAAGCTGGCACATTAAAAGTCATTGGAACAAATAAGCAAAATGTGTATCAAGCTGCAAAAGAAT
+TAATCGATGATGAGAGATTATATCATCAAATGTCTGAAGCATCTAATCCTTACGGTGATGGATTTGCTTCAGAAAGAA
+TAGTTAATCATATTAAGTATTATTTGAATTTAATCACTGAAAAACCAAGCGATTTCTAAGAAAAATAGACTTTTTGTC
+TAATTGTGTCTAAATTGTGTCTGAACATGCTTATTTTTTTACAACAATTTGAATAGAATTGACACCACAAATCGCCTA
+TATTATCATTTAGTTTGTATGAGTGGAACGGTTTTCATGATTGATATCAGTCACACGGAGGCATATAAAATGAGTCGT
+TTCTACAACATTTTTAAACAGTTCATTCAATATTATTTGTATTTATTAATAATATTGGGAGGATTATACCTTTTTACA
+CACCATGCATTTATCTTAGGATTAATCATTGGTGTTACTGGTTCTGCAATCAATACTGTTATATTTGAGAGCTACTTA
+GCCAAAGCTAAAAGACCAGACACTATGCATATTTCAACTGGAAATATGTGGCGATACTTAGTTGCAATTATTGCCTGT
+ATGATTTGGTACTTTAATAAATCGCATATAAGTATAATCGGTATAATTATTGGTTTAATGATTTCATATGTTGTAGTT
+ATCATACGTCCTTTACTAAAGGTGAGCAAATAAATTAAGAAAGAGGTGAGATTATGGATCACAAATCCCCGCTCGTGA
+GTTGGAATTTATTCGGTTTTGATATCGTTTTCAATTTATCAAGTATATTGATGATACTTGTTACGGCGTTTCTTGTTT
+TTCTACTTGCTATCATTTGTACGCGTAATTTGAAAAAAAGACCAACTGGCAAACAAAATTTCGTTGAATGGATTTTTG
+ATTTCGTGAGGGGAATCATTGAAGGTAACATGGCTTGGAAAAAAGGTGGTCAATTCCACTTCTTAGCAGTAACGCTGA
+TTCTGTACATTTTTATAGCTAATATGTTAGGTCTTCCGTTTTCTATAGTAACGAAAGATCACACATTGTGGTGGAAAT
+CACCAACAGCTGATGCAACAGTGACTTTAACGTTGTCTACAACGATAATACTGTTAACTCACTTTTATGGAATTAAAA
+TGCGTGGTACGAAACAATATCTTAAAGGTTATGTACAGCCGTTTTGGCCATTGGCAATTATTAATGTTTTTGAAGAGT
+TCACTTCAACATTAACGCTTGGTCTGCGTTTGTACGGTAACATATTTGCAGGTGAGATACTATTAACATTACTTGCTG
+GCTTATTCTTTAACGAACCAGCATGGGGTTGGATTATAAGTATCCCAGGATTAATTGTTTGGCAAGCATTTTCAATAT
+TTGTAGGAACAATCCAAGCATATATCTTTATTATGCTTTCGATGGTTTATATGTCACATAAAGTGGCAGATGAACACT
+AAAAAATTTCAATAATTATATACAATCACAGGAGGAAATTAAATTATGAATTTAATCGCAGCAGCAATCGCAATTGGT
+TTATCAGCATTAGGAGCAGGTATCGGTAACGGTTTAATCGTTTCAAGAACAGTTGAAGGTGTAGCACGTCAACCAGAA
+GCACGTGGTCAATTAATGGGTATCATGTTCATTGGTGTAGGTTTAGTTGAGGCATTACCTATCATCGGTGTAGTAATT
+GCATTCATGACATTTGCTGGATAATTAACAGATAAAAGAGGTCGGGACAAAGCGCATAGGACATAATTCATGACGCAT
+ATATAGTAATATCTTTGAACTTTATTAAATAGTTGAGATATGAACGCACCATGCCTATCGCATAAATTCAGTAGGTCC
+TAACCTCGTCGTTTTTTTCTATATAACACTAGCGATTATTTTAATGAAAGGAGTGTCATGAACCCGTGACTGAAACAG
+CTAACTTATTCGTTCTTGGTGCAGCTGGAGGCGTTGAGTGGGGTACTGTGATTGTACAGGTCCTAACTTTCATCGTGT
+TACTTGCGTTACTTAAAAAGTTCGCATGGGGTCCATTGAAAGATGTAATGGATAAACGTGAAAGAGATATTAACAGAG
+ATATCGATGACGCAGAACAAGCTAAGTTAAATGCACAGAAACTTGAAGAAGAAAATAAACAAAAACTTAAAGAAACAC
+AAGAAGAAGTTCAAAAGATTTTAGAAGATGCTAAGGTTCAAGCACGTCAACAGCAAGAACAAATTATTCATGAAGCAA
+ACGTACGTGCAAACGGTATGATTGAAACAGCACAAAGTGAAATCAATAGCCAAAAAGAACGTGCCATTGCAGATATTA
+ATAATCAAGTATCTGAACTATCAGTGTTAATTGCTTCTAAAGTTCTTAGAAAAGAAATTTCTGAACAAGACCAAAAAG
+CATTGGTTGACAAGTATCTAAAAGAGGCAGGCGATAAATAATGGTAAAAGTAGCTAACAAGTATGCTAAAGCATTATT
+TGACGTGTCATTAGATACAAATAATTTAGAAACTATTAATCAAGAATTAACAGTTATAAATGAAGCAGTAAAAGATAA
+AATTGAGCAATTGAAAATGGTTGACAGTAATCCAACTCAAACAGCAGAACAACGTCGTGAGTTGATTAATGGTGTATT
+TACTGACATTAATCCATACATTAAAAATATGATGTACGTTTTAGCAGATAATAGACATATCTCATTAATAGCTGACGT
+ATTCAAGGCGTTCCAAAGCTTATATAACGGACACTACAATCAAGATTTTGCAACAATTGAGTCAACATATGAATTGAG
+TCAAGAAGAGTTAGATAAGATTGTCAAACTAGTAACTCAACAAACGAAGTTATCTAAAGTTATTGTAGATACAAAAAT
+TAATCCAGATTTAATTGGTGGATTTAGAGTTAAAGTCGGCACAACTGTATTAGATGGTAGTGTTAGAAATGATCTTGT
+CCAATTACAAAGAAAATTTAGAAGAGTTAATTAATTATAAAGAGGAGTGACATAGATGGCCATAAAAGCTGAAGAAAT
+CAGTGCATTACTTCGCTCACAAATTGAAAATTATGAGTCAGAAATGTCCGTAACTGATGTAGGTACTGTATTACAAAT
+TGGTGATGGTATTGCATTAATTCACGGATTAAATGACGTTATGGCTGGTGAGCTAGTAGAATTCCATAACGGCGTACT
+TGGTTTAGCCCAAAACCTTGAAGAGTCAAACGTGGGTGTGGTTATTTTAGGACCATATACAGGTATTACTGAAGGTGA
+CGAAGTTAAACGTACTGGTCGTATCATGGAAGTACCAGTAGGTGAAGAACTAATCGGAAGAGTTGTTAATCCATTAGG
+ACAACCTATTGATGGACAAGGACCGATTAACACAACTAAAACACGTCCAGTAGAGAAAAAAGCTACTGGTGTAATGGA
+TCGTAAATCAGTAGATGAGCCATTACAAACAGGTATCAAAGCAATTGATGCTTTAGTACCAATTGGTAGAGGTCAACG
+TGAGTTAATCATCGGTGACCGTCAAACAGGTAAAACAACAATTGCAATTGACACAATTTTGAACCAAAAAGATCAAGG
+TACGATTTGTATCTATGTTGCTATTGGTCAAAAAGATTCAACAGTAAGAGCAAATGTTGAAAAGTTAAGACAAGCAGG
+CGCTTTAGACTACACTATTGTTGTAGCAGCATCAGCTTCTGAACCTTCTCCATTATTATATATTGCACCATATT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      gene {
+                        locus-tag "DELJAAJL_00001" } ,
+                    location
+                      int {
+                        from 182 ,
+                        to 706 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus "glyA" ,
+                        locus-tag "DELJAAJL_00002" } ,
+                    location
+                      int {
+                        from 733 ,
+                        to 1971 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus "upp" ,
+                        locus-tag "DELJAAJL_00003" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 2628 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      gene {
+                        locus "mnaA" ,
+                        locus-tag "DELJAAJL_00004" } ,
+                    location
+                      int {
+                        from 2652 ,
+                        to 3779 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      gene {
+                        locus-tag "DELJAAJL_00005" } ,
+                    location
+                      int {
+                        from 3913 ,
+                        to 4299 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      gene {
+                        locus "atpB" ,
+                        locus-tag "DELJAAJL_00006" } ,
+                    location
+                      int {
+                        from 4320 ,
+                        to 5048 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      gene {
+                        locus "atpE" ,
+                        locus-tag "DELJAAJL_00007" } ,
+                    location
+                      int {
+                        from 5092 ,
+                        to 5304 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      gene {
+                        locus "atpF" ,
+                        locus-tag "DELJAAJL_00008" } ,
+                    location
+                      int {
+                        from 5502 ,
+                        to 6023 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_1" } } } ,
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      gene {
+                        locus "atpH" ,
+                        locus-tag "DELJAAJL_00009" } ,
+                    location
+                      int {
+                        from 6023 ,
+                        to 6562 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DELJAAJL_00001" } } ,
+          descr {
+            title "hypothetical protein DELJAAJL_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 174 ,
+            seq-data
+              ncbieaa "MKDLTMLLDELKDMSFFNKGDICLIGCSTSEVIGEKIGTVGSMEVAETIFNALDV
+VSKETGVTFAFQGCEHINRAITIEKSQYNPLTMEEVSVVPNVHAGGSLATYAFQHMKDPIVVEHITVPCGIDIGQTLI
+GMHIKHVCVPVRTSVKQVGQAIVTIATSRPKKIGGERAKYQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 173 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DELJAAJL_00002" } } ,
+          descr {
+            title "Serine hydroxymethyltransferase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 412 ,
+            seq-data
+              ncbieaa "MSYITKQDKVIAEAIEREFQRQNSNIELIASENFVSEAVMEAQGSVLTNKYAEGY
+PGRRYYGGCEFVDVTESIAINRAKALFGAEHVNVQPHSGSQANMAVYLVALEMGDTVLGMNLSHGGHLTHGAPVNFSG
+KFYNFVEYGVDKDTERINYDEVRKLALEHKPKLIVAGASAYSRTIDFKKFKEIADEVNAKLMVDMAHIAGLVAAGLHP
+NPVEYADFVTTTTHKTLRGPRGGMILCKEEYKKDIDKTIFPGIQGGPLEHVIAAKAVAFGEALENNFKTYQQQVVKNA
+KVLAEALINEGFRIVSGGTDNHLVAVDVKGSIGLTGKEAEETLDSVGITCNKNTIPFDQEKPFVTSGIRLGTPAATTR
+GFDEKAFEEVAKIISLALKNSKDEEKLQQAKERVAKLTAEYPLYQ" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      prot {
+                        name {
+                          "Serine hydroxymethyltransferase" } ,
+                        ec {
+                          "2.1.2.1" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 411 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DELJAAJL_00003" } } ,
+          descr {
+            title "Uracil phosphoribosyltransferase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 209 ,
+            seq-data
+              ncbieaa "MSKVHVFDHPLIQHKLSYIRDVNTGTKEFRELVDEVGMLMAYEVTRDLELQDVDI
+ETPVTKMTAKRLAGKKLAIVPILRAGLGMTDGILSLVPAARVGHIGLYRDPETLKAVEYFAKLPQDITERQIIVVDPM
+LATGASAIEAITSLKKRGAKNIRFMCLIAAPEGVEKMHEAHPDVDIYIAALDEKLNDKAYITPGLGDAGDRLFGTK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      prot {
+                        name {
+                          "Uracil phosphoribosyltransferase" } ,
+                        ec {
+                          "2.4.2.9" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 208 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DELJAAJL_00004" } } ,
+          descr {
+            title "UDP-N-acetylglucosamine 2-epimerase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 375 ,
+            seq-data
+              ncbieaa "MKKIMTIFGTRPEAIKMAPLVKALEQEKMLEPIVVVTAQHREMLDSVLSTFEIKP
+KYDLNIMKSGQTLSEITSKSITQLEQVIQLEKPDMVLVHGDTMTTFAGGLAAFYNQVPIGHVEAGLRSYDKYSPFPEE
+VNRQLVGVLADLHFAPTKNAASHLLSEGKYSESVVVTGNTAIDAMKYTVDDNYKSNIMDKYHDKKFILMTAHRRENIG
+QPMENIFKAVRRLIDEYTDLALVYPMHKNPKVREVAQKILGSHDRIELIEPLDVVDFHNFAKKSYFILTDSGGIQEEA
+PSFNKPVLVLRSVTERPEGVEAGTLKVIGTNKQNVYQAAKELIDDERLYHQMSEASNPYGDGFASERIVNHIKYYLNL
+ITEKPSDF" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 22 ,
+                    data
+                      prot {
+                        name {
+                          "UDP-N-acetylglucosamine 2-epimerase" } ,
+                        ec {
+                          "5.1.3.14" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 374 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DELJAAJL_00005" } } ,
+          descr {
+            title "hypothetical protein DELJAAJL_00005 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 128 ,
+            seq-data
+              ncbieaa "MIDISHTEAYKMSRFYNIFKQFIQYYLYLLIILGGLYLFTHHAFILGLIIGVTGS
+AINTVIFESYLAKAKRPDTMHISTGNMWRYLVAIIACMIWYFNKSHISIIGIIIGLMISYVVVIIRPLLKVSK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 23 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 127 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DELJAAJL_00006" } } ,
+          descr {
+            title "ATP synthase subunit a [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 242 ,
+            seq-data
+              ncbieaa "MDHKSPLVSWNLFGFDIVFNLSSILMILVTAFLVFLLAIICTRNLKKRPTGKQNF
+VEWIFDFVRGIIEGNMAWKKGGQFHFLAVTLILYIFIANMLGLPFSIVTKDHTLWWKSPTADATVTLTLSTTIILLTH
+FYGIKMRGTKQYLKGYVQPFWPLAIINVFEEFTSTLTLGLRLYGNIFAGEILLTLLAGLFFNEPAWGWIISIPGLIVW
+QAFSIFVGTIQAYIFIMLSMVYMSHKVADEH" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 24 ,
+                    data
+                      prot {
+                        name {
+                          "ATP synthase subunit a" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 241 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DELJAAJL_00007" } } ,
+          descr {
+            title "ATP synthase subunit c [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 70 ,
+            seq-data
+              ncbieaa "MNLIAAAIAIGLSALGAGIGNGLIVSRTVEGVARQPEARGQLMGIMFIGVGLVEA
+LPIIGVVIAFMTFAG" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 25 ,
+                    data
+                      prot {
+                        name {
+                          "ATP synthase subunit c" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 69 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_00007" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DELJAAJL_00008" } } ,
+          descr {
+            title "ATP synthase subunit b [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 173 ,
+            seq-data
+              ncbieaa "MTETANLFVLGAAGGVEWGTVIVQVLTFIVLLALLKKFAWGPLKDVMDKRERDIN
+RDIDDAEQAKLNAQKLEEENKQKLKETQEEVQKILEDAKVQARQQQEQIIHEANVRANGMIETAQSEINSQKERAIAD
+INNQVSELSVLIASKVLRKEISEQDQKALVDKYLKEAGDK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 26 ,
+                    data
+                      prot {
+                        name {
+                          "ATP synthase subunit b" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 172 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_00008" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "DELJAAJL_00009" } } ,
+          descr {
+            title "ATP synthase subunit delta [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 179 ,
+            seq-data
+              ncbieaa "MVKVANKYAKALFDVSLDTNNLETINQELTVINEAVKDKIEQLKMVDSNPTQTAE
+QRRELINGVFTDINPYIKNMMYVLADNRHISLIADVFKAFQSLYNGHYNQDFATIESTYELSQEELDKIVKLVTQQTK
+LSKVIVDTKINPDLIGGFRVKVGTTVLDGSVRNDLVQLQRKFRRVN" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 27 ,
+                    data
+                      prot {
+                        name {
+                          "ATP synthase subunit delta" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 178 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "DELJAAJL_00009" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                comment "UPF0340 protein YwlG" ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DELJAAJL_00001" } ,
+                location
+                  int {
+                    from 182 ,
+                    to 706 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DELJAAJL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P39157" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DELJAAJL_00002" } ,
+                location
+                  int {
+                    from 733 ,
+                    to 1971 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DELJAAJL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P99091" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DELJAAJL_00003" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 2628 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DELJAAJL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P67396" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DELJAAJL_00004" } ,
+                location
+                  int {
+                    from 2652 ,
+                    to 3779 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DELJAAJL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P39131" } } ,
+                dbxref {
+                  {
+                    db "COG" ,
+                    tag
+                      str "COG0381" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DELJAAJL_00005" } ,
+                location
+                  int {
+                    from 3913 ,
+                    to 4299 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DELJAAJL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DELJAAJL_00006" } ,
+                location
+                  int {
+                    from 4320 ,
+                    to 5048 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DELJAAJL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P09218" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DELJAAJL_00007" } ,
+                location
+                  int {
+                    from 5092 ,
+                    to 5304 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DELJAAJL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P00845" } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DELJAAJL_00008" } ,
+                location
+                  int {
+                    from 5502 ,
+                    to 6023 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DELJAAJL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q7A4E7" } } } ,
+              {
+                id
+                  local
+                    id 9 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "DELJAAJL_00009" } ,
+                location
+                  int {
+                    from 6023 ,
+                    to 6562 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "DELJAAJL_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P99109" } } } } } } } } }

@@ -1,0 +1,284 @@
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00001 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+OOHHBMED_00001	OOHHBMED_00001	100.000	1167	100	1167	1167	0	0.0	2156
+OOHHBMED_00001	FBFNHGHC_00009	99.486	1167	100	1167	1167	6	0.0	2122
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00002 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+OOHHBMED_00002	OOHHBMED_00002	100.000	1110	100	1110	1110	0	0.0	2050
+OOHHBMED_00002	FBFNHGHC_00010	98.919	1110	100	1110	1110	12	0.0	1984
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00003 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+OOHHBMED_00003	OOHHBMED_00003	100.000	627	100	627	627	0	0.0	1158
+OOHHBMED_00003	GHCIEDJE_00001	99.681	627	100	627	627	2	0.0	1147
+OOHHBMED_00003	FBFNHGHC_00011	99.681	627	100	627	627	2	0.0	1147
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00004 UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+OOHHBMED_00004	OOHHBMED_00004	100.000	1125	100	1125	1125	0	0.0	2078
+OOHHBMED_00004	GHCIEDJE_00002	99.467	1125	100	1125	1125	6	0.0	2045
+OOHHBMED_00004	FBFNHGHC_00012	99.467	1125	100	1125	1125	6	0.0	2045
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00005 UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+OOHHBMED_00005	OOHHBMED_00005	100.000	1110	100	1110	1110	0	0.0	2050
+OOHHBMED_00005	GHCIEDJE_00003	98.649	1110	100	1110	1110	15	0.0	1967
+OOHHBMED_00005	FBFNHGHC_00013	98.649	1110	100	1110	1110	15	0.0	1967
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00006 UDP-glucose 4-epimerase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+OOHHBMED_00006	OOHHBMED_00006	100.000	1029	100	1029	1029	0	0.0	1901
+OOHHBMED_00006	GHCIEDJE_00004	98.834	1029	100	1029	1029	12	0.0	1834
+OOHHBMED_00006	FBFNHGHC_00014	98.834	1029	100	1029	1029	12	0.0	1834
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00007 UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+OOHHBMED_00007	HMJGHHMJ_00001	100.000	855	100	855	855	0	0.0	1580
+OOHHBMED_00007	OOHHBMED_00007	100.000	855	100	855	855	0	0.0	1580
+OOHHBMED_00007	GHCIEDJE_00005	98.830	855	100	1635	855	9	0.0	1522
+OOHHBMED_00007	FBFNHGHC_00015	98.830	855	100	1635	855	9	0.0	1522
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00008 UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+OOHHBMED_00008	HMJGHHMJ_00002	100.000	1005	100	1005	1005	0	0.0	1857
+OOHHBMED_00008	OOHHBMED_00008	100.000	1005	100	1005	1005	0	0.0	1857
+OOHHBMED_00008	GHCIEDJE_00005	99.632	1005	81	1635	816	2	0.0	1489
+OOHHBMED_00008	FBFNHGHC_00015	99.632	1005	81	1635	816	2	0.0	1489
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00009 Tyrosine-protein phosphatase YwqE
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+OOHHBMED_00009	GMOEFFOK_00001	100.000	765	100	765	765	0	0.0	1413
+OOHHBMED_00009	HMJGHHMJ_00003	100.000	765	100	765	765	0	0.0	1413
+OOHHBMED_00009	OOHHBMED_00009	100.000	765	100	765	765	0	0.0	1413
+OOHHBMED_00009	GHCIEDJE_00006	99.216	765	100	765	765	6	0.0	1380
+OOHHBMED_00009	FBFNHGHC_00016	99.216	765	100	765	765	6	0.0	1380
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00010 Tyrosine-protein kinase YwqD
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+OOHHBMED_00010	GMOEFFOK_00002	100.000	687	100	687	687	0	0.0	1269
+OOHHBMED_00010	DDBEDCGG_00001	100.000	687	100	687	687	0	0.0	1269
+OOHHBMED_00010	HMJGHHMJ_00004	100.000	687	100	687	687	0	0.0	1269
+OOHHBMED_00010	OOHHBMED_00010	100.000	687	100	687	687	0	0.0	1269
+OOHHBMED_00010	GHCIEDJE_00007	93.159	687	100	687	687	47	0.0	1009
+OOHHBMED_00010	FBFNHGHC_00017	93.159	687	100	687	687	47	0.0	1009
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00011 Capsular polysaccharide type 8 biosynthesis protein cap8A
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+OOHHBMED_00011	GMOEFFOK_00003	100.000	669	100	669	669	0	0.0	1236
+OOHHBMED_00011	DDBEDCGG_00002	100.000	669	100	669	669	0	0.0	1236
+OOHHBMED_00011	HMJGHHMJ_00005	100.000	669	100	669	669	0	0.0	1236
+OOHHBMED_00011	OOHHBMED_00011	100.000	669	100	669	669	0	0.0	1236
+OOHHBMED_00011	GHCIEDJE_00008	97.573	669	92	618	618	15	0.0	1059
+OOHHBMED_00011	FBFNHGHC_00018	97.573	669	92	618	618	15	0.0	1059
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00012 Aldehyde-alcohol dehydrogenase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+OOHHBMED_00012	GMOEFFOK_00004	100.000	2610	100	2610	2610	0	0.0	4820
+OOHHBMED_00012	DDBEDCGG_00003	100.000	2610	100	2610	2610	0	0.0	4820
+OOHHBMED_00012	HMJGHHMJ_00006	100.000	2610	100	2610	2610	0	0.0	4820
+OOHHBMED_00012	OOHHBMED_00012	100.000	2610	100	2610	2610	0	0.0	4820
+OOHHBMED_00012	FCAOMNPL_00001	100.000	2610	10	273	273	0	5.17e-143	505
+OOHHBMED_00012	KPGKJBEP_00001	100.000	2610	10	273	273	0	5.17e-143	505
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00013 IS200/IS605 family transposase ISSep3
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 7 hits found
+OOHHBMED_00013	FCAOMNPL_00002	100.000	222	100	222	222	0	9.08e-116	411
+OOHHBMED_00013	GMOEFFOK_00005	100.000	222	100	222	222	0	9.08e-116	411
+OOHHBMED_00013	KPGKJBEP_00002	100.000	222	100	222	222	0	9.08e-116	411
+OOHHBMED_00013	DDBEDCGG_00004	100.000	222	100	222	222	0	9.08e-116	411
+OOHHBMED_00013	HMJGHHMJ_00007	100.000	222	100	222	222	0	9.08e-116	411
+OOHHBMED_00013	OOHHBMED_00013	100.000	222	100	222	222	0	9.08e-116	411
+OOHHBMED_00013	CMLBKDKH_00005	97.748	222	100	486	222	5	1.98e-107	383
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00014 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+OOHHBMED_00014	FCAOMNPL_00003	100.000	327	100	327	327	0	5.87e-174	604
+OOHHBMED_00014	GMOEFFOK_00006	100.000	327	100	327	327	0	5.87e-174	604
+OOHHBMED_00014	KPGKJBEP_00003	100.000	327	100	327	327	0	5.87e-174	604
+OOHHBMED_00014	DDBEDCGG_00005	100.000	327	100	327	327	0	5.87e-174	604
+OOHHBMED_00014	HMJGHHMJ_00008	100.000	327	100	327	327	0	5.87e-174	604
+OOHHBMED_00014	OOHHBMED_00014	100.000	327	100	327	327	0	5.87e-174	604
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00015 Replication initiation protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+OOHHBMED_00015	FCAOMNPL_00004	100.000	291	100	291	291	0	5.36e-154	538
+OOHHBMED_00015	GMOEFFOK_00007	100.000	291	100	291	291	0	5.36e-154	538
+OOHHBMED_00015	KPGKJBEP_00004	100.000	291	100	291	291	0	5.36e-154	538
+OOHHBMED_00015	DDBEDCGG_00006	100.000	291	100	291	291	0	5.36e-154	538
+OOHHBMED_00015	HMJGHHMJ_00009	100.000	291	100	291	291	0	5.36e-154	538
+OOHHBMED_00015	OOHHBMED_00015	100.000	291	100	291	291	0	5.36e-154	538
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00016 Replication initiation protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+OOHHBMED_00016	FCAOMNPL_00005	100.000	546	100	546	546	0	0.0	1009
+OOHHBMED_00016	GMOEFFOK_00008	100.000	546	100	546	546	0	0.0	1009
+OOHHBMED_00016	KPGKJBEP_00005	100.000	546	100	546	546	0	0.0	1009
+OOHHBMED_00016	DDBEDCGG_00007	100.000	546	100	546	546	0	0.0	1009
+OOHHBMED_00016	HMJGHHMJ_00010	100.000	546	100	546	546	0	0.0	1009
+OOHHBMED_00016	OOHHBMED_00016	100.000	546	100	546	546	0	0.0	1009
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00017 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+OOHHBMED_00017	FCAOMNPL_00006	100.000	195	100	195	195	0	8.04e-101	361
+OOHHBMED_00017	GMOEFFOK_00009	100.000	195	100	195	195	0	8.04e-101	361
+OOHHBMED_00017	DDBEDCGG_00008	100.000	195	100	195	195	0	8.04e-101	361
+OOHHBMED_00017	HMJGHHMJ_00011	100.000	195	100	195	195	0	8.04e-101	361
+OOHHBMED_00017	OOHHBMED_00017	100.000	195	100	195	195	0	8.04e-101	361
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00018 Trifunctional nucleotide phosphoesterase protein YfkN
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 12 hits found
+OOHHBMED_00018	HMJGHHMJ_00012	100.000	1536	100	1536	1536	0	0.0	2837
+OOHHBMED_00018	OOHHBMED_00018	100.000	1536	100	1536	1536	0	0.0	2837
+OOHHBMED_00018	LHOCMKFL_00001	98.828	1536	100	1536	1536	18	0.0	2737
+OOHHBMED_00018	BBCIJOPN_00001	98.828	1536	100	1536	1536	18	0.0	2737
+OOHHBMED_00018	KNBJAHMG_00001	98.828	1536	100	1536	1536	18	0.0	2737
+OOHHBMED_00018	MKBEIGGD_00001	98.828	1536	100	1536	1536	18	0.0	2737
+OOHHBMED_00018	DGNCDLFN_00001	98.828	1536	100	1536	1536	18	0.0	2737
+OOHHBMED_00018	KPFLFOMC_00001	98.828	1536	100	1536	1536	18	0.0	2737
+OOHHBMED_00018	EENHBMLI_00001	98.828	1536	100	1536	1536	18	0.0	2737
+OOHHBMED_00018	GMOEFFOK_00010	100.000	1536	52	804	804	0	0.0	1485
+OOHHBMED_00018	FCAOMNPL_00007	100.000	1536	23	348	348	0	0.0	643
+OOHHBMED_00018	DDBEDCGG_00009	100.000	1536	23	348	348	0	0.0	643
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00019 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 8 hits found
+OOHHBMED_00019	OOHHBMED_00019	100.000	1545	100	1545	1545	0	0.0	2854
+OOHHBMED_00019	LHOCMKFL_00002	98.576	1545	100	1545	1545	22	0.0	2732
+OOHHBMED_00019	BBCIJOPN_00002	98.576	1545	100	1545	1545	22	0.0	2732
+OOHHBMED_00019	KNBJAHMG_00002	98.576	1545	100	1545	1545	22	0.0	2732
+OOHHBMED_00019	MKBEIGGD_00002	98.576	1545	100	1545	1545	22	0.0	2732
+OOHHBMED_00019	DGNCDLFN_00002	98.576	1545	100	1545	1545	22	0.0	2732
+OOHHBMED_00019	KPFLFOMC_00002	98.576	1545	100	1545	1545	22	0.0	2732
+OOHHBMED_00019	EENHBMLI_00002	98.576	1545	100	1545	1545	22	0.0	2732
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00020 putative ABC transporter phosphonate/phosphite binding protein PhnD2
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 7 hits found
+OOHHBMED_00020	OOHHBMED_00020	100.000	957	100	957	957	0	0.0	1768
+OOHHBMED_00020	LHOCMKFL_00003	99.373	957	100	957	957	6	0.0	1735
+OOHHBMED_00020	BBCIJOPN_00003	99.373	957	100	957	957	6	0.0	1735
+OOHHBMED_00020	KNBJAHMG_00003	99.373	957	100	957	957	6	0.0	1735
+OOHHBMED_00020	MKBEIGGD_00003	99.373	957	100	957	957	6	0.0	1735
+OOHHBMED_00020	DGNCDLFN_00003	99.373	957	100	957	957	6	0.0	1735
+OOHHBMED_00020	KPFLFOMC_00003	99.373	957	100	957	957	6	0.0	1735
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00021 Glutamine transport ATP-binding protein GlnQ
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 7 hits found
+OOHHBMED_00021	OOHHBMED_00021	100.000	774	100	774	774	0	0.0	1430
+OOHHBMED_00021	LHOCMKFL_00004	99.354	774	100	774	774	5	0.0	1402
+OOHHBMED_00021	BBCIJOPN_00004	99.354	774	100	774	774	5	0.0	1402
+OOHHBMED_00021	KNBJAHMG_00004	99.354	774	100	774	774	5	0.0	1402
+OOHHBMED_00021	MKBEIGGD_00004	99.354	774	100	774	774	5	0.0	1402
+OOHHBMED_00021	KPFLFOMC_00004	99.354	774	100	774	774	5	0.0	1402
+OOHHBMED_00021	DGNCDLFN_00004	98.830	774	22	171	171	2	1.64e-83	305
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00022 Phosphate-import permease protein PhnE
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+OOHHBMED_00022	OOHHBMED_00022	100.000	801	100	801	801	0	0.0	1480
+OOHHBMED_00022	LHOCMKFL_00005	99.750	801	100	801	801	2	0.0	1469
+OOHHBMED_00022	BBCIJOPN_00005	99.750	801	100	801	801	2	0.0	1469
+OOHHBMED_00022	KNBJAHMG_00005	99.750	801	100	801	801	2	0.0	1469
+OOHHBMED_00022	MKBEIGGD_00005	99.750	801	100	801	801	2	0.0	1469
+OOHHBMED_00022	KPFLFOMC_00005	99.750	801	100	801	801	2	0.0	1469
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00023 Phosphate-import permease protein PhnE
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+OOHHBMED_00023	OOHHBMED_00023	100.000	816	100	816	816	0	0.0	1507
+OOHHBMED_00023	BBCIJOPN_00006	99.142	816	100	816	816	7	0.0	1469
+OOHHBMED_00023	KNBJAHMG_00006	99.142	816	100	816	816	7	0.0	1469
+OOHHBMED_00023	MKBEIGGD_00006	99.142	816	100	816	816	7	0.0	1469
+OOHHBMED_00023	KPFLFOMC_00006	99.142	816	100	816	816	7	0.0	1469
+OOHHBMED_00023	LHOCMKFL_00006	100.000	816	17	138	138	0	1.77e-68	255
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00024 Phosphopentomutase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+OOHHBMED_00024	OOHHBMED_00024	100.000	1179	100	1179	1179	0	0.0	2178
+OOHHBMED_00024	BBCIJOPN_00007	99.830	1179	100	1179	1179	2	0.0	2167
+OOHHBMED_00024	KNBJAHMG_00007	99.830	1179	100	1179	1179	2	0.0	2167
+OOHHBMED_00024	KPFLFOMC_00007	99.830	1179	100	1179	1179	2	0.0	2167
+OOHHBMED_00024	MKBEIGGD_00007	100.000	1179	22	255	255	0	2.35e-133	472
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00025 Deoxyribose-phosphate aldolase 1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+OOHHBMED_00025	OOHHBMED_00025	100.000	663	100	663	663	0	0.0	1225
+OOHHBMED_00025	BBCIJOPN_00008	98.944	663	100	663	663	7	0.0	1186
+OOHHBMED_00025	KNBJAHMG_00008	98.944	663	100	663	663	7	0.0	1186
+OOHHBMED_00025	KPFLFOMC_00008	98.944	663	100	663	663	7	0.0	1186
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00026 tetracycline efflux MFS transporter Tet(38)
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+OOHHBMED_00026	OOHHBMED_00026	100.000	1359	100	1359	1359	0	0.0	2510
+OOHHBMED_00026	BBCIJOPN_00009	98.749	1359	100	1359	1359	17	0.0	2416
+OOHHBMED_00026	KNBJAHMG_00009	98.749	1359	100	1359	1359	17	0.0	2416
+OOHHBMED_00026	KPFLFOMC_00009	98.749	1359	100	1359	1359	17	0.0	2416
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00027 Purine nucleoside phosphorylase DeoD-type
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+OOHHBMED_00027	OOHHBMED_00027	100.000	708	100	708	708	0	0.0	1308
+OOHHBMED_00027	BBCIJOPN_00010	99.153	708	100	708	708	6	0.0	1275
+OOHHBMED_00027	KNBJAHMG_00010	99.153	708	100	708	708	6	0.0	1275
+OOHHBMED_00027	KPFLFOMC_00010	99.617	708	74	522	522	2	0.0	953
+# BLASTN 2.9.0+
+# Query: OOHHBMED_00028 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+OOHHBMED_00028	OOHHBMED_00028	100.000	756	100	756	756	0	0.0	1397
+OOHHBMED_00028	BBCIJOPN_00011	98.942	756	100	756	756	8	0.0	1352
+OOHHBMED_00028	KNBJAHMG_00011	98.942	756	100	756	756	8	0.0	1352
+# BLAST processed 28 queries

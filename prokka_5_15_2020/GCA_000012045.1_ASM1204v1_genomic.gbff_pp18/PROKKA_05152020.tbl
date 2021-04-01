@@ -1,0 +1,148 @@
+>Feature gnl|X|MFOEDGJP_1
+1275	1084	gene
+			locus_tag	MFOEDGJP_00001
+1275	1084	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MFOEDGJP_00001
+			product	hypothetical protein
+			protein_id	gnl|X|MFOEDGJP_00001
+1849	1757	gene
+			locus_tag	MFOEDGJP_00002
+1849	1757	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MFOEDGJP_00002
+			product	hypothetical protein
+			protein_id	gnl|X|MFOEDGJP_00002
+2630	1836	gene
+			locus_tag	MFOEDGJP_00003
+2630	1836	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A3L7
+			locus_tag	MFOEDGJP_00003
+			product	putative protein
+			protein_id	gnl|X|MFOEDGJP_00003
+3453	3166	gene
+			locus_tag	MFOEDGJP_00004
+3453	3166	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MFOEDGJP_00004
+			product	hypothetical protein
+			protein_id	gnl|X|MFOEDGJP_00004
+3782	3456	gene
+			locus_tag	MFOEDGJP_00005
+3782	3456	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MFOEDGJP_00005
+			product	hypothetical protein
+			protein_id	gnl|X|MFOEDGJP_00005
+5056	3782	gene
+			locus_tag	MFOEDGJP_00006
+5056	3782	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MFOEDGJP_00006
+			product	hypothetical protein
+			protein_id	gnl|X|MFOEDGJP_00006
+5826	5053	gene
+			locus_tag	MFOEDGJP_00007
+5826	5053	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FVD0
+			locus_tag	MFOEDGJP_00007
+			product	putative protein
+			protein_id	gnl|X|MFOEDGJP_00007
+6866	6084	gene
+			locus_tag	MFOEDGJP_00008
+6866	6084	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A3L3
+			locus_tag	MFOEDGJP_00008
+			product	putative lipoprotein
+			protein_id	gnl|X|MFOEDGJP_00008
+7732	6980	gene
+			locus_tag	MFOEDGJP_00009
+7732	6980	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A3L3
+			locus_tag	MFOEDGJP_00009
+			product	putative lipoprotein
+			protein_id	gnl|X|MFOEDGJP_00009
+10896	8035	gene
+			gene	uvrB
+			locus_tag	MFOEDGJP_00010
+10896	8035	CDS
+			gene	uvrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00204
+			locus_tag	MFOEDGJP_00010
+			product	UvrABC system protein B
+			protein_id	gnl|X|MFOEDGJP_00010
+11290	10898	gene
+			gene	nudG
+			locus_tag	MFOEDGJP_00011
+11290	10898	CDS
+			EC_number	3.6.1.65
+			db_xref	COG:COG0494
+			gene	nudG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77788
+			locus_tag	MFOEDGJP_00011
+			product	CTP pyrophosphohydrolase
+			protein_id	gnl|X|MFOEDGJP_00011
+11395	13230	gene
+			gene	pgcA
+			locus_tag	MFOEDGJP_00012
+11395	13230	CDS
+			EC_number	5.4.2.2
+			db_xref	COG:COG1109
+			gene	pgcA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FVC1
+			locus_tag	MFOEDGJP_00012
+			product	Phosphoglucomutase
+			protein_id	gnl|X|MFOEDGJP_00012
+13514	13780	gene
+			locus_tag	MFOEDGJP_00013
+13514	13780	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MFOEDGJP_00013
+			product	hypothetical protein
+			protein_id	gnl|X|MFOEDGJP_00013
+13924	14232	gene
+			locus_tag	MFOEDGJP_00014
+13924	14232	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MFOEDGJP_00014
+			product	hypothetical protein
+			protein_id	gnl|X|MFOEDGJP_00014
+14510	14340	gene
+			locus_tag	MFOEDGJP_00015
+14510	14340	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MFOEDGJP_00015
+			product	hypothetical protein
+			protein_id	gnl|X|MFOEDGJP_00015
+15747	14554	gene
+			locus_tag	MFOEDGJP_00016
+15747	14554	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	MFOEDGJP_00016
+			product	hypothetical protein
+			protein_id	gnl|X|MFOEDGJP_00016
+16588	16130	gene
+			locus_tag	MFOEDGJP_00017
+16588	16130	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P61598
+			locus_tag	MFOEDGJP_00017
+			product	Putative surface protein
+			protein_id	gnl|X|MFOEDGJP_00017
+18587	16635	gene
+			gene	sasG
+			locus_tag	MFOEDGJP_00018
+18587	16635	CDS
+			gene	sasG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G2B2
+			locus_tag	MFOEDGJP_00018
+			product	Surface protein G
+			protein_id	gnl|X|MFOEDGJP_00018

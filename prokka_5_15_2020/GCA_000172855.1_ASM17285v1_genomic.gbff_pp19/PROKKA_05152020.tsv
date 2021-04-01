@@ -1,0 +1,7 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GPLIFAKC_00001	gene	819	panB			
+GPLIFAKC_00001	CDS	819	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+GPLIFAKC_00002	gene	861				
+GPLIFAKC_00002	CDS	861		1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+GPLIFAKC_00003	gene	705	aldC			
+GPLIFAKC_00003	CDS	705	aldC	4.1.1.5	COG3527	Alpha-acetolactate decarboxylase

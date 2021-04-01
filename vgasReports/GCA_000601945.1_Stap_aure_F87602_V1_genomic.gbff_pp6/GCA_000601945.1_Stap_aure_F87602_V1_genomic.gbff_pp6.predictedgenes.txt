@@ -1,0 +1,35 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1         1503         3050            -         1548      0.43622
+
+     2         3529         4005            -          477      0.37646
+
+     3         3987         4373            -          387      0.39873
+
+     4         4345         5148            -          804      0.38544
+
+     5         5364         6296            -          933      0.43198
+     (bit_score:312.383;e-value:1.50418e-105;identity:56.5%;gi|229605000|ref|YP_002875699.1| putative cysteine synthase [Lactococcus phage P087])
+
+     6         6475         7356            -          882      0.39566
+
+     7         7585         9735            -         2151      0.50000
+     (bit_score:424.861;e-value:8.13942e-140;identity:43.1%;gi|313768216|ref|YP_004061896.1| hypothetical protein MpV1_013c [Micromonas sp. RCC1109 virus MpV1])
+     (bit_score:422.165;e-value:7.9541e-139;identity:42.1%;gi|472342809|ref|YP_007676316.1| ATP-dependent metalloprotease FtsH [Micromonas pusilla virus 12T])
+     (bit_score:421.009;e-value:2.06722e-138;identity:41.7%;gi|939185695|ref|YP_009172777.1| hypothetical protein OmV1_017c [Ostreococcus mediterraneus virus 1])
+
+     8         9935        10492            -          558      0.39096
+
+     9        10479        11462            -          984      0.34505
+

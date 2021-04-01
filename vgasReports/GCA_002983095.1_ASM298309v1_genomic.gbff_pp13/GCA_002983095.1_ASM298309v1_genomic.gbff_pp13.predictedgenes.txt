@@ -1,0 +1,26 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1           23          199            +          177      0.34197
+
+     2          477         1610            +         1134      0.44663
+
+     3         1927         2217            -          291      0.07346
+
+     4         2233         3345            +         1113      0.42020
+
+     5         3355         5289            +         1935      0.50000
+     (bit_score:526.554;e-value:1.37814e-179;identity:44.9%;gi|593777708|ref|YP_009015555.1| gp252 [Bacillus virus G])
+     (bit_score:352.443;e-value:3.06878e-106;identity:15.7%;gi|985758405|ref|YP_009223776.1| putative DNA gyrase [Geobacillus virus E3])
+     (bit_score:330.872;e-value:1.78384e-102;identity:27.7%;gi|1070064815|ref|YP_009282929.1| DNA gyrase subunit B [Bacillus phage AR9])
+

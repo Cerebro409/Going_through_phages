@@ -1,0 +1,26 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1            7          708            -          702      0.35513
+
+     2          701         1144            -          444      0.36271
+
+     3         1257         1997            -          741      0.40218
+
+     4         2000         3805            -         1806      0.50000
+     (bit_score:256.914;e-value:6.39255e-77;identity:32.5%;gi|209427798|ref|YP_002274211.1| putative 2-component sensor protein YehU [Enterobacteria phage YYZ-2008])
+
+     5         4000         4692            -          693      0.38218
+
+     6         4818         6539            -         1722      0.43523
+

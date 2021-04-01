@@ -1,0 +1,65 @@
+>Feature gnl|X|LEMLAGCJ_1
+4	288	gene
+			gene	menG
+			locus_tag	LEMLAGCJ_00001
+4	288	CDS
+			EC_number	2.1.1.163
+			gene	menG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67062
+			locus_tag	LEMLAGCJ_00001
+			product	Demethylmenaquinone methyltransferase
+			protein_id	gnl|X|LEMLAGCJ_00001
+305	1249	gene
+			gene	hepT
+			locus_tag	LEMLAGCJ_00002
+305	1249	CDS
+			EC_number	2.5.1.30
+			db_xref	COG:COG0142
+			gene	hepT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31114
+			locus_tag	LEMLAGCJ_00002
+			product	Heptaprenyl diphosphate synthase component 2
+			protein_id	gnl|X|LEMLAGCJ_00002
+1341	1790	gene
+			gene	ndk
+			locus_tag	LEMLAGCJ_00003
+1341	1790	CDS
+			EC_number	2.7.4.6
+			gene	ndk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99068
+			locus_tag	LEMLAGCJ_00003
+			product	Nucleoside diphosphate kinase
+			protein_id	gnl|X|LEMLAGCJ_00003
+2000	2200	gene
+			locus_tag	LEMLAGCJ_00004
+2000	2200	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	LEMLAGCJ_00004
+			product	hypothetical protein
+			protein_id	gnl|X|LEMLAGCJ_00004
+2587	3753	gene
+			gene	aroC
+			locus_tag	LEMLAGCJ_00005
+2587	3753	CDS
+			EC_number	4.2.3.5
+			db_xref	COG:COG0082
+			gene	aroC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q59803
+			locus_tag	LEMLAGCJ_00005
+			product	Chorismate synthase
+			protein_id	gnl|X|LEMLAGCJ_00005
+3779	4843	gene
+			gene	aroB
+			locus_tag	LEMLAGCJ_00006
+3779	4843	CDS
+			EC_number	4.2.3.4
+			gene	aroB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6GGU4
+			locus_tag	LEMLAGCJ_00006
+			product	3-dehydroquinate synthase
+			protein_id	gnl|X|LEMLAGCJ_00006

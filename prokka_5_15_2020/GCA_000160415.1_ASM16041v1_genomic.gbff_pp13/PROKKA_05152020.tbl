@@ -1,0 +1,504 @@
+>Feature gnl|X|EFEAKEDL_1
+113	511	gene
+			gene	rpsH
+			locus_tag	EFEAKEDL_00001
+113	511	CDS
+			gene	rpsH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66630
+			locus_tag	EFEAKEDL_00001
+			product	30S ribosomal protein S8
+			protein_id	gnl|X|EFEAKEDL_00001
+536	1072	gene
+			gene	rplF
+			locus_tag	EFEAKEDL_00002
+536	1072	CDS
+			gene	rplF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A466
+			locus_tag	EFEAKEDL_00002
+			product	50S ribosomal protein L6
+			protein_id	gnl|X|EFEAKEDL_00002
+1103	1462	gene
+			gene	rplR
+			locus_tag	EFEAKEDL_00003
+1103	1462	CDS
+			gene	rplR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A467
+			locus_tag	EFEAKEDL_00003
+			product	50S ribosomal protein L18
+			protein_id	gnl|X|EFEAKEDL_00003
+1483	1983	gene
+			gene	rpsE
+			locus_tag	EFEAKEDL_00004
+1483	1983	CDS
+			gene	rpsE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66579
+			locus_tag	EFEAKEDL_00004
+			product	30S ribosomal protein S5
+			protein_id	gnl|X|EFEAKEDL_00004
+2000	2179	gene
+			gene	rpmD
+			locus_tag	EFEAKEDL_00005
+2000	2179	CDS
+			gene	rpmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A0G0
+			locus_tag	EFEAKEDL_00005
+			product	50S ribosomal protein L30
+			protein_id	gnl|X|EFEAKEDL_00005
+2196	2636	gene
+			gene	rplO
+			locus_tag	EFEAKEDL_00006
+2196	2636	CDS
+			gene	rplO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A0F6
+			locus_tag	EFEAKEDL_00006
+			product	50S ribosomal protein L15
+			protein_id	gnl|X|EFEAKEDL_00006
+2636	3928	gene
+			gene	secY
+			locus_tag	EFEAKEDL_00007
+2636	3928	CDS
+			gene	secY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A468
+			locus_tag	EFEAKEDL_00007
+			product	Protein translocase subunit SecY
+			protein_id	gnl|X|EFEAKEDL_00007
+3945	4592	gene
+			gene	adk
+			locus_tag	EFEAKEDL_00008
+3945	4592	CDS
+			EC_number	2.7.4.3
+			gene	adk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99062
+			locus_tag	EFEAKEDL_00008
+			product	Adenylate kinase
+			protein_id	gnl|X|EFEAKEDL_00008
+4785	5003	gene
+			gene	infA
+			locus_tag	EFEAKEDL_00009
+4785	5003	CDS
+			gene	infA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65119
+			locus_tag	EFEAKEDL_00009
+			product	Translation initiation factor IF-1
+			protein_id	gnl|X|EFEAKEDL_00009
+5035	5148	gene
+			gene	rpmJ
+			locus_tag	EFEAKEDL_00010
+5035	5148	CDS
+			db_xref	COG:COG0257
+			gene	rpmJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FW29
+			locus_tag	EFEAKEDL_00010
+			product	50S ribosomal protein L36
+			protein_id	gnl|X|EFEAKEDL_00010
+5171	5536	gene
+			gene	rpsM
+			locus_tag	EFEAKEDL_00011
+5171	5536	CDS
+			gene	rpsM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66388
+			locus_tag	EFEAKEDL_00011
+			product	30S ribosomal protein S13
+			protein_id	gnl|X|EFEAKEDL_00011
+5560	5949	gene
+			gene	rpsK
+			locus_tag	EFEAKEDL_00012
+5560	5949	CDS
+			gene	rpsK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66357
+			locus_tag	EFEAKEDL_00012
+			product	30S ribosomal protein S11
+			protein_id	gnl|X|EFEAKEDL_00012
+6024	6968	gene
+			gene	rpoA
+			locus_tag	EFEAKEDL_00013
+6024	6968	CDS
+			EC_number	2.7.7.6
+			gene	rpoA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66706
+			locus_tag	EFEAKEDL_00013
+			product	DNA-directed RNA polymerase subunit alpha
+			protein_id	gnl|X|EFEAKEDL_00013
+6985	7353	gene
+			gene	rplQ
+			locus_tag	EFEAKEDL_00014
+6985	7353	CDS
+			gene	rplQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A469
+			locus_tag	EFEAKEDL_00014
+			product	50S ribosomal protein L17
+			protein_id	gnl|X|EFEAKEDL_00014
+7780	8700	gene
+			gene	ecfA1
+			locus_tag	EFEAKEDL_00015
+7780	8700	CDS
+			EC_number	7.-.-.-
+			db_xref	COG:COG1122
+			gene	ecfA1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5M243
+			locus_tag	EFEAKEDL_00015
+			product	Energy-coupling factor transporter ATP-binding protein EcfA1
+			protein_id	gnl|X|EFEAKEDL_00015
+8697	9557	gene
+			gene	ecfA2
+			locus_tag	EFEAKEDL_00016
+8697	9557	CDS
+			EC_number	3.6.3.-
+			gene	ecfA2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A471
+			locus_tag	EFEAKEDL_00016
+			product	Energy-coupling factor transporter ATP-binding protein EcfA2
+			protein_id	gnl|X|EFEAKEDL_00016
+9547	10353	gene
+			gene	ecfT
+			locus_tag	EFEAKEDL_00017
+9547	10353	CDS
+			gene	ecfT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q035B4
+			locus_tag	EFEAKEDL_00017
+			product	Energy-coupling factor transporter transmembrane protein EcfT
+			protein_id	gnl|X|EFEAKEDL_00017
+10358	11161	gene
+			gene	truA
+			locus_tag	EFEAKEDL_00018
+10358	11161	CDS
+			EC_number	5.4.99.12
+			db_xref	COG:COG0101
+			gene	truA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q72DL8
+			locus_tag	EFEAKEDL_00018
+			product	tRNA pseudouridine synthase A
+			protein_id	gnl|X|EFEAKEDL_00018
+11401	11838	gene
+			gene	rplM
+			locus_tag	EFEAKEDL_00019
+11401	11838	CDS
+			gene	rplM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A473
+			locus_tag	EFEAKEDL_00019
+			product	50S ribosomal protein L13
+			protein_id	gnl|X|EFEAKEDL_00019
+11852	12250	gene
+			gene	rpsI
+			locus_tag	EFEAKEDL_00020
+11852	12250	CDS
+			gene	rpsI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2YYM9
+			locus_tag	EFEAKEDL_00020
+			product	30S ribosomal protein S9
+			protein_id	gnl|X|EFEAKEDL_00020
+12795	13892	gene
+			locus_tag	EFEAKEDL_00021
+12795	13892	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EFEAKEDL_00021
+			product	hypothetical protein
+			protein_id	gnl|X|EFEAKEDL_00021
+13889	14182	gene
+			locus_tag	EFEAKEDL_00022
+13889	14182	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EFEAKEDL_00022
+			product	hypothetical protein
+			protein_id	gnl|X|EFEAKEDL_00022
+14195	14986	gene
+			locus_tag	EFEAKEDL_00023
+14195	14986	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EFEAKEDL_00023
+			product	hypothetical protein
+			protein_id	gnl|X|EFEAKEDL_00023
+14987	16123	gene
+			locus_tag	EFEAKEDL_00024
+14987	16123	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EFEAKEDL_00024
+			product	hypothetical protein
+			protein_id	gnl|X|EFEAKEDL_00024
+16252	17658	gene
+			locus_tag	EFEAKEDL_00025
+16252	17658	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EFEAKEDL_00025
+			product	hypothetical protein
+			protein_id	gnl|X|EFEAKEDL_00025
+18600	18376	gene
+			locus_tag	EFEAKEDL_00026
+18600	18376	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EFEAKEDL_00026
+			product	hypothetical protein
+			protein_id	gnl|X|EFEAKEDL_00026
+18848	20512	gene
+			gene	alsS
+			locus_tag	EFEAKEDL_00027
+18848	20512	CDS
+			EC_number	2.2.1.6
+			db_xref	COG:COG0028
+			gene	alsS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q04789
+			locus_tag	EFEAKEDL_00027
+			product	Acetolactate synthase
+			protein_id	gnl|X|EFEAKEDL_00027
+20549	21253	gene
+			gene	aldC
+			locus_tag	EFEAKEDL_00028
+20549	21253	CDS
+			EC_number	4.1.1.5
+			db_xref	COG:COG3527
+			gene	aldC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8L208
+			locus_tag	EFEAKEDL_00028
+			product	Alpha-acetolactate decarboxylase
+			protein_id	gnl|X|EFEAKEDL_00028
+22042	21617	gene
+			locus_tag	EFEAKEDL_00029
+22042	21617	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A6QIG2
+			locus_tag	EFEAKEDL_00029
+			product	65 kDa membrane protein
+			protein_id	gnl|X|EFEAKEDL_00029
+22336	23151	gene
+			locus_tag	EFEAKEDL_00030
+22336	23151	CDS
+			EC_number	3.-.-.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A484
+			locus_tag	EFEAKEDL_00030
+			product	putative hydrolase
+			protein_id	gnl|X|EFEAKEDL_00030
+23362	24216	gene
+			locus_tag	EFEAKEDL_00031
+23362	24216	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EFEAKEDL_00031
+			product	hypothetical protein
+			protein_id	gnl|X|EFEAKEDL_00031
+26699	24276	gene
+			locus_tag	EFEAKEDL_00032
+26699	24276	CDS
+			EC_number	4.2.2.1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q54873
+			locus_tag	EFEAKEDL_00032
+			product	Hyaluronate lyase
+			protein_id	gnl|X|EFEAKEDL_00032
+27107	27523	gene
+			gene	adhR
+			locus_tag	EFEAKEDL_00033
+27107	27523	CDS
+			db_xref	COG:COG0789
+			gene	adhR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O06008
+			locus_tag	EFEAKEDL_00033
+			product	HTH-type transcriptional regulator AdhR
+			protein_id	gnl|X|EFEAKEDL_00033
+27593	28441	gene
+			locus_tag	EFEAKEDL_00034
+27593	28441	CDS
+			EC_number	1.-.-.-
+			db_xref	COG:COG0656
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QV10
+			locus_tag	EFEAKEDL_00034
+			product	putative oxidoreductase/MSMEI_2347
+			protein_id	gnl|X|EFEAKEDL_00034
+29221	29655	gene
+			locus_tag	EFEAKEDL_00035
+29221	29655	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EFEAKEDL_00035
+			product	hypothetical protein
+			protein_id	gnl|X|EFEAKEDL_00035
+30686	29946	gene
+			gene	cobB
+			locus_tag	EFEAKEDL_00036
+30686	29946	CDS
+			EC_number	2.3.1.286
+			db_xref	COG:COG0846
+			gene	cobB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66815
+			locus_tag	EFEAKEDL_00036
+			product	NAD-dependent protein deacetylase
+			protein_id	gnl|X|EFEAKEDL_00036
+30892	31683	gene
+			gene	lacR
+			locus_tag	EFEAKEDL_00037
+30892	31683	CDS
+			gene	lacR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67744
+			locus_tag	EFEAKEDL_00037
+			product	Lactose phosphotransferase system repressor
+			protein_id	gnl|X|EFEAKEDL_00037
+32051	32479	gene
+			gene	lacA
+			locus_tag	EFEAKEDL_00038
+32051	32479	CDS
+			EC_number	5.3.1.26
+			gene	lacA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23494
+			locus_tag	EFEAKEDL_00038
+			product	Galactose-6-phosphate isomerase subunit LacA
+			protein_id	gnl|X|EFEAKEDL_00038
+32495	33010	gene
+			gene	lacB
+			locus_tag	EFEAKEDL_00039
+32495	33010	CDS
+			EC_number	5.3.1.26
+			gene	lacB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65647
+			locus_tag	EFEAKEDL_00039
+			product	Galactose-6-phosphate isomerase subunit LacB
+			protein_id	gnl|X|EFEAKEDL_00039
+33023	33955	gene
+			gene	lacC
+			locus_tag	EFEAKEDL_00040
+33023	33955	CDS
+			EC_number	2.7.1.144
+			db_xref	COG:COG1105
+			gene	lacC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5HE12
+			locus_tag	EFEAKEDL_00040
+			product	Tagatose-6-phosphate kinase
+			protein_id	gnl|X|EFEAKEDL_00040
+33959	34939	gene
+			gene	lacD
+			locus_tag	EFEAKEDL_00041
+33959	34939	CDS
+			EC_number	4.1.2.40
+			gene	lacD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A010
+			locus_tag	EFEAKEDL_00041
+			product	Tagatose 1,6-diphosphate aldolase
+			protein_id	gnl|X|EFEAKEDL_00041
+34961	35272	gene
+			gene	lacF
+			locus_tag	EFEAKEDL_00042
+34961	35272	CDS
+			db_xref	COG:COG1447
+			gene	lacF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A0D6
+			locus_tag	EFEAKEDL_00042
+			product	PTS system lactose-specific EIIA component
+			protein_id	gnl|X|EFEAKEDL_00042
+35278	36990	gene
+			gene	lacE
+			locus_tag	EFEAKEDL_00043
+35278	36990	CDS
+			gene	lacE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99S77
+			locus_tag	EFEAKEDL_00043
+			product	PTS system lactose-specific EIICB component
+			protein_id	gnl|X|EFEAKEDL_00043
+37008	38420	gene
+			gene	lacG
+			locus_tag	EFEAKEDL_00044
+37008	38420	CDS
+			EC_number	3.2.1.85
+			gene	lacG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67768
+			locus_tag	EFEAKEDL_00044
+			product	6-phospho-beta-galactosidase
+			protein_id	gnl|X|EFEAKEDL_00044
+38671	39555	gene
+			locus_tag	EFEAKEDL_00045
+38671	39555	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EFEAKEDL_00045
+			product	hypothetical protein
+			protein_id	gnl|X|EFEAKEDL_00045
+39835	40839	gene
+			gene	yfmJ
+			locus_tag	EFEAKEDL_00046
+39835	40839	CDS
+			EC_number	1.-.-.-
+			db_xref	COG:COG2130
+			gene	yfmJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34812
+			locus_tag	EFEAKEDL_00046
+			product	Putative NADP-dependent oxidoreductase YfmJ
+			protein_id	gnl|X|EFEAKEDL_00046
+41073	42074	gene
+			locus_tag	EFEAKEDL_00047
+41073	42074	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99173
+			locus_tag	EFEAKEDL_00047
+			product	Zinc-type alcohol dehydrogenase-like protein
+			protein_id	gnl|X|EFEAKEDL_00047
+42381	43943	gene
+			gene	opuD
+			locus_tag	EFEAKEDL_00048
+42381	43943	CDS
+			db_xref	COG:COG1292
+			gene	opuD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54417
+			locus_tag	EFEAKEDL_00048
+			product	Glycine betaine transporter OpuD
+			protein_id	gnl|X|EFEAKEDL_00048
+44118	44654	gene
+			locus_tag	EFEAKEDL_00049
+44118	44654	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EFEAKEDL_00049
+			product	hypothetical protein
+			protein_id	gnl|X|EFEAKEDL_00049
+44667	44906	gene
+			locus_tag	EFEAKEDL_00050
+44667	44906	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EFEAKEDL_00050
+			product	hypothetical protein
+			protein_id	gnl|X|EFEAKEDL_00050
+44969	45478	gene
+			locus_tag	EFEAKEDL_00051
+44969	45478	CDS
+			db_xref	COG:COG1302
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A0P8
+			locus_tag	EFEAKEDL_00051
+			product	Alkaline shock protein 23
+			protein_id	gnl|X|EFEAKEDL_00051
+45825	45514	gene
+			locus_tag	EFEAKEDL_00052
+45825	45514	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISSau3
+			locus_tag	EFEAKEDL_00052
+			product	IS1182 family transposase ISSau3
+			protein_id	gnl|X|EFEAKEDL_00052

@@ -1,0 +1,15 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MOFEPKCN_00001	gene	444	lysP			
+MOFEPKCN_00001	CDS	444	lysP		COG0833	Lysine-specific permease
+MOFEPKCN_00002	gene	561	infC			
+MOFEPKCN_00002	CDS	561	infC			Translation initiation factor IF-3
+MOFEPKCN_00003	gene	201	rpmI			
+MOFEPKCN_00003	CDS	201	rpmI			50S ribosomal protein L35
+MOFEPKCN_00004	gene	357	rplT			
+MOFEPKCN_00004	CDS	357	rplT			50S ribosomal protein L20
+MOFEPKCN_00005	gene	609				
+MOFEPKCN_00005	CDS	609				hypothetical protein
+MOFEPKCN_00006	gene	930				
+MOFEPKCN_00006	CDS	930				hypothetical protein
+MOFEPKCN_00007	gene	1302	tig			
+MOFEPKCN_00007	CDS	1302	tig	5.2.1.8		Trigger factor

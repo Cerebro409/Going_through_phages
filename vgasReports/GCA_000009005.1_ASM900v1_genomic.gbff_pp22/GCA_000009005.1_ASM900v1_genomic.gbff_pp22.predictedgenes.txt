@@ -1,0 +1,58 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1          475          624            -          150      0.17129
+
+     2         1084         1281            -          198      0.22322
+
+     3         1815         2633            -          819      0.39838
+
+     4         3166         3405            -          240      0.21940
+
+     5         3456         3782            -          327      0.26394
+
+     6         3782         5056            -         1275      0.41068
+
+     7         5017         5829            -          813      0.44005
+
+     8         6015         6872            -          858      0.43932
+
+     9         6980         7732            -          753      0.44428
+
+    10         8035        10896            -         2862      0.50000
+
+    11        10898        11317            -          420      0.35425
+
+    12        11395        13230            +         1836      0.41776
+
+    13        13514        13780            +          267      0.24103
+
+    14        13924        14232            +          309      0.16337
+
+    15        14277        14510            -          234      0.25458
+
+    16        14554        15747            -         1194      0.33842
+
+    17        16130        16702            -          573      0.22427
+
+    18        16617        18716            -         2100      0.35927
+
+    19        19015        19371            -          357      0.34847
+
+    20        20063        20389            -          327      0.26260
+
+    21        20118        20438            +          321      0.30783
+
+    22        20650        21444            -          795      0.33643
+     (bit_score:263.462;e-value:2.27867e-87;identity:45.9%;gi|1070638509|ref|YP_009302535.1| UTP-glucose-1-phosphate uridylyltransferase [Bacillus phage SP-15])
+

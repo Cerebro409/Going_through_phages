@@ -1,0 +1,110 @@
+Discrepancy Report Results
+
+Summary
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:gene: 32 present
+DISC_FEATURE_COUNT:CDS: 32 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+OVERLAPPING_GENES:8 genes overlap another gene on the same strand.
+OVERLAPPING_CDS:2 coding regions overlap another coding region with a similar or identical name.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:4 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:33 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::gene: 32 present
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 32 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_1 (length 21439)
+
+DiscRep_ALL:OVERLAPPING_GENES::8 genes overlap another gene on the same strand.
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:Gene	desR	AIALGFFB_1:c2602-2000	AIALGFFB_00004
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:Gene	AIALGFFB_00005	AIALGFFB_1:c3690-2599	AIALGFFB_00005
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:Gene	AIALGFFB_00006	AIALGFFB_1:c4425-3694	AIALGFFB_00006
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:Gene	lnrL	AIALGFFB_1:c5293-4394	AIALGFFB_00007
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:Gene	AIALGFFB_00016	AIALGFFB_1:c10702-10565	AIALGFFB_00016
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:Gene	AIALGFFB_00017	AIALGFFB_1:c10965-10699	AIALGFFB_00017
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:Gene	crcB_1	AIALGFFB_1:19798-20163	AIALGFFB_00030
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:Gene	crcB_2	AIALGFFB_1:20160-20513	AIALGFFB_00031
+
+DiscRep_ALL:OVERLAPPING_CDS::2 coding regions overlap another coding region with a similar or identical name.
+DiscRep_SUB:OVERLAPPING_CDS::2 coding regions overlap another coding region with a similar or identical name that do not have the appropriate note text
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:CDS	Putative fluoride ion transporter CrcB	AIALGFFB_1:19798-20163	AIALGFFB_00030
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:CDS	Putative fluoride ion transporter CrcB	AIALGFFB_1:20160-20513	AIALGFFB_00031
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::4 protein sequences are shorter than 50 aa.
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00015 (length 44)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00016 (length 45)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00018 (length 33)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00027 (length 48)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_1 (length 21439)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_1 (length 21439)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_1 (length 21439)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_1 (length 21439)
+
+DiscRep_ALL:MISSING_PROJECT::33 sequences do not include project.
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_1 (length 21439)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00001 (length 284)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00002 (length 190)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00003 (length 62)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00004 (length 200)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00005 (length 363)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00006 (length 243)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00007 (length 299)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00008 (length 493)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00009 (length 65)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00010 (length 351)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00011 (length 63)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00012 (length 116)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00013 (length 64)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00014 (length 96)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00015 (length 44)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00016 (length 45)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00017 (length 88)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00018 (length 33)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00019 (length 431)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00020 (length 295)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00021 (length 74)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00022 (length 182)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00023 (length 147)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00024 (length 147)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00025 (length 211)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00026 (length 206)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00027 (length 48)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00028 (length 237)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00029 (length 100)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00030 (length 121)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00031 (length 117)
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_00032 (length 57)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+GCA_000009005.1_ASM900v1_genomic.gbff_pp20/PROKKA_05152020:X:AIALGFFB_1 (length 21439)
+

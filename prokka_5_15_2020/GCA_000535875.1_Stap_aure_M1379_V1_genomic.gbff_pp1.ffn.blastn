@@ -1,0 +1,101 @@
+# BLASTN 2.9.0+
+# Query: BLHOFFBM_00001 Threonylcarbamoyl-AMP synthase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+BLHOFFBM_00001	KDAPJLLE_00001	100.000	768	100	768	768	0	0.0	1419
+BLHOFFBM_00001	BLHOFFBM_00001	100.000	768	100	768	768	0	0.0	1419
+# BLASTN 2.9.0+
+# Query: BLHOFFBM_00002 Low molecular weight protein-tyrosine-phosphatase PtpB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+BLHOFFBM_00002	KDAPJLLE_00002	100.000	420	100	420	420	0	0.0	776
+BLHOFFBM_00002	BLHOFFBM_00002	100.000	420	100	420	420	0	0.0	776
+# BLASTN 2.9.0+
+# Query: BLHOFFBM_00003 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+BLHOFFBM_00003	KDAPJLLE_00003	100.000	525	100	525	525	0	0.0	970
+BLHOFFBM_00003	BLHOFFBM_00003	100.000	525	100	525	525	0	0.0	970
+BLHOFFBM_00003	DELJAAJL_00001	100.000	525	100	525	525	0	0.0	970
+# BLASTN 2.9.0+
+# Query: BLHOFFBM_00004 Serine hydroxymethyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+BLHOFFBM_00004	KDAPJLLE_00004	100.000	1239	100	1239	1239	0	0.0	2289
+BLHOFFBM_00004	BLHOFFBM_00004	100.000	1239	100	1239	1239	0	0.0	2289
+BLHOFFBM_00004	DELJAAJL_00002	100.000	1239	100	1239	1239	0	0.0	2289
+# BLASTN 2.9.0+
+# Query: BLHOFFBM_00005 Uracil phosphoribosyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+BLHOFFBM_00005	KDAPJLLE_00005	100.000	630	100	630	630	0	0.0	1164
+BLHOFFBM_00005	GGDNMJNA_00001	100.000	630	100	630	630	0	0.0	1164
+BLHOFFBM_00005	BLHOFFBM_00005	100.000	630	100	630	630	0	0.0	1164
+BLHOFFBM_00005	DELJAAJL_00003	100.000	630	100	630	630	0	0.0	1164
+# BLASTN 2.9.0+
+# Query: BLHOFFBM_00006 UDP-N-acetylglucosamine 2-epimerase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+BLHOFFBM_00006	KDAPJLLE_00006	100.000	1128	100	1128	1128	0	0.0	2084
+BLHOFFBM_00006	GGDNMJNA_00002	100.000	1128	100	1128	1128	0	0.0	2084
+BLHOFFBM_00006	BLHOFFBM_00006	100.000	1128	100	1128	1128	0	0.0	2084
+BLHOFFBM_00006	DELJAAJL_00004	100.000	1128	100	1128	1128	0	0.0	2084
+# BLASTN 2.9.0+
+# Query: BLHOFFBM_00007 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+BLHOFFBM_00007	KDAPJLLE_00007	100.000	387	100	387	387	0	0.0	715
+BLHOFFBM_00007	GGDNMJNA_00003	100.000	387	100	387	387	0	0.0	715
+BLHOFFBM_00007	BLHOFFBM_00007	100.000	387	100	387	387	0	0.0	715
+BLHOFFBM_00007	DELJAAJL_00005	100.000	387	100	387	387	0	0.0	715
+# BLASTN 2.9.0+
+# Query: BLHOFFBM_00008 ATP synthase subunit a
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+BLHOFFBM_00008	KDAPJLLE_00008	100.000	729	100	729	729	0	0.0	1347
+BLHOFFBM_00008	GGDNMJNA_00004	100.000	729	100	729	729	0	0.0	1347
+BLHOFFBM_00008	BLHOFFBM_00008	100.000	729	100	729	729	0	0.0	1347
+BLHOFFBM_00008	DELJAAJL_00006	100.000	729	100	729	729	0	0.0	1347
+# BLASTN 2.9.0+
+# Query: BLHOFFBM_00009 ATP synthase subunit c
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+BLHOFFBM_00009	KDAPJLLE_00009	100.000	213	100	213	213	0	8.74e-111	394
+BLHOFFBM_00009	GGDNMJNA_00005	100.000	213	100	213	213	0	8.74e-111	394
+BLHOFFBM_00009	BLHOFFBM_00009	100.000	213	100	213	213	0	8.74e-111	394
+BLHOFFBM_00009	DELJAAJL_00007	100.000	213	100	213	213	0	8.74e-111	394
+# BLASTN 2.9.0+
+# Query: BLHOFFBM_00010 ATP synthase subunit b
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+BLHOFFBM_00010	KDAPJLLE_00010	100.000	522	100	522	522	0	0.0	965
+BLHOFFBM_00010	GGDNMJNA_00006	100.000	522	100	522	522	0	0.0	965
+BLHOFFBM_00010	BLHOFFBM_00010	100.000	522	100	522	522	0	0.0	965
+BLHOFFBM_00010	DELJAAJL_00008	100.000	522	100	522	522	0	0.0	965
+# BLASTN 2.9.0+
+# Query: BLHOFFBM_00011 ATP synthase subunit delta
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+BLHOFFBM_00011	KDAPJLLE_00011	100.000	540	100	540	540	0	0.0	998
+BLHOFFBM_00011	GGDNMJNA_00007	100.000	540	100	540	540	0	0.0	998
+BLHOFFBM_00011	BLHOFFBM_00011	100.000	540	100	540	540	0	0.0	998
+BLHOFFBM_00011	DELJAAJL_00009	100.000	540	100	540	540	0	0.0	998
+# BLASTN 2.9.0+
+# Query: BLHOFFBM_00012 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+BLHOFFBM_00012	KDAPJLLE_00012	100.000	93	100	1509	93	0	1.71e-44	172
+BLHOFFBM_00012	BLHOFFBM_00012	100.000	93	100	93	93	0	1.71e-44	172
+# BLAST processed 12 queries

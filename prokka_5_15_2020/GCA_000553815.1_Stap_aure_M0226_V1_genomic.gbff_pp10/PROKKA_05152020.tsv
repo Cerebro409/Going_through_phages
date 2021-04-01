@@ -1,0 +1,9 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+KBLMPEBM_00001	gene	246				
+KBLMPEBM_00001	CDS	246				hypothetical protein
+KBLMPEBM_00002	gene	432				
+KBLMPEBM_00002	CDS	432				hypothetical protein
+KBLMPEBM_00003	gene	447	argR			
+KBLMPEBM_00003	CDS	447	argR			Arginine repressor
+KBLMPEBM_00004	gene	1236	arcA			
+KBLMPEBM_00004	CDS	1236	arcA	3.5.3.6		Arginine deiminase

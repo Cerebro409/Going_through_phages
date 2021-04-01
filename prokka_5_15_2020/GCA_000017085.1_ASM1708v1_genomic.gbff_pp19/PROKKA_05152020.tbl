@@ -1,0 +1,101 @@
+>Feature gnl|X|EGKGNLGI_1
+1562	561	gene
+			gene	argF
+			locus_tag	EGKGNLGI_00001
+1562	561	CDS
+			EC_number	2.1.3.3
+			gene	argF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99073
+			locus_tag	EGKGNLGI_00001
+			product	Ornithine carbamoyltransferase
+			protein_id	gnl|X|EGKGNLGI_00001
+2000	2725	gene
+			locus_tag	EGKGNLGI_00002
+2000	2725	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3K7M3
+			locus_tag	EGKGNLGI_00002
+			product	Superantigen-like protein 13
+			protein_id	gnl|X|EGKGNLGI_00002
+2798	3523	gene
+			locus_tag	EGKGNLGI_00003
+2798	3523	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3K7M3
+			locus_tag	EGKGNLGI_00003
+			product	Superantigen-like protein 13
+			protein_id	gnl|X|EGKGNLGI_00003
+3603	4349	gene
+			locus_tag	EGKGNLGI_00004
+3603	4349	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3K7M3
+			locus_tag	EGKGNLGI_00004
+			product	Superantigen-like protein 13
+			protein_id	gnl|X|EGKGNLGI_00004
+4636	4439	gene
+			locus_tag	EGKGNLGI_00005
+4636	4439	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGKGNLGI_00005
+			product	hypothetical protein
+			protein_id	gnl|X|EGKGNLGI_00005
+4940	4743	gene
+			locus_tag	EGKGNLGI_00006
+4940	4743	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGKGNLGI_00006
+			product	hypothetical protein
+			protein_id	gnl|X|EGKGNLGI_00006
+5728	6687	gene
+			gene	hly
+			locus_tag	EGKGNLGI_00007
+5728	6687	CDS
+			gene	hly
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G1X0
+			locus_tag	EGKGNLGI_00007
+			product	Alpha-hemolysin
+			protein_id	gnl|X|EGKGNLGI_00007
+7141	7374	gene
+			locus_tag	EGKGNLGI_00008
+7141	7374	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGKGNLGI_00008
+			product	hypothetical protein
+			protein_id	gnl|X|EGKGNLGI_00008
+7991	8176	gene
+			locus_tag	EGKGNLGI_00009
+7991	8176	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGKGNLGI_00009
+			product	hypothetical protein
+			protein_id	gnl|X|EGKGNLGI_00009
+8338	8117	gene
+			locus_tag	EGKGNLGI_00010
+8338	8117	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	EGKGNLGI_00010
+			product	hypothetical protein
+			protein_id	gnl|X|EGKGNLGI_00010
+8779	8429	gene
+			gene	scn
+			locus_tag	EGKGNLGI_00011
+8779	8429	CDS
+			gene	scn
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FWV6
+			locus_tag	EGKGNLGI_00011
+			product	Staphylococcal complement inhibitor
+			protein_id	gnl|X|EGKGNLGI_00011
+9338	8931	gene
+			gene	fib
+			locus_tag	EGKGNLGI_00012
+9338	8931	CDS
+			gene	fib
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6P2
+			locus_tag	EGKGNLGI_00012
+			product	Fibrinogen-binding protein
+			protein_id	gnl|X|EGKGNLGI_00012

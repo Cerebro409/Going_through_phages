@@ -1,0 +1,84 @@
+>Feature gnl|X|DDBEDCGG_1
+971	285	gene
+			gene	ywqD
+			locus_tag	DDBEDCGG_00001
+971	285	CDS
+			EC_number	2.7.10.2
+			db_xref	COG:COG0489
+			gene	ywqD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P96716
+			locus_tag	DDBEDCGG_00001
+			product	Tyrosine-protein kinase YwqD
+			protein_id	gnl|X|DDBEDCGG_00001
+1655	987	gene
+			gene	cap8A
+			locus_tag	DDBEDCGG_00002
+1655	987	CDS
+			db_xref	COG:COG3944
+			gene	cap8A
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P72367
+			locus_tag	DDBEDCGG_00002
+			product	Capsular polysaccharide type 8 biosynthesis protein cap8A
+			protein_id	gnl|X|DDBEDCGG_00002
+4609	2000	gene
+			gene	adhE
+			locus_tag	DDBEDCGG_00003
+4609	2000	CDS
+			db_xref	COG:COG1012
+			gene	adhE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9Q7
+			locus_tag	DDBEDCGG_00003
+			product	Aldehyde-alcohol dehydrogenase
+			protein_id	gnl|X|DDBEDCGG_00003
+5280	5059	gene
+			locus_tag	DDBEDCGG_00004
+5280	5059	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISSep3
+			locus_tag	DDBEDCGG_00004
+			product	IS200/IS605 family transposase ISSep3
+			protein_id	gnl|X|DDBEDCGG_00004
+6173	5847	gene
+			locus_tag	DDBEDCGG_00005
+6173	5847	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	DDBEDCGG_00005
+			product	hypothetical protein
+			protein_id	gnl|X|DDBEDCGG_00005
+6547	6257	gene
+			gene	repE
+			locus_tag	DDBEDCGG_00006
+6547	6257	CDS
+			gene	repE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P12053
+			locus_tag	DDBEDCGG_00006
+			product	Replication initiation protein
+			protein_id	gnl|X|DDBEDCGG_00006
+7077	6532	gene
+			gene	repN
+			locus_tag	DDBEDCGG_00007
+7077	6532	CDS
+			gene	repN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P19529
+			locus_tag	DDBEDCGG_00007
+			product	Replication initiation protein
+			protein_id	gnl|X|DDBEDCGG_00007
+7584	7390	gene
+			locus_tag	DDBEDCGG_00008
+7584	7390	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	DDBEDCGG_00008
+			product	hypothetical protein
+			protein_id	gnl|X|DDBEDCGG_00008
+8024	7677	gene
+			locus_tag	DDBEDCGG_00009
+8024	7677	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	DDBEDCGG_00009
+			product	hypothetical protein
+			protein_id	gnl|X|DDBEDCGG_00009

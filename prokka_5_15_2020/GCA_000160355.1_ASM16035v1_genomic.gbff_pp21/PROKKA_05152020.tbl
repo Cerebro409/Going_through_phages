@@ -1,0 +1,207 @@
+>Feature gnl|X|CGHAHJMC_1
+1275	1084	gene
+			locus_tag	CGHAHJMC_00001
+1275	1084	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGHAHJMC_00001
+			product	hypothetical protein
+			protein_id	gnl|X|CGHAHJMC_00001
+1849	1757	gene
+			locus_tag	CGHAHJMC_00002
+1849	1757	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGHAHJMC_00002
+			product	hypothetical protein
+			protein_id	gnl|X|CGHAHJMC_00002
+2630	1836	gene
+			locus_tag	CGHAHJMC_00003
+2630	1836	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A3L7
+			locus_tag	CGHAHJMC_00003
+			product	putative protein
+			protein_id	gnl|X|CGHAHJMC_00003
+3453	3166	gene
+			locus_tag	CGHAHJMC_00004
+3453	3166	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGHAHJMC_00004
+			product	hypothetical protein
+			protein_id	gnl|X|CGHAHJMC_00004
+3782	3456	gene
+			locus_tag	CGHAHJMC_00005
+3782	3456	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGHAHJMC_00005
+			product	hypothetical protein
+			protein_id	gnl|X|CGHAHJMC_00005
+5056	3782	gene
+			locus_tag	CGHAHJMC_00006
+5056	3782	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGHAHJMC_00006
+			product	hypothetical protein
+			protein_id	gnl|X|CGHAHJMC_00006
+5826	5053	gene
+			locus_tag	CGHAHJMC_00007
+5826	5053	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FVD0
+			locus_tag	CGHAHJMC_00007
+			product	putative protein
+			protein_id	gnl|X|CGHAHJMC_00007
+6866	6084	gene
+			locus_tag	CGHAHJMC_00008
+6866	6084	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A3L3
+			locus_tag	CGHAHJMC_00008
+			product	putative lipoprotein
+			protein_id	gnl|X|CGHAHJMC_00008
+7732	6980	gene
+			locus_tag	CGHAHJMC_00009
+7732	6980	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A3L3
+			locus_tag	CGHAHJMC_00009
+			product	putative lipoprotein
+			protein_id	gnl|X|CGHAHJMC_00009
+10896	8035	gene
+			gene	uvrB
+			locus_tag	CGHAHJMC_00010
+10896	8035	CDS
+			gene	uvrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00204
+			locus_tag	CGHAHJMC_00010
+			product	UvrABC system protein B
+			protein_id	gnl|X|CGHAHJMC_00010
+11290	10898	gene
+			gene	nudG
+			locus_tag	CGHAHJMC_00011
+11290	10898	CDS
+			EC_number	3.6.1.65
+			db_xref	COG:COG0494
+			gene	nudG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77788
+			locus_tag	CGHAHJMC_00011
+			product	CTP pyrophosphohydrolase
+			protein_id	gnl|X|CGHAHJMC_00011
+11395	13230	gene
+			gene	pgcA
+			locus_tag	CGHAHJMC_00012
+11395	13230	CDS
+			EC_number	5.4.2.2
+			db_xref	COG:COG1109
+			gene	pgcA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FVC1
+			locus_tag	CGHAHJMC_00012
+			product	Phosphoglucomutase
+			protein_id	gnl|X|CGHAHJMC_00012
+13514	13780	gene
+			locus_tag	CGHAHJMC_00013
+13514	13780	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGHAHJMC_00013
+			product	hypothetical protein
+			protein_id	gnl|X|CGHAHJMC_00013
+13924	14232	gene
+			locus_tag	CGHAHJMC_00014
+13924	14232	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGHAHJMC_00014
+			product	hypothetical protein
+			protein_id	gnl|X|CGHAHJMC_00014
+14510	14340	gene
+			locus_tag	CGHAHJMC_00015
+14510	14340	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGHAHJMC_00015
+			product	hypothetical protein
+			protein_id	gnl|X|CGHAHJMC_00015
+15747	14554	gene
+			locus_tag	CGHAHJMC_00016
+15747	14554	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGHAHJMC_00016
+			product	hypothetical protein
+			protein_id	gnl|X|CGHAHJMC_00016
+16588	16130	gene
+			locus_tag	CGHAHJMC_00017
+16588	16130	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P61598
+			locus_tag	CGHAHJMC_00017
+			product	Putative surface protein
+			protein_id	gnl|X|CGHAHJMC_00017
+18710	16635	gene
+			gene	sasG
+			locus_tag	CGHAHJMC_00018
+18710	16635	CDS
+			gene	sasG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G2B2
+			locus_tag	CGHAHJMC_00018
+			product	Surface protein G
+			protein_id	gnl|X|CGHAHJMC_00018
+19371	19015	gene
+			gene	sarT
+			locus_tag	CGHAHJMC_00019
+19371	19015	CDS
+			gene	sarT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G2B1
+			locus_tag	CGHAHJMC_00019
+			product	HTH-type transcriptional regulator SarT
+			protein_id	gnl|X|CGHAHJMC_00019
+19695	20438	gene
+			gene	sarU
+			locus_tag	CGHAHJMC_00020
+19695	20438	CDS
+			gene	sarU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A3K0
+			locus_tag	CGHAHJMC_00020
+			product	HTH-type transcriptional regulator SarU
+			protein_id	gnl|X|CGHAHJMC_00020
+21516	20650	gene
+			gene	gtaB
+			locus_tag	CGHAHJMC_00021
+21516	20650	CDS
+			EC_number	2.7.7.9
+			gene	gtaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A3J9
+			locus_tag	CGHAHJMC_00021
+			product	UTP--glucose-1-phosphate uridylyltransferase
+			protein_id	gnl|X|CGHAHJMC_00021
+24743	21696	gene
+			gene	fnbA
+			locus_tag	CGHAHJMC_00022
+24743	21696	CDS
+			gene	fnbA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P14738
+			locus_tag	CGHAHJMC_00022
+			product	Fibronectin-binding protein A
+			protein_id	gnl|X|CGHAHJMC_00022
+25078	24878	gene
+			locus_tag	CGHAHJMC_00023
+25078	24878	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CGHAHJMC_00023
+			product	hypothetical protein
+			protein_id	gnl|X|CGHAHJMC_00023
+26570	25212	gene
+			gene	gntT
+			locus_tag	CGHAHJMC_00024
+26570	25212	CDS
+			db_xref	COG:COG2610
+			gene	gntT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39835
+			locus_tag	CGHAHJMC_00024
+			product	High-affinity gluconate transporter
+			protein_id	gnl|X|CGHAHJMC_00024

@@ -1,0 +1,23 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+POJEAIJC_00001	gene	1197				
+POJEAIJC_00001	CDS	1197				hypothetical protein
+POJEAIJC_00002	gene	768				
+POJEAIJC_00002	CDS	768				IS21 family transposase IS712
+POJEAIJC_00003	gene	393				
+POJEAIJC_00003	CDS	393				hypothetical protein
+POJEAIJC_00004	gene	390				
+POJEAIJC_00004	CDS	390				hypothetical protein
+POJEAIJC_00005	gene	375				
+POJEAIJC_00005	CDS	375				hypothetical protein
+POJEAIJC_00006	gene	474				
+POJEAIJC_00006	CDS	474				hypothetical protein
+POJEAIJC_00007	gene	414				
+POJEAIJC_00007	CDS	414				hypothetical protein
+POJEAIJC_00008	gene	1263				
+POJEAIJC_00008	CDS	1263				hypothetical protein
+POJEAIJC_00009	gene	291				
+POJEAIJC_00009	CDS	291				hypothetical protein
+POJEAIJC_00010	gene	1080				
+POJEAIJC_00010	CDS	1080				hypothetical protein
+POJEAIJC_00011	gene	1947	essC			
+POJEAIJC_00011	CDS	1947	essC		COG1674	Type VII secretion system protein EssC

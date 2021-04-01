@@ -1,0 +1,431 @@
+>Feature gnl|X|KCOELLMG_1
+616	416	gene
+			gene	cspA
+			locus_tag	KCOELLMG_00001
+616	416	CDS
+			db_xref	COG:COG1278
+			gene	cspA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5HG18
+			locus_tag	KCOELLMG_00001
+			product	Cold shock protein CspA
+			protein_id	gnl|X|KCOELLMG_00001
+1659	973	gene
+			gene	nuc
+			locus_tag	KCOELLMG_00002
+1659	973	CDS
+			EC_number	3.1.31.1
+			db_xref	COG:COG1525
+			gene	nuc
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5HHM4
+			locus_tag	KCOELLMG_00002
+			product	Thermonuclease
+			protein_id	gnl|X|KCOELLMG_00002
+2521	2000	gene
+			locus_tag	KCOELLMG_00003
+2521	2000	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KCOELLMG_00003
+			product	hypothetical protein
+			protein_id	gnl|X|KCOELLMG_00003
+3873	2851	gene
+			gene	ssp
+			locus_tag	KCOELLMG_00004
+3873	2851	CDS
+			gene	ssp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A6QF98
+			locus_tag	KCOELLMG_00004
+			product	Extracellular matrix protein-binding protein emp
+			protein_id	gnl|X|KCOELLMG_00004
+5734	4226	gene
+			locus_tag	KCOELLMG_00005
+5734	4226	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KCOELLMG_00005
+			product	hypothetical protein
+			protein_id	gnl|X|KCOELLMG_00005
+8606	5955	gene
+			locus_tag	KCOELLMG_00006
+8606	5955	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KCOELLMG_00006
+			product	hypothetical protein
+			protein_id	gnl|X|KCOELLMG_00006
+9399	8869	gene
+			locus_tag	KCOELLMG_00007
+9399	8869	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KCOELLMG_00007
+			product	hypothetical protein
+			protein_id	gnl|X|KCOELLMG_00007
+10059	9538	gene
+			locus_tag	KCOELLMG_00008
+10059	9538	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KCOELLMG_00008
+			product	hypothetical protein
+			protein_id	gnl|X|KCOELLMG_00008
+10657	11385	gene
+			locus_tag	KCOELLMG_00009
+10657	11385	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KCOELLMG_00009
+			product	hypothetical protein
+			protein_id	gnl|X|KCOELLMG_00009
+12223	11865	gene
+			gene	ssrA
+			locus_tag	KCOELLMG_00010
+12223	11865	tmRNA
+			gene	ssrA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	KCOELLMG_00010
+			product	transfer-messenger RNA, SsrA
+12778	12314	gene
+			gene	smpB
+			locus_tag	KCOELLMG_00011
+12778	12314	CDS
+			db_xref	COG:COG0691
+			gene	smpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32230
+			locus_tag	KCOELLMG_00011
+			product	SsrA-binding protein
+			protein_id	gnl|X|KCOELLMG_00011
+15172	12800	gene
+			gene	rnr
+			locus_tag	KCOELLMG_00012
+15172	12800	CDS
+			EC_number	3.1.13.1
+			db_xref	COG:COG0557
+			gene	rnr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32231
+			locus_tag	KCOELLMG_00012
+			product	Ribonuclease R
+			protein_id	gnl|X|KCOELLMG_00012
+15946	15206	gene
+			gene	est
+			locus_tag	KCOELLMG_00013
+15946	15206	CDS
+			EC_number	3.1.1.1
+			gene	est
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q06174
+			locus_tag	KCOELLMG_00013
+			product	Carboxylesterase
+			protein_id	gnl|X|KCOELLMG_00013
+16295	16062	gene
+			gene	secG
+			locus_tag	KCOELLMG_00014
+16295	16062	CDS
+			db_xref	COG:COG1314
+			gene	secG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32233
+			locus_tag	KCOELLMG_00014
+			product	putative protein-export membrane protein SecG
+			protein_id	gnl|X|KCOELLMG_00014
+16820	16362	gene
+			locus_tag	KCOELLMG_00015
+16820	16362	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KCOELLMG_00015
+			product	hypothetical protein
+			protein_id	gnl|X|KCOELLMG_00015
+18475	17171	gene
+			gene	eno
+			locus_tag	KCOELLMG_00016
+18475	17171	CDS
+			EC_number	4.2.1.11
+			gene	eno
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99088
+			locus_tag	KCOELLMG_00016
+			product	Enolase
+			protein_id	gnl|X|KCOELLMG_00016
+20122	18605	gene
+			gene	gpmI
+			locus_tag	KCOELLMG_00017
+20122	18605	CDS
+			EC_number	5.4.2.12
+			gene	gpmI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64270
+			locus_tag	KCOELLMG_00017
+			product	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+			protein_id	gnl|X|KCOELLMG_00017
+20886	20125	gene
+			gene	tpiA
+			locus_tag	KCOELLMG_00018
+20886	20125	CDS
+			EC_number	5.3.1.1
+			gene	tpiA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6GIL6
+			locus_tag	KCOELLMG_00018
+			product	Triosephosphate isomerase
+			protein_id	gnl|X|KCOELLMG_00018
+22198	21008	gene
+			gene	pgk
+			locus_tag	KCOELLMG_00019
+22198	21008	CDS
+			EC_number	2.7.2.3
+			gene	pgk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6GIL7
+			locus_tag	KCOELLMG_00019
+			product	Phosphoglycerate kinase
+			protein_id	gnl|X|KCOELLMG_00019
+23347	22337	gene
+			gene	gapA1
+			locus_tag	KCOELLMG_00020
+23347	22337	CDS
+			EC_number	1.2.1.12
+			gene	gapA1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6GIL8
+			locus_tag	KCOELLMG_00020
+			product	Glyceraldehyde-3-phosphate dehydrogenase 1
+			protein_id	gnl|X|KCOELLMG_00020
+24413	23400	gene
+			gene	cggR
+			locus_tag	KCOELLMG_00021
+24413	23400	CDS
+			db_xref	COG:COG2390
+			gene	cggR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32253
+			locus_tag	KCOELLMG_00021
+			product	Central glycolytic genes regulator
+			protein_id	gnl|X|KCOELLMG_00021
+25741	25112	gene
+			locus_tag	KCOELLMG_00022
+25741	25112	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KCOELLMG_00022
+			product	hypothetical protein
+			protein_id	gnl|X|KCOELLMG_00022
+26444	27346	gene
+			locus_tag	KCOELLMG_00023
+26444	27346	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A6Q5
+			locus_tag	KCOELLMG_00023
+			product	Epimerase family protein
+			protein_id	gnl|X|KCOELLMG_00023
+29189	27555	gene
+			gene	mleS
+			locus_tag	KCOELLMG_00024
+29189	27555	CDS
+			EC_number	4.1.1.101
+			db_xref	COG:COG0281
+			gene	mleS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:F9UMS6
+			locus_tag	KCOELLMG_00024
+			product	Malolactic enzyme
+			protein_id	gnl|X|KCOELLMG_00024
+29958	29371	gene
+			gene	clpP
+			locus_tag	KCOELLMG_00025
+29958	29371	CDS
+			EC_number	3.4.21.92
+			gene	clpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63786
+			locus_tag	KCOELLMG_00025
+			product	ATP-dependent Clp protease proteolytic subunit
+			protein_id	gnl|X|KCOELLMG_00025
+30145	30217	gene
+			locus_tag	KCOELLMG_00026
+30145	30217	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	KCOELLMG_00026
+			product	tRNA-Arg(ccg)
+31465	30521	gene
+			gene	whiA
+			locus_tag	KCOELLMG_00027
+31465	30521	CDS
+			db_xref	COG:COG1481
+			gene	whiA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O06975
+			locus_tag	KCOELLMG_00027
+			product	putative cell division protein WhiA
+			protein_id	gnl|X|KCOELLMG_00027
+32571	31576	gene
+			locus_tag	KCOELLMG_00028
+32571	31576	CDS
+			db_xref	COG:COG0391
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9K706
+			locus_tag	KCOELLMG_00028
+			product	Gluconeogenesis factor
+			protein_id	gnl|X|KCOELLMG_00028
+33479	32568	gene
+			locus_tag	KCOELLMG_00029
+33479	32568	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67109
+			locus_tag	KCOELLMG_00029
+			product	Nucleotide-binding protein
+			protein_id	gnl|X|KCOELLMG_00029
+35123	34188	gene
+			gene	trxB
+			locus_tag	KCOELLMG_00030
+35123	34188	CDS
+			EC_number	1.8.1.9
+			gene	trxB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66011
+			locus_tag	KCOELLMG_00030
+			product	Thioredoxin reductase
+			protein_id	gnl|X|KCOELLMG_00030
+36629	35190	gene
+			locus_tag	KCOELLMG_00031
+36629	35190	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KCOELLMG_00031
+			product	hypothetical protein
+			protein_id	gnl|X|KCOELLMG_00031
+37122	36637	gene
+			gene	dapH
+			locus_tag	KCOELLMG_00032
+37122	36637	CDS
+			EC_number	2.3.1.89
+			gene	dapH
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01691
+			locus_tag	KCOELLMG_00032
+			product	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+			protein_id	gnl|X|KCOELLMG_00032
+37969	37130	gene
+			gene	lgt
+			locus_tag	KCOELLMG_00033
+37969	37130	CDS
+			EC_number	2.5.1.145
+			gene	lgt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60962
+			locus_tag	KCOELLMG_00033
+			product	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+			protein_id	gnl|X|KCOELLMG_00033
+38907	37975	gene
+			gene	hprK
+			locus_tag	KCOELLMG_00034
+38907	37975	CDS
+			EC_number	2.7.11.-
+			gene	hprK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60701
+			locus_tag	KCOELLMG_00034
+			product	HPr kinase/phosphorylase
+			protein_id	gnl|X|KCOELLMG_00034
+42245	39399	gene
+			gene	uvrA
+			locus_tag	KCOELLMG_00035
+42245	39399	CDS
+			gene	uvrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63383
+			locus_tag	KCOELLMG_00035
+			product	UvrABC system protein A
+			protein_id	gnl|X|KCOELLMG_00035
+44238	42253	gene
+			gene	uvrB
+			locus_tag	KCOELLMG_00036
+44238	42253	CDS
+			gene	uvrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67425
+			locus_tag	KCOELLMG_00036
+			product	UvrABC system protein B
+			protein_id	gnl|X|KCOELLMG_00036
+44743	44507	gene
+			locus_tag	KCOELLMG_00037
+44743	44507	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KCOELLMG_00037
+			product	hypothetical protein
+			protein_id	gnl|X|KCOELLMG_00037
+45408	44740	gene
+			gene	yfbR
+			locus_tag	KCOELLMG_00038
+45408	44740	CDS
+			EC_number	3.1.3.89
+			gene	yfbR
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01100
+			locus_tag	KCOELLMG_00038
+			product	5'-deoxynucleotidase YfbR
+			protein_id	gnl|X|KCOELLMG_00038
+46403	45564	gene
+			locus_tag	KCOELLMG_00039
+46403	45564	CDS
+			EC_number	3.5.1.28
+			db_xref	COG:COG1388
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G278
+			locus_tag	KCOELLMG_00039
+			product	putative autolysin LDP
+			protein_id	gnl|X|KCOELLMG_00039
+47806	46811	gene
+			gene	prfB
+			locus_tag	KCOELLMG_00040
+47806	46811	CDS
+			gene	prfB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A6R4
+			locus_tag	KCOELLMG_00040
+			product	Peptide chain release factor 2
+			protein_id	gnl|X|KCOELLMG_00040
+50767	48236	gene
+			gene	secA1
+			locus_tag	KCOELLMG_00041
+50767	48236	CDS
+			gene	secA1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A6R5
+			locus_tag	KCOELLMG_00041
+			product	Protein translocase subunit SecA 1
+			protein_id	gnl|X|KCOELLMG_00041
+51754	51182	gene
+			gene	hpf
+			locus_tag	KCOELLMG_00042
+51754	51182	CDS
+			gene	hpf
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A6R6
+			locus_tag	KCOELLMG_00042
+			product	Ribosome hibernation promotion factor
+			protein_id	gnl|X|KCOELLMG_00042
+52489	51815	gene
+			locus_tag	KCOELLMG_00043
+52489	51815	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	KCOELLMG_00043
+			product	hypothetical protein
+			protein_id	gnl|X|KCOELLMG_00043
+53564	52482	gene
+			gene	comFA
+			locus_tag	KCOELLMG_00044
+53564	52482	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG4098
+			gene	comFA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39145
+			locus_tag	KCOELLMG_00044
+			product	ComF operon protein 1
+			protein_id	gnl|X|KCOELLMG_00044
+54476	53928	gene
+			locus_tag	KCOELLMG_00045
+54476	53928	CDS
+			db_xref	COG:COG1307
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A0N2
+			locus_tag	KCOELLMG_00045
+			product	DegV domain-containing protein
+			protein_id	gnl|X|KCOELLMG_00045

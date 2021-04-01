@@ -1,0 +1,64 @@
+>Feature gnl|X|COABHCKC_1
+1	327	gene
+			gene	rsbV
+			locus_tag	COABHCKC_00001
+1	327	CDS
+			gene	rsbV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66838
+			locus_tag	COABHCKC_00001
+			product	Anti-sigma-B factor antagonist
+			protein_id	gnl|X|COABHCKC_00001
+299	808	gene
+			gene	rsbW
+			locus_tag	COABHCKC_00002
+299	808	CDS
+			EC_number	2.7.11.1
+			gene	rsbW
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A0H7
+			locus_tag	COABHCKC_00002
+			product	Serine-protein kinase RsbW
+			protein_id	gnl|X|COABHCKC_00002
+783	1553	gene
+			gene	sigB
+			locus_tag	COABHCKC_00003
+783	1553	CDS
+			db_xref	COG:COG1191
+			gene	sigB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P06574
+			locus_tag	COABHCKC_00003
+			product	RNA polymerase sigma-B factor
+			protein_id	gnl|X|COABHCKC_00003
+1988	4138	gene
+			gene	yhgF
+			locus_tag	COABHCKC_00004
+1988	4138	CDS
+			db_xref	COG:COG2183
+			gene	yhgF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46837
+			locus_tag	COABHCKC_00004
+			product	Protein YhgF
+			protein_id	gnl|X|COABHCKC_00004
+4131	4586	gene
+			locus_tag	COABHCKC_00005
+4131	4586	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00745
+			locus_tag	COABHCKC_00005
+			product	Protein SprT-like protein
+			protein_id	gnl|X|COABHCKC_00005
+5233	5315	gene
+			locus_tag	COABHCKC_00006
+5233	5315	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	COABHCKC_00006
+			product	tRNA-Leu(gag)
+5337	5410	gene
+			locus_tag	COABHCKC_00007
+5337	5410	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	COABHCKC_00007
+			product	tRNA-Gly(tcc)

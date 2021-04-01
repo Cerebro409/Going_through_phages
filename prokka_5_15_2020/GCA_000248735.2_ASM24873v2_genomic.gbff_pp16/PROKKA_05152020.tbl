@@ -1,0 +1,72 @@
+>Feature gnl|X|OONAPPJM_1
+698	1270	gene
+			locus_tag	OONAPPJM_00001
+698	1270	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OONAPPJM_00001
+			product	hypothetical protein
+			protein_id	gnl|X|OONAPPJM_00001
+1273	1998	gene
+			gene	menG
+			locus_tag	OONAPPJM_00002
+1273	1998	CDS
+			EC_number	2.1.1.163
+			gene	menG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67062
+			locus_tag	OONAPPJM_00002
+			product	Demethylmenaquinone methyltransferase
+			protein_id	gnl|X|OONAPPJM_00002
+2015	2959	gene
+			gene	hepT
+			locus_tag	OONAPPJM_00003
+2015	2959	CDS
+			EC_number	2.5.1.30
+			db_xref	COG:COG0142
+			gene	hepT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31114
+			locus_tag	OONAPPJM_00003
+			product	Heptaprenyl diphosphate synthase component 2
+			protein_id	gnl|X|OONAPPJM_00003
+3051	3500	gene
+			gene	ndk
+			locus_tag	OONAPPJM_00004
+3051	3500	CDS
+			EC_number	2.7.4.6
+			gene	ndk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99068
+			locus_tag	OONAPPJM_00004
+			product	Nucleoside diphosphate kinase
+			protein_id	gnl|X|OONAPPJM_00004
+3710	3910	gene
+			locus_tag	OONAPPJM_00005
+3710	3910	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	OONAPPJM_00005
+			product	hypothetical protein
+			protein_id	gnl|X|OONAPPJM_00005
+4297	5463	gene
+			gene	aroC
+			locus_tag	OONAPPJM_00006
+4297	5463	CDS
+			EC_number	4.2.3.5
+			db_xref	COG:COG0082
+			gene	aroC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q59803
+			locus_tag	OONAPPJM_00006
+			product	Chorismate synthase
+			protein_id	gnl|X|OONAPPJM_00006
+5489	6553	gene
+			gene	aroB
+			locus_tag	OONAPPJM_00007
+5489	6553	CDS
+			EC_number	4.2.3.4
+			gene	aroB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6GGU4
+			locus_tag	OONAPPJM_00007
+			product	3-dehydroquinate synthase
+			protein_id	gnl|X|OONAPPJM_00007

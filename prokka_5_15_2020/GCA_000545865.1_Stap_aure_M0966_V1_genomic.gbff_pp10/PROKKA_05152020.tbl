@@ -1,0 +1,47 @@
+>Feature gnl|X|CDHGIKDO_1
+794	549	gene
+			locus_tag	CDHGIKDO_00001
+794	549	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CDHGIKDO_00001
+			product	hypothetical protein
+			protein_id	gnl|X|CDHGIKDO_00001
+1498	1067	gene
+			locus_tag	CDHGIKDO_00002
+1498	1067	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CDHGIKDO_00002
+			product	hypothetical protein
+			protein_id	gnl|X|CDHGIKDO_00002
+2000	2446	gene
+			gene	argR
+			locus_tag	CDHGIKDO_00003
+2000	2446	CDS
+			gene	argR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63580
+			locus_tag	CDHGIKDO_00003
+			product	Arginine repressor
+			protein_id	gnl|X|CDHGIKDO_00003
+2715	3950	gene
+			gene	arcA
+			locus_tag	CDHGIKDO_00004
+2715	3950	CDS
+			EC_number	3.5.3.6
+			gene	arcA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63554
+			locus_tag	CDHGIKDO_00004
+			product	Arginine deiminase
+			protein_id	gnl|X|CDHGIKDO_00004
+4036	5457	gene
+			gene	arcD
+			locus_tag	CDHGIKDO_00005
+4036	5457	CDS
+			db_xref	COG:COG0531
+			gene	arcD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P18275
+			locus_tag	CDHGIKDO_00005
+			product	Arginine/ornithine antiporter
+			protein_id	gnl|X|CDHGIKDO_00005

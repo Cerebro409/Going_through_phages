@@ -1,0 +1,562 @@
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00001 DNA primase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00001	AAMILBOI_00001	100.000	1800	100	1800	1800	0	0.0	3325
+AAMILBOI_00001	CAFLMJIC_00101	97.635	1800	100	1818	1818	25	0.0	3103
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00002 Putative pyruvate, phosphate dikinase regulatory protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00002	AAMILBOI_00002	100.000	819	100	819	819	0	0.0	1513
+AAMILBOI_00002	CAFLMJIC_00100	99.756	819	100	819	819	2	0.0	1502
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00003 Transcriptional repressor CcpN
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00003	AAMILBOI_00003	100.000	540	100	540	540	0	0.0	998
+AAMILBOI_00003	CAFLMJIC_00099	99.630	540	100	540	540	2	0.0	987
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00004 Glycine--tRNA ligase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00004	AAMILBOI_00004	100.000	1392	100	1392	1392	0	0.0	2571
+AAMILBOI_00004	CAFLMJIC_00098	99.856	1392	100	1392	1392	2	0.0	2560
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00005 DNA repair protein RecO
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00005	AAMILBOI_00005	100.000	747	100	747	747	0	0.0	1380
+AAMILBOI_00005	CAFLMJIC_00097	99.598	747	100	747	747	3	0.0	1363
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00006 GTPase Era
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00006	AAMILBOI_00006	100.000	900	100	900	900	0	0.0	1663
+AAMILBOI_00006	CAFLMJIC_00096	99.889	900	100	900	900	1	0.0	1657
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00007 Cytidine deaminase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00007	AAMILBOI_00007	100.000	405	100	405	405	0	0.0	749
+AAMILBOI_00007	CAFLMJIC_00095	100.000	405	100	405	405	0	0.0	749
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00008 Undecaprenol kinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00008	AAMILBOI_00008	100.000	345	100	345	345	0	0.0	638
+AAMILBOI_00008	CAFLMJIC_00094	100.000	345	100	345	345	0	0.0	638
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00009 Endoribonuclease YbeY
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00009	AAMILBOI_00009	100.000	468	100	468	468	0	0.0	865
+AAMILBOI_00009	CAFLMJIC_00093	99.786	468	100	468	468	1	0.0	859
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00010 PhoH-like protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00010	AAMILBOI_00010	100.000	948	100	948	948	0	0.0	1751
+AAMILBOI_00010	CAFLMJIC_00092	99.473	948	100	948	948	5	0.0	1724
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00011 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00011	AAMILBOI_00011	100.000	699	100	699	699	0	0.0	1291
+AAMILBOI_00011	CAFLMJIC_00091	99.571	699	100	699	699	3	0.0	1275
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00012 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00012	AAMILBOI_00012	100.000	990	100	990	990	0	0.0	1829
+AAMILBOI_00012	CAFLMJIC_00090	99.293	990	100	990	990	7	0.0	1790
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00013 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00013	AAMILBOI_00013	100.000	708	100	708	708	0	0.0	1308
+AAMILBOI_00013	CAFLMJIC_00089	99.718	708	100	708	708	2	0.0	1297
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00014 30S ribosomal protein S21
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00014	AAMILBOI_00014	100.000	177	100	177	177	0	7.31e-91	327
+AAMILBOI_00014	CAFLMJIC_00088	100.000	177	100	177	177	0	7.31e-91	327
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00015 Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00015	AAMILBOI_00015	100.000	1347	100	1347	1347	0	0.0	2488
+AAMILBOI_00015	CAFLMJIC_00087	99.332	1347	100	1347	1347	9	0.0	2438
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00016 Ribosomal RNA small subunit methyltransferase E
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00016	AAMILBOI_00016	100.000	753	100	753	753	0	0.0	1391
+AAMILBOI_00016	CAFLMJIC_00086	98.805	753	100	753	753	9	0.0	1341
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00017 Ribosomal protein L11 methyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00017	AAMILBOI_00017	100.000	939	100	939	939	0	0.0	1735
+AAMILBOI_00017	CAFLMJIC_00085	99.787	939	100	939	939	2	0.0	1724
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00018 Chaperone protein DnaJ
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00018	AAMILBOI_00018	100.000	1140	100	1140	1140	0	0.0	2106
+AAMILBOI_00018	CAFLMJIC_00084	99.123	1140	100	1140	1140	10	0.0	2050
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00019 Chaperone protein DnaK
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00019	AAMILBOI_00019	100.000	1833	100	1833	1833	0	0.0	3386
+AAMILBOI_00019	CAFLMJIC_00083	99.400	1833	100	1833	1833	11	0.0	3325
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00020 Protein GrpE
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00020	AAMILBOI_00020	100.000	627	100	627	627	0	0.0	1158
+AAMILBOI_00020	CAFLMJIC_00082	100.000	627	100	627	627	0	0.0	1158
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00021 Heat-inducible transcription repressor HrcA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00021	AAMILBOI_00021	100.000	978	100	978	978	0	0.0	1807
+AAMILBOI_00021	CAFLMJIC_00081	99.387	978	100	978	978	6	0.0	1773
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00022 Heme chaperone HemW
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00022	NNNJPOIF_00001	100.000	1125	100	1125	1125	0	0.0	2078
+AAMILBOI_00022	AAMILBOI_00022	100.000	1125	100	1125	1125	0	0.0	2078
+AAMILBOI_00022	CAFLMJIC_00080	98.400	1125	100	1158	1125	18	0.0	1978
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00023 Elongation factor 4
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00023	NNNJPOIF_00002	100.000	1824	100	1824	1824	0	0.0	3369
+AAMILBOI_00023	AAMILBOI_00023	100.000	1824	100	1824	1824	0	0.0	3369
+AAMILBOI_00023	CAFLMJIC_00079	99.232	1824	100	1824	1824	14	0.0	3291
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00024 30S ribosomal protein S20
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00024	NNNJPOIF_00003	100.000	252	100	252	252	0	2.19e-132	466
+AAMILBOI_00024	AAMILBOI_00024	100.000	252	100	252	252	0	2.19e-132	466
+AAMILBOI_00024	CAFLMJIC_00078	99.603	252	100	252	252	1	1.02e-130	460
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00025 putative protein YqeN
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00025	NNNJPOIF_00004	100.000	975	100	975	975	0	0.0	1801
+AAMILBOI_00025	AAMILBOI_00025	100.000	975	100	975	975	0	0.0	1801
+AAMILBOI_00025	CAFLMJIC_00077	99.590	975	100	975	975	4	0.0	1779
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00026 ComE operon protein 3
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00026	NNNJPOIF_00005	100.000	2181	100	2181	2181	0	0.0	4028
+AAMILBOI_00026	AAMILBOI_00026	100.000	2181	100	2181	2181	0	0.0	4028
+AAMILBOI_00026	CAFLMJIC_00076	99.312	2181	100	2202	2181	15	0.0	3945
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00027 tRNA-specific adenosine deaminase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00027	NNNJPOIF_00006	100.000	432	100	432	432	0	0.0	798
+AAMILBOI_00027	AAMILBOI_00027	100.000	432	100	432	432	0	0.0	798
+AAMILBOI_00027	CAFLMJIC_00075	100.000	432	100	432	432	0	0.0	798
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00028 ComE operon protein 1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00028	NNNJPOIF_00007	100.000	678	100	678	678	0	0.0	1253
+AAMILBOI_00028	AAMILBOI_00028	100.000	678	100	678	678	0	0.0	1253
+AAMILBOI_00028	CAFLMJIC_00074	98.525	678	100	678	678	10	0.0	1197
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00029 Trans-aconitate 2-methyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00029	NNNJPOIF_00008	100.000	717	100	717	717	0	0.0	1325
+AAMILBOI_00029	AAMILBOI_00029	100.000	717	100	717	717	0	0.0	1325
+AAMILBOI_00029	CAFLMJIC_00073	99.582	717	100	717	717	3	0.0	1308
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00030 Ribosomal silencing factor RsfS
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00030	NNNJPOIF_00009	100.000	354	100	354	354	0	0.0	654
+AAMILBOI_00030	AAMILBOI_00030	100.000	354	100	354	354	0	0.0	654
+AAMILBOI_00030	CAFLMJIC_00072	100.000	354	100	354	354	0	0.0	654
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00031 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00031	NNNJPOIF_00010	100.000	585	100	585	585	0	0.0	1081
+AAMILBOI_00031	AAMILBOI_00031	100.000	585	100	585	585	0	0.0	1081
+AAMILBOI_00031	CAFLMJIC_00071	99.487	585	100	585	585	3	0.0	1064
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00032 putative nicotinate-nucleotide adenylyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00032	NNNJPOIF_00011	100.000	570	100	570	570	0	0.0	1053
+AAMILBOI_00032	AAMILBOI_00032	100.000	570	100	570	570	0	0.0	1053
+AAMILBOI_00032	CAFLMJIC_00070	99.123	570	100	570	570	5	0.0	1026
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00033 RNA-binding protein YhbY
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00033	NNNJPOIF_00012	100.000	291	100	291	291	0	5.36e-154	538
+AAMILBOI_00033	AAMILBOI_00033	100.000	291	100	291	291	0	5.36e-154	538
+AAMILBOI_00033	CAFLMJIC_00069	98.625	291	100	291	291	4	2.51e-147	516
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00034 Shikimate dehydrogenase (NADP(+))
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00034	NNNJPOIF_00013	100.000	807	100	807	807	0	0.0	1491
+AAMILBOI_00034	AAMILBOI_00034	100.000	807	100	807	807	0	0.0	1491
+AAMILBOI_00034	CAFLMJIC_00068	99.380	807	100	807	807	5	0.0	1463
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00035 putative protein YqeH
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00035	NNNJPOIF_00014	100.000	1101	100	1101	1101	0	0.0	2034
+AAMILBOI_00035	AAMILBOI_00035	100.000	1101	100	1101	1101	0	0.0	2034
+AAMILBOI_00035	CAFLMJIC_00067	99.546	1101	100	1101	1101	5	0.0	2006
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00036 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00036	NNNJPOIF_00015	100.000	528	100	528	528	0	0.0	976
+AAMILBOI_00036	AAMILBOI_00036	100.000	528	100	528	528	0	0.0	976
+AAMILBOI_00036	CAFLMJIC_00066	99.242	528	100	528	528	4	0.0	953
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00037 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00037	NNNJPOIF_00016	100.000	687	100	687	687	0	0.0	1269
+AAMILBOI_00037	AAMILBOI_00037	100.000	687	100	687	687	0	0.0	1269
+AAMILBOI_00037	CAFLMJIC_00065	99.272	687	100	687	687	5	0.0	1242
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00038 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00038	NNNJPOIF_00017	100.000	270	100	270	270	0	2.33e-142	499
+AAMILBOI_00038	AAMILBOI_00038	100.000	270	100	270	270	0	2.33e-142	499
+AAMILBOI_00038	CAFLMJIC_00064	99.259	270	100	270	270	2	5.05e-139	488
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00039 Enterotoxin type A
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00039	NNNJPOIF_00018	100.000	753	100	753	753	0	0.0	1391
+AAMILBOI_00039	AAMILBOI_00039	100.000	753	100	753	753	0	0.0	1391
+AAMILBOI_00039	CAFLMJIC_00063	96.286	753	100	858	754	26	0.0	1236
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00040 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00040	NNNJPOIF_00019	100.000	159	100	159	159	0	6.57e-81	294
+AAMILBOI_00040	AAMILBOI_00040	100.000	159	100	159	159	0	6.57e-81	294
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00041 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00041	NNNJPOIF_00020	100.000	1221	100	1221	1221	0	0.0	2255
+AAMILBOI_00041	AAMILBOI_00041	100.000	1221	100	1221	1221	0	0.0	2255
+AAMILBOI_00041	CAFLMJIC_00062	98.526	1221	100	1221	1221	18	0.0	2156
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00042 Divalent metal cation transporter MntH
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00042	NNNJPOIF_00021	100.000	1230	100	1230	1230	0	0.0	2272
+AAMILBOI_00042	AAMILBOI_00042	100.000	1230	100	1230	1230	0	0.0	2272
+AAMILBOI_00042	CAFLMJIC_00061	97.486	1230	100	1233	1233	28	0.0	2102
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00043 5-oxoprolinase subunit A
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00043	NNNJPOIF_00022	100.000	753	100	753	753	0	0.0	1391
+AAMILBOI_00043	AAMILBOI_00043	100.000	753	100	753	753	0	0.0	1391
+AAMILBOI_00043	CAFLMJIC_00060	99.867	753	100	753	753	1	0.0	1386
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00044 Biotin carboxylase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00044	NNNJPOIF_00023	100.000	1362	100	1362	1362	0	0.0	2516
+AAMILBOI_00044	AAMILBOI_00044	100.000	1362	100	1362	1362	0	0.0	2516
+AAMILBOI_00044	CAFLMJIC_00059	99.339	1362	100	1362	1362	9	0.0	2466
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00045 Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00045	NNNJPOIF_00024	100.000	450	100	450	450	0	0.0	832
+AAMILBOI_00045	AAMILBOI_00045	100.000	450	100	450	450	0	0.0	832
+AAMILBOI_00045	CAFLMJIC_00058	99.111	450	100	450	450	4	0.0	809
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00046 5-oxoprolinase subunit C
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00046	NNNJPOIF_00025	100.000	1011	100	1011	1011	0	0.0	1868
+AAMILBOI_00046	AAMILBOI_00046	100.000	1011	100	1011	1011	0	0.0	1868
+AAMILBOI_00046	CAFLMJIC_00057	98.714	1011	100	1011	1011	13	0.0	1796
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00047 5-oxoprolinase subunit B
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00047	NNNJPOIF_00026	100.000	735	100	735	735	0	0.0	1358
+AAMILBOI_00047	AAMILBOI_00047	100.000	735	100	735	735	0	0.0	1358
+AAMILBOI_00047	CAFLMJIC_00056	98.776	735	100	735	735	9	0.0	1308
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00048 Transcription elongation factor GreA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00048	NNNJPOIF_00027	100.000	477	100	477	477	0	0.0	881
+AAMILBOI_00048	AAMILBOI_00048	100.000	477	100	477	477	0	0.0	881
+AAMILBOI_00048	CAFLMJIC_00055	100.000	477	100	477	477	0	0.0	881
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00049 Uridine kinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00049	NNNJPOIF_00028	100.000	624	100	624	624	0	0.0	1153
+AAMILBOI_00049	AAMILBOI_00049	100.000	624	100	624	624	0	0.0	1153
+AAMILBOI_00049	CAFLMJIC_00054	99.199	624	100	624	624	5	0.0	1125
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00050 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00050	NNNJPOIF_00029	100.000	1269	100	1269	1269	0	0.0	2344
+AAMILBOI_00050	AAMILBOI_00050	100.000	1269	100	1269	1269	0	0.0	2344
+AAMILBOI_00050	CAFLMJIC_00053	99.685	1269	100	1269	1269	4	0.0	2322
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00051 23S rRNA 5-hydroxycytidine synthase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00051	NNNJPOIF_00030	100.000	924	100	924	924	0	0.0	1707
+AAMILBOI_00051	AAMILBOI_00051	100.000	924	100	924	924	0	0.0	1707
+AAMILBOI_00051	CAFLMJIC_00052	99.351	924	100	924	924	6	0.0	1674
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00052 tRNA 5-hydroxyuridine methyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00052	NNNJPOIF_00031	100.000	639	100	639	639	0	0.0	1181
+AAMILBOI_00052	AAMILBOI_00052	100.000	639	100	639	639	0	0.0	1181
+AAMILBOI_00052	CAFLMJIC_00051	99.687	639	100	639	639	2	0.0	1170
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00053 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00053	NNNJPOIF_00032	100.000	309	100	309	309	0	5.63e-164	571
+AAMILBOI_00053	AAMILBOI_00053	100.000	309	100	309	309	0	5.63e-164	571
+AAMILBOI_00053	CAFLMJIC_00050	100.000	309	100	309	309	0	5.63e-164	571
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00054 Putative pre-16S rRNA nuclease
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00054	NNNJPOIF_00033	100.000	429	100	429	429	0	0.0	793
+AAMILBOI_00054	AAMILBOI_00054	100.000	429	100	429	429	0	0.0	793
+AAMILBOI_00054	CAFLMJIC_00049	100.000	429	100	429	429	0	0.0	793
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00055 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00055	NNNJPOIF_00034	100.000	261	100	261	261	0	2.26e-137	483
+AAMILBOI_00055	AAMILBOI_00055	100.000	261	100	261	261	0	2.26e-137	483
+AAMILBOI_00055	CAFLMJIC_00048	99.617	261	100	261	261	1	1.05e-135	477
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00056 Alanine--tRNA ligase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00056	NNNJPOIF_00035	100.000	2634	100	2634	2634	0	0.0	4865
+AAMILBOI_00056	AAMILBOI_00056	100.000	2634	100	2634	2634	0	0.0	4865
+AAMILBOI_00056	CAFLMJIC_00047	99.544	2634	100	2634	2634	12	0.0	4798
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00057 ATP-dependent RecD-like DNA helicase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00057	NNNJPOIF_00036	100.000	2478	100	2478	2478	0	0.0	4577
+AAMILBOI_00057	AAMILBOI_00057	100.000	2478	100	2478	2478	0	0.0	4577
+AAMILBOI_00057	CAFLMJIC_00046	99.072	2478	100	2478	2478	23	0.0	4449
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00058 TPR repeat-containing protein YrrB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00058	NNNJPOIF_00037	100.000	669	100	669	669	0	0.0	1236
+AAMILBOI_00058	AAMILBOI_00058	100.000	669	100	669	669	0	0.0	1236
+AAMILBOI_00058	CAFLMJIC_00045	98.947	669	99	669	665	7	0.0	1190
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00059 tRNA-specific 2-thiouridylase MnmA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00059	NNNJPOIF_00038	100.000	1119	100	1119	1119	0	0.0	2067
+AAMILBOI_00059	AAMILBOI_00059	100.000	1119	100	1119	1119	0	0.0	2067
+AAMILBOI_00059	CAFLMJIC_00044	98.749	1119	100	1119	1119	14	0.0	1989
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00060 Cysteine desulfurase IscS
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00060	NNNJPOIF_00039	100.000	1143	100	1143	1143	0	0.0	2111
+AAMILBOI_00060	AAMILBOI_00060	100.000	1143	100	1143	1143	0	0.0	2111
+AAMILBOI_00060	CAFLMJIC_00043	99.300	1143	100	1143	1143	8	0.0	2067
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00061 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00061	NNNJPOIF_00040	100.000	1014	100	1014	1014	0	0.0	1873
+AAMILBOI_00061	AAMILBOI_00061	100.000	1014	100	1014	1014	0	0.0	1873
+AAMILBOI_00061	CAFLMJIC_00042	98.225	1014	100	1014	1014	18	0.0	1773
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00062 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00062	NNNJPOIF_00041	100.000	147	100	147	147	0	2.81e-74	272
+AAMILBOI_00062	AAMILBOI_00062	100.000	147	100	147	147	0	2.81e-74	272
+AAMILBOI_00062	CAFLMJIC_00041	100.000	147	100	147	147	0	2.81e-74	272
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00063 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00063	NNNJPOIF_00042	100.000	183	100	183	183	0	3.51e-94	339
+AAMILBOI_00063	AAMILBOI_00063	100.000	183	100	183	183	0	3.51e-94	339
+AAMILBOI_00063	CAFLMJIC_00040	98.907	183	100	183	183	2	7.59e-91	327
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00064 HTH-type transcriptional regulator CymR
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00064	NNNJPOIF_00043	100.000	423	100	423	423	0	0.0	782
+AAMILBOI_00064	AAMILBOI_00064	100.000	423	100	423	423	0	0.0	782
+AAMILBOI_00064	CAFLMJIC_00039	99.527	423	100	423	423	2	0.0	771
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00065 putative AAA domain-containing protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+AAMILBOI_00065	NNNJPOIF_00044	100.000	1275	100	1275	1275	0	0.0	2355
+AAMILBOI_00065	AAMILBOI_00065	100.000	1275	100	1275	1275	0	0.0	2355
+AAMILBOI_00065	CAFLMJIC_00038	99.686	1275	100	1275	1275	4	0.0	2333
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00066 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00066	AAMILBOI_00066	100.000	774	100	774	774	0	0.0	1430
+AAMILBOI_00066	CAFLMJIC_00037	99.354	774	100	774	774	5	0.0	1402
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00067 Aspartate--tRNA ligase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00067	AAMILBOI_00067	100.000	1767	100	1767	1767	0	0.0	3264
+AAMILBOI_00067	CAFLMJIC_00036	99.717	1767	100	1767	1767	5	0.0	3236
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00068 Histidine--tRNA ligase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00068	AAMILBOI_00068	100.000	1263	100	1263	1263	0	0.0	2333
+AAMILBOI_00068	CAFLMJIC_00035	99.446	1263	100	1263	1263	7	0.0	2294
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00069 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00069	AAMILBOI_00069	100.000	876	100	876	876	0	0.0	1618
+AAMILBOI_00069	CAFLMJIC_00034	99.658	876	100	876	876	3	0.0	1602
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00070 D-aminoacyl-tRNA deacylase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00070	AAMILBOI_00070	100.000	453	100	453	453	0	0.0	837
+AAMILBOI_00070	CAFLMJIC_00033	99.674	453	68	306	307	0	1.82e-160	560
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00071 GTP pyrophosphokinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00071	AAMILBOI_00071	100.000	2211	100	2211	2211	0	0.0	4084
+AAMILBOI_00071	CAFLMJIC_00032	99.683	2211	100	2211	2211	7	0.0	4045
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00072 Adenine phosphoribosyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00072	AAMILBOI_00072	100.000	519	100	519	519	0	0.0	959
+AAMILBOI_00072	CAFLMJIC_00031	100.000	519	100	519	519	0	0.0	959
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00073 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00073	AAMILBOI_00073	100.000	2274	100	2274	2274	0	0.0	4200
+AAMILBOI_00073	CAFLMJIC_00030	99.252	2274	100	2274	2274	17	0.0	4106
+# BLASTN 2.9.0+
+# Query: AAMILBOI_00074 Protein translocase subunit SecDF
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+AAMILBOI_00074	AAMILBOI_00074	100.000	1764	100	1764	1764	0	0.0	3258
+AAMILBOI_00074	CAFLMJIC_00029	99.490	1764	100	2280	1764	9	0.0	3208
+# BLAST processed 74 queries

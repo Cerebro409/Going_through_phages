@@ -1,0 +1,68 @@
+Discrepancy Report Results
+
+Summary
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all unique)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all unique)
+DISC_FEATURE_COUNT:gene: 6 present
+DISC_FEATURE_COUNT:CDS: 6 present
+DISC_COUNT_NUCLEOTIDES:1 nucleotide Bioseqs are present
+SUSPECT_PRODUCT_NAMES:1 product_names contain suspect phrase or characters
+	FATAL: Remove organism from product name
+		1 features contains 'staphylococcal'
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+ONCALLER_COMMENT_PRESENT:1 comment descriptors were found (all same)
+MISSING_GENOMEASSEMBLY_COMMENTS:1 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:1 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:1 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:1 sequences do not include structured comments.
+MISSING_PROJECT:7 sequences do not include project.
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all unique)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::1 sources have unique values for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::gene: 6 present
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 6 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::1 nucleotide Bioseqs are present
+GCA_000160395.1_ASM16039v1_genomic.gbff_pp19/PROKKA_05152020:X:OCDLMJCJ_1 (length 4267)
+
+DiscRep_ALL:SUSPECT_PRODUCT_NAMES::1 product_names contain suspect phrase or characters
+FATAL: DiscRep_SUB:SUSPECT_PRODUCT_NAMES::Remove organism from product name
+DiscRep_SUB:DISC_PRODUCT_NAME_QUICKFIX::1 features contains 'staphylococcal'
+GCA_000160395.1_ASM16039v1_genomic.gbff_pp19/PROKKA_05152020:CDS	Staphylococcal complement inhibitor	OCDLMJCJ_1:c3638-3288	OCDLMJCJ_00005
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::1 comment descriptors were found (all same)
+GCA_000160395.1_ASM16039v1_genomic.gbff_pp19/PROKKA_05152020:X:OCDLMJCJ_1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::1 bioseqs are missing GenomeAssembly structured comments
+GCA_000160395.1_ASM16039v1_genomic.gbff_pp19/PROKKA_05152020:X:OCDLMJCJ_1 (length 4267)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::1 molecule types are not set as mRNA.
+GCA_000160395.1_ASM16039v1_genomic.gbff_pp19/PROKKA_05152020:X:OCDLMJCJ_1 (length 4267)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::1 technique are not set as TSA
+GCA_000160395.1_ASM16039v1_genomic.gbff_pp19/PROKKA_05152020:X:OCDLMJCJ_1 (length 4267)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::1 sequences do not include structured comments.
+GCA_000160395.1_ASM16039v1_genomic.gbff_pp19/PROKKA_05152020:X:OCDLMJCJ_1 (length 4267)
+
+DiscRep_ALL:MISSING_PROJECT::7 sequences do not include project.
+GCA_000160395.1_ASM16039v1_genomic.gbff_pp19/PROKKA_05152020:X:OCDLMJCJ_1 (length 4267)
+GCA_000160395.1_ASM16039v1_genomic.gbff_pp19/PROKKA_05152020:X:OCDLMJCJ_00001 (length 321)
+GCA_000160395.1_ASM16039v1_genomic.gbff_pp19/PROKKA_05152020:X:OCDLMJCJ_00002 (length 77)
+GCA_000160395.1_ASM16039v1_genomic.gbff_pp19/PROKKA_05152020:X:OCDLMJCJ_00003 (length 61)
+GCA_000160395.1_ASM16039v1_genomic.gbff_pp19/PROKKA_05152020:X:OCDLMJCJ_00004 (length 73)
+GCA_000160395.1_ASM16039v1_genomic.gbff_pp19/PROKKA_05152020:X:OCDLMJCJ_00005 (length 116)
+GCA_000160395.1_ASM16039v1_genomic.gbff_pp19/PROKKA_05152020:X:OCDLMJCJ_00006 (length 125)
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::1 Molinfos are missing field technique
+GCA_000160395.1_ASM16039v1_genomic.gbff_pp19/PROKKA_05152020:X:OCDLMJCJ_1 (length 4267)
+

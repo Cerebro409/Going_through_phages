@@ -1,0 +1,13 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LLGBBFNI_00001	gene	702	lrgB			
+LLGBBFNI_00001	CDS	702	lrgB		COG1346	Antiholin-like protein LrgB
+LLGBBFNI_00002	gene	444	lrgA			
+LLGBBFNI_00002	CDS	444	lrgA		COG1380	Antiholin-like protein LrgA
+LLGBBFNI_00003	gene	741	lytR			
+LLGBBFNI_00003	CDS	741	lytR		COG3279	Sensory transduction protein LytR
+LLGBBFNI_00004	gene	1740	ypdA			
+LLGBBFNI_00004	CDS	1740	ypdA	2.7.13.3	COG3275	Sensor histidine kinase YpdA
+LLGBBFNI_00005	gene	675	scdA			
+LLGBBFNI_00005	CDS	675	scdA		COG2846	Iron-sulfur cluster repair protein ScdA
+LLGBBFNI_00006	gene	1722	tarS			
+LLGBBFNI_00006	CDS	1722	tarS	2.4.1.355		Poly(ribitol-phosphate) beta-N-acetylglucosaminyltransferase TarS

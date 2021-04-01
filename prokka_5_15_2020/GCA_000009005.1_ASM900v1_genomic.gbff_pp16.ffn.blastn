@@ -1,0 +1,1052 @@
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00001 Glutamyl-tRNA reductase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00001	CAFLMJIC_00001	100.000	1089	100	1089	1089	0	0.0	2012
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00002 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00002	CAFLMJIC_00002	100.000	816	100	816	816	0	0.0	1507
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00003 Porphobilinogen deaminase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00003	CAFLMJIC_00003	100.000	927	100	927	927	0	0.0	1712
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00004 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00004	CAFLMJIC_00004	100.000	669	100	669	669	0	0.0	1236
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00005 Delta-aminolevulinic acid dehydratase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00005	CAFLMJIC_00005	100.000	975	100	975	975	0	0.0	1801
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00006 Glutamate-1-semialdehyde 2,1-aminomutase 1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00006	CAFLMJIC_00006	100.000	1287	100	1287	1287	0	0.0	2377
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00007 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00007	CAFLMJIC_00007	100.000	1068	100	1068	1068	0	0.0	1973
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00008 DNA-3-methyladenine glycosylase 1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00008	CAFLMJIC_00008	100.000	561	100	561	561	0	0.0	1037
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00009 Valine--tRNA ligase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00009	CAFLMJIC_00009	100.000	2631	100	2631	2631	0	0.0	4859
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00010 Folylpolyglutamate synthase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00010	CAFLMJIC_00010	100.000	1272	100	1272	1272	0	0.0	2350
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00011 Type 4 prepilin-like proteins leader peptide-processing enzyme
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00011	CAFLMJIC_00011	100.000	708	100	708	708	0	0.0	1308
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00012 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00012	CAFLMJIC_00012	100.000	687	100	687	687	0	0.0	1269
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00013 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00013	CAFLMJIC_00013	100.000	285	100	285	285	0	1.13e-150	527
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00014 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00014	CAFLMJIC_00014	100.000	198	100	198	198	0	1.76e-102	366
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00015 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00015	CAFLMJIC_00015	100.000	474	100	474	474	0	0.0	876
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00016 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00016	CAFLMJIC_00016	100.000	120	100	120	120	0	2.29e-59	222
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00017 Cell shape-determining protein MreC
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00017	CAFLMJIC_00017	100.000	843	100	843	843	0	0.0	1557
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00018 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00018	CAFLMJIC_00018	100.000	531	100	531	531	0	0.0	981
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00019 50S ribosomal protein L21
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00019	CAFLMJIC_00019	100.000	309	100	309	309	0	5.63e-164	571
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00020 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00020	CAFLMJIC_00020	100.000	321	100	321	321	0	1.25e-170	593
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00021 50S ribosomal protein L27
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00021	CAFLMJIC_00021	100.000	285	100	285	285	0	1.13e-150	527
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00022 GTPase Obg
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00022	CAFLMJIC_00022	100.000	1293	100	1293	1293	0	0.0	2388
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00023 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00023	CAFLMJIC_00023	100.000	459	100	459	459	0	0.0	848
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00024 Holliday junction ATP-dependent DNA helicase RuvA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00024	CAFLMJIC_00024	100.000	603	100	603	603	0	0.0	1114
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00025 Holliday junction ATP-dependent DNA helicase RuvB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00025	CAFLMJIC_00025	100.000	1005	100	1005	1005	0	0.0	1857
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00026 S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00026	CAFLMJIC_00026	100.000	1026	100	1026	1026	0	0.0	1895
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00027 Queuine tRNA-ribosyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00027	CAFLMJIC_00027	100.000	1140	100	1140	1140	0	0.0	2106
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00028 Sec translocon accessory complex subunit YajC
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00028	CAFLMJIC_00028	100.000	261	100	261	261	0	2.26e-137	483
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00029 Protein translocase subunit SecDF
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00029	CAFLMJIC_00029	100.000	2280	100	2280	2280	0	0.0	4211
+CAFLMJIC_00029	AAMILBOI_00074	99.490	2280	77	1764	1764	9	0.0	3208
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00030 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00030	CAFLMJIC_00030	100.000	2274	100	2274	2274	0	0.0	4200
+CAFLMJIC_00030	AAMILBOI_00073	99.252	2274	100	2274	2274	17	0.0	4106
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00031 Adenine phosphoribosyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00031	AAMILBOI_00072	100.000	519	100	519	519	0	0.0	959
+CAFLMJIC_00031	CAFLMJIC_00031	100.000	519	100	519	519	0	0.0	959
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00032 GTP pyrophosphokinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00032	CAFLMJIC_00032	100.000	2211	100	2211	2211	0	0.0	4084
+CAFLMJIC_00032	AAMILBOI_00071	99.683	2211	100	2211	2211	7	0.0	4045
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00033 D-aminoacyl-tRNA deacylase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00033	CAFLMJIC_00033	100.000	306	100	306	306	0	2.59e-162	566
+CAFLMJIC_00033	AAMILBOI_00070	99.674	306	100	453	307	0	1.21e-160	560
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00034 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00034	CAFLMJIC_00034	100.000	876	100	876	876	0	0.0	1618
+CAFLMJIC_00034	AAMILBOI_00069	99.658	876	100	876	876	3	0.0	1602
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00035 Histidine--tRNA ligase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00035	CAFLMJIC_00035	100.000	1263	100	1263	1263	0	0.0	2333
+CAFLMJIC_00035	AAMILBOI_00068	99.446	1263	100	1263	1263	7	0.0	2294
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00036 Aspartate--tRNA ligase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00036	CAFLMJIC_00036	100.000	1767	100	1767	1767	0	0.0	3264
+CAFLMJIC_00036	AAMILBOI_00067	99.717	1767	100	1767	1767	5	0.0	3236
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00037 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00037	CAFLMJIC_00037	100.000	774	100	774	774	0	0.0	1430
+CAFLMJIC_00037	AAMILBOI_00066	99.354	774	100	774	774	5	0.0	1402
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00038 putative AAA domain-containing protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00038	CAFLMJIC_00038	100.000	1275	100	1275	1275	0	0.0	2355
+CAFLMJIC_00038	NNNJPOIF_00044	99.686	1275	100	1275	1275	4	0.0	2333
+CAFLMJIC_00038	AAMILBOI_00065	99.686	1275	100	1275	1275	4	0.0	2333
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00039 HTH-type transcriptional regulator CymR
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00039	CAFLMJIC_00039	100.000	423	100	423	423	0	0.0	782
+CAFLMJIC_00039	NNNJPOIF_00043	99.527	423	100	423	423	2	0.0	771
+CAFLMJIC_00039	AAMILBOI_00064	99.527	423	100	423	423	2	0.0	771
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00040 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00040	CAFLMJIC_00040	100.000	183	100	183	183	0	3.51e-94	339
+CAFLMJIC_00040	NNNJPOIF_00042	98.907	183	100	183	183	2	7.59e-91	327
+CAFLMJIC_00040	AAMILBOI_00063	98.907	183	100	183	183	2	7.59e-91	327
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00041 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00041	NNNJPOIF_00041	100.000	147	100	147	147	0	2.81e-74	272
+CAFLMJIC_00041	AAMILBOI_00062	100.000	147	100	147	147	0	2.81e-74	272
+CAFLMJIC_00041	CAFLMJIC_00041	100.000	147	100	147	147	0	2.81e-74	272
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00042 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00042	CAFLMJIC_00042	100.000	1014	100	1014	1014	0	0.0	1873
+CAFLMJIC_00042	NNNJPOIF_00040	98.225	1014	100	1014	1014	18	0.0	1773
+CAFLMJIC_00042	AAMILBOI_00061	98.225	1014	100	1014	1014	18	0.0	1773
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00043 Cysteine desulfurase IscS
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00043	CAFLMJIC_00043	100.000	1143	100	1143	1143	0	0.0	2111
+CAFLMJIC_00043	NNNJPOIF_00039	99.300	1143	100	1143	1143	8	0.0	2067
+CAFLMJIC_00043	AAMILBOI_00060	99.300	1143	100	1143	1143	8	0.0	2067
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00044 tRNA-specific 2-thiouridylase MnmA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00044	CAFLMJIC_00044	100.000	1119	100	1119	1119	0	0.0	2067
+CAFLMJIC_00044	NNNJPOIF_00038	98.749	1119	100	1119	1119	14	0.0	1989
+CAFLMJIC_00044	AAMILBOI_00059	98.749	1119	100	1119	1119	14	0.0	1989
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00045 TPR repeat-containing protein YrrB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00045	CAFLMJIC_00045	100.000	669	100	669	669	0	0.0	1236
+CAFLMJIC_00045	NNNJPOIF_00037	98.947	669	99	669	665	7	0.0	1190
+CAFLMJIC_00045	AAMILBOI_00058	98.947	669	99	669	665	7	0.0	1190
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00046 ATP-dependent RecD-like DNA helicase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00046	CAFLMJIC_00046	100.000	2478	100	2478	2478	0	0.0	4577
+CAFLMJIC_00046	NNNJPOIF_00036	99.072	2478	100	2478	2478	23	0.0	4449
+CAFLMJIC_00046	AAMILBOI_00057	99.072	2478	100	2478	2478	23	0.0	4449
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00047 Alanine--tRNA ligase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00047	CAFLMJIC_00047	100.000	2634	100	2634	2634	0	0.0	4865
+CAFLMJIC_00047	NNNJPOIF_00035	99.544	2634	100	2634	2634	12	0.0	4798
+CAFLMJIC_00047	AAMILBOI_00056	99.544	2634	100	2634	2634	12	0.0	4798
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00048 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00048	CAFLMJIC_00048	100.000	261	100	261	261	0	2.26e-137	483
+CAFLMJIC_00048	NNNJPOIF_00034	99.617	261	100	261	261	1	1.05e-135	477
+CAFLMJIC_00048	AAMILBOI_00055	99.617	261	100	261	261	1	1.05e-135	477
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00049 Putative pre-16S rRNA nuclease
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00049	NNNJPOIF_00033	100.000	429	100	429	429	0	0.0	793
+CAFLMJIC_00049	AAMILBOI_00054	100.000	429	100	429	429	0	0.0	793
+CAFLMJIC_00049	CAFLMJIC_00049	100.000	429	100	429	429	0	0.0	793
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00050 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00050	NNNJPOIF_00032	100.000	309	100	309	309	0	5.63e-164	571
+CAFLMJIC_00050	AAMILBOI_00053	100.000	309	100	309	309	0	5.63e-164	571
+CAFLMJIC_00050	CAFLMJIC_00050	100.000	309	100	309	309	0	5.63e-164	571
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00051 tRNA 5-hydroxyuridine methyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00051	CAFLMJIC_00051	100.000	639	100	639	639	0	0.0	1181
+CAFLMJIC_00051	NNNJPOIF_00031	99.687	639	100	639	639	2	0.0	1170
+CAFLMJIC_00051	AAMILBOI_00052	99.687	639	100	639	639	2	0.0	1170
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00052 23S rRNA 5-hydroxycytidine synthase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00052	CAFLMJIC_00052	100.000	924	100	924	924	0	0.0	1707
+CAFLMJIC_00052	NNNJPOIF_00030	99.351	924	100	924	924	6	0.0	1674
+CAFLMJIC_00052	AAMILBOI_00051	99.351	924	100	924	924	6	0.0	1674
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00053 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00053	CAFLMJIC_00053	100.000	1269	100	1269	1269	0	0.0	2344
+CAFLMJIC_00053	NNNJPOIF_00029	99.685	1269	100	1269	1269	4	0.0	2322
+CAFLMJIC_00053	AAMILBOI_00050	99.685	1269	100	1269	1269	4	0.0	2322
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00054 Uridine kinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00054	CAFLMJIC_00054	100.000	624	100	624	624	0	0.0	1153
+CAFLMJIC_00054	NNNJPOIF_00028	99.199	624	100	624	624	5	0.0	1125
+CAFLMJIC_00054	AAMILBOI_00049	99.199	624	100	624	624	5	0.0	1125
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00055 Transcription elongation factor GreA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00055	NNNJPOIF_00027	100.000	477	100	477	477	0	0.0	881
+CAFLMJIC_00055	AAMILBOI_00048	100.000	477	100	477	477	0	0.0	881
+CAFLMJIC_00055	CAFLMJIC_00055	100.000	477	100	477	477	0	0.0	881
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00056 5-oxoprolinase subunit B
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00056	CAFLMJIC_00056	100.000	735	100	735	735	0	0.0	1358
+CAFLMJIC_00056	NNNJPOIF_00026	98.776	735	100	735	735	9	0.0	1308
+CAFLMJIC_00056	AAMILBOI_00047	98.776	735	100	735	735	9	0.0	1308
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00057 5-oxoprolinase subunit C
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00057	CAFLMJIC_00057	100.000	1011	100	1011	1011	0	0.0	1868
+CAFLMJIC_00057	NNNJPOIF_00025	98.714	1011	100	1011	1011	13	0.0	1796
+CAFLMJIC_00057	AAMILBOI_00046	98.714	1011	100	1011	1011	13	0.0	1796
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00058 Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00058	CAFLMJIC_00058	100.000	450	100	450	450	0	0.0	832
+CAFLMJIC_00058	NNNJPOIF_00024	99.111	450	100	450	450	4	0.0	809
+CAFLMJIC_00058	AAMILBOI_00045	99.111	450	100	450	450	4	0.0	809
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00059 Biotin carboxylase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00059	CAFLMJIC_00059	100.000	1362	100	1362	1362	0	0.0	2516
+CAFLMJIC_00059	NNNJPOIF_00023	99.339	1362	100	1362	1362	9	0.0	2466
+CAFLMJIC_00059	AAMILBOI_00044	99.339	1362	100	1362	1362	9	0.0	2466
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00060 5-oxoprolinase subunit A
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00060	CAFLMJIC_00060	100.000	753	100	753	753	0	0.0	1391
+CAFLMJIC_00060	NNNJPOIF_00022	99.867	753	100	753	753	1	0.0	1386
+CAFLMJIC_00060	AAMILBOI_00043	99.867	753	100	753	753	1	0.0	1386
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00061 Divalent metal cation transporter MntH
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00061	CAFLMJIC_00061	100.000	1233	100	1233	1233	0	0.0	2278
+CAFLMJIC_00061	NNNJPOIF_00021	97.486	1233	100	1230	1233	28	0.0	2102
+CAFLMJIC_00061	AAMILBOI_00042	97.486	1233	100	1230	1233	28	0.0	2102
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00062 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00062	CAFLMJIC_00062	100.000	1221	100	1221	1221	0	0.0	2255
+CAFLMJIC_00062	NNNJPOIF_00020	98.526	1221	100	1221	1221	18	0.0	2156
+CAFLMJIC_00062	AAMILBOI_00041	98.526	1221	100	1221	1221	18	0.0	2156
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00063 Enterotoxin type A
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00063	CAFLMJIC_00063	100.000	858	100	858	858	0	0.0	1585
+CAFLMJIC_00063	NNNJPOIF_00018	96.286	858	88	753	754	26	0.0	1236
+CAFLMJIC_00063	AAMILBOI_00039	96.286	858	88	753	754	26	0.0	1236
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00064 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00064	CAFLMJIC_00064	100.000	270	100	270	270	0	2.33e-142	499
+CAFLMJIC_00064	NNNJPOIF_00017	99.259	270	100	270	270	2	5.05e-139	488
+CAFLMJIC_00064	AAMILBOI_00038	99.259	270	100	270	270	2	5.05e-139	488
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00065 5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00065	CAFLMJIC_00065	100.000	687	100	687	687	0	0.0	1269
+CAFLMJIC_00065	NNNJPOIF_00016	99.272	687	100	687	687	5	0.0	1242
+CAFLMJIC_00065	AAMILBOI_00037	99.272	687	100	687	687	5	0.0	1242
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00066 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00066	CAFLMJIC_00066	100.000	528	100	528	528	0	0.0	976
+CAFLMJIC_00066	NNNJPOIF_00015	99.242	528	100	528	528	4	0.0	953
+CAFLMJIC_00066	AAMILBOI_00036	99.242	528	100	528	528	4	0.0	953
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00067 putative protein YqeH
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00067	CAFLMJIC_00067	100.000	1101	100	1101	1101	0	0.0	2034
+CAFLMJIC_00067	NNNJPOIF_00014	99.546	1101	100	1101	1101	5	0.0	2006
+CAFLMJIC_00067	AAMILBOI_00035	99.546	1101	100	1101	1101	5	0.0	2006
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00068 Shikimate dehydrogenase (NADP(+))
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00068	CAFLMJIC_00068	100.000	807	100	807	807	0	0.0	1491
+CAFLMJIC_00068	NNNJPOIF_00013	99.380	807	100	807	807	5	0.0	1463
+CAFLMJIC_00068	AAMILBOI_00034	99.380	807	100	807	807	5	0.0	1463
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00069 RNA-binding protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00069	CAFLMJIC_00069	100.000	291	100	291	291	0	5.36e-154	538
+CAFLMJIC_00069	NNNJPOIF_00012	98.625	291	100	291	291	4	2.51e-147	516
+CAFLMJIC_00069	AAMILBOI_00033	98.625	291	100	291	291	4	2.51e-147	516
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00070 putative nicotinate-nucleotide adenylyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00070	CAFLMJIC_00070	100.000	570	100	570	570	0	0.0	1053
+CAFLMJIC_00070	NNNJPOIF_00011	99.123	570	100	570	570	5	0.0	1026
+CAFLMJIC_00070	AAMILBOI_00032	99.123	570	100	570	570	5	0.0	1026
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00071 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00071	CAFLMJIC_00071	100.000	585	100	585	585	0	0.0	1081
+CAFLMJIC_00071	NNNJPOIF_00010	99.487	585	100	585	585	3	0.0	1064
+CAFLMJIC_00071	AAMILBOI_00031	99.487	585	100	585	585	3	0.0	1064
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00072 Ribosomal silencing factor RsfS
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00072	NNNJPOIF_00009	100.000	354	100	354	354	0	0.0	654
+CAFLMJIC_00072	AAMILBOI_00030	100.000	354	100	354	354	0	0.0	654
+CAFLMJIC_00072	CAFLMJIC_00072	100.000	354	100	354	354	0	0.0	654
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00073 Trans-aconitate 2-methyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00073	CAFLMJIC_00073	100.000	717	100	717	717	0	0.0	1325
+CAFLMJIC_00073	NNNJPOIF_00008	99.582	717	100	717	717	3	0.0	1308
+CAFLMJIC_00073	AAMILBOI_00029	99.582	717	100	717	717	3	0.0	1308
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00074 ComE operon protein 1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00074	CAFLMJIC_00074	100.000	678	100	678	678	0	0.0	1253
+CAFLMJIC_00074	NNNJPOIF_00007	98.525	678	100	678	678	10	0.0	1197
+CAFLMJIC_00074	AAMILBOI_00028	98.525	678	100	678	678	10	0.0	1197
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00075 tRNA-specific adenosine deaminase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00075	NNNJPOIF_00006	100.000	432	100	432	432	0	0.0	798
+CAFLMJIC_00075	AAMILBOI_00027	100.000	432	100	432	432	0	0.0	798
+CAFLMJIC_00075	CAFLMJIC_00075	100.000	432	100	432	432	0	0.0	798
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00076 ComE operon protein 3
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00076	CAFLMJIC_00076	100.000	2202	100	2202	2202	0	0.0	4067
+CAFLMJIC_00076	NNNJPOIF_00005	99.312	2202	99	2181	2181	15	0.0	3945
+CAFLMJIC_00076	AAMILBOI_00026	99.312	2202	99	2181	2181	15	0.0	3945
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00077 putative protein YqeN
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00077	CAFLMJIC_00077	100.000	975	100	975	975	0	0.0	1801
+CAFLMJIC_00077	NNNJPOIF_00004	99.590	975	100	975	975	4	0.0	1779
+CAFLMJIC_00077	AAMILBOI_00025	99.590	975	100	975	975	4	0.0	1779
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00078 30S ribosomal protein S20
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00078	CAFLMJIC_00078	100.000	252	100	252	252	0	2.19e-132	466
+CAFLMJIC_00078	NNNJPOIF_00003	99.603	252	100	252	252	1	1.02e-130	460
+CAFLMJIC_00078	AAMILBOI_00024	99.603	252	100	252	252	1	1.02e-130	460
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00079 Elongation factor 4
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00079	CAFLMJIC_00079	100.000	1824	100	1824	1824	0	0.0	3369
+CAFLMJIC_00079	NNNJPOIF_00002	99.232	1824	100	1824	1824	14	0.0	3291
+CAFLMJIC_00079	AAMILBOI_00023	99.232	1824	100	1824	1824	14	0.0	3291
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00080 Heme chaperone HemW
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00080	CAFLMJIC_00080	100.000	1158	100	1158	1158	0	0.0	2139
+CAFLMJIC_00080	NNNJPOIF_00001	98.400	1158	97	1125	1125	18	0.0	1978
+CAFLMJIC_00080	AAMILBOI_00022	98.400	1158	97	1125	1125	18	0.0	1978
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00081 Heat-inducible transcription repressor HrcA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00081	CAFLMJIC_00081	100.000	978	100	978	978	0	0.0	1807
+CAFLMJIC_00081	AAMILBOI_00021	99.387	978	100	978	978	6	0.0	1773
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00082 Protein GrpE
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00082	AAMILBOI_00020	100.000	627	100	627	627	0	0.0	1158
+CAFLMJIC_00082	CAFLMJIC_00082	100.000	627	100	627	627	0	0.0	1158
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00083 Chaperone protein DnaK
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00083	CAFLMJIC_00083	100.000	1833	100	1833	1833	0	0.0	3386
+CAFLMJIC_00083	AAMILBOI_00019	99.400	1833	100	1833	1833	11	0.0	3325
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00084 Chaperone protein DnaJ
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00084	CAFLMJIC_00084	100.000	1140	100	1140	1140	0	0.0	2106
+CAFLMJIC_00084	AAMILBOI_00018	99.123	1140	100	1140	1140	10	0.0	2050
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00085 Ribosomal protein L11 methyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00085	CAFLMJIC_00085	100.000	939	100	939	939	0	0.0	1735
+CAFLMJIC_00085	AAMILBOI_00017	99.787	939	100	939	939	2	0.0	1724
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00086 Ribosomal RNA small subunit methyltransferase E
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00086	CAFLMJIC_00086	100.000	753	100	753	753	0	0.0	1391
+CAFLMJIC_00086	AAMILBOI_00016	98.805	753	100	753	753	9	0.0	1341
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00087 Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00087	CAFLMJIC_00087	100.000	1347	100	1347	1347	0	0.0	2488
+CAFLMJIC_00087	AAMILBOI_00015	99.332	1347	100	1347	1347	9	0.0	2438
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00088 30S ribosomal protein S21
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00088	AAMILBOI_00014	100.000	177	100	177	177	0	7.31e-91	327
+CAFLMJIC_00088	CAFLMJIC_00088	100.000	177	100	177	177	0	7.31e-91	327
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00089 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00089	CAFLMJIC_00089	100.000	708	100	708	708	0	0.0	1308
+CAFLMJIC_00089	AAMILBOI_00013	99.718	708	100	708	708	2	0.0	1297
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00090 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00090	CAFLMJIC_00090	100.000	990	100	990	990	0	0.0	1829
+CAFLMJIC_00090	AAMILBOI_00012	99.293	990	100	990	990	7	0.0	1790
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00091 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00091	CAFLMJIC_00091	100.000	699	100	699	699	0	0.0	1291
+CAFLMJIC_00091	AAMILBOI_00011	99.571	699	100	699	699	3	0.0	1275
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00092 PhoH-like protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00092	CAFLMJIC_00092	100.000	948	100	948	948	0	0.0	1751
+CAFLMJIC_00092	AAMILBOI_00010	99.473	948	100	948	948	5	0.0	1724
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00093 Endoribonuclease YbeY
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00093	CAFLMJIC_00093	100.000	468	100	468	468	0	0.0	865
+CAFLMJIC_00093	AAMILBOI_00009	99.786	468	100	468	468	1	0.0	859
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00094 Undecaprenol kinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00094	AAMILBOI_00008	100.000	345	100	345	345	0	0.0	638
+CAFLMJIC_00094	CAFLMJIC_00094	100.000	345	100	345	345	0	0.0	638
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00095 Cytidine deaminase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00095	AAMILBOI_00007	100.000	405	100	405	405	0	0.0	749
+CAFLMJIC_00095	CAFLMJIC_00095	100.000	405	100	405	405	0	0.0	749
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00096 GTPase Era
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00096	CAFLMJIC_00096	100.000	900	100	900	900	0	0.0	1663
+CAFLMJIC_00096	AAMILBOI_00006	99.889	900	100	900	900	1	0.0	1657
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00097 DNA repair protein RecO
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00097	CAFLMJIC_00097	100.000	747	100	747	747	0	0.0	1380
+CAFLMJIC_00097	AAMILBOI_00005	99.598	747	100	747	747	3	0.0	1363
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00098 Glycine--tRNA ligase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00098	CAFLMJIC_00098	100.000	1392	100	1392	1392	0	0.0	2571
+CAFLMJIC_00098	AAMILBOI_00004	99.856	1392	100	1392	1392	2	0.0	2560
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00099 Transcriptional repressor CcpN
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00099	CAFLMJIC_00099	100.000	540	100	540	540	0	0.0	998
+CAFLMJIC_00099	AAMILBOI_00003	99.630	540	100	540	540	2	0.0	987
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00100 Putative pyruvate, phosphate dikinase regulatory protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00100	CAFLMJIC_00100	100.000	819	100	819	819	0	0.0	1513
+CAFLMJIC_00100	AAMILBOI_00002	99.756	819	100	819	819	2	0.0	1502
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00101 DNA primase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00101	CAFLMJIC_00101	100.000	1818	100	1818	1818	0	0.0	3358
+CAFLMJIC_00101	AAMILBOI_00001	97.635	1818	100	1800	1818	25	0.0	3103
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00102 RNA polymerase sigma factor SigA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00102	CAFLMJIC_00102	100.000	1107	100	1107	1107	0	0.0	2045
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00103 tRNA (adenine(22)-N(1))-methyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00103	CAFLMJIC_00103	100.000	678	100	678	678	0	0.0	1253
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00104 GTP cyclohydrolase 1 type 2
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00104	CAFLMJIC_00104	100.000	1101	100	1101	1101	0	0.0	2034
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00105 DEAD-box ATP-dependent RNA helicase CshB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00105	CAFLMJIC_00105	100.000	1347	100	1347	1347	0	0.0	2488
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00106 putative endonuclease 4
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00106	CAFLMJIC_00106	100.000	891	100	891	891	0	0.0	1646
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00107 Vitamin B12 import ATP-binding protein BtuD
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00107	CAFLMJIC_00107	100.000	786	100	786	786	0	0.0	1452
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00108 High-affinity zinc uptake system membrane protein ZnuB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00108	CAFLMJIC_00108	100.000	873	100	873	873	0	0.0	1613
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00109 Zinc-specific metallo-regulatory protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00109	CAFLMJIC_00109	100.000	411	100	411	411	0	0.0	760
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00110 Superoxide dismutase [Mn/Fe] 1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00110	CAFLMJIC_00110	100.000	600	100	600	600	0	0.0	1109
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00111 Penicillin-binding protein H
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+CAFLMJIC_00111	CAFLMJIC_00111	100.000	2076	100	2076	2076	0	0.0	3834
+CAFLMJIC_00111	BPDMCOHN_00001	100.000	2076	73	1515	1515	0	0.0	2798
+CAFLMJIC_00111	GLMMBHIE_00005	98.330	2076	75	1557	1557	26	0.0	2732
+CAFLMJIC_00111	FKFNBKLF_00001	100.000	2076	46	951	951	0	0.0	1757
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00112 50S ribosomal protein L33 2
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+CAFLMJIC_00112	GLMMBHIE_00004	100.000	150	100	150	150	0	6.18e-76	278
+CAFLMJIC_00112	BPDMCOHN_00002	100.000	150	100	150	150	0	6.18e-76	278
+CAFLMJIC_00112	FKFNBKLF_00002	100.000	150	100	150	150	0	6.18e-76	278
+CAFLMJIC_00112	CAFLMJIC_00112	100.000	150	100	150	150	0	6.18e-76	278
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00113 putative protein YqgN
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+CAFLMJIC_00113	BPDMCOHN_00003	100.000	594	100	594	594	0	0.0	1098
+CAFLMJIC_00113	FKFNBKLF_00003	100.000	594	100	594	594	0	0.0	1098
+CAFLMJIC_00113	CAFLMJIC_00113	100.000	594	100	594	594	0	0.0	1098
+CAFLMJIC_00113	GLMMBHIE_00003	99.327	594	100	594	594	4	0.0	1075
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00114 Rhomboid protease GluP
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+CAFLMJIC_00114	BPDMCOHN_00004	100.000	1464	100	1464	1464	0	0.0	2704
+CAFLMJIC_00114	FKFNBKLF_00004	100.000	1464	100	1464	1464	0	0.0	2704
+CAFLMJIC_00114	CAFLMJIC_00114	100.000	1464	100	1464	1464	0	0.0	2704
+CAFLMJIC_00114	GLMMBHIE_00002	99.727	1464	100	1464	1464	4	0.0	2682
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00115 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+CAFLMJIC_00115	BPDMCOHN_00005	100.000	204	100	204	204	0	8.39e-106	377
+CAFLMJIC_00115	FKFNBKLF_00005	100.000	204	100	204	204	0	8.39e-106	377
+CAFLMJIC_00115	CAFLMJIC_00115	100.000	204	100	204	204	0	8.39e-106	377
+CAFLMJIC_00115	GLMMBHIE_00001	99.510	204	100	204	204	1	3.90e-104	372
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00116 Glucokinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00116	BPDMCOHN_00006	100.000	987	100	987	987	0	0.0	1823
+CAFLMJIC_00116	FKFNBKLF_00006	100.000	987	100	987	987	0	0.0	1823
+CAFLMJIC_00116	CAFLMJIC_00116	100.000	987	100	987	987	0	0.0	1823
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00117 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00117	BPDMCOHN_00007	100.000	330	100	330	330	0	1.27e-175	610
+CAFLMJIC_00117	FKFNBKLF_00007	100.000	330	100	330	330	0	1.27e-175	610
+CAFLMJIC_00117	CAFLMJIC_00117	100.000	330	100	330	330	0	1.27e-175	610
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00118 putative metallo-hydrolase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00118	BPDMCOHN_00008	100.000	624	100	624	624	0	0.0	1153
+CAFLMJIC_00118	FKFNBKLF_00008	100.000	624	100	624	624	0	0.0	1153
+CAFLMJIC_00118	CAFLMJIC_00118	100.000	624	100	624	624	0	0.0	1153
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00119 ComG operon protein 1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+CAFLMJIC_00119	BPDMCOHN_00009	100.000	975	100	975	975	0	0.0	1801
+CAFLMJIC_00119	FKFNBKLF_00009	100.000	975	100	975	975	0	0.0	1801
+CAFLMJIC_00119	CAFLMJIC_00119	100.000	975	100	975	975	0	0.0	1801
+CAFLMJIC_00119	IEDMLBHG_00001	100.000	975	96	933	933	0	0.0	1724
+CAFLMJIC_00119	IEDMLBHG_00002	100.000	975	3	1071	29	0	8.30e-08	54.7
+CAFLMJIC_00119	CAFLMJIC_00120	100.000	975	3	1071	29	0	8.30e-08	54.7
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00120 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+CAFLMJIC_00120	IEDMLBHG_00002	100.000	1071	100	1071	1071	0	0.0	1978
+CAFLMJIC_00120	CAFLMJIC_00120	100.000	1071	100	1071	1071	0	0.0	1978
+CAFLMJIC_00120	IEDMLBHG_00001	100.000	1071	3	933	29	0	9.13e-08	54.7
+CAFLMJIC_00120	BPDMCOHN_00009	100.000	1071	3	975	29	0	9.13e-08	54.7
+CAFLMJIC_00120	FKFNBKLF_00009	100.000	1071	3	975	29	0	9.13e-08	54.7
+CAFLMJIC_00120	CAFLMJIC_00119	100.000	1071	3	975	29	0	9.13e-08	54.7
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00121 ComG operon protein 3
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00121	IEDMLBHG_00003	100.000	312	100	312	312	0	1.22e-165	577
+CAFLMJIC_00121	CAFLMJIC_00121	100.000	312	100	312	312	0	1.22e-165	577
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00122 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00122	IEDMLBHG_00004	100.000	435	100	447	435	0	0.0	804
+CAFLMJIC_00122	CAFLMJIC_00122	100.000	435	100	435	435	0	0.0	804
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00123 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+CAFLMJIC_00123	IEDMLBHG_00005	100.000	300	100	300	300	0	5.50e-159	555
+CAFLMJIC_00123	CAFLMJIC_00123	100.000	300	100	300	300	0	5.50e-159	555
+CAFLMJIC_00123	IEDMLBHG_00006	100.000	300	18	468	53	0	1.11e-21	99.0
+CAFLMJIC_00123	CAFLMJIC_00124	100.000	300	18	468	53	0	1.11e-21	99.0
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00124 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+CAFLMJIC_00124	IEDMLBHG_00006	100.000	468	100	468	468	0	0.0	865
+CAFLMJIC_00124	CAFLMJIC_00124	100.000	468	100	468	468	0	0.0	865
+CAFLMJIC_00124	IEDMLBHG_00005	100.000	468	11	300	53	0	1.77e-21	99.0
+CAFLMJIC_00124	CAFLMJIC_00123	100.000	468	11	300	53	0	1.77e-21	99.0
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00125 Shikimate kinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+CAFLMJIC_00125	IEDMLBHG_00007	100.000	525	100	525	525	0	0.0	970
+CAFLMJIC_00125	CAFLMJIC_00125	100.000	525	100	525	525	0	0.0	970
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00126 Aminomethyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00126	CAFLMJIC_00126	100.000	1092	100	1092	1092	0	0.0	2017
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00127 putative glycine dehydrogenase (decarboxylating) subunit 1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00127	CAFLMJIC_00127	100.000	1347	100	1347	1347	0	0.0	2488
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00128 putative glycine dehydrogenase (decarboxylating) subunit 2
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00128	CAFLMJIC_00128	100.000	1473	100	1473	1473	0	0.0	2721
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00129 putative protein YibN
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00129	CAFLMJIC_00129	100.000	387	100	387	387	0	0.0	715
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00130 Octanoyltransferase LipM
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00130	CAFLMJIC_00130	100.000	831	100	831	831	0	0.0	1535
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00131 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00131	CAFLMJIC_00131	100.000	219	100	219	219	0	4.16e-114	405
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00132 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00132	CAFLMJIC_00132	100.000	582	100	582	582	0	0.0	1075
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00133 Aminopeptidase YpdF
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00133	CAFLMJIC_00133	100.000	1062	100	1062	1062	0	0.0	1962
+CAFLMJIC_00133	JBIMIPIB_00001	100.000	1062	42	444	444	0	0.0	821
+CAFLMJIC_00133	NPBCENDG_00001	100.000	1062	42	444	444	0	0.0	821
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00134 Elongation factor P
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00134	JBIMIPIB_00002	100.000	558	100	558	558	0	0.0	1031
+CAFLMJIC_00134	NPBCENDG_00002	100.000	558	100	558	558	0	0.0	1031
+CAFLMJIC_00134	CAFLMJIC_00134	100.000	558	100	558	558	0	0.0	1031
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00135 Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+CAFLMJIC_00135	JBIMIPIB_00003	100.000	465	100	465	465	0	0.0	859
+CAFLMJIC_00135	NPBCENDG_00003	100.000	465	100	465	465	0	0.0	859
+CAFLMJIC_00135	CAFLMJIC_00135	100.000	465	100	465	465	0	0.0	859
+CAFLMJIC_00135	LOAGNOMO_00001	100.000	465	35	165	165	0	9.68e-84	305
+CAFLMJIC_00135	CICOJLPI_00001	100.000	465	35	165	165	0	9.68e-84	305
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00136 2-oxoglutarate carboxylase small subunit
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+CAFLMJIC_00136	JBIMIPIB_00004	100.000	1356	100	1356	1356	0	0.0	2505
+CAFLMJIC_00136	NPBCENDG_00004	100.000	1356	100	1356	1356	0	0.0	2505
+CAFLMJIC_00136	LOAGNOMO_00002	100.000	1356	100	1356	1356	0	0.0	2505
+CAFLMJIC_00136	CICOJLPI_00002	100.000	1356	100	1356	1356	0	0.0	2505
+CAFLMJIC_00136	CAFLMJIC_00136	100.000	1356	100	1356	1356	0	0.0	2505
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00137 putative protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+CAFLMJIC_00137	JBIMIPIB_00005	100.000	363	100	363	363	0	0.0	671
+CAFLMJIC_00137	NPBCENDG_00005	100.000	363	100	363	363	0	0.0	671
+CAFLMJIC_00137	LOAGNOMO_00003	100.000	363	100	363	363	0	0.0	671
+CAFLMJIC_00137	CICOJLPI_00003	100.000	363	100	363	363	0	0.0	671
+CAFLMJIC_00137	CAFLMJIC_00137	100.000	363	100	363	363	0	0.0	671
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00138 Transcription antitermination protein NusB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+CAFLMJIC_00138	JBIMIPIB_00006	100.000	390	100	390	390	0	0.0	721
+CAFLMJIC_00138	NPBCENDG_00006	100.000	390	100	390	390	0	0.0	721
+CAFLMJIC_00138	LOAGNOMO_00004	100.000	390	100	390	390	0	0.0	721
+CAFLMJIC_00138	CICOJLPI_00004	100.000	390	100	390	390	0	0.0	721
+CAFLMJIC_00138	CAFLMJIC_00138	100.000	390	100	390	390	0	0.0	721
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00139 Exodeoxyribonuclease 7 large subunit
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+CAFLMJIC_00139	JBIMIPIB_00007	100.000	1338	100	1338	1338	0	0.0	2471
+CAFLMJIC_00139	LOAGNOMO_00005	100.000	1338	100	1338	1338	0	0.0	2471
+CAFLMJIC_00139	CICOJLPI_00005	100.000	1338	100	1338	1338	0	0.0	2471
+CAFLMJIC_00139	CAFLMJIC_00139	100.000	1338	100	1338	1338	0	0.0	2471
+CAFLMJIC_00139	NPBCENDG_00007	100.000	1338	42	561	561	0	0.0	1037
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00140 Exodeoxyribonuclease 7 small subunit
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+CAFLMJIC_00140	JBIMIPIB_00008	100.000	231	100	231	231	0	9.42e-121	427
+CAFLMJIC_00140	LOAGNOMO_00006	100.000	231	100	231	231	0	9.42e-121	427
+CAFLMJIC_00140	CICOJLPI_00006	100.000	231	100	231	231	0	9.42e-121	427
+CAFLMJIC_00140	CAFLMJIC_00140	100.000	231	100	231	231	0	9.42e-121	427
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00141 Farnesyl diphosphate synthase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00141	JBIMIPIB_00009	100.000	882	100	882	882	0	0.0	1629
+CAFLMJIC_00141	CICOJLPI_00007	100.000	882	100	882	882	0	0.0	1629
+CAFLMJIC_00141	CAFLMJIC_00141	100.000	882	100	882	882	0	0.0	1629
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00142 Arginine repressor
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+CAFLMJIC_00142	JBIMIPIB_00010	100.000	453	100	453	453	0	0.0	837
+CAFLMJIC_00142	CICOJLPI_00008	100.000	453	100	453	453	0	0.0	837
+CAFLMJIC_00142	CAFLMJIC_00142	100.000	453	100	453	453	0	0.0	837
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00143 DNA repair protein RecN
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00143	CAFLMJIC_00143	100.000	1680	100	1680	1680	0	0.0	3103
+# BLASTN 2.9.0+
+# Query: CAFLMJIC_00144 Dihydrolipoyl dehydrogenase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+CAFLMJIC_00144	CAFLMJIC_00144	100.000	1422	100	1422	1422	0	0.0	2627
+# BLAST processed 144 queries

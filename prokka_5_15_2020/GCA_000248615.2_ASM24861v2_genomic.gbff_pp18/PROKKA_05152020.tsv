@@ -1,0 +1,65 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CIEIPNNI_00001	gene	1146	rlmL			
+CIEIPNNI_00001	CDS	1146	rlmL	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+CIEIPNNI_00002	gene	321				
+CIEIPNNI_00002	CDS	321				hypothetical protein
+CIEIPNNI_00003	gene	156				
+CIEIPNNI_00003	CDS	156				hypothetical protein
+CIEIPNNI_00004	gene	1341				
+CIEIPNNI_00004	CDS	1341				hypothetical protein
+CIEIPNNI_00005	gene	3441	der			
+CIEIPNNI_00005	CDS	3441	der			GTPase Der
+CIEIPNNI_00006	gene	879	ypcP			
+CIEIPNNI_00006	CDS	879	ypcP	3.1.11.-	COG0258	5'-3' exonuclease
+CIEIPNNI_00007	gene	1119	ald1			
+CIEIPNNI_00007	CDS	1119	ald1	1.4.1.1		Alanine dehydrogenase 1
+CIEIPNNI_00008	gene	1041	tdcB			
+CIEIPNNI_00008	CDS	1041	tdcB	4.3.1.19		L-threonine dehydratase catabolic TdcB
+CIEIPNNI_00009	gene	1323	steT			
+CIEIPNNI_00009	CDS	1323	steT		COG0531	Serine/threonine exchanger SteT
+CIEIPNNI_00010	gene	1521	norB			
+CIEIPNNI_00010	CDS	1521	norB			Quinolone resistance protein NorB
+CIEIPNNI_00011	gene	27567	ebh			
+CIEIPNNI_00011	CDS	27567	ebh			Extracellular matrix-binding protein ebh
+CIEIPNNI_00012	gene	4272	ebhA			
+CIEIPNNI_00012	CDS	4272	ebhA			Extracellular matrix-binding protein EbhA
+CIEIPNNI_00013	gene	402	rnhA			
+CIEIPNNI_00013	CDS	402	rnhA		COG0328	14.7 kDa ribonuclease H-like protein
+CIEIPNNI_00014	gene	705				
+CIEIPNNI_00014	CDS	705				queuosine precursor transporter
+CIEIPNNI_00015	gene	222				
+CIEIPNNI_00015	CDS	222				hypothetical protein
+CIEIPNNI_00016	gene	252				
+CIEIPNNI_00016	CDS	252				hypothetical protein
+CIEIPNNI_00017	gene	1125				
+CIEIPNNI_00017	CDS	1125				hypothetical protein
+CIEIPNNI_00018	gene	438				
+CIEIPNNI_00018	CDS	438				hypothetical protein
+CIEIPNNI_00019	gene	1041	thyA			
+CIEIPNNI_00019	CDS	1041	thyA	2.1.1.45	COG0207	Thymidylate synthase
+CIEIPNNI_00020	gene	480	folA			
+CIEIPNNI_00020	CDS	480	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+CIEIPNNI_00021	gene	840				
+CIEIPNNI_00021	CDS	840				DegV domain-containing protein
+CIEIPNNI_00022	gene	534	msrA2			
+CIEIPNNI_00022	CDS	534	msrA2	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA 2
+CIEIPNNI_00023	gene	429	msrB			
+CIEIPNNI_00023	CDS	429	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+CIEIPNNI_00024	gene	501	crr			
+CIEIPNNI_00024	CDS	501	crr			PTS system glucose-specific EIIA component
+CIEIPNNI_00025	gene	222				
+CIEIPNNI_00025	CDS	222				hypothetical protein
+CIEIPNNI_00026	gene	1491				
+CIEIPNNI_00026	CDS	1491		3.4.21.-		putative CtpA-like serine protease
+CIEIPNNI_00027	gene	510				
+CIEIPNNI_00027	CDS	510				hypothetical protein
+CIEIPNNI_00028	gene	1071	murG			
+CIEIPNNI_00028	CDS	1071	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+CIEIPNNI_00029	gene	615				
+CIEIPNNI_00029	CDS	615				hypothetical protein
+CIEIPNNI_00030	gene	201				
+CIEIPNNI_00030	CDS	201				hypothetical protein
+CIEIPNNI_00031	gene	660	arlR			
+CIEIPNNI_00031	CDS	660	arlR		COG0745	Response regulator ArlR
+CIEIPNNI_00032	gene	1356	arlS			
+CIEIPNNI_00032	CDS	1356	arlS	2.7.13.3		Signal transduction histidine-protein kinase ArlS

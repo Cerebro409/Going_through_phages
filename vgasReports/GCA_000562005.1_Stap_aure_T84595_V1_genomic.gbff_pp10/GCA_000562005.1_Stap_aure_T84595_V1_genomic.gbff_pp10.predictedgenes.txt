@@ -1,0 +1,26 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1          385          618            -          234      0.13898
+
+     2          719         1069            +          351      0.16821
+
+     3         1141         1467            +          327      0.17233
+
+     4         1483         1986            +          504      0.26964
+
+     5         2000         2299            +          300      0.29381
+
+     6         2473         3576            -         1104      0.50000
+     (bit_score:173.326;e-value:2.82028e-50;identity:34.0%;gi|971760362|ref|YP_009213701.1| putative zinc-containing alcohol dehydrogenase superfamily protein [Prochlorococcus phage P-TIM68])
+

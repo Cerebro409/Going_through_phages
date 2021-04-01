@@ -1,0 +1,603 @@
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00001 IS1182 family transposase ISSau3
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+FIMMPJNN_00001	DGPDLLBB_00001	100.000	345	100	345	345	0	0.0	638
+FIMMPJNN_00001	FIMMPJNN_00001	100.000	345	100	345	345	0	0.0	638
+FIMMPJNN_00001	EFEAKEDL_00052	96.795	345	90	312	312	10	6.44e-149	521
+FIMMPJNN_00001	CMLBKDKH_00049	83.792	345	94	1524	327	48	7.06e-84	305
+FIMMPJNN_00001	CEGCFJMI_00004	96.216	345	54	186	185	7	2.54e-83	303
+FIMMPJNN_00001	DGPDLLBB_00093	95.954	345	50	174	173	7	1.19e-76	281
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00002 Ribonuclease Y
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00002	DGPDLLBB_00002	100.000	1560	100	1560	1560	0	0.0	2881
+FIMMPJNN_00002	FIMMPJNN_00002	100.000	1560	100	1560	1560	0	0.0	2881
+FIMMPJNN_00002	BOPJEMOM_00073	99.744	1560	100	1560	1560	4	0.0	2859
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00003 Protein RecA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00003	DGPDLLBB_00003	100.000	1044	100	1044	1044	0	0.0	1929
+FIMMPJNN_00003	FIMMPJNN_00003	100.000	1044	100	1044	1044	0	0.0	1929
+FIMMPJNN_00003	BOPJEMOM_00072	99.808	1044	100	1044	1044	2	0.0	1917
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00004 Putative competence-damage inducible protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00004	DGPDLLBB_00004	100.000	1152	100	1152	1152	0	0.0	2128
+FIMMPJNN_00004	FIMMPJNN_00004	100.000	1152	100	1152	1152	0	0.0	2128
+FIMMPJNN_00004	BOPJEMOM_00071	99.740	1152	100	1152	1152	3	0.0	2111
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00005 CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00005	DGPDLLBB_00005	100.000	579	100	579	579	0	0.0	1070
+FIMMPJNN_00005	FIMMPJNN_00005	100.000	579	100	579	579	0	0.0	1070
+FIMMPJNN_00005	BOPJEMOM_00070	99.827	579	100	579	579	1	0.0	1064
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00006 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00006	DGPDLLBB_00006	100.000	393	100	393	393	0	0.0	726
+FIMMPJNN_00006	FIMMPJNN_00006	100.000	393	100	393	393	0	0.0	726
+FIMMPJNN_00006	BOPJEMOM_00069	99.746	393	100	393	393	1	0.0	721
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00007 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00007	FIMMPJNN_00007	100.000	882	100	882	882	0	0.0	1629
+FIMMPJNN_00007	DGPDLLBB_00007	100.000	882	94	828	828	0	0.0	1530
+FIMMPJNN_00007	BOPJEMOM_00068	99.396	882	94	828	828	5	0.0	1502
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00008 Acetoacetyl-CoA reductase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00008	DGPDLLBB_00008	100.000	705	100	705	705	0	0.0	1303
+FIMMPJNN_00008	FIMMPJNN_00008	100.000	705	100	705	705	0	0.0	1303
+FIMMPJNN_00008	BOPJEMOM_00067	99.149	705	100	705	705	6	0.0	1269
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00009 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00009	DGPDLLBB_00009	100.000	1287	100	1287	1287	0	0.0	2377
+FIMMPJNN_00009	FIMMPJNN_00009	100.000	1287	100	1287	1287	0	0.0	2377
+FIMMPJNN_00009	BOPJEMOM_00066	98.912	1287	100	1287	1287	14	0.0	2300
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00010 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00010	DGPDLLBB_00010	100.000	1266	100	1266	1266	0	0.0	2338
+FIMMPJNN_00010	FIMMPJNN_00010	100.000	1266	100	1266	1266	0	0.0	2338
+FIMMPJNN_00010	BOPJEMOM_00065	99.684	1266	100	1266	1266	4	0.0	2316
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00011 HTH-type transcriptional repressor GamR
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00011	DGPDLLBB_00011	100.000	714	100	714	714	0	0.0	1319
+FIMMPJNN_00011	BOPJEMOM_00064	100.000	714	100	714	714	0	0.0	1319
+FIMMPJNN_00011	FIMMPJNN_00011	100.000	714	100	714	714	0	0.0	1319
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00012 DNA translocase FtsK
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00012	DGPDLLBB_00012	100.000	2370	100	2370	2370	0	0.0	4377
+FIMMPJNN_00012	FIMMPJNN_00012	100.000	2370	100	2370	2370	0	0.0	4377
+FIMMPJNN_00012	BOPJEMOM_00063	99.241	2370	100	2370	2370	18	0.0	4277
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00013 Ribonuclease J 2
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00013	FIMMPJNN_00013	100.000	1725	100	1725	1725	0	0.0	3186
+FIMMPJNN_00013	DGPDLLBB_00013	100.000	1725	97	1674	1674	0	0.0	3092
+FIMMPJNN_00013	BOPJEMOM_00062	99.462	1725	97	1674	1674	9	0.0	3042
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00014 Polyribonucleotide nucleotidyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00014	DGPDLLBB_00014	100.000	2097	100	2097	2097	0	0.0	3873
+FIMMPJNN_00014	FIMMPJNN_00014	100.000	2097	100	2097	2097	0	0.0	3873
+FIMMPJNN_00014	BOPJEMOM_00061	99.523	2097	100	2097	2097	10	0.0	3818
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00015 30S ribosomal protein S15
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00015	DGPDLLBB_00015	100.000	270	100	270	270	0	2.33e-142	499
+FIMMPJNN_00015	BOPJEMOM_00060	100.000	270	100	270	270	0	2.33e-142	499
+FIMMPJNN_00015	FIMMPJNN_00015	100.000	270	100	270	270	0	2.33e-142	499
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00016 Bifunctional riboflavin kinase/FMN adenylyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00016	DGPDLLBB_00016	100.000	972	100	972	972	0	0.0	1796
+FIMMPJNN_00016	FIMMPJNN_00016	100.000	972	100	972	972	0	0.0	1796
+FIMMPJNN_00016	BOPJEMOM_00059	99.486	972	100	972	972	5	0.0	1768
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00017 tRNA pseudouridine synthase B
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00017	DGPDLLBB_00017	100.000	918	100	918	918	0	0.0	1696
+FIMMPJNN_00017	FIMMPJNN_00017	100.000	918	100	918	918	0	0.0	1696
+FIMMPJNN_00017	BOPJEMOM_00058	99.891	918	100	918	918	1	0.0	1690
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00018 Ribosome-binding factor A
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00018	FIMMPJNN_00018	100.000	393	100	393	393	0	0.0	726
+FIMMPJNN_00018	DGPDLLBB_00018	100.000	393	89	351	351	0	0.0	649
+FIMMPJNN_00018	BOPJEMOM_00057	100.000	393	89	351	351	0	0.0	649
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00019 Translation initiation factor IF-2
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00019	DGPDLLBB_00019	100.000	2118	100	2118	2118	0	0.0	3912
+FIMMPJNN_00019	FIMMPJNN_00019	100.000	2118	100	2118	2118	0	0.0	3912
+FIMMPJNN_00019	BOPJEMOM_00056	99.575	2118	100	2118	2118	9	0.0	3862
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00020 putative ribosomal protein YlxQ
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00020	DGPDLLBB_00020	100.000	318	100	318	318	0	5.74e-169	588
+FIMMPJNN_00020	BOPJEMOM_00055	100.000	318	100	318	318	0	5.74e-169	588
+FIMMPJNN_00020	FIMMPJNN_00020	100.000	318	100	318	318	0	5.74e-169	588
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00021 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00021	DGPDLLBB_00021	100.000	285	100	285	285	0	1.13e-150	527
+FIMMPJNN_00021	FIMMPJNN_00021	100.000	285	100	285	285	0	1.13e-150	527
+FIMMPJNN_00021	BOPJEMOM_00054	99.649	285	100	285	285	1	5.28e-149	521
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00022 Transcription termination/antitermination protein NusA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00022	DGPDLLBB_00022	100.000	1176	100	1176	1176	0	0.0	2172
+FIMMPJNN_00022	FIMMPJNN_00022	100.000	1176	100	1176	1176	0	0.0	2172
+FIMMPJNN_00022	BOPJEMOM_00053	99.490	1176	100	1176	1176	6	0.0	2139
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00023 Ribosome maturation factor RimP
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00023	DGPDLLBB_00023	100.000	468	100	468	468	0	0.0	865
+FIMMPJNN_00023	FIMMPJNN_00023	100.000	468	100	468	468	0	0.0	865
+FIMMPJNN_00023	BOPJEMOM_00052	99.359	468	100	468	468	3	0.0	848
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00024 DNA polymerase III PolC-type
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00024	DGPDLLBB_00024	100.000	4311	100	4317	4311	0	0.0	7962
+FIMMPJNN_00024	FIMMPJNN_00024	100.000	4311	100	4311	4311	0	0.0	7962
+FIMMPJNN_00024	BOPJEMOM_00051	98.933	4311	100	4317	4311	46	0.0	7707
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00025 Proline--tRNA ligase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00025	DGPDLLBB_00025	100.000	1704	100	1704	1704	0	0.0	3147
+FIMMPJNN_00025	FIMMPJNN_00025	100.000	1704	100	1704	1704	0	0.0	3147
+FIMMPJNN_00025	BOPJEMOM_00050	98.709	1704	100	1704	1704	22	0.0	3025
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00026 Putative zinc metalloprotease
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00026	DGPDLLBB_00026	100.000	1287	100	1287	1287	0	0.0	2377
+FIMMPJNN_00026	FIMMPJNN_00026	100.000	1287	100	1287	1287	0	0.0	2377
+FIMMPJNN_00026	BOPJEMOM_00049	99.145	1287	100	1287	1287	11	0.0	2316
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00027 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00027	DGPDLLBB_00027	100.000	783	100	783	783	0	0.0	1447
+FIMMPJNN_00027	FIMMPJNN_00027	100.000	783	100	783	783	0	0.0	1447
+FIMMPJNN_00027	BOPJEMOM_00048	99.745	783	100	783	783	2	0.0	1435
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00028 Isoprenyl transferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00028	FIMMPJNN_00028	100.000	804	100	804	804	0	0.0	1485
+FIMMPJNN_00028	DGPDLLBB_00028	100.000	804	96	771	771	0	0.0	1424
+FIMMPJNN_00028	BOPJEMOM_00047	99.611	804	96	771	771	3	0.0	1408
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00029 Ribosome-recycling factor
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00029	DGPDLLBB_00029	100.000	555	100	555	555	0	0.0	1026
+FIMMPJNN_00029	FIMMPJNN_00029	100.000	555	100	555	555	0	0.0	1026
+FIMMPJNN_00029	BOPJEMOM_00046	98.919	555	100	555	555	6	0.0	992
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00030 Uridylate kinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00030	DGPDLLBB_00030	100.000	723	100	723	723	0	0.0	1336
+FIMMPJNN_00030	FIMMPJNN_00030	100.000	723	100	723	723	0	0.0	1336
+FIMMPJNN_00030	BOPJEMOM_00045	99.862	723	100	723	723	1	0.0	1330
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00031 Elongation factor Ts
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00031	DGPDLLBB_00031	100.000	882	100	882	882	0	0.0	1629
+FIMMPJNN_00031	BOPJEMOM_00044	100.000	882	100	882	882	0	0.0	1629
+FIMMPJNN_00031	FIMMPJNN_00031	100.000	882	100	882	882	0	0.0	1629
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00032 30S ribosomal protein S2
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00032	DGPDLLBB_00032	100.000	768	100	768	768	0	0.0	1419
+FIMMPJNN_00032	FIMMPJNN_00032	100.000	768	100	768	768	0	0.0	1419
+FIMMPJNN_00032	BOPJEMOM_00043	99.870	768	100	768	768	1	0.0	1413
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00033 GTP-sensing transcriptional pleiotropic repressor CodY
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00033	DGPDLLBB_00033	100.000	774	100	774	774	0	0.0	1430
+FIMMPJNN_00033	FIMMPJNN_00033	100.000	774	100	774	774	0	0.0	1430
+FIMMPJNN_00033	BOPJEMOM_00042	99.483	774	100	774	774	4	0.0	1408
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00034 ATP-dependent protease ATPase subunit HslU
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00034	DGPDLLBB_00034	100.000	1404	100	1404	1404	0	0.0	2593
+FIMMPJNN_00034	FIMMPJNN_00034	100.000	1404	100	1404	1404	0	0.0	2593
+FIMMPJNN_00034	BOPJEMOM_00041	99.217	1404	100	1404	1404	11	0.0	2532
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00035 ATP-dependent protease subunit HslV
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00035	DGPDLLBB_00035	100.000	546	100	546	546	0	0.0	1009
+FIMMPJNN_00035	FIMMPJNN_00035	100.000	546	100	546	546	0	0.0	1009
+FIMMPJNN_00035	BOPJEMOM_00040	99.634	546	100	546	546	2	0.0	998
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00036 Tyrosine recombinase XerC
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00036	DGPDLLBB_00036	100.000	897	100	897	897	0	0.0	1657
+FIMMPJNN_00036	FIMMPJNN_00036	100.000	897	100	897	897	0	0.0	1657
+FIMMPJNN_00036	BOPJEMOM_00039	98.774	897	100	897	897	11	0.0	1596
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00037 Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00037	DGPDLLBB_00037	100.000	1308	100	1308	1308	0	0.0	2416
+FIMMPJNN_00037	FIMMPJNN_00037	100.000	1308	100	1308	1308	0	0.0	2416
+FIMMPJNN_00037	BOPJEMOM_00038	98.777	1308	100	1308	1308	16	0.0	2327
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00038 DNA topoisomerase 1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00038	DGPDLLBB_00038	100.000	2076	100	2076	2076	0	0.0	3834
+FIMMPJNN_00038	FIMMPJNN_00038	100.000	2076	100	2076	2076	0	0.0	3834
+FIMMPJNN_00038	BOPJEMOM_00037	99.422	2076	100	2076	2076	12	0.0	3768
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00039 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00039	DGPDLLBB_00039	100.000	873	100	873	873	0	0.0	1613
+FIMMPJNN_00039	FIMMPJNN_00039	100.000	873	100	873	873	0	0.0	1613
+FIMMPJNN_00039	BOPJEMOM_00036	99.427	873	100	873	873	5	0.0	1585
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00040 Aminoacyltransferase FemA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00040	DGPDLLBB_00040	100.000	1245	100	1245	1245	0	0.0	2300
+FIMMPJNN_00040	FIMMPJNN_00040	100.000	1245	100	1245	1245	0	0.0	2300
+FIMMPJNN_00040	BOPJEMOM_00035	98.552	1245	99	1245	1243	18	0.0	2196
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00041 putative cell wall hydrolase LytN
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00041	DGPDLLBB_00041	100.000	1119	100	1119	1119	0	0.0	2067
+FIMMPJNN_00041	FIMMPJNN_00041	100.000	1119	100	1119	1119	0	0.0	2067
+FIMMPJNN_00041	BOPJEMOM_00034	99.106	1119	100	1119	1119	10	0.0	2012
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00042 Succinate--CoA ligase [ADP-forming] subunit alpha
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00042	DGPDLLBB_00042	100.000	909	100	909	909	0	0.0	1679
+FIMMPJNN_00042	FIMMPJNN_00042	100.000	909	100	909	909	0	0.0	1679
+FIMMPJNN_00042	BOPJEMOM_00033	99.230	909	100	909	909	7	0.0	1640
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00043 Succinate--CoA ligase [ADP-forming] subunit beta
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00043	DGPDLLBB_00043	100.000	1167	100	1167	1167	0	0.0	2156
+FIMMPJNN_00043	FIMMPJNN_00043	100.000	1167	100	1167	1167	0	0.0	2156
+FIMMPJNN_00043	BOPJEMOM_00032	99.572	1167	100	1167	1167	5	0.0	2128
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00044 Ribonuclease HII
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00044	DGPDLLBB_00044	100.000	768	100	768	768	0	0.0	1419
+FIMMPJNN_00044	FIMMPJNN_00044	100.000	768	100	768	768	0	0.0	1419
+FIMMPJNN_00044	BOPJEMOM_00031	98.177	768	100	768	768	14	0.0	1341
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00045 Ribosome biogenesis GTPase A
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00045	DGPDLLBB_00045	100.000	885	100	885	885	0	0.0	1635
+FIMMPJNN_00045	FIMMPJNN_00045	100.000	885	100	885	885	0	0.0	1635
+FIMMPJNN_00045	BOPJEMOM_00030	97.853	885	100	885	885	19	0.0	1530
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00046 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00046	DGPDLLBB_00046	100.000	2607	100	2607	2607	0	0.0	4815
+FIMMPJNN_00046	FIMMPJNN_00046	100.000	2607	100	2607	2607	0	0.0	4815
+FIMMPJNN_00046	BOPJEMOM_00029	97.967	2607	100	2607	2607	53	0.0	4521
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00047 50S ribosomal protein L19
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00047	DGPDLLBB_00047	100.000	351	100	351	351	0	0.0	649
+FIMMPJNN_00047	BOPJEMOM_00028	100.000	351	100	351	351	0	0.0	649
+FIMMPJNN_00047	FIMMPJNN_00047	100.000	351	100	351	351	0	0.0	649
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00048 tRNA (guanine-N(1)-)-methyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00048	DGPDLLBB_00048	100.000	738	100	738	738	0	0.0	1363
+FIMMPJNN_00048	FIMMPJNN_00048	100.000	738	100	738	738	0	0.0	1363
+FIMMPJNN_00048	BOPJEMOM_00027	99.322	738	100	738	738	5	0.0	1336
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00049 Ribosome maturation factor RimM
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00049	DGPDLLBB_00049	100.000	504	100	504	504	0	0.0	931
+FIMMPJNN_00049	FIMMPJNN_00049	100.000	504	100	504	504	0	0.0	931
+FIMMPJNN_00049	BOPJEMOM_00026	99.405	504	100	504	504	3	0.0	915
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00050 30S ribosomal protein S16
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00050	DGPDLLBB_00050	100.000	276	100	276	276	0	1.10e-145	510
+FIMMPJNN_00050	BOPJEMOM_00025	100.000	276	100	276	276	0	1.10e-145	510
+FIMMPJNN_00050	FIMMPJNN_00050	100.000	276	100	276	276	0	1.10e-145	510
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00051 Signal recognition particle protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00051	DGPDLLBB_00051	100.000	1368	100	1368	1368	0	0.0	2527
+FIMMPJNN_00051	FIMMPJNN_00051	100.000	1368	100	1368	1368	0	0.0	2527
+FIMMPJNN_00051	BOPJEMOM_00024	98.830	1368	100	1368	1368	16	0.0	2438
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00052 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00052	DGPDLLBB_00052	100.000	333	100	333	333	0	2.77e-177	616
+FIMMPJNN_00052	FIMMPJNN_00052	100.000	333	100	333	333	0	2.77e-177	616
+FIMMPJNN_00052	BOPJEMOM_00023	99.099	333	100	333	333	3	2.79e-172	599
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00053 Signal recognition particle receptor FtsY
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00053	DGPDLLBB_00053	100.000	1251	100	1251	1251	0	0.0	2311
+FIMMPJNN_00053	FIMMPJNN_00053	100.000	1251	100	1251	1251	0	0.0	2311
+FIMMPJNN_00053	BOPJEMOM_00022	99.361	1251	100	1251	1251	8	0.0	2266
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00054 Chromosome partition protein Smc
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00054	DGPDLLBB_00054	100.000	3567	100	3567	3567	0	0.0	6588
+FIMMPJNN_00054	FIMMPJNN_00054	100.000	3567	100	3567	3567	0	0.0	6588
+FIMMPJNN_00054	BOPJEMOM_00021	99.579	3567	100	3567	3567	15	0.0	6505
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00055 Ribonuclease 3
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00055	DGPDLLBB_00055	100.000	732	100	732	732	0	0.0	1352
+FIMMPJNN_00055	FIMMPJNN_00055	100.000	732	100	732	732	0	0.0	1352
+FIMMPJNN_00055	BOPJEMOM_00020	99.727	732	100	732	732	2	0.0	1341
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00056 Acyl carrier protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00056	DGPDLLBB_00056	100.000	234	100	234	234	0	2.05e-122	433
+FIMMPJNN_00056	BOPJEMOM_00019	100.000	234	100	234	234	0	2.05e-122	433
+FIMMPJNN_00056	FIMMPJNN_00056	100.000	234	100	234	234	0	2.05e-122	433
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00057 3-oxoacyl-[acyl-carrier-protein] reductase FabG
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00057	DGPDLLBB_00057	100.000	735	100	735	735	0	0.0	1358
+FIMMPJNN_00057	FIMMPJNN_00057	100.000	735	100	735	735	0	0.0	1358
+FIMMPJNN_00057	BOPJEMOM_00018	99.728	735	100	735	735	2	0.0	1347
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00058 Malonyl CoA-acyl carrier protein transacylase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00058	DGPDLLBB_00058	100.000	927	100	927	927	0	0.0	1712
+FIMMPJNN_00058	FIMMPJNN_00058	100.000	927	100	927	927	0	0.0	1712
+FIMMPJNN_00058	BOPJEMOM_00017	99.353	927	100	927	927	6	0.0	1679
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00059 Phosphate acyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00059	FIMMPJNN_00059	100.000	1008	100	1008	1008	0	0.0	1862
+FIMMPJNN_00059	DGPDLLBB_00059	100.000	1008	98	987	987	0	0.0	1823
+FIMMPJNN_00059	BOPJEMOM_00016	99.797	1008	98	987	987	2	0.0	1812
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00060 Transcription factor FapR
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00060	FIMMPJNN_00060	100.000	573	100	573	573	0	0.0	1059
+FIMMPJNN_00060	DGPDLLBB_00060	100.000	573	97	558	558	0	0.0	1031
+FIMMPJNN_00060	BOPJEMOM_00015	99.821	573	97	558	558	1	0.0	1026
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00061 ATP-dependent DNA helicase RecG
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00061	DGPDLLBB_00061	100.000	2061	100	2061	2061	0	0.0	3807
+FIMMPJNN_00061	FIMMPJNN_00061	100.000	2061	100	2061	2061	0	0.0	3807
+FIMMPJNN_00061	BOPJEMOM_00014	99.078	2061	100	2061	2061	19	0.0	3701
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00062 putative protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00062	DGPDLLBB_00062	100.000	1647	100	1647	1647	0	0.0	3042
+FIMMPJNN_00062	FIMMPJNN_00062	100.000	1647	100	1647	1647	0	0.0	3042
+FIMMPJNN_00062	BOPJEMOM_00013	99.332	1647	100	1647	1647	11	0.0	2981
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00063 putative protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00063	DGPDLLBB_00063	100.000	375	100	375	375	0	0.0	693
+FIMMPJNN_00063	FIMMPJNN_00063	100.000	375	100	375	375	0	0.0	693
+FIMMPJNN_00063	BOPJEMOM_00012	99.467	375	100	375	375	2	0.0	682
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00064 50S ribosomal protein L28
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00064	DGPDLLBB_00064	100.000	189	100	189	189	0	1.68e-97	350
+FIMMPJNN_00064	BOPJEMOM_00011	100.000	189	100	189	189	0	1.68e-97	350
+FIMMPJNN_00064	FIMMPJNN_00064	100.000	189	100	189	189	0	1.68e-97	350
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00065 Thiamine pyrophosphokinase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00065	DGPDLLBB_00065	100.000	642	100	642	642	0	0.0	1186
+FIMMPJNN_00065	FIMMPJNN_00065	100.000	642	100	642	642	0	0.0	1186
+FIMMPJNN_00065	BOPJEMOM_00010	99.688	642	100	642	642	2	0.0	1175
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00066 Ribulose-phosphate 3-epimerase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00066	DGPDLLBB_00066	100.000	645	100	645	645	0	0.0	1192
+FIMMPJNN_00066	FIMMPJNN_00066	100.000	645	100	645	645	0	0.0	1192
+FIMMPJNN_00066	BOPJEMOM_00009	99.380	645	100	645	645	4	0.0	1170
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00067 Small ribosomal subunit biogenesis GTPase RsgA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00067	DGPDLLBB_00067	100.000	876	100	876	876	0	0.0	1618
+FIMMPJNN_00067	FIMMPJNN_00067	100.000	876	100	876	876	0	0.0	1618
+FIMMPJNN_00067	BOPJEMOM_00008	98.174	876	100	876	876	16	0.0	1530
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00068 Serine/threonine-protein kinase PrkC
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00068	DGPDLLBB_00068	100.000	1995	100	1995	1995	0	0.0	3685
+FIMMPJNN_00068	FIMMPJNN_00068	100.000	1995	100	1995	1995	0	0.0	3685
+FIMMPJNN_00068	BOPJEMOM_00007	99.198	1995	100	1995	1995	16	0.0	3596
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00069 Serine/threonine phosphatase stp
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00069	DGPDLLBB_00069	100.000	744	100	744	744	0	0.0	1375
+FIMMPJNN_00069	FIMMPJNN_00069	100.000	744	100	744	744	0	0.0	1375
+FIMMPJNN_00069	BOPJEMOM_00006	99.597	744	100	744	744	3	0.0	1358
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00070 putative dual-specificity RNA methyltransferase RlmN
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00070	DGPDLLBB_00070	100.000	1095	100	1095	1095	0	0.0	2023
+FIMMPJNN_00070	FIMMPJNN_00070	100.000	1095	100	1095	1095	0	0.0	2023
+FIMMPJNN_00070	BOPJEMOM_00005	99.361	1095	100	1095	1095	7	0.0	1984
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00071 Ribosomal RNA small subunit methyltransferase B
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00071	DGPDLLBB_00071	100.000	1308	100	1308	1308	0	0.0	2416
+FIMMPJNN_00071	FIMMPJNN_00071	100.000	1308	100	1308	1308	0	0.0	2416
+FIMMPJNN_00071	BOPJEMOM_00004	99.312	1308	100	1308	1308	9	0.0	2366
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00072 Methionyl-tRNA formyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00072	DGPDLLBB_00072	100.000	936	100	936	936	0	0.0	1729
+FIMMPJNN_00072	FIMMPJNN_00072	100.000	936	100	936	936	0	0.0	1729
+FIMMPJNN_00072	BOPJEMOM_00003	98.932	936	100	936	936	10	0.0	1674
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00073 Peptide deformylase 1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00073	DGPDLLBB_00073	100.000	489	100	489	489	0	0.0	904
+FIMMPJNN_00073	FIMMPJNN_00073	100.000	489	100	489	489	0	0.0	904
+FIMMPJNN_00073	BOPJEMOM_00002	98.773	489	100	489	489	6	0.0	870
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00074 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+FIMMPJNN_00074	DGPDLLBB_00074	100.000	279	100	279	279	0	2.40e-147	516
+FIMMPJNN_00074	FIMMPJNN_00074	100.000	279	100	279	279	0	2.40e-147	516
+FIMMPJNN_00074	BOPJEMOM_00001	93.548	279	100	279	279	18	2.50e-117	416
+# BLASTN 2.9.0+
+# Query: FIMMPJNN_00075 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+FIMMPJNN_00075	DGPDLLBB_00075	100.000	771	100	954	771	0	0.0	1424
+FIMMPJNN_00075	FIMMPJNN_00075	100.000	771	100	771	771	0	0.0	1424
+# BLAST processed 75 queries

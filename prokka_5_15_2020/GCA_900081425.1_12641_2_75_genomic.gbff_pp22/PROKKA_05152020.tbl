@@ -1,0 +1,226 @@
+>Feature gnl|X|APIDFFDB_1
+1986	1585	gene
+			gene	ftsL
+			locus_tag	APIDFFDB_00001
+1986	1585	CDS
+			gene	ftsL
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00910
+			locus_tag	APIDFFDB_00001
+			product	Cell division protein FtsL
+			protein_id	gnl|X|APIDFFDB_00001
+2935	2000	gene
+			gene	rsmH
+			locus_tag	APIDFFDB_00002
+2935	2000	CDS
+			EC_number	2.1.1.199
+			gene	rsmH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60392
+			locus_tag	APIDFFDB_00002
+			product	Ribosomal RNA small subunit methyltransferase H
+			protein_id	gnl|X|APIDFFDB_00002
+3382	2951	gene
+			gene	mraZ
+			locus_tag	APIDFFDB_00003
+3382	2951	CDS
+			gene	mraZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65439
+			locus_tag	APIDFFDB_00003
+			product	Transcriptional regulator MraZ
+			protein_id	gnl|X|APIDFFDB_00003
+5139	3526	gene
+			gene	bshC
+			locus_tag	APIDFFDB_00004
+5139	3526	CDS
+			EC_number	6.-.-.-
+			db_xref	COG:COG4365
+			gene	bshC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P55342
+			locus_tag	APIDFFDB_00004
+			product	Putative cysteine ligase BshC
+			protein_id	gnl|X|APIDFFDB_00004
+5334	5774	gene
+			locus_tag	APIDFFDB_00005
+5334	5774	CDS
+			EC_number	2.3.1.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99UT4
+			locus_tag	APIDFFDB_00005
+			product	putative N-acetyltransferase
+			protein_id	gnl|X|APIDFFDB_00005
+6575	5880	gene
+			gene	yfnB
+			locus_tag	APIDFFDB_00006
+6575	5880	CDS
+			EC_number	3.-.-.-
+			db_xref	COG:COG1011
+			gene	yfnB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O06480
+			locus_tag	APIDFFDB_00006
+			product	Putative HAD-hydrolase YfnB
+			protein_id	gnl|X|APIDFFDB_00006
+6833	6699	gene
+			locus_tag	APIDFFDB_00007
+6833	6699	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P11699
+			locus_tag	APIDFFDB_00007
+			product	Antibacterial protein 3
+			protein_id	gnl|X|APIDFFDB_00007
+7024	6890	gene
+			locus_tag	APIDFFDB_00008
+7024	6890	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P11699
+			locus_tag	APIDFFDB_00008
+			product	Antibacterial protein 3
+			protein_id	gnl|X|APIDFFDB_00008
+7387	7462	gene
+			locus_tag	APIDFFDB_00009
+7387	7462	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	APIDFFDB_00009
+			product	tRNA-Arg(tct)
+8118	7930	gene
+			locus_tag	APIDFFDB_00010
+8118	7930	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	APIDFFDB_00010
+			product	hypothetical protein
+			protein_id	gnl|X|APIDFFDB_00010
+8367	9314	gene
+			locus_tag	APIDFFDB_00011
+8367	9314	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	APIDFFDB_00011
+			product	hypothetical protein
+			protein_id	gnl|X|APIDFFDB_00011
+9847	9620	gene
+			locus_tag	APIDFFDB_00012
+9847	9620	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	APIDFFDB_00012
+			product	hypothetical protein
+			protein_id	gnl|X|APIDFFDB_00012
+11710	10154	gene
+			locus_tag	APIDFFDB_00013
+11710	10154	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	APIDFFDB_00013
+			product	hypothetical protein
+			protein_id	gnl|X|APIDFFDB_00013
+12816	11881	gene
+			gene	arcC1
+			locus_tag	APIDFFDB_00014
+12816	11881	CDS
+			EC_number	2.7.2.2
+			gene	arcC1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A627
+			locus_tag	APIDFFDB_00014
+			product	Carbamate kinase 1
+			protein_id	gnl|X|APIDFFDB_00014
+13837	12836	gene
+			gene	argF
+			locus_tag	APIDFFDB_00015
+13837	12836	CDS
+			EC_number	2.1.3.3
+			gene	argF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99073
+			locus_tag	APIDFFDB_00015
+			product	Ornithine carbamoyltransferase
+			protein_id	gnl|X|APIDFFDB_00015
+14275	15000	gene
+			locus_tag	APIDFFDB_00016
+14275	15000	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3K7M3
+			locus_tag	APIDFFDB_00016
+			product	Superantigen-like protein 13
+			protein_id	gnl|X|APIDFFDB_00016
+15073	15798	gene
+			locus_tag	APIDFFDB_00017
+15073	15798	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3K7M3
+			locus_tag	APIDFFDB_00017
+			product	Superantigen-like protein 13
+			protein_id	gnl|X|APIDFFDB_00017
+15878	16624	gene
+			locus_tag	APIDFFDB_00018
+15878	16624	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3K7M3
+			locus_tag	APIDFFDB_00018
+			product	Superantigen-like protein 13
+			protein_id	gnl|X|APIDFFDB_00018
+16911	16714	gene
+			locus_tag	APIDFFDB_00019
+16911	16714	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	APIDFFDB_00019
+			product	hypothetical protein
+			protein_id	gnl|X|APIDFFDB_00019
+17215	17018	gene
+			locus_tag	APIDFFDB_00020
+17215	17018	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	APIDFFDB_00020
+			product	hypothetical protein
+			protein_id	gnl|X|APIDFFDB_00020
+18003	18962	gene
+			gene	hly
+			locus_tag	APIDFFDB_00021
+18003	18962	CDS
+			gene	hly
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G1X0
+			locus_tag	APIDFFDB_00021
+			product	Alpha-hemolysin
+			protein_id	gnl|X|APIDFFDB_00021
+19416	19649	gene
+			locus_tag	APIDFFDB_00022
+19416	19649	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	APIDFFDB_00022
+			product	hypothetical protein
+			protein_id	gnl|X|APIDFFDB_00022
+20266	20451	gene
+			locus_tag	APIDFFDB_00023
+20266	20451	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	APIDFFDB_00023
+			product	hypothetical protein
+			protein_id	gnl|X|APIDFFDB_00023
+20613	20392	gene
+			locus_tag	APIDFFDB_00024
+20613	20392	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	APIDFFDB_00024
+			product	hypothetical protein
+			protein_id	gnl|X|APIDFFDB_00024
+21054	20704	gene
+			gene	scn
+			locus_tag	APIDFFDB_00025
+21054	20704	CDS
+			gene	scn
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FWV6
+			locus_tag	APIDFFDB_00025
+			product	Staphylococcal complement inhibitor
+			protein_id	gnl|X|APIDFFDB_00025
+21613	21206	gene
+			gene	fib
+			locus_tag	APIDFFDB_00026
+21613	21206	CDS
+			gene	fib
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6P2
+			locus_tag	APIDFFDB_00026
+			product	Fibrinogen-binding protein
+			protein_id	gnl|X|APIDFFDB_00026

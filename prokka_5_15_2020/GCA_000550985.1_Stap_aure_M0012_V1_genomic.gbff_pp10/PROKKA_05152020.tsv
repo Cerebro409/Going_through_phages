@@ -1,0 +1,33 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+JIAHOEME_00001	gene	816				
+JIAHOEME_00001	CDS	816		3.1.1.23	COG2267	Monoacylglycerol lipase
+JIAHOEME_00002	gene	246				
+JIAHOEME_00002	CDS	246				hypothetical protein
+JIAHOEME_00003	gene	432				
+JIAHOEME_00003	CDS	432				hypothetical protein
+JIAHOEME_00004	gene	447	argR			
+JIAHOEME_00004	CDS	447	argR			Arginine repressor
+JIAHOEME_00005	gene	1236	arcA			
+JIAHOEME_00005	CDS	1236	arcA	3.5.3.6		Arginine deiminase
+JIAHOEME_00006	gene	1422	arcD			
+JIAHOEME_00006	CDS	1422	arcD		COG0531	Arginine/ornithine antiporter
+JIAHOEME_00007	gene	690	arcR			
+JIAHOEME_00007	CDS	690	arcR			HTH-type transcriptional regulator ArcR
+JIAHOEME_00008	gene	999	argF			
+JIAHOEME_00008	CDS	999	argF	2.1.3.3		Ornithine carbamoyltransferase
+JIAHOEME_00009	gene	930	arcC1			
+JIAHOEME_00009	CDS	930	arcC1	2.7.2.2		Carbamate kinase 1
+JIAHOEME_00010	gene	852				
+JIAHOEME_00010	CDS	852				IS3 family transposase ISSau4
+JIAHOEME_00011	gene	351				
+JIAHOEME_00011	CDS	351				hypothetical protein
+JIAHOEME_00012	gene	93				
+JIAHOEME_00012	CDS	93				hypothetical protein
+JIAHOEME_00013	gene	312				
+JIAHOEME_00013	CDS	312				hypothetical protein
+JIAHOEME_00014	gene	504				
+JIAHOEME_00014	CDS	504				hypothetical protein
+JIAHOEME_00015	gene	225				
+JIAHOEME_00015	CDS	225				hypothetical protein
+JIAHOEME_00016	gene	576				
+JIAHOEME_00016	CDS	576		1.1.1.306		S-(hydroxymethyl)mycothiol dehydrogenase

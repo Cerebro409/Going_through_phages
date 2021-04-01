@@ -1,0 +1,57 @@
+>Feature gnl|X|FCAOMNPL_1
+1111	1383	gene
+			locus_tag	FCAOMNPL_00001
+1111	1383	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FCAOMNPL_00001
+			product	hypothetical protein
+			protein_id	gnl|X|FCAOMNPL_00001
+2221	2000	gene
+			locus_tag	FCAOMNPL_00002
+2221	2000	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISSep3
+			locus_tag	FCAOMNPL_00002
+			product	IS200/IS605 family transposase ISSep3
+			protein_id	gnl|X|FCAOMNPL_00002
+3114	2788	gene
+			locus_tag	FCAOMNPL_00003
+3114	2788	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FCAOMNPL_00003
+			product	hypothetical protein
+			protein_id	gnl|X|FCAOMNPL_00003
+3488	3198	gene
+			gene	repE
+			locus_tag	FCAOMNPL_00004
+3488	3198	CDS
+			gene	repE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P12053
+			locus_tag	FCAOMNPL_00004
+			product	Replication initiation protein
+			protein_id	gnl|X|FCAOMNPL_00004
+4018	3473	gene
+			gene	repN
+			locus_tag	FCAOMNPL_00005
+4018	3473	CDS
+			gene	repN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P19529
+			locus_tag	FCAOMNPL_00005
+			product	Replication initiation protein
+			protein_id	gnl|X|FCAOMNPL_00005
+4525	4331	gene
+			locus_tag	FCAOMNPL_00006
+4525	4331	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FCAOMNPL_00006
+			product	hypothetical protein
+			protein_id	gnl|X|FCAOMNPL_00006
+4965	4618	gene
+			locus_tag	FCAOMNPL_00007
+4965	4618	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FCAOMNPL_00007
+			product	hypothetical protein
+			protein_id	gnl|X|FCAOMNPL_00007

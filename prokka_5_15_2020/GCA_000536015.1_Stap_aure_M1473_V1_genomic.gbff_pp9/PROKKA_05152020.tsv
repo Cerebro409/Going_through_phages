@@ -1,0 +1,11 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+KPGKJBEP_00001	gene	273				
+KPGKJBEP_00001	CDS	273				hypothetical protein
+KPGKJBEP_00002	gene	222				
+KPGKJBEP_00002	CDS	222				IS200/IS605 family transposase ISSep3
+KPGKJBEP_00003	gene	327				
+KPGKJBEP_00003	CDS	327				hypothetical protein
+KPGKJBEP_00004	gene	291	repE			
+KPGKJBEP_00004	CDS	291	repE			Replication initiation protein
+KPGKJBEP_00005	gene	546	repN			
+KPGKJBEP_00005	CDS	546	repN			Replication initiation protein

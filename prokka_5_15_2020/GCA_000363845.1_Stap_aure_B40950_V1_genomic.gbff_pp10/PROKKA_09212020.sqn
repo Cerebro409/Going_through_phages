@@ -1,0 +1,805 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.12 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 9 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 21 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 9 ,
+            day 21 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KFNNAHJN_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 7457 ,
+            seq-data
+              iupacna "CCCAAATCAATGTTTGCAGTAATACTATATAAATTAACCCTTTAAGCCCATGTTT
+TTTATAGGTTCTGTTGCAAAGTAAAAAAATATAGCTAACCACTAATTTATCATGTCAGTGTTCGCTTAACTTGCTAGC
+ATGATGCTAATTTCGTGGCATGGCGAAAATCCGTAGATCTGAAGAGACCTGCGGTTCTTTTTATATAGAGCGTAAATA
+CACTCAATACCTTTTAAAGTATTCTTTGCTGTATTGATATTTTGATACCTTGTCTTTCTTATTTTAATATGACAGTGA
+TCTTGCTCAATGAGGTTATTCAGATATTTCGATGTACAATAACAGTCAGGTTTAAGTTTAAAAGCTTTAATTACTTTA
+GCCATTGCTACCTTCGTTGAAGGTGCCTGATCTGTAATTACCTTTTGAGGTTTACCAAATTGTTTAATGAGACGTTTG
+ATAAACGCATATGCTGAATGATTATCTCGTTGCTTACGCAACCAAATATCTAATGTATATCCCTCTGCATCAATGGCA
+CGATATAAATAGCTCCATTTTCCTTTTATTTTGATGTACGTCTCATCAATACGCCATTTGTAATTAGCTTTTTATGCT
+TTTTCTTCCAAATTTGATATAAAATTGGGGCATATTCTTGAACCCAACGGTAGACCGTTGAATGATGAACGTTTACAC
+CACGTTCCCTTAATATTTCAGATATATCACGATAACTCAATGCATATCTTAGATAGTAGCCAACAGCTACAGTGATAA
+CATCCTTGTTAAATTGTTTATATCTGAAATAGTTCATACAGAAGACTCCTTTTTGTTAAAATTATACTATAGATTCAA
+CTTTGCAACAGAACCTATATTTTGCTATAATTATTAAATTAATTGCCTTTGTGTTAGTATTCCCTGGATTACTAACAC
+TTTGGTTAGCTGTTCTAAGTGATACAGGTGCAGCAATATTAGTTATATTAAATTCATTACGTTTATTAAAAAAATAAA
+AAAGCCTAAATACTCTCTCGATTTGTGAGAAAGTATTTAGGCTTTTTGAATTAATAAATTTCTTACTTCTTATGTTTA
+TTTAACAATTAGTACTGGGACAGAACTTCTTTTAGCAATCTTATGTGTAACATCTCCTAAAACATGTTTAATATTCAA
+ATCGACTCTATGATTACTCATAATTACTAAATCAAATTCACCATTATTTATATCTCCAGAAGTAATTTTTTCTAAGAT
+TGTATCTTTAATATGCCCAAAATCTACATCTATTTTATATTGAATATCTCTTTTTTCTAATTCACGTAAAAATGGAGT
+GAGTTTTTTCTCTTTTTCTCTAATAATATCTTCTTTATGCTTATTATAATACTTGACACTAATTGCAAGATCATTTTC
+TGTTACAACGTGATAAATTACAACAACTGAATCTTCATCGGTGACTTTTTCTAAATAGTCAGGGATAGCACTAAAATC
+ATTTTCGAAATCATAGGGTAATAATATATTTTTGAACATCTACACCAGCCTCCTATTACTTATTATTTAGATGTCTAT
+TACTTATATATACCCTAAATATGTATGCTTATTCTCATATTCAAATTATTCAAATATATTCCTTATCATGTATTAGAT
+TCTATTTTTTATATTATTTTTGTAATTCTTTGTATAAACCTATTTATTTATAAAGCGCTCTAATACATACCTAAATAT
+CTTCAACTTATAAACTACTTTTTATTTCAATGCCTTTTTCCAAACTTCTTTTATGAGATATTGTGGTTATTACCTGAC
+ATTTACAATTTACACATTTCGCTATTATTACGCAAATTATTTTGATTTTATAATTATGATGACTATAATCTATTCTAA
+TTAATCTCTCCTTTTAGGCATAAAATAATCTACTTATAATTAAAGCATCCACTATTTCAAAATTATTTGTAAATTGAG
+ATTTATAAGTGATTTTTATACAGTTATTTAAAATCTATTTCATAATCAAAAATAATAAAGGGGGTAATAAAAATGAAA
+AAAGAAAAACGTTTAAATCTTATCTTAACTGTTATACAACAGAATCAGTTTAATAAAAAACAACAAATAGTGGATTAC
+ATGGCAAGACATTTTGGAGTTTACTATAGCTTGACAACTATTTCTCGTGACTTACAAGAATTAGAAATTTACAAAATC
+CCTGTTGAAAATAAAAAGTATATTTACAAGAAAATAAATCAAACAAATCAATTAAGTGCAAAAAAACAATTAGAAATA
+TTTAGTGATGAGATTATTGAATTTATAACGCTAAATAACTATGTCTTAATAAAAACATCTCCTGGCTTTGCTCAAAGT
+ATAAGTTATTACATAGATCAATTACAAATGAAAGAAATATTAGGAATTATTGGAGGTAACGATACTTTGATGATTTTG
+ACTTCTTCAAATGAAATAGCAGAATTTGTTTGTTATCAATTATTCCCTTAAAAATTAAATGATTATATTAATAGGAAT
+GATTACTAATACAAAAAAATGAGTAAAAAATCTTTTTGCTTGAATAAGATAAGGTTTTAACAATGAGATTTTTCAAAT
+TATTCACTATTATATAGTACAAAATACATATTCATACAAAATTTTGCATTGAATAAATCTATATATGTGAAAACCCTC
+CCTAAACAATTGTGAATTAAATCACACGATGTTTTTTGAAAGCGTTTTATAATGTGAATGTAATAAAGCAAAGGAGGA
+ATTTGAAATGGTACAAGGACCCATTCAAGTAAATAGTGAAATAGGCAAATTGAAAACTGTGTTGTTAAAAAGACCAGG
+AAAAGAATTAGAAAATTTAGTACCTGATCATTTAAGTGGTTTATTATTCGATGATATTCCCTACTTAAAAGTTGCACA
+AGAAGAGCATGACAAATTTGCTCAAACTTTGAGAGATGAAGGAATCGAAGTAGTTTATTTAGAAAAACTTGCAGCAGA
+ATCTATTACTGAGCCAGAAGTACGCGAGAACTTCATAAACGACATATTAACAGAATCTAAAAAGACAATATTAGGTCA
+TGAAACTGAAATTAAAGAATTCTTTTCAAAGTTATCTGACCAAGAACTTGTAAATAAAATCATGGCTGGCGTACGTAA
+AGAAGAAATTCAACTTGAAACAACCCATTTAGTAGAATATATGGATGATAGATATCCATTTTACTTAGATCCAATGCC
+CAACCTTTATTTTACAAGAGATCCCCAAGCTTCAATTGGTAGAGGAATGACAATTAACAGAATGTATTGGAGAGCACG
+ACGTAGAGAATCTATTTTTATGACATATATACTGAAACATCATCCAAGATTTAAAGATAAAGATGTACCAGTATGGTT
+AGATCGTAACTCACCATTTAATATTGAAGGTGGAGATGAATTAGTATTATCGAAAGATGTTTTAGCTATTGGTATATC
+AGAACGTACATCAGCTCAAGCAATAGAAAAGTTAGCACGTAATATTTTCAAAGATGCAAACACAAGTTTTAAAAAAAT
+CGTAGCTATTGAAATACCTAATACACGTACATTTATGCACCTAGATACAGTACTAACTATGATTGACTACGATAAGTT
+TACAGTACATGCAGCAATATTTAAAGAAGAAAATAATATGAATATATTTACCATAGAACAAAATGATGGTAAGGACGA
+TATAAAAATTACTCGTTCTAGCAAGTTACGTGAAACACTTGCTGAAGTTTTAGAAGTAGAAAAAGTGGACTTTATTCC
+AACAGGTAATGGCGACGTTATTGATGGTGCACGTGAACAATGGAATGATGGCTCAAACACATTATGTATTCGACCAGG
+GGTTGTGGTGACATACGATCGCAACTATGTATCAAACCAACTTTTACGCGACAAAGGAATTAAAGTGATTGAAATTAC
+TGGTAGTGAACTTGTACGTGGACGCGGAGGCCCAAGATGTATGAGTCAGCCGTTATTTAGAGAAGATATTTAAATTTG
+AAAGGTGGTAAAAGTCACAAGTAATTCATTCATTAAATCAAATAACAAGATTTTTACCACCTTTATTAGGGGAGATTA
+ATATGGATGAAAATAAATTAGGTAAAACTTCCTTAATTGGTTTAGTCATAGGCTCTATGATAGGCGGTGGTGCATTCA
+ATATCATCTCAGATATGGGTGGCCAAGCTGGTGGACTTGCAATAATTATCGGTTGGATAATAACTGCTATTGGTATGA
+TTTCTCTTGCTTTCGTATTTCAAAATTTAACAAATGAGCGACCAGATCTTGATGGAGGAATTTATAGTTATGCTCAAA
+CAGGGTTTGGAGATTTTATTGGTTTTTCAAGTGCTTGGGGATATTGGTTTGCAGCATTTCTAGGTAATGTGGCTTATG
+CAACCCTATTAATGTCAGCTGTGGGTAACTTTTTCCCTATATTTAAAGGAGGTAACACACTTCCAAGTATTATCATAG
+CATCAATTTTATTATGGGGTGTACATTTTTTAATACTTAGAGGTGTAGAAACTGCAGCGTTTATAAATAGTATTGTTA
+CAGTAGCTAAATTAATACCTATATTTCTAGTTATTATATGCATGATAGTTGTATTCAACTTCAGTACTTTTAAATCCG
+GTTTTTATGGTATGACTAGTGGAAGTGTTGGCGTTTTTAGTTGGGGAGATACAATGGCACAAGTAAAAAGTACTATGT
+TAGTAACTGTATGGGTATTCACAGGGATTGAAGGAGCCGTTGTCTTTTCTGGACGTGCAAAGTCTAAAAAGGATGTAG
+GAACTGCTACCGTTATTGGTTTGATTTCTGTGCTAGTCATTTATTTCTTAATGACTGTACTAGCCCAAGGTGTCATTC
+AGCAGAACCAAATTTCAAAACTTGCTAATCCATCAATGGCACAAGTATTAGAACATATTGTAGGTCATTGGGGTTCAG
+TGTTAGTTAATATAGGCTTAATTATCTCTGTTTTAGGAGCTTGGTTAGGATGGACATTACTAGCTGGTGAATTACCAT
+TCATTGTAGCTAAAGATGGACTTTTCCCGAAATGGTTTGCTAAAGAAAATAAGAATAAAGCTCCGGTCAACGCTTTAA
+TTATTACTAATATATTAGTTCAGTTATTTTTAATTAGTATGTTGTTTACAGATAGTGCCTATCAGTTTGCGTTTTCAC
+TTGCATCAAGTGCAATCTTAATTCCATATACACTCAGTGCTTTTTACCAGGTTAAATATACTATTCAAAATAAATCTA
+AAGCTAATTTAAAACAATGGATAATAGGAATTATTGCATCTATTTACACAATTTGGTTGGTTTATGCAGCTGGATTAG
+ATTATTTACTATTAACGATGTTGTTATATATACCTGGATTACTCGTATACAGCTACGTACAAAGGGATAATAACAAAC
+ATTTGACAAAATTGGATTATACGTTATTCATATTCATCATTGTACTTGCAATAATAGGAATAGTTCGTTTGATTACAG
+GTAATATTTCTGTATTTTAAGTTATGATTTAAACTAAGTAATTTTTAAGGGGTTTATAGTTATGTATGAAGAAAATAT
+TTATATTAAAAATTCAGAATATGAATTTGATAATAATCTTAAACAATTAGCATCATACTTAAATATTCCTGTTAGTAT
+TGTTAGACCTTATAAAGAGGATTTAACACTTTATCAATATAAAAAAGGACAAGTCATATATCATTCAACTGATCAAAT
+AAAATTTGTATACTTTTTAGTAAATGGTTGTATTTTACATGAATCTTCTAATATTACTGGTGACAATTATTTAAGATT
+AAGTAAAGACGAAAATATATTTCCAATGAACTTCATATTTAATGAAACCCCTGCACCATATGAAATATGTACAGCTTT
+GACAGATTGTAAAATATTAACTTTACCGAAAGATTTACTTGAGTATTTATGTAGAAAGCATAATGAAATATTTGAAAG
+TCTCTTCAAGAAACTTAATGAGACTATTCAATTTCAAGTAGAATATATTATGGCGTTAAGAGCTAATTCAGCTAAAGA
+AAGAATTGAAAGAATACTACAAATTTTATGCCTTTCAATTGGGGATGATAATGGAGAATTCTATGAATTAAAACAAAT
+TATGACTGTTCAATTAATAAGTAATTTATCTGGACTTAACAGAAAAACTACTGGTGAAATAATCAGAGAATTAAAAAT
+AGAAAATATTATATATCAAGATAAAAGAAATTGGATTATAAAAAAATAACATGAATAAAATATTAATTGAAAAGGAGA
+TATTCAAAATGAAAAATTTAAGAAATAGAAACTTTTTAACTTTGTTAGACTTCACACAAAAAGAAATGGAATTTTTAC
+TTAATTTATCTGAAGATCTTAAACGCGCAAAATATGCAGGAATAGAACAACAAAAAATGAAAGGTAAAAATATCGCTC
+TACTTTTTGAAAAAGATTCAACACGCACTCGATGTGCATTTGAAACAGCGGCTTATGATCAAGGTGCACATGTAACAT
+ACCTTGGGCCAACAGGTTCTCAAATGGGTAAAAAAGAGTCTACCAAAGATACTGCTCGTGTTTTAGGTGGAATGTATG
+ATGGCATAGAATATCGTGGATTCTCACAAAGAGTAGTTGAGGATTTGGCAAAATATTCTGGCGTTCCCGTATGGAATG
+GTTTAACAGATGAAGATCATCCTACACAAGTACTTGCTGATTTTTTAACAGCTAAAGAAGTATTGAAAAAACCATATA
+ATGAAATTAACTTCACATATGTTGGAGATGGACGTAATAACGTTGCAAATGCCTTAATGCAAGGAGCAGCAATCATGG
+GCATGACTTTCCATCTTGTATGTCCTAAAGAACTAAATCCAACTGATGAATTATTAAATCGGTGTAATGATATAGCTG
+ACAAAAACGGTGGTGAAATCCTTATAACTGATGATATTGATGAAGGTGTCAAAGGATCTGATGTAATTTACACAGATG
+TTTGGGTATCTATGGGTGAACCTGATGAAGTTTGGGAAAAACGTATCAAATTATTAGAACCATACCGTGTAACTAAAG
+AATTAATGAAAAAAACAGGTAATCCACATACAATTTTTGAACATTGCTTACCATCATTCCATGATACTGAAACAATAA
+TCGGTAAACAAATTCAAGAAAAATATGGTCTAACTGAAATGGAAGTAACAAATGAAGTATTTGAAAGTGAACAATCAG
+TTGTTTTCCAAGAAGCAGAAAATAGAGCACATACAATAAAAGCAGTCATGGTAGCAACATTAGGAGAGTAAATGAAAG
+GAGGATATAAATATGTCTAAAATCGTCGTAGCTTTGGGTGGTAACGCTTTAGGACAATCGCCTAAAGAACAATTAGAT
+TTATTAAAAAGTACATCTAAATCTCTAGTAAGTTTAATCGATAAAGGATACGAAATTGTAATTAGTCATGGTAATGGT
+CCACAAGTTGGAAGTATTAACTTAGGTTTAAATTATGCGGCGGAACACAAACAAGGTCCTCCTTTTCCTT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 8 ,
+                    data
+                      gene {
+                        locus-tag "KFNNAHJN_00001" } ,
+                    location
+                      int {
+                        from 548 ,
+                        to 793 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KFNNAHJN_1" } } } ,
+                  {
+                    id
+                      local
+                        id 9 ,
+                    data
+                      gene {
+                        locus-tag "KFNNAHJN_00002" } ,
+                    location
+                      int {
+                        from 1066 ,
+                        to 1497 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KFNNAHJN_1" } } } ,
+                  {
+                    id
+                      local
+                        id 10 ,
+                    data
+                      gene {
+                        locus "argR" ,
+                        locus-tag "KFNNAHJN_00003" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 2445 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KFNNAHJN_1" } } } ,
+                  {
+                    id
+                      local
+                        id 11 ,
+                    data
+                      gene {
+                        locus "arcA" ,
+                        locus-tag "KFNNAHJN_00004" } ,
+                    location
+                      int {
+                        from 2714 ,
+                        to 3949 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KFNNAHJN_1" } } } ,
+                  {
+                    id
+                      local
+                        id 12 ,
+                    data
+                      gene {
+                        locus "arcD" ,
+                        locus-tag "KFNNAHJN_00005" } ,
+                    location
+                      int {
+                        from 4035 ,
+                        to 5456 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KFNNAHJN_1" } } } ,
+                  {
+                    id
+                      local
+                        id 13 ,
+                    data
+                      gene {
+                        locus "arcR" ,
+                        locus-tag "KFNNAHJN_00006" } ,
+                    location
+                      int {
+                        from 5498 ,
+                        to 6187 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KFNNAHJN_1" } } } ,
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      gene {
+                        locus "argF" ,
+                        locus-tag "KFNNAHJN_00007" } ,
+                    location
+                      int {
+                        from 6225 ,
+                        to 7223 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KFNNAHJN_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KFNNAHJN_00001" } } ,
+          descr {
+            title "hypothetical protein KFNNAHJN_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 81 ,
+            seq-data
+              ncbieaa "MNYFRYKQFNKDVITVAVGYYLRYALSYRDISEILRERGVNVHHSTVYRWVQEYA
+PILYQIWKKKHKKLITNGVLMRRTSK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 80 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KFNNAHJN_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KFNNAHJN_00002" } } ,
+          descr {
+            title "hypothetical protein KFNNAHJN_00002 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 143 ,
+            seq-data
+              ncbieaa "MFKNILLPYDFENDFSAIPDYLEKVTDEDSVVVIYHVVTENDLAISVKYYNKHKE
+DIIREKEKKLTPFLRELEKRDIQYKIDVDFGHIKDTILEKITSGDINNGEFDLVIMSNHRVDLNIKHVLGDVTHKIAK
+RSSVPVLIVK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 142 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KFNNAHJN_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KFNNAHJN_00003" } } ,
+          descr {
+            title "Arginine repressor [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 148 ,
+            seq-data
+              ncbieaa "MKKEKRLNLILTVIQQNQFNKKQQIVDYMARHFGVYYSLTTISRDLQELEIYKIP
+VENKKYIYKKINQTNQLSAKKQLEIFSDEIIEFITLNNYVLIKTSPGFAQSISYYIDQLQMKEILGIIGGNDTLMILT
+SSNEIAEFVCYQLFP" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      prot {
+                        name {
+                          "Arginine repressor" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 147 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KFNNAHJN_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KFNNAHJN_00004" } } ,
+          descr {
+            title "Arginine deiminase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 411 ,
+            seq-data
+              ncbieaa "MVQGPIQVNSEIGKLKTVLLKRPGKELENLVPDHLSGLLFDDIPYLKVAQEEHDK
+FAQTLRDEGIEVVYLEKLAAESITEPEVRENFINDILTESKKTILGHETEIKEFFSKLSDQELVNKIMAGVRKEEIQL
+ETTHLVEYMDDRYPFYLDPMPNLYFTRDPQASIGRGMTINRMYWRARRRESIFMTYILKHHPRFKDKDVPVWLDRNSP
+FNIEGGDELVLSKDVLAIGISERTSAQAIEKLARNIFKDANTSFKKIVAIEIPNTRTFMHLDTVLTMIDYDKFTVHAA
+IFKEENNMNIFTIEQNDGKDDIKITRSSKLRETLAEVLEVEKVDFIPTGNGDVIDGAREQWNDGSNTLCIRPGVVVTY
+DRNYVSNQLLRDKGIKVIEITGSELVRGRGGPRCMSQPLFREDI" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      prot {
+                        name {
+                          "Arginine deiminase" } ,
+                        ec {
+                          "3.5.3.6" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 410 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KFNNAHJN_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KFNNAHJN_00005" } } ,
+          descr {
+            title "Arginine/ornithine antiporter [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 473 ,
+            seq-data
+              ncbieaa "MDENKLGKTSLIGLVIGSMIGGGAFNIISDMGGQAGGLAIIIGWIITAIGMISLA
+FVFQNLTNERPDLDGGIYSYAQTGFGDFIGFSSAWGYWFAAFLGNVAYATLLMSAVGNFFPIFKGGNTLPSIIIASIL
+LWGVHFLILRGVETAAFINSIVTVAKLIPIFLVIICMIVVFNFSTFKSGFYGMTSGSVGVFSWGDTMAQVKSTMLVTV
+WVFTGIEGAVVFSGRAKSKKDVGTATVIGLISVLVIYFLMTVLAQGVIQQNQISKLANPSMAQVLEHIVGHWGSVLVN
+IGLIISVLGAWLGWTLLAGELPFIVAKDGLFPKWFAKENKNKAPVNALIITNILVQLFLISMLFTDSAYQFAFSLASS
+AILIPYTLSAFYQVKYTIQNKSKANLKQWIIGIIASIYTIWLVYAAGLDYLLLTMLLYIPGLLVYSYVQRDNNKHLTK
+LDYTLFIFIIVLAIIGIVRLITGNISVF" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      prot {
+                        name {
+                          "Arginine/ornithine antiporter" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 472 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KFNNAHJN_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KFNNAHJN_00006" } } ,
+          descr {
+            title "HTH-type transcriptional regulator ArcR [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 229 ,
+            seq-data
+              ncbieaa "MYEENIYIKNSEYEFDNNLKQLASYLNIPVSIVRPYKEDLTLYQYKKGQVIYHST
+DQIKFVYFLVNGCILHESSNITGDNYLRLSKDENIFPMNFIFNETPAPYEICTALTDCKILTLPKDLLEYLCRKHNEI
+FESLFKKLNETIQFQVEYIMALRANSAKERIERILQILCLSIGDDNGEFYELKQIMTVQLISNLSGLNRKTTGEIIRE
+LKIENIIYQDKRNWIIKK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      prot {
+                        name {
+                          "HTH-type transcriptional regulator ArcR" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 228 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KFNNAHJN_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "KFNNAHJN_00007" } } ,
+          descr {
+            title "Ornithine carbamoyltransferase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 332 ,
+            seq-data
+              ncbieaa "MKNLRNRNFLTLLDFTQKEMEFLLNLSEDLKRAKYAGIEQQKMKGKNIALLFEKD
+STRTRCAFETAAYDQGAHVTYLGPTGSQMGKKESTKDTARVLGGMYDGIEYRGFSQRVVEDLAKYSGVPVWNGLTDED
+HPTQVLADFLTAKEVLKKPYNEINFTYVGDGRNNVANALMQGAAIMGMTFHLVCPKELNPTDELLNRCNDIADKNGGE
+ILITDDIDEGVKGSDVIYTDVWVSMGEPDEVWEKRIKLLEPYRVTKELMKKTGNPHTIFEHCLPSFHDTETIIGKQIQ
+EKYGLTEMEVTNEVFESEQSVVFQEAENRAHTIKAVMVATLGE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      prot {
+                        name {
+                          "Ornithine carbamoyltransferase" } ,
+                        ec {
+                          "2.1.3.3" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 331 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "KFNNAHJN_00007" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KFNNAHJN_00001" } ,
+                location
+                  int {
+                    from 548 ,
+                    to 793 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KFNNAHJN_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KFNNAHJN_00002" } ,
+                location
+                  int {
+                    from 1066 ,
+                    to 1497 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KFNNAHJN_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KFNNAHJN_00003" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 2445 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KFNNAHJN_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P63580" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KFNNAHJN_00004" } ,
+                location
+                  int {
+                    from 2714 ,
+                    to 3949 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KFNNAHJN_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P63554" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KFNNAHJN_00005" } ,
+                location
+                  int {
+                    from 4035 ,
+                    to 5456 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KFNNAHJN_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P18275" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KFNNAHJN_00006" } ,
+                location
+                  int {
+                    from 5498 ,
+                    to 6187 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KFNNAHJN_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:Q7A381" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "KFNNAHJN_00007" } ,
+                location
+                  int {
+                    from 6225 ,
+                    to 7223 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "KFNNAHJN_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:2.6" } ,
+                  {
+                    qual "inference" ,
+                    val "similar to AA sequence:UniProtKB:P99073" } } } } } } } } }

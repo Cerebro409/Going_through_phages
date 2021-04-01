@@ -1,0 +1,15 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CANDCAGL_00001	gene	534	msrA2			
+CANDCAGL_00001	CDS	534	msrA2	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA 2
+CANDCAGL_00002	gene	429	msrB			
+CANDCAGL_00002	CDS	429	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+CANDCAGL_00003	gene	501	crr			
+CANDCAGL_00003	CDS	501	crr			PTS system glucose-specific EIIA component
+CANDCAGL_00004	gene	222				
+CANDCAGL_00004	CDS	222				hypothetical protein
+CANDCAGL_00005	gene	1491				
+CANDCAGL_00005	CDS	1491		3.4.21.-		putative CtpA-like serine protease
+CANDCAGL_00006	gene	510				
+CANDCAGL_00006	CDS	510				hypothetical protein
+CANDCAGL_00007	gene	1071	murG			
+CANDCAGL_00007	CDS	1071	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase

@@ -1,0 +1,15 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+IJBBBJFL_00001	gene	282				
+IJBBBJFL_00001	CDS	282				hypothetical protein
+IJBBBJFL_00002	gene	696				
+IJBBBJFL_00002	CDS	696		1.-.-.-		putative oxidoreductase
+IJBBBJFL_00003	gene	423				
+IJBBBJFL_00003	CDS	423				hypothetical protein
+IJBBBJFL_00004	gene	420				
+IJBBBJFL_00004	CDS	420				hypothetical protein
+IJBBBJFL_00005	gene	426				
+IJBBBJFL_00005	CDS	426				hypothetical protein
+IJBBBJFL_00006	gene	423				
+IJBBBJFL_00006	CDS	423				hypothetical protein
+IJBBBJFL_00007	gene	1539	abgT			
+IJBBBJFL_00007	CDS	1539	abgT		COG2978	p-aminobenzoyl-glutamate transport protein

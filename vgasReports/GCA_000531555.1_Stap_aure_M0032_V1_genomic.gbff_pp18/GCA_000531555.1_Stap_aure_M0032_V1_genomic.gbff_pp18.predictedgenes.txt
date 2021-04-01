@@ -1,0 +1,153 @@
+
+Gene prediction results by  VGAS
+Running parameters:
+   Minimum gene length: 60 bp
+   Maximum squared Euclid distance: 6.90
+   Double-stranded virus
+   Start codon: ATG
+   Stop codons: TAA and TAG
+   Training mode: self-training
+
+Predicted protein-coding genes
+     No        Start        Stop         Strand      Length    VZ Score          Annotation
+
+     1          673         1983            +         1311      0.34845
+
+     2         2000         2998            +          999      0.38850
+
+     3         3169         3441            +          273      0.24711
+
+     4         3785         4444            +          660      0.28642
+
+     5         4447         5172            +          726      0.34753
+
+     6         5189         6133            +          945      0.36024
+
+     7         6243         6674            +          432      0.20389
+
+     8         6748         7014            -          267      0.09986
+
+     9         7405         8637            +         1233      0.31738
+
+    10         8663         9727            +         1065      0.39217
+
+    11         9737        11035            +         1299      0.31569
+
+    12        11042        12286            +         1245      0.28230
+
+    13        12258        12875            +          618      0.32180
+
+    14        12865        13479            +          615      0.19684
+
+    15        13524        14204            +          681      0.37041
+
+    16        14517        14864            +          348      0.17367
+
+    17        15084        16238            +         1155      0.38087
+
+    18        16210        17445            +         1236      0.36989
+
+    19        17432        18403            +          972      0.32873
+
+    20        18427        21132            +         2706      0.38815
+     (bit_score:169.474;e-value:4.5887e-43;identity:25.5%;gi|1070638519|ref|YP_009302545.1| ATP-dependent helicase [Bacillus phage SP-15])
+
+    21        21436        22734            +         1299      0.35242
+     (bit_score:219.164;e-value:1.44365e-65;identity:29.5%;gi|441432571|ref|YP_007354613.1| asparaginyl t-RNA synthetase [Acanthamoeba polyphaga moumouvirus])
+     (bit_score:209.149;e-value:8.8104e-62;identity:29.6%;gi|363540470|ref|YP_004894794.1| asparaginyl-tRNA synthetase [Megavirus chiliensis])
+
+    22        23062        23748            +          687      0.31333
+
+    23        23738        24400            +          663      0.32458
+
+    24        24402        24743            +          342      0.26087
+
+    25        25261        27444            -         2184      0.41829
+
+    26        27297        28118            -          822      0.28307
+
+    27        28555        28956            +          402      0.30596
+
+    28        28949        29512            +          564      0.29169
+
+    29        29478        29870            +          393      0.28063
+
+    30        30222        30473            +          252      0.10881
+
+    31        30521        31666            +         1146      0.30572
+
+    32        31750        32082            +          333      0.34579
+
+    33        32291        33631            -         1341      0.35316
+
+    34        33860        37375            +         3516      0.37987
+
+    35        37395        38273            +          879      0.32240
+     (bit_score:160.999;e-value:1.54723e-45;identity:21.2%;gi|1068513086|ref|YP_009276820.1| DNA polymerase I [Bacillus phage BalMu-1])
+
+    36        38747        39865            +         1119      0.37733
+
+    37        39960        41000            +         1041      0.38114
+
+    38        41031        42353            +         1323      0.18205
+
+    39        42380        43903            +         1524      0.14584
+
+    40        45042        71864            +        26823      0.50000
+
+    41        71898        76169            +         4272      0.42184
+
+    42        76228        76629            -          402      0.36602
+
+    43        77009        77713            -          705      0.19881
+
+    44        77923        78513            -          591      0.08240
+
+    45        78164        78415            +          252      0.24775
+
+    46        78453        79577            +         1125      0.31899
+
+    47        79593        80030            +          438      0.36950
+
+    48        80454        81410            +          957      0.35850
+     (bit_score:591.267;e-value:0.0;identity:84.9%;gi|985761245|ref|YP_009226831.1| thymidylate synthase [Staphylococcus phage SPbeta-like])
+     (bit_score:306.22;e-value:3.02831e-103;identity:52.7%;gi|849060217|ref|YP_009151583.1| thymidylate synthase [Bacillus phage Moonbeam])
+     (bit_score:295.434;e-value:4.24704e-99;identity:54.4%;gi|1068358928|ref|YP_009275258.1| thymidylate synthase-like protein [Bacillus phage Shbh1])
+
+    49        81610        82089            +          480      0.31033
+     (bit_score:274.248;e-value:2.74237e-95;identity:78.8%;gi|985761244|ref|YP_009226830.1| dihydrofolate reductase type 1 [Staphylococcus phage SPbeta-like])
+
+    50        82104        82943            +          840      0.38252
+     (bit_score:202.601;e-value:2.89791e-65;identity:68.9%;gi|985761237|ref|YP_009226823.1| DegV domain-containing protein [Staphylococcus phage SPbeta-like])
+
+    51        83029        83562            +          534      0.31705
+
+    52        83555        83983            +          429      0.23855
+     (bit_score:165.622;e-value:3.40041e-50;identity:21.1%;gi|16271776|ref|NP_438113.1| putative methionine sulfoxide reductase [Streptococcus pyogenes])
+
+    53        83995        84495            +          501      0.22537
+
+    54        84495        84716            +          222      0.19628
+
+    55        84905        86395            +         1491      0.40396
+
+    56        86792        87301            +          510      0.29080
+
+    57        87313        88383            +         1071      0.36287
+
+    58        88400        89014            +          615      0.16684
+
+    59        89131        89331            +          201      0.18773
+
+    60        89802        90539            +          738      0.27585
+
+    61        90458        91813            +         1356      0.31753
+
+    62        92338        95136            +         2799      0.38615
+
+    63        95150        96418            +         1269      0.39666
+
+    64        96944        97807            +          864      0.35067
+
+    65        97704        98039            +          336      0.18232
+

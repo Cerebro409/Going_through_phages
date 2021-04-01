@@ -1,0 +1,128 @@
+[18:21:26] This is prokka 1.14.6
+[18:21:26] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[18:21:26] Homepage is https://github.com/tseemann/prokka
+[18:21:26] Local time is Fri May 15 18:21:26 2020
+[18:21:26] You are tsweet
+[18:21:26] Operating system is linux
+[18:21:26] You have BioPerl 1.007002
+[18:21:26] System has 8 cores.
+[18:21:26] Will use maximum of 8 cores.
+[18:21:26] Annotating as >>> Bacteria <<<
+[18:21:26] Generating locus_tag from '005.1_ASM900v1_genomic.gbff_pp19' contents.
+[18:21:26] Setting --locustag PPEAPJEI from MD5 99ea93e2ce002d91f4ec23c29e93c4f0
+[18:21:26] Enabling options to ensure Genbank/ENA/DDJB submission compliance.
+[18:21:26] Creating new output folder: GCA_000009005.1_ASM900v1_genomic.gbff_pp19
+[18:21:26] Running: mkdir -p GCA_000009005\.1_ASM900v1_genomic\.gbff_pp19
+[18:21:26] Using filename prefix: PROKKA_05152020.XXX
+[18:21:26] Setting HMMER_NCPU=1
+[18:21:26] Writing log to: GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.log
+[18:21:26] Command: /home/tsweet/anaconda3/bin/prokka --centre X --compliant 005.1_ASM900v1_genomic.gbff_pp19 --outdir GCA_000009005.1_ASM900v1_genomic.gbff_pp19
+[18:21:26] Appending to PATH: /home/tsweet/anaconda3/bin
+[18:21:26] Looking for 'aragorn' - found /home/tsweet/anaconda3/bin/aragorn
+[18:21:26] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[18:21:26] Looking for 'barrnap' - found /home/tsweet/anaconda3/bin/barrnap
+[18:21:26] Determined barrnap version is 000009 from 'barrnap 0.9'
+[18:21:26] Looking for 'blastp' - found /home/tsweet/anaconda3/bin/blastp
+[18:21:27] Determined blastp version is 002009 from 'blastp: 2.9.0+'
+[18:21:27] Looking for 'cmpress' - found /home/tsweet/anaconda3/bin/cmpress
+[18:21:27] Determined cmpress version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[18:21:27] Looking for 'cmscan' - found /home/tsweet/anaconda3/bin/cmscan
+[18:21:27] Determined cmscan version is 001001 from '# INFERNAL 1.1.2 (July 2016)'
+[18:21:27] Looking for 'egrep' - found /bin/egrep
+[18:21:27] Looking for 'find' - found /usr/bin/find
+[18:21:27] Looking for 'grep' - found /bin/grep
+[18:21:27] Looking for 'hmmpress' - found /home/tsweet/anaconda3/bin/hmmpress
+[18:21:27] Determined hmmpress version is 003003 from '# HMMER 3.3 (Nov 2019); http://hmmer.org/'
+[18:21:27] Looking for 'hmmscan' - found /home/tsweet/anaconda3/bin/hmmscan
+[18:21:27] Determined hmmscan version is 003003 from '# HMMER 3.3 (Nov 2019); http://hmmer.org/'
+[18:21:27] Looking for 'java' - found /home/tsweet/anaconda3/bin/java
+[18:21:27] Looking for 'makeblastdb' - found /home/tsweet/anaconda3/bin/makeblastdb
+[18:21:27] Determined makeblastdb version is 002009 from 'makeblastdb: 2.9.0+'
+[18:21:27] Looking for 'minced' - found /home/tsweet/anaconda3/bin/minced
+[18:21:27] Determined minced version is 004002 from 'minced 0.4.2'
+[18:21:27] Looking for 'parallel' - found /home/tsweet/anaconda3/bin/parallel
+[18:21:27] Determined parallel version is 20200322 from 'GNU parallel 20200322'
+[18:21:27] Looking for 'prodigal' - found /home/tsweet/anaconda3/bin/prodigal
+[18:21:27] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[18:21:27] Looking for 'prokka-genbank_to_fasta_db' - found /home/tsweet/anaconda3/bin/prokka-genbank_to_fasta_db
+[18:21:27] Looking for 'sed' - found /bin/sed
+[18:21:27] Looking for 'tbl2asn' - found /home/tsweet/anaconda3/bin/tbl2asn
+[18:21:27] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[18:21:27] Using genetic code table 11.
+[18:21:27] Loading and checking input file: 005.1_ASM900v1_genomic.gbff_pp19
+[18:21:27] Wrote 1 contigs totalling 27169 bp.
+[18:21:27] Predicting tRNAs and tmRNAs
+[18:21:27] Running: aragorn -l -gc11  -w GCA_000009005\.1_ASM900v1_genomic\.gbff_pp19\/PROKKA_05152020\.fna
+[18:21:27] Found 0 tRNAs
+[18:21:27] Predicting Ribosomal RNAs
+[18:21:27] Running Barrnap with 8 threads
+[18:21:27] Found 0 rRNAs
+[18:21:27] Skipping ncRNA search, enable with --rfam if desired.
+[18:21:27] Total of 0 tRNA + rRNA features
+[18:21:27] Searching for CRISPR repeats
+[18:21:27] Found 0 CRISPRs
+[18:21:27] Predicting coding sequences
+[18:21:27] Contigs total 27169 bp, so using meta mode
+[18:21:27] Running: prodigal -i GCA_000009005\.1_ASM900v1_genomic\.gbff_pp19\/PROKKA_05152020\.fna -c -m -g 11 -p meta -f sco -q
+[18:21:27] Found 31 CDS
+[18:21:27] Connecting features back to sequences
+[18:21:27] Not using genus-specific database. Try --usegenus to enable it.
+[18:21:27] Annotating CDS, please be patient.
+[18:21:27] Will use 8 CPUs for similarity searching.
+[18:21:27] There are still 31 unannotated CDS left (started with 31)
+[18:21:27] Will use blast to search against /home/tsweet/anaconda3/db/kingdom/Bacteria/IS with 8 CPUs
+[18:21:27] Running: cat GCA_000009005\.1_ASM900v1_genomic\.gbff_pp19\/PROKKA_05152020\.IS\.tmp\.11211\.faa | parallel --gnu --plain -j 8 --block 509 --recstart '>' --pipe blastp -query - -db /home/tsweet/anaconda3/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > GCA_000009005\.1_ASM900v1_genomic\.gbff_pp19\/PROKKA_05152020\.IS\.tmp\.11211\.blast 2> /dev/null
+[18:21:27] Deleting unwanted file: GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.IS.tmp.11211.faa
+[18:21:27] Deleting unwanted file: GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.IS.tmp.11211.blast
+[18:21:27] There are still 29 unannotated CDS left (started with 31)
+[18:21:27] Will use blast to search against /home/tsweet/anaconda3/db/kingdom/Bacteria/AMR with 8 CPUs
+[18:21:27] Running: cat GCA_000009005\.1_ASM900v1_genomic\.gbff_pp19\/PROKKA_05152020\.AMR\.tmp\.11211\.faa | parallel --gnu --plain -j 8 --block 488 --recstart '>' --pipe blastp -query - -db /home/tsweet/anaconda3/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > GCA_000009005\.1_ASM900v1_genomic\.gbff_pp19\/PROKKA_05152020\.AMR\.tmp\.11211\.blast 2> /dev/null
+[18:21:28] Deleting unwanted file: GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.AMR.tmp.11211.faa
+[18:21:28] Deleting unwanted file: GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.AMR.tmp.11211.blast
+[18:21:28] There are still 29 unannotated CDS left (started with 31)
+[18:21:28] Will use blast to search against /home/tsweet/anaconda3/db/kingdom/Bacteria/sprot with 8 CPUs
+[18:21:28] Running: cat GCA_000009005\.1_ASM900v1_genomic\.gbff_pp19\/PROKKA_05152020\.sprot\.tmp\.11211\.faa | parallel --gnu --plain -j 8 --block 488 --recstart '>' --pipe blastp -query - -db /home/tsweet/anaconda3/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > GCA_000009005\.1_ASM900v1_genomic\.gbff_pp19\/PROKKA_05152020\.sprot\.tmp\.11211\.blast 2> /dev/null
+[18:21:28] Deleting unwanted file: GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.sprot.tmp.11211.faa
+[18:21:28] Deleting unwanted file: GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.sprot.tmp.11211.blast
+[18:21:28] There are still 19 unannotated CDS left (started with 31)
+[18:21:28] Will use hmmer3 to search against /home/tsweet/anaconda3/db/hmm/HAMAP.hmm with 8 CPUs
+[18:21:28] Running: cat GCA_000009005\.1_ASM900v1_genomic\.gbff_pp19\/PROKKA_05152020\.HAMAP\.hmm\.tmp\.11211\.faa | parallel --gnu --plain -j 8 --block 279 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /home/tsweet/anaconda3/db/hmm/HAMAP.hmm /dev/stdin > GCA_000009005\.1_ASM900v1_genomic\.gbff_pp19\/PROKKA_05152020\.HAMAP\.hmm\.tmp\.11211\.hmmer3 2> /dev/null
+[18:21:29] Deleting unwanted file: GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.HAMAP.hmm.tmp.11211.faa
+[18:21:29] Deleting unwanted file: GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.HAMAP.hmm.tmp.11211.hmmer3
+[18:21:29] Labelling remaining 19 proteins as 'hypothetical protein'
+[18:21:29] Possible /pseudo 'IS30 family transposase ISSau5' at gnl|X|PPEAPJEI_1 position 1388
+[18:21:29] Found 10 unique /gene codes.
+[18:21:29] Fixed 0 colliding /gene names.
+[18:21:29] Adding /locus_tag identifiers
+[18:21:29] Assigned 31 locus_tags to CDS and RNA features.
+[18:21:29] Writing outputs to GCA_000009005.1_ASM900v1_genomic.gbff_pp19/
+[18:21:29] Generating annotation statistics file
+[18:21:29] Generating Genbank and Sequin files
+[18:21:29] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z GCA_000009005\.1_ASM900v1_genomic\.gbff_pp19\/PROKKA_05152020\.err -i GCA_000009005\.1_ASM900v1_genomic\.gbff_pp19\/PROKKA_05152020\.fsa 2> /dev/null
+[18:21:29] Deleting unwanted file: GCA_000009005.1_ASM900v1_genomic.gbff_pp19/errorsummary.val
+[18:21:29] Deleting unwanted file: GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.dr
+[18:21:29] Deleting unwanted file: GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.fixedproducts
+[18:21:29] Deleting unwanted file: GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.ecn
+[18:21:29] Deleting unwanted file: GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.val
+[18:21:29] Repairing broken .GBK output that tbl2asn produces...
+[18:21:29] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < GCA_000009005\.1_ASM900v1_genomic\.gbff_pp19\/PROKKA_05152020\.gbf > GCA_000009005\.1_ASM900v1_genomic\.gbff_pp19\/PROKKA_05152020\.gbk
+[18:21:29] Deleting unwanted file: GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.gbf
+[18:21:29] Output files:
+[18:21:29] GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.err
+[18:21:29] GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.faa
+[18:21:29] GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.txt
+[18:21:29] GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.fna
+[18:21:29] GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.gbk
+[18:21:29] GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.log
+[18:21:29] GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.tsv
+[18:21:29] GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.tbl
+[18:21:29] GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.ffn
+[18:21:29] GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.sqn
+[18:21:29] GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.gff
+[18:21:29] GCA_000009005.1_ASM900v1_genomic.gbff_pp19/PROKKA_05152020.fsa
+[18:21:29] Annotation finished successfully.
+[18:21:29] Walltime used: 0.05 minutes
+[18:21:29] If you use this result please cite the Prokka paper:
+[18:21:29] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[18:21:29] Type 'prokka --citation' for more details.
+[18:21:29] Share and enjoy!

@@ -1,0 +1,159 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MDFJFFIF_00001	gene	753				
+MDFJFFIF_00001	CDS	753		1.11.1.-		Putative heme-dependent peroxidase
+MDFJFFIF_00002	gene	987	pta			
+MDFJFFIF_00002	CDS	987	pta	2.3.1.8		Phosphate acetyltransferase
+MDFJFFIF_00003	gene	837	lipL			
+MDFJFFIF_00003	CDS	837	lipL	2.3.1.204	COG0095	Octanoyl-[GcvH]:protein N-octanoyltransferase
+MDFJFFIF_00004	gene	921	galK			
+MDFJFFIF_00004	CDS	921	galK	2.7.1.6		Galactokinase
+MDFJFFIF_00005	gene	984				
+MDFJFFIF_00005	CDS	984				hypothetical protein
+MDFJFFIF_00006	gene	1077				
+MDFJFFIF_00006	CDS	1077		2.7.4.2		Phosphomevalonate kinase
+MDFJFFIF_00007	gene	342				
+MDFJFFIF_00007	CDS	342				hypothetical protein
+MDFJFFIF_00008	gene	1323	rclA			
+MDFJFFIF_00008	CDS	1323	rclA		COG1249	putative pyridine nucleotide-disulfide oxidoreductase RclA
+MDFJFFIF_00009	gene	441				
+MDFJFFIF_00009	CDS	441				hypothetical protein
+MDFJFFIF_00010	gene	1410				
+MDFJFFIF_00010	CDS	1410				hypothetical protein
+MDFJFFIF_00011	gene	627				
+MDFJFFIF_00011	CDS	627				hypothetical protein
+MDFJFFIF_00012	gene	642				
+MDFJFFIF_00012	CDS	642				hypothetical protein
+MDFJFFIF_00013	gene	618				
+MDFJFFIF_00013	CDS	618				hypothetical protein
+MDFJFFIF_00014	gene	630				
+MDFJFFIF_00014	CDS	630				hypothetical protein
+MDFJFFIF_00015	gene	621				
+MDFJFFIF_00015	CDS	621				hypothetical protein
+MDFJFFIF_00016	gene	642				
+MDFJFFIF_00016	CDS	642				hypothetical protein
+MDFJFFIF_00017	gene	312				
+MDFJFFIF_00017	CDS	312				hypothetical protein
+MDFJFFIF_00018	gene	630				
+MDFJFFIF_00018	CDS	630				hypothetical protein
+MDFJFFIF_00019	gene	651				
+MDFJFFIF_00019	CDS	651				hypothetical protein
+MDFJFFIF_00020	gene	636				
+MDFJFFIF_00020	CDS	636				hypothetical protein
+MDFJFFIF_00021	gene	246				
+MDFJFFIF_00021	CDS	246				hypothetical protein
+MDFJFFIF_00022	gene	627				
+MDFJFFIF_00022	CDS	627				hypothetical protein
+MDFJFFIF_00023	gene	939	iolS			
+MDFJFFIF_00023	CDS	939	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+MDFJFFIF_00024	gene	537	ywqN			
+MDFJFFIF_00024	CDS	537	ywqN	1.-.-.-	COG0655	Putative NAD(P)H-dependent FMN-containing oxidoreductase YwqN
+MDFJFFIF_00025	gene	477				
+MDFJFFIF_00025	CDS	477				hypothetical protein
+MDFJFFIF_00026	gene	1296				
+MDFJFFIF_00026	CDS	1296				hypothetical protein
+MDFJFFIF_00027	gene	522				
+MDFJFFIF_00027	CDS	522				hypothetical protein
+MDFJFFIF_00028	gene	1011	adh			
+MDFJFFIF_00028	CDS	1011	adh	1.1.1.1		Alcohol dehydrogenase
+MDFJFFIF_00029	gene	429	ywiB			
+MDFJFFIF_00029	CDS	429	ywiB		COG4506	putative beta-barrel protein YwiB
+MDFJFFIF_00030	gene	1662	argS			
+MDFJFFIF_00030	CDS	1662	argS	6.1.1.19		Arginine--tRNA ligase
+MDFJFFIF_00031	gene	636	nth			
+MDFJFFIF_00031	CDS	636	nth	4.2.99.18		Endonuclease III
+MDFJFFIF_00032	gene	888	btuF			
+MDFJFFIF_00032	CDS	888	btuF		COG0614	Vitamin B12-binding protein
+MDFJFFIF_00033	gene	987				
+MDFJFFIF_00033	CDS	987			COG0609	putative ABC transporter permease protein
+MDFJFFIF_00034	gene	720	hdl IVa			
+MDFJFFIF_00034	CDS	720	hdl IVa	3.8.1.2		(S)-2-haloacid dehalogenase 4A
+MDFJFFIF_00035	gene	801				
+MDFJFFIF_00035	CDS	801			COG0596	putative protein
+MDFJFFIF_00036	gene	507				
+MDFJFFIF_00036	CDS	507				hypothetical protein
+MDFJFFIF_00037	gene	717				
+MDFJFFIF_00037	CDS	717				hypothetical protein
+MDFJFFIF_00038	gene	789	pip			
+MDFJFFIF_00038	CDS	789	pip	3.4.11.5		Proline iminopeptidase
+MDFJFFIF_00039	gene	375	sarA			
+MDFJFFIF_00039	CDS	375	sarA			Transcriptional regulator SarA
+MDFJFFIF_00040	gene	498				
+MDFJFFIF_00040	CDS	498				hypothetical protein
+MDFJFFIF_00041	gene	450				
+MDFJFFIF_00041	CDS	450			COG2826	IS30 family transposase ISSau5
+MDFJFFIF_00042	gene	504				
+MDFJFFIF_00042	CDS	504			COG2826	IS30 family transposase ISSau5
+MDFJFFIF_00043	gene	357				
+MDFJFFIF_00043	CDS	357				hypothetical protein
+MDFJFFIF_00044	gene	591				
+MDFJFFIF_00044	CDS	591				hypothetical protein
+MDFJFFIF_00045	gene	1047				
+MDFJFFIF_00045	CDS	1047				hypothetical protein
+MDFJFFIF_00046	gene	1848	infB			
+MDFJFFIF_00046	CDS	1848	infB			Translation initiation factor IF-2
+MDFJFFIF_00047	gene	1359				
+MDFJFFIF_00047	CDS	1359				hypothetical protein
+MDFJFFIF_00048	gene	2496				
+MDFJFFIF_00048	CDS	2496				hypothetical protein
+MDFJFFIF_00049	gene	384				
+MDFJFFIF_00049	CDS	384				hypothetical protein
+MDFJFFIF_00050	gene	261				
+MDFJFFIF_00050	CDS	261				hypothetical protein
+MDFJFFIF_00051	gene	1101				
+MDFJFFIF_00051	CDS	1101				hypothetical protein
+MDFJFFIF_00052	gene	1092				
+MDFJFFIF_00052	CDS	1092				hypothetical protein
+MDFJFFIF_00053	gene	303				
+MDFJFFIF_00053	CDS	303				hypothetical protein
+MDFJFFIF_00054	gene	321				
+MDFJFFIF_00054	CDS	321				hypothetical protein
+MDFJFFIF_00055	gene	285				
+MDFJFFIF_00055	CDS	285				hypothetical protein
+MDFJFFIF_00056	gene	402				
+MDFJFFIF_00056	CDS	402				hypothetical protein
+MDFJFFIF_00057	gene	225				
+MDFJFFIF_00057	CDS	225				hypothetical protein
+MDFJFFIF_00058	gene	204				
+MDFJFFIF_00058	CDS	204				hypothetical protein
+MDFJFFIF_00059	gene	561	xerD			
+MDFJFFIF_00059	CDS	561	xerD			Tyrosine recombinase XerD
+MDFJFFIF_00060	gene	2403	mrpA			
+MDFJFFIF_00060	CDS	2403	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+MDFJFFIF_00061	gene	426	mrpB			
+MDFJFFIF_00061	CDS	426	mrpB		COG2111	Na(+)/H(+) antiporter subunit B
+MDFJFFIF_00062	gene	345	mrpC			
+MDFJFFIF_00062	CDS	345	mrpC		COG1006	Na(+)/H(+) antiporter subunit C
+MDFJFFIF_00063	gene	1500	mnhD1			
+MDFJFFIF_00063	CDS	1500	mnhD1		COG0651	Na(+)/H(+) antiporter subunit D1
+MDFJFFIF_00064	gene	483	mrpE			
+MDFJFFIF_00064	CDS	483	mrpE		COG1863	Na(+)/H(+) antiporter subunit E
+MDFJFFIF_00065	gene	303	mrpF			
+MDFJFFIF_00065	CDS	303	mrpF		COG2212	Na(+)/H(+) antiporter subunit F
+MDFJFFIF_00066	gene	447				
+MDFJFFIF_00066	CDS	447				hypothetical protein
+MDFJFFIF_00067	gene	2043	nhaK			
+MDFJFFIF_00067	CDS	2043	nhaK		COG0025	Sodium, potassium, lithium and rubidium/H(+) antiporter
+MDFJFFIF_00068	gene	930	mntA			
+MDFJFFIF_00068	CDS	930	mntA		COG0803	Manganese-binding lipoprotein MntA
+MDFJFFIF_00069	gene	837	mntB_1			
+MDFJFFIF_00069	CDS	837	mntB_1			Manganese transport system membrane protein MntB
+MDFJFFIF_00070	gene	744	mntB_2			
+MDFJFFIF_00070	CDS	744	mntB_2		COG1121	Manganese transport system ATP-binding protein MntB
+MDFJFFIF_00071	gene	645	mntR			
+MDFJFFIF_00071	CDS	645	mntR			HTH-type transcriptional regulator MntR
+MDFJFFIF_00072	gene	753				
+MDFJFFIF_00072	CDS	753				hypothetical protein
+MDFJFFIF_00073	gene	765	tarA			
+MDFJFFIF_00073	CDS	765	tarA	2.4.1.187		N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+MDFJFFIF_00074	gene	795	tagH			
+MDFJFFIF_00074	CDS	795	tagH	7.5.2.4		Teichoic acids export ATP-binding protein TagH
+MDFJFFIF_00075	gene	813	tagG			
+MDFJFFIF_00075	CDS	813	tagG		COG1682	Teichoic acid translocation permease protein TagG
+MDFJFFIF_00076	gene	1104	tarB			
+MDFJFFIF_00076	CDS	1104	tarB	2.7.8.44	COG1887	Teichoic acid glycerol-phosphate primase
+MDFJFFIF_00077	gene	1062	tagX			
+MDFJFFIF_00077	CDS	1062	tagX	2.4.-.-		Putative glycosyltransferase TagX
+MDFJFFIF_00078	gene	399	tarD			
+MDFJFFIF_00078	CDS	399	tarD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+MDFJFFIF_00079	gene	1296				
+MDFJFFIF_00079	CDS	1296				hypothetical protein

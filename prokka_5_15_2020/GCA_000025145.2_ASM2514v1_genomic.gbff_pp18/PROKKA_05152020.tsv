@@ -1,0 +1,13 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GDAEFEPF_00001	gene	621	hly			
+GDAEFEPF_00001	CDS	621	hly			Alpha-hemolysin
+GDAEFEPF_00002	gene	234				
+GDAEFEPF_00002	CDS	234				hypothetical protein
+GDAEFEPF_00003	gene	186				
+GDAEFEPF_00003	CDS	186				hypothetical protein
+GDAEFEPF_00004	gene	222				
+GDAEFEPF_00004	CDS	222				hypothetical protein
+GDAEFEPF_00005	gene	351	scn			
+GDAEFEPF_00005	CDS	351	scn			Staphylococcal complement inhibitor
+GDAEFEPF_00006	gene	378	fib			
+GDAEFEPF_00006	CDS	378	fib			Fibrinogen-binding protein

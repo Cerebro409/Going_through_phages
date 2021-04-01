@@ -1,0 +1,42 @@
+>Feature gnl|X|AEAFPCAL_1
+1657	581	gene
+			locus_tag	AEAFPCAL_00001
+1657	581	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AEAFPCAL_00001
+			product	hypothetical protein
+			protein_id	gnl|X|AEAFPCAL_00001
+2383	2000	gene
+			gene	panD
+			locus_tag	AEAFPCAL_00002
+2383	2000	CDS
+			EC_number	4.1.1.11
+			db_xref	COG:COG0853
+			gene	panD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9PIK3
+			locus_tag	AEAFPCAL_00002
+			product	Aspartate 1-decarboxylase
+			protein_id	gnl|X|AEAFPCAL_00002
+3236	2385	gene
+			gene	panC
+			locus_tag	AEAFPCAL_00003
+3236	2385	CDS
+			EC_number	6.3.2.1
+			gene	panC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65659
+			locus_tag	AEAFPCAL_00003
+			product	Pantothenate synthetase
+			protein_id	gnl|X|AEAFPCAL_00003
+4047	3229	gene
+			gene	panB
+			locus_tag	AEAFPCAL_00004
+4047	3229	CDS
+			EC_number	2.1.2.11
+			gene	panB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65656
+			locus_tag	AEAFPCAL_00004
+			product	3-methyl-2-oxobutanoate hydroxymethyltransferase
+			protein_id	gnl|X|AEAFPCAL_00004

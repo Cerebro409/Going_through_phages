@@ -1,0 +1,96 @@
+LOCUS       FAPDFBMB_1              2370 bp    DNA     linear       15-MAY-2020
+DEFINITION  Genus species strain strain.
+ACCESSION   
+VERSION
+KEYWORDS    .
+SOURCE      Genus species
+  ORGANISM  Genus species
+            Unclassified.
+COMMENT     Annotated using prokka 1.14.6 from
+            https://github.com/tseemann/prokka.
+FEATURES             Location/Qualifiers
+     source          1..2370
+                     /organism="Genus species"
+                     /mol_type="genomic DNA"
+                     /strain="strain"
+     gene            878..1255
+                     /locus_tag="FAPDFBMB_00001"
+     CDS             878..1255
+                     /locus_tag="FAPDFBMB_00001"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:FAPDFBMB_00001"
+                     /translation="MYVGGDMMKLGMLLIRWMLATSFLVHGTLKFVDLDGTIHFLGSL
+                     GLPPTIAVLMSIGEVVGGLALIIGFLTPYVNVFYICVMLGSIFTLKLTRGYVSGYEFE
+                     IIHIVMNLACISSYSWKKWLQFY"
+     gene            complement(1344..1481)
+                     /gene="tarM"
+                     /locus_tag="FAPDFBMB_00002"
+     CDS             complement(1344..1481)
+                     /gene="tarM"
+                     /locus_tag="FAPDFBMB_00002"
+                     /EC_number="2.4.1.70"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /inference="similar to AA sequence:UniProtKB:A0A0H2WWV6"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="Poly(ribitol-phosphate)
+                     alpha-N-acetylglucosaminyltransferase"
+                     /protein_id="X:FAPDFBMB_00002"
+                     /translation="MADKILKLVNNDVLAEEFGSKARENIIEKYSTESILEKWLNLFN
+                     S"
+     gene            complement(2000..2206)
+                     /locus_tag="FAPDFBMB_00003"
+     CDS             complement(2000..2206)
+                     /locus_tag="FAPDFBMB_00003"
+                     /inference="ab initio prediction:Prodigal:002006"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="X:FAPDFBMB_00003"
+                     /translation="MMLKDPIVMLADEPTGALDPKTGQMIIQSLFDLVDENKVLILAT
+                     HDMAIANQCDEIIDLEQYRKVASM"
+ORIGIN      
+        1 gattgtcggc gcaattttgc tcaattctga tttgattttc ttatgtctgc taacatctgc
+       61 aatgatcaaa tccggtttta atttacttat tacttccata ttcggttgcg gtctagatcc
+      121 aaccgattca tatgctccaa tcttatctct tactgacttt gttatatttt tagtgctgcc
+      181 atcatctgca ataccaacag gtttcatatc taatgctgct aaataatcag caaaactata
+      241 ttctaataca ataacacgtt taggattttt cttaattttt tcagttccta attcatcttt
+      301 tattgtcgtc atttcagttt tctcttcagt atctttttgt ccacaacccg ctactgctac
+      361 aactaagatt agcataaaca caactaattt aacgatattc ctattcacac atttacctcc
+      421 aaacaacttt aatagaaaac cacattatta ttttatcatt taatttgttt atgatatatt
+      481 taggatgtta ttattttttt cttatcatag ttgattatca aatcttctta ttataaacag
+      541 caaatggcct ctaatttgaa gatgacgcac tggttaataa cacgcattta tctcaaacca
+      601 tcattctaat tgtccatact actcttgcaa tttcataata gtgtttacga ttcataaata
+      661 gcgatgcaat agttaattca tttccctata atctttgcac tatgctgtac taatctttat
+      721 ttataaatac aaaaagtaac tgatgactta aacatctttc tacaacaatt gttcaataca
+      781 atagaacatt taataaatat ttaataatta tttttataaa taatctttac tttccacttc
+      841 tttacaaata taatttggac tatgttttaa gaaaaaaatg tatgttggag gtgacatgat
+      901 gaaattaggt atgcttttaa ttagatggat gttagcaaca tcattcttag tgcatggtac
+      961 tttgaaattt gttgatttag atggaacaat tcacttctta ggctctttag gtttaccacc
+     1021 taccatcgca gtattgatgt ccattggtga agttgttgga ggtttagcac ttattatcgg
+     1081 ctttttaacg ccttatgtta atgtttttta tatttgtgtt atgttaggct caatcttcac
+     1141 acttaaactt acaagaggat atgtaagtgg ttatgaattt gaaatcatac atatcgtaat
+     1201 gaacttagct tgtattagta gttacagctg gaagaaatgg ctacaatttt attaactatt
+     1261 atttgagagg actatcctct ctttttttgt atatataatg cgtaaaaatc ctaggtactc
+     1321 atgaatacct aggatttttt catttagcta ttgaaaagat ttaaccattt ttctaatatt
+     1381 gattccgttg aatatttttc tataatgttt tctctcgctt tcgaaccaaa ctcctctgct
+     1441 aaaacatcat tattaacaag ctttaatatt ttatcagcca tgtcgtttat attatggttt
+     1501 tctattaaat aaccattttt attatcttct ataaaatcac cttttaatca agccaattca
+     1561 atttaatttc aaattcttct accgcacaat ttaattttat tgtatgatgt atttaaaatg
+     1621 attgttttgc gcatatcatt ttaaaatgaa aattggaggt gtaattttga ctagaactta
+     1681 taatattatt ggtatccttt cttgtcttat atcttttatt attatggcgt taccaatgat
+     1741 ttggtacaca gcttcagcat tatggttctt cccaggtgca atcatgatat tgttgttatc
+     1801 tttagtcatt gttttttgct atattaaaac gaaaaatcaa ttacatttat tactactcgt
+     1861 attaaatatt attatattgc tttttttcag tttgccgttg ttactttcat aacttagtaa
+     1921 cacattataa aagccaatca aacggagtgt tgaagtcaac atttcccatt gattggcttt
+     1981 taattttatc ttttggatat cacatagatg ctacttttct atactgttct aaatctatta
+     2041 tttcgtcaca ttgatttgca atagccatat catgtgttgc taaaatcagc actttatttt
+     2101 catcgaccaa atcaaataat gattgaataa tcatctgtcc tgttttagga tctaacgcac
+     2161 ccgttggttc atcagctaac ataacaatcg gatcttttaa catcattcta attaaagcga
+     2221 cacgttggtg ttcacctcca cttagcgtat gaacttttct ttttaaactg tttgacagac
+     2281 caaactgttc tatatgtcaa tagcggttta aaaatgctgt tttatggcgg tttgaaaatg
+     2341 tcgtttttta gcggtttaag attgtcgtat
+//

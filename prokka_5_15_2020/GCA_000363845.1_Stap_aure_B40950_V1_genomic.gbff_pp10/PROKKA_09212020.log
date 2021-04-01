@@ -1,0 +1,92 @@
+[14:59:49] This is prokka 1.12
+[14:59:49] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:59:49] Homepage is https://github.com/tseemann/prokka
+[14:59:49] Local time is Mon Sep 21 14:59:49 2020
+[14:59:49] You are tsweet
+[14:59:49] Operating system is linux
+[14:59:49] You have BioPerl 1.006924
+[14:59:49] System has 4 cores.
+[14:59:49] Option --cpu asked for 8 cores, but system only has 4
+[14:59:49] Will use maximum of 4 cores.
+[14:59:49] Annotating as >>> Bacteria <<<
+[14:59:49] Generating locus_tag from '63845.1_Stap_aure_B40950_V1_genomic.gbff_pp10' contents.
+[14:59:49] Setting --locustag KFNNAHJN from MD5 4f77a1373ec6807653ed048e9a62b2b7
+[14:59:49] Enabling options to ensure Genbank/ENA/DDJB submission compliance.
+[14:59:49] Creating new output folder: GCA_000363845.1_Stap_aure_B40950_V1_genomic.gbff_pp10
+[14:59:49] Running: mkdir -p GCA_000363845\.1_Stap_aure_B40950_V1_genomic\.gbff_pp10
+[14:59:49] Using filename prefix: PROKKA_09212020.XXX
+[14:59:49] Setting HMMER_NCPU=1
+[14:59:49] Writing log to: GCA_000363845.1_Stap_aure_B40950_V1_genomic.gbff_pp10/PROKKA_09212020.log
+[14:59:49] Command: /home/tsweet/anaconda3/envs/bioinformatics/bin/prokka --centre X --compliant 63845.1_Stap_aure_B40950_V1_genomic.gbff_pp10 --outdir GCA_000363845.1_Stap_aure_B40950_V1_genomic.gbff_pp10
+[14:59:49] Looking for 'aragorn' - found /home/tsweet/anaconda3/envs/bioinformatics/bin/aragorn
+[14:59:49] Determined aragorn version is 1.2
+[14:59:49] Looking for 'barrnap' - found /home/tsweet/anaconda3/envs/bioinformatics/bin/barrnap
+[14:59:49] Determined barrnap version is 0.9
+[14:59:49] Looking for 'blastp' - found /home/tsweet/anaconda3/envs/bioinformatics/bin/blastp
+[14:59:49] Determined blastp version is 2.2
+[14:59:49] Looking for 'cmpress' - found /home/tsweet/anaconda3/envs/bioinformatics/bin/cmpress
+[14:59:49] Determined cmpress version is 1.1
+[14:59:49] Looking for 'cmscan' - found /home/tsweet/anaconda3/envs/bioinformatics/bin/cmscan
+[14:59:49] Determined cmscan version is 1.1
+[14:59:49] Looking for 'egrep' - found /usr/bin/egrep
+[14:59:49] Looking for 'find' - found /usr/bin/find
+[14:59:49] Looking for 'grep' - found /usr/bin/grep
+[14:59:49] Looking for 'hmmpress' - found /home/tsweet/anaconda3/envs/bioinformatics/bin/hmmpress
+[14:59:49] Determined hmmpress version is 3.3
+[14:59:49] Looking for 'hmmscan' - found /home/tsweet/anaconda3/envs/bioinformatics/bin/hmmscan
+[14:59:49] Determined hmmscan version is 3.3
+[14:59:49] Looking for 'java' - found /home/tsweet/anaconda3/envs/bioinformatics/bin/java
+[14:59:49] Looking for 'less' - found /usr/bin/less
+[14:59:49] Looking for 'makeblastdb' - found /home/tsweet/anaconda3/envs/bioinformatics/bin/makeblastdb
+[14:59:49] Determined makeblastdb version is 2.2
+[14:59:49] Looking for 'minced' - found /home/tsweet/anaconda3/envs/bioinformatics/bin/minced
+[14:59:49] Determined minced version is 4.2
+[14:59:49] Looking for 'parallel' - found /home/tsweet/anaconda3/envs/bioinformatics/bin/parallel
+[14:59:49] Determined parallel version is 20160622
+[14:59:49] Looking for 'prodigal' - found /home/tsweet/anaconda3/envs/bioinformatics/bin/prodigal
+[14:59:49] Determined prodigal version is 2.6
+[14:59:49] Looking for 'prokka-genbank_to_fasta_db' - found /home/tsweet/anaconda3/envs/bioinformatics/bin/prokka-genbank_to_fasta_db
+[14:59:49] Looking for 'sed' - found /usr/bin/sed
+[14:59:49] Looking for 'tbl2asn' - found /home/tsweet/anaconda3/envs/bioinformatics/bin/tbl2asn
+[14:59:49] Determined tbl2asn version is 25.7
+[14:59:49] Using genetic code table 11.
+[14:59:49] Loading and checking input file: 63845.1_Stap_aure_B40950_V1_genomic.gbff_pp10
+[14:59:49] Wrote 1 contigs totalling 7457 bp.
+[14:59:49] Predicting tRNAs and tmRNAs
+[14:59:49] Running: aragorn -l -gc11  -w GCA_000363845\.1_Stap_aure_B40950_V1_genomic\.gbff_pp10\/PROKKA_09212020\.fna
+[14:59:49] Found 0 tRNAs
+[14:59:49] Predicting Ribosomal RNAs
+[14:59:49] Running Barrnap with 4 threads
+[14:59:49] Found 0 rRNAs
+[14:59:49] Skipping ncRNA search, enable with --rfam if desired.
+[14:59:49] Total of 0 tRNA + rRNA features
+[14:59:49] Searching for CRISPR repeats
+[14:59:49] Found 0 CRISPRs
+[14:59:49] Predicting coding sequences
+[14:59:49] Contigs total 7457 bp, so using meta mode
+[14:59:49] Running: prodigal -i GCA_000363845\.1_Stap_aure_B40950_V1_genomic\.gbff_pp10\/PROKKA_09212020\.fna -c -m -g 11 -p meta -f sco -q
+[14:59:50] Found 7 CDS
+[14:59:50] Connecting features back to sequences
+[14:59:50] Not using genus-specific database. Try --usegenus to enable it.
+[14:59:50] Annotating CDS, please be patient.
+[14:59:50] Will use 4 CPUs for similarity searching.
+[14:59:50] There are still 7 unannotated CDS left (started with 7)
+[14:59:50] Will use blast to search against /home/tsweet/anaconda3/envs/bioinformatics/share/prokka/db/kingdom/Bacteria/sprot with 4 CPUs
+[14:59:50] Running: cat GCA_000363845\.1_Stap_aure_B40950_V1_genomic\.gbff_pp10\/sprot\.faa | parallel --gnu --plain -j 4 --block 230 --recstart '>' --pipe blastp -query - -db /home/tsweet/anaconda3/envs/bioinformatics/share/prokka/db/kingdom/Bacteria/sprot -evalue 1e-06 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > GCA_000363845\.1_Stap_aure_B40950_V1_genomic\.gbff_pp10\/sprot\.blast 2> /dev/null
+[14:59:50] Deleting unwanted file: GCA_000363845.1_Stap_aure_B40950_V1_genomic.gbff_pp10/sprot.faa
+[14:59:50] Deleting unwanted file: GCA_000363845.1_Stap_aure_B40950_V1_genomic.gbff_pp10/sprot.blast
+[14:59:50] There are still 2 unannotated CDS left (started with 7)
+[14:59:50] Will use hmmer3 to search against /home/tsweet/anaconda3/envs/bioinformatics/share/prokka/db/hmm/HAMAP.hmm with 4 CPUs
+[14:59:50] Running: cat GCA_000363845\.1_Stap_aure_B40950_V1_genomic\.gbff_pp10\/HAMAP\.hmm\.faa | parallel --gnu --plain -j 4 --block 29 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-06 --cpu 1 /home/tsweet/anaconda3/envs/bioinformatics/share/prokka/db/hmm/HAMAP.hmm /dev/stdin > GCA_000363845\.1_Stap_aure_B40950_V1_genomic\.gbff_pp10\/HAMAP\.hmm\.hmmer3 2> /dev/null
+[14:59:50] Deleting unwanted file: GCA_000363845.1_Stap_aure_B40950_V1_genomic.gbff_pp10/HAMAP.hmm.faa
+[14:59:50] Deleting unwanted file: GCA_000363845.1_Stap_aure_B40950_V1_genomic.gbff_pp10/HAMAP.hmm.hmmer3
+[14:59:50] Labelling remaining 2 proteins as 'hypothetical protein'
+[14:59:50] Found 5 unique /gene codes.
+[14:59:50] Fixed 0 colliding /gene names.
+[14:59:50] Adding /locus_tag identifiers
+[14:59:50] Assigned 7 locus_tags to CDS and RNA features.
+[14:59:50] Writing outputs to GCA_000363845.1_Stap_aure_B40950_V1_genomic.gbff_pp10/
+[14:59:50] Generating annotation statistics file
+[14:59:50] Generating Genbank and Sequin files
+[14:59:50] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.12 from https://github.com/tseemann/prokka' -Z GCA_000363845\.1_Stap_aure_B40950_V1_genomic\.gbff_pp10\/PROKKA_09212020\.err -i GCA_000363845\.1_Stap_aure_B40950_V1_genomic\.gbff_pp10\/PROKKA_09212020\.fsa 2> /dev/null
+[14:59:51] Could not run command: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.12 from https://github.com/tseemann/prokka' -Z GCA_000363845\.1_Stap_aure_B40950_V1_genomic\.gbff_pp10\/PROKKA_09212020\.err -i GCA_000363845\.1_Stap_aure_B40950_V1_genomic\.gbff_pp10\/PROKKA_09212020\.fsa 2> /dev/null

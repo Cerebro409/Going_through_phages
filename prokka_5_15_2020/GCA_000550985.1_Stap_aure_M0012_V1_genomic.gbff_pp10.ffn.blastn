@@ -1,0 +1,148 @@
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00001 Monoacylglycerol lipase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+JIAHOEME_00001	LCOCJHGB_00001	100.000	816	100	816	816	0	0.0	1507
+JIAHOEME_00001	MFMLEMAL_00001	100.000	816	100	816	816	0	0.0	1507
+JIAHOEME_00001	JIAHOEME_00001	100.000	816	100	816	816	0	0.0	1507
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00002 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 6 hits found
+JIAHOEME_00002	LCOCJHGB_00002	100.000	246	100	246	246	0	4.63e-129	455
+JIAHOEME_00002	MFMLEMAL_00002	100.000	246	100	246	246	0	4.63e-129	455
+JIAHOEME_00002	KBLMPEBM_00001	100.000	246	100	246	246	0	4.63e-129	455
+JIAHOEME_00002	JIAHOEME_00002	100.000	246	100	246	246	0	4.63e-129	455
+JIAHOEME_00002	CDHGIKDO_00001	100.000	246	100	246	246	0	4.63e-129	455
+JIAHOEME_00002	CMLBKDKH_00041	97.976	246	100	675	247	4	1.01e-120	427
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00003 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+JIAHOEME_00003	LCOCJHGB_00003	100.000	432	100	432	432	0	0.0	798
+JIAHOEME_00003	MFMLEMAL_00003	100.000	432	100	432	432	0	0.0	798
+JIAHOEME_00003	KBLMPEBM_00002	100.000	432	100	432	432	0	0.0	798
+JIAHOEME_00003	JIAHOEME_00003	100.000	432	100	432	432	0	0.0	798
+JIAHOEME_00003	CDHGIKDO_00002	100.000	432	100	432	432	0	0.0	798
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00004 Arginine repressor
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+JIAHOEME_00004	LCOCJHGB_00004	100.000	447	100	447	447	0	0.0	826
+JIAHOEME_00004	MFMLEMAL_00004	100.000	447	100	447	447	0	0.0	826
+JIAHOEME_00004	KBLMPEBM_00003	100.000	447	100	447	447	0	0.0	826
+JIAHOEME_00004	JIAHOEME_00004	100.000	447	100	447	447	0	0.0	826
+JIAHOEME_00004	CDHGIKDO_00003	100.000	447	100	447	447	0	0.0	826
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00005 Arginine deiminase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 5 hits found
+JIAHOEME_00005	LCOCJHGB_00005	100.000	1236	100	1236	1236	0	0.0	2283
+JIAHOEME_00005	MFMLEMAL_00005	100.000	1236	100	1236	1236	0	0.0	2283
+JIAHOEME_00005	KBLMPEBM_00004	100.000	1236	100	1236	1236	0	0.0	2283
+JIAHOEME_00005	JIAHOEME_00005	100.000	1236	100	1236	1236	0	0.0	2283
+JIAHOEME_00005	CDHGIKDO_00004	100.000	1236	100	1236	1236	0	0.0	2283
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00006 Arginine/ornithine antiporter
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+JIAHOEME_00006	LCOCJHGB_00006	100.000	1422	100	1422	1422	0	0.0	2627
+JIAHOEME_00006	MFMLEMAL_00006	100.000	1422	100	1422	1422	0	0.0	2627
+JIAHOEME_00006	JIAHOEME_00006	100.000	1422	100	1422	1422	0	0.0	2627
+JIAHOEME_00006	CDHGIKDO_00005	100.000	1422	100	1422	1422	0	0.0	2627
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00007 HTH-type transcriptional regulator ArcR
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+JIAHOEME_00007	MFMLEMAL_00007	100.000	690	100	690	690	0	0.0	1275
+JIAHOEME_00007	JIAHOEME_00007	100.000	690	100	690	690	0	0.0	1275
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00008 Ornithine carbamoyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+JIAHOEME_00008	MFMLEMAL_00008	100.000	999	100	999	999	0	0.0	1845
+JIAHOEME_00008	JIAHOEME_00008	100.000	999	100	999	999	0	0.0	1845
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00009 Carbamate kinase 1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+JIAHOEME_00009	JIAHOEME_00009	100.000	930	100	930	930	0	0.0	1718
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00010 IS3 family transposase ISSau4
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+JIAHOEME_00010	JIAHOEME_00010	100.000	852	100	852	852	0	0.0	1574
+JIAHOEME_00010	LBIPJCMD_00001	97.565	852	72	837	616	14	0.0	1053
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00011 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+JIAHOEME_00011	AMIHLCIC_00001	100.000	351	100	351	351	0	0.0	649
+JIAHOEME_00011	NPIJGLCM_00001	100.000	351	100	351	351	0	0.0	649
+JIAHOEME_00011	EPIDIIBF_00001	100.000	351	100	351	351	0	0.0	649
+JIAHOEME_00011	JIAHOEME_00011	100.000	351	100	351	351	0	0.0	649
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00012 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+JIAHOEME_00012	AMIHLCIC_00002	100.000	93	100	93	93	0	1.71e-44	172
+JIAHOEME_00012	NPIJGLCM_00002	100.000	93	100	93	93	0	1.71e-44	172
+JIAHOEME_00012	EPIDIIBF_00002	100.000	93	100	93	93	0	1.71e-44	172
+JIAHOEME_00012	JIAHOEME_00012	100.000	93	100	93	93	0	1.71e-44	172
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00013 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 8 hits found
+JIAHOEME_00013	AMIHLCIC_00003	100.000	312	100	312	312	0	1.22e-165	577
+JIAHOEME_00013	NPIJGLCM_00003	100.000	312	100	312	312	0	1.22e-165	577
+JIAHOEME_00013	EPIDIIBF_00003	100.000	312	100	312	312	0	1.22e-165	577
+JIAHOEME_00013	JIAHOEME_00013	100.000	312	100	312	312	0	1.22e-165	577
+JIAHOEME_00013	FDHBDHLF_00003	89.172	312	100	312	314	30	6.12e-109	388
+JIAHOEME_00013	OFJEEBPC_00012	89.172	312	100	312	314	30	6.12e-109	388
+JIAHOEME_00013	MMFDLKPG_00005	89.172	312	100	312	314	30	6.12e-109	388
+JIAHOEME_00013	CMLBKDKH_00051	89.172	312	100	312	314	30	6.12e-109	388
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00014 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 8 hits found
+JIAHOEME_00014	AMIHLCIC_00004	100.000	504	100	504	504	0	0.0	931
+JIAHOEME_00014	NPIJGLCM_00004	100.000	504	100	504	504	0	0.0	931
+JIAHOEME_00014	EPIDIIBF_00004	100.000	504	100	504	504	0	0.0	931
+JIAHOEME_00014	JIAHOEME_00014	100.000	504	100	504	504	0	0.0	931
+JIAHOEME_00014	CMLBKDKH_00050	91.075	504	98	507	493	44	0.0	667
+JIAHOEME_00014	FDHBDHLF_00004	90.061	504	98	510	493	49	0.0	640
+JIAHOEME_00014	OFJEEBPC_00013	90.061	504	98	510	493	49	0.0	640
+JIAHOEME_00014	MMFDLKPG_00006	90.061	504	98	510	493	49	0.0	640
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00015 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+JIAHOEME_00015	AMIHLCIC_00005	100.000	225	100	225	225	0	1.98e-117	416
+JIAHOEME_00015	NPIJGLCM_00005	100.000	225	100	225	225	0	1.98e-117	416
+JIAHOEME_00015	EPIDIIBF_00005	100.000	225	100	225	225	0	1.98e-117	416
+JIAHOEME_00015	JIAHOEME_00015	100.000	225	100	225	225	0	1.98e-117	416
+# BLASTN 2.9.0+
+# Query: JIAHOEME_00016 S-(hydroxymethyl)mycothiol dehydrogenase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 4 hits found
+JIAHOEME_00016	AMIHLCIC_00006	100.000	576	100	576	576	0	0.0	1064
+JIAHOEME_00016	NPIJGLCM_00006	100.000	576	100	1128	576	0	0.0	1064
+JIAHOEME_00016	EPIDIIBF_00006	100.000	576	100	1128	576	0	0.0	1064
+JIAHOEME_00016	JIAHOEME_00016	100.000	576	100	576	576	0	0.0	1064
+# BLAST processed 16 queries

@@ -1,0 +1,219 @@
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00001 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PPEAPJEI_00001	PPEAPJEI_00001	100.000	117	100	117	117	0	1.03e-57	217
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00002 IS30 family transposase ISSau5
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PPEAPJEI_00002	PPEAPJEI_00002	100.000	450	100	450	450	0	0.0	832
+PPEAPJEI_00002	MDFJFFIF_00041	99.778	450	100	450	450	1	0.0	826
+PPEAPJEI_00002	PDHDOIKH_00032	99.778	450	100	450	450	1	0.0	826
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00003 IS30 family transposase ISSau5
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PPEAPJEI_00003	PPEAPJEI_00003	100.000	504	100	504	504	0	0.0	931
+PPEAPJEI_00003	MDFJFFIF_00042	99.008	504	100	504	504	5	0.0	904
+PPEAPJEI_00003	PDHDOIKH_00033	99.008	504	100	504	504	5	0.0	904
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00004 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PPEAPJEI_00004	MDFJFFIF_00043	100.000	357	100	357	357	0	0.0	660
+PPEAPJEI_00004	PDHDOIKH_00034	100.000	357	100	357	357	0	0.0	660
+PPEAPJEI_00004	PPEAPJEI_00004	100.000	357	100	357	357	0	0.0	660
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00005 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PPEAPJEI_00005	PPEAPJEI_00005	100.000	591	100	591	591	0	0.0	1092
+PPEAPJEI_00005	MDFJFFIF_00044	99.662	591	100	591	591	2	0.0	1081
+PPEAPJEI_00005	PDHDOIKH_00035	99.662	591	100	591	591	2	0.0	1081
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00006 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PPEAPJEI_00006	MDFJFFIF_00045	100.000	1047	100	1047	1047	0	0.0	1934
+PPEAPJEI_00006	PDHDOIKH_00036	100.000	1047	100	1047	1047	0	0.0	1934
+PPEAPJEI_00006	PPEAPJEI_00006	100.000	1047	100	1047	1047	0	0.0	1934
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00007 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PPEAPJEI_00007	PPEAPJEI_00007	100.000	1848	100	1848	1848	0	0.0	3413
+PPEAPJEI_00007	MDFJFFIF_00046	99.729	1848	100	1848	1848	5	0.0	3386
+PPEAPJEI_00007	PDHDOIKH_00037	99.729	1848	100	1848	1848	5	0.0	3386
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00008 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PPEAPJEI_00008	PPEAPJEI_00008	100.000	1359	100	1359	1359	0	0.0	2510
+PPEAPJEI_00008	MDFJFFIF_00047	99.191	1359	100	1359	1359	11	0.0	2449
+PPEAPJEI_00008	PDHDOIKH_00038	99.191	1359	100	1359	1359	11	0.0	2449
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00009 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PPEAPJEI_00009	PPEAPJEI_00009	100.000	267	100	267	267	0	1.07e-140	494
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00010 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PPEAPJEI_00010	PPEAPJEI_00010	100.000	144	100	144	144	0	1.28e-72	267
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00011 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+PPEAPJEI_00011	PPEAPJEI_00011	100.000	492	100	492	492	0	0.0	909
+PPEAPJEI_00011	PPEAPJEI_00012	100.000	492	11	174	56	0	4.02e-23	104
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00012 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+PPEAPJEI_00012	PPEAPJEI_00012	100.000	174	100	174	174	0	3.34e-89	322
+PPEAPJEI_00012	PPEAPJEI_00011	100.000	174	32	492	56	0	1.32e-23	104
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00013 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PPEAPJEI_00013	PPEAPJEI_00013	100.000	2496	100	2496	2496	0	0.0	4610
+PPEAPJEI_00013	MDFJFFIF_00048	99.119	2496	100	2496	2496	22	0.0	4488
+PPEAPJEI_00013	PDHDOIKH_00039	99.119	2496	100	2496	2496	22	0.0	4488
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00014 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PPEAPJEI_00014	PPEAPJEI_00014	100.000	384	100	384	384	0	0.0	710
+PPEAPJEI_00014	MDFJFFIF_00049	99.740	384	100	384	384	1	0.0	704
+PPEAPJEI_00014	PDHDOIKH_00040	99.740	384	100	384	384	1	0.0	704
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00015 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PPEAPJEI_00015	MDFJFFIF_00050	100.000	261	100	261	261	0	2.26e-137	483
+PPEAPJEI_00015	PDHDOIKH_00041	100.000	261	100	261	261	0	2.26e-137	483
+PPEAPJEI_00015	PPEAPJEI_00015	100.000	261	100	261	261	0	2.26e-137	483
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00016 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PPEAPJEI_00016	PPEAPJEI_00016	100.000	1101	100	1101	1101	0	0.0	2034
+PPEAPJEI_00016	MDFJFFIF_00051	99.909	1101	100	1101	1101	1	0.0	2028
+PPEAPJEI_00016	PDHDOIKH_00042	99.909	1101	100	1101	1101	1	0.0	2028
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00017 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PPEAPJEI_00017	PPEAPJEI_00017	100.000	1092	100	1092	1092	0	0.0	2017
+PPEAPJEI_00017	MDFJFFIF_00052	99.176	1092	100	1092	1092	9	0.0	1967
+PPEAPJEI_00017	PDHDOIKH_00043	99.176	1092	100	1092	1092	9	0.0	1967
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00018 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PPEAPJEI_00018	MDFJFFIF_00053	100.000	303	100	303	303	0	1.19e-160	560
+PPEAPJEI_00018	PDHDOIKH_00044	100.000	303	100	303	303	0	1.19e-160	560
+PPEAPJEI_00018	PPEAPJEI_00018	100.000	303	100	303	303	0	1.19e-160	560
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00019 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PPEAPJEI_00019	PPEAPJEI_00019	100.000	321	100	321	321	0	1.25e-170	593
+PPEAPJEI_00019	MDFJFFIF_00054	99.065	321	100	321	321	3	1.25e-165	577
+PPEAPJEI_00019	PDHDOIKH_00045	99.065	321	100	321	321	3	1.25e-165	577
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00020 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 3 hits found
+PPEAPJEI_00020	PPEAPJEI_00020	100.000	285	100	285	285	0	1.13e-150	527
+PPEAPJEI_00020	MDFJFFIF_00055	99.649	285	100	285	285	1	5.28e-149	521
+PPEAPJEI_00020	PDHDOIKH_00046	99.649	285	100	285	285	1	5.28e-149	521
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00021 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PPEAPJEI_00021	PPEAPJEI_00021	100.000	567	100	567	567	0	0.0	1048
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00022 Aminoacyltransferase FemB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PPEAPJEI_00022	PPEAPJEI_00022	100.000	1260	100	1260	1260	0	0.0	2327
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00023 Aminoacyltransferase FemA
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PPEAPJEI_00023	PPEAPJEI_00023	100.000	1302	100	1302	1302	0	0.0	2405
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00024 Tryptophan synthase alpha chain
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PPEAPJEI_00024	PPEAPJEI_00024	100.000	729	100	729	729	0	0.0	1347
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00025 Tryptophan synthase beta chain
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PPEAPJEI_00025	PPEAPJEI_00025	100.000	1215	100	1215	1215	0	0.0	2244
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00026 N-(5'-phosphoribosyl)anthranilate isomerase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PPEAPJEI_00026	PPEAPJEI_00026	100.000	636	100	636	636	0	0.0	1175
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00027 Indole-3-glycerol phosphate synthase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PPEAPJEI_00027	PPEAPJEI_00027	100.000	783	100	783	783	0	0.0	1447
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00028 Anthranilate phosphoribosyltransferase 2
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PPEAPJEI_00028	PPEAPJEI_00028	100.000	999	100	999	999	0	0.0	1845
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00029 Aminodeoxychorismate/anthranilate synthase component 2
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PPEAPJEI_00029	PPEAPJEI_00029	100.000	567	100	567	567	0	0.0	1048
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00030 Anthranilate synthase component 1
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PPEAPJEI_00030	PPEAPJEI_00030	100.000	1407	100	1407	1407	0	0.0	2599
+# BLASTN 2.9.0+
+# Query: PPEAPJEI_00031 Putative aminopeptidase YsdC
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 1 hits found
+PPEAPJEI_00031	PPEAPJEI_00031	100.000	1032	100	1032	1032	0	0.0	1906
+# BLAST processed 31 queries

@@ -1,0 +1,33 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+PNMLNJBE_00001	gene	76				
+PNMLNJBE_00001	tRNA	76				tRNA-Ala(tgc)
+PNMLNJBE_00002	gene	74				
+PNMLNJBE_00002	tRNA	74				tRNA-Pro(tgg)
+PNMLNJBE_00003	gene	77				
+PNMLNJBE_00003	tRNA	77				tRNA-Arg(acg)
+PNMLNJBE_00004	gene	89				
+PNMLNJBE_00004	tRNA	89				tRNA-Leu(taa)
+PNMLNJBE_00005	gene	75				
+PNMLNJBE_00005	tRNA	75				tRNA-Gly(gcc)
+PNMLNJBE_00006	gene	75				
+PNMLNJBE_00006	tRNA	75				tRNA-Lys(ttt)
+PNMLNJBE_00007	gene	76				
+PNMLNJBE_00007	tRNA	76				tRNA-Thr(tgt)
+PNMLNJBE_00008	gene	76				
+PNMLNJBE_00008	tRNA	76				tRNA-Val(tac)
+PNMLNJBE_00009	gene	78				
+PNMLNJBE_00009	rRNA	78				5S ribosomal RNA (partial)
+PNMLNJBE_00010	gene	1548	lysS			
+PNMLNJBE_00010	CDS	1548	lysS	6.1.1.6		Lysine--tRNA ligase
+PNMLNJBE_00011	gene	477	folK			
+PNMLNJBE_00011	CDS	477	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+PNMLNJBE_00012	gene	366	folB			
+PNMLNJBE_00012	CDS	366	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+PNMLNJBE_00013	gene	804	folP			
+PNMLNJBE_00013	CDS	804	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+PNMLNJBE_00014	gene	933	cysK			
+PNMLNJBE_00014	CDS	933	cysK	2.5.1.47		Cysteine synthase
+PNMLNJBE_00015	gene	882	hslO			
+PNMLNJBE_00015	CDS	882	hslO			33 kDa chaperonin
+PNMLNJBE_00016	gene	687	ftsH			
+PNMLNJBE_00016	CDS	687	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH

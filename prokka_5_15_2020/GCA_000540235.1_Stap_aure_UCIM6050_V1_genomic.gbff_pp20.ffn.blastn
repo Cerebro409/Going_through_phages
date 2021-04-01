@@ -1,0 +1,71 @@
+# BLASTN 2.9.0+
+# Query: MJNGFAHC_00001 Cell division protein FtsL
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+MJNGFAHC_00001	APIDFFDB_00001	100.000	402	100	402	402	0	0.0	743
+MJNGFAHC_00001	MJNGFAHC_00001	100.000	402	100	402	402	0	0.0	743
+# BLASTN 2.9.0+
+# Query: MJNGFAHC_00002 Ribosomal RNA small subunit methyltransferase H
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+MJNGFAHC_00002	APIDFFDB_00002	100.000	936	100	936	936	0	0.0	1729
+MJNGFAHC_00002	MJNGFAHC_00002	100.000	936	100	936	936	0	0.0	1729
+# BLASTN 2.9.0+
+# Query: MJNGFAHC_00003 Transcriptional regulator MraZ
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+MJNGFAHC_00003	APIDFFDB_00003	100.000	432	100	432	432	0	0.0	798
+MJNGFAHC_00003	MJNGFAHC_00003	100.000	432	100	432	432	0	0.0	798
+# BLASTN 2.9.0+
+# Query: MJNGFAHC_00004 Putative cysteine ligase BshC
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+MJNGFAHC_00004	APIDFFDB_00004	100.000	1614	100	1614	1614	0	0.0	2981
+MJNGFAHC_00004	MJNGFAHC_00004	100.000	1614	100	1614	1614	0	0.0	2981
+# BLASTN 2.9.0+
+# Query: MJNGFAHC_00005 putative N-acetyltransferase
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+MJNGFAHC_00005	APIDFFDB_00005	100.000	441	100	441	441	0	0.0	815
+MJNGFAHC_00005	MJNGFAHC_00005	100.000	441	100	441	441	0	0.0	815
+# BLASTN 2.9.0+
+# Query: MJNGFAHC_00006 Putative HAD-hydrolase YfnB
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+MJNGFAHC_00006	APIDFFDB_00006	100.000	696	100	696	696	0	0.0	1286
+MJNGFAHC_00006	MJNGFAHC_00006	100.000	696	100	696	696	0	0.0	1286
+# BLASTN 2.9.0+
+# Query: MJNGFAHC_00007 Antibacterial protein 3
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+MJNGFAHC_00007	APIDFFDB_00007	100.000	135	100	135	135	0	1.20e-67	250
+MJNGFAHC_00007	MJNGFAHC_00007	100.000	135	100	135	135	0	1.20e-67	250
+# BLASTN 2.9.0+
+# Query: MJNGFAHC_00008 Antibacterial protein 3
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+MJNGFAHC_00008	APIDFFDB_00008	100.000	135	100	135	135	0	1.20e-67	250
+MJNGFAHC_00008	MJNGFAHC_00008	100.000	135	100	135	135	0	1.20e-67	250
+# BLASTN 2.9.0+
+# Query: MJNGFAHC_00009 tRNA-Arg(tct)
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+MJNGFAHC_00009	APIDFFDB_00009	100.000	76	100	76	76	0	3.72e-35	141
+MJNGFAHC_00009	MJNGFAHC_00009	100.000	76	100	76	76	0	3.72e-35	141
+# BLASTN 2.9.0+
+# Query: MJNGFAHC_00010 hypothetical protein
+# Database: PROKKAdb
+# Fields: query id, subject id, % identity, query length, % query coverage per subject, subject length, alignment length, mismatches, evalue, bit score
+# 2 hits found
+MJNGFAHC_00010	APIDFFDB_00010	100.000	189	100	189	189	0	1.68e-97	350
+MJNGFAHC_00010	MJNGFAHC_00010	100.000	189	100	189	189	0	1.68e-97	350
+# BLAST processed 10 queries

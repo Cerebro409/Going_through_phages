@@ -1,0 +1,52 @@
+>Feature gnl|X|GDAEFEPF_1
+76	696	gene
+			gene	hly
+			locus_tag	GDAEFEPF_00001
+76	696	CDS
+			gene	hly
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09616
+			locus_tag	GDAEFEPF_00001
+			product	Alpha-hemolysin
+			protein_id	gnl|X|GDAEFEPF_00001
+1150	1383	gene
+			locus_tag	GDAEFEPF_00002
+1150	1383	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GDAEFEPF_00002
+			product	hypothetical protein
+			protein_id	gnl|X|GDAEFEPF_00002
+2000	2185	gene
+			locus_tag	GDAEFEPF_00003
+2000	2185	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GDAEFEPF_00003
+			product	hypothetical protein
+			protein_id	gnl|X|GDAEFEPF_00003
+2347	2126	gene
+			locus_tag	GDAEFEPF_00004
+2347	2126	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	GDAEFEPF_00004
+			product	hypothetical protein
+			protein_id	gnl|X|GDAEFEPF_00004
+2788	2438	gene
+			gene	scn
+			locus_tag	GDAEFEPF_00005
+2788	2438	CDS
+			gene	scn
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FWV6
+			locus_tag	GDAEFEPF_00005
+			product	Staphylococcal complement inhibitor
+			protein_id	gnl|X|GDAEFEPF_00005
+3317	2940	gene
+			gene	fib
+			locus_tag	GDAEFEPF_00006
+3317	2940	CDS
+			gene	fib
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C6P2
+			locus_tag	GDAEFEPF_00006
+			product	Fibrinogen-binding protein
+			protein_id	gnl|X|GDAEFEPF_00006

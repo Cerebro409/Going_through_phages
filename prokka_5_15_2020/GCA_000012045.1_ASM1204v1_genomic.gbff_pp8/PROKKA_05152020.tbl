@@ -1,0 +1,83 @@
+>Feature gnl|X|POJEAIJC_1
+161	1357	gene
+			locus_tag	POJEAIJC_00001
+161	1357	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	POJEAIJC_00001
+			product	hypothetical protein
+			protein_id	gnl|X|POJEAIJC_00001
+1369	2136	gene
+			locus_tag	POJEAIJC_00002
+1369	2136	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:IS712
+			locus_tag	POJEAIJC_00002
+			product	IS21 family transposase IS712
+			protein_id	gnl|X|POJEAIJC_00002
+2759	2367	gene
+			locus_tag	POJEAIJC_00003
+2759	2367	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	POJEAIJC_00003
+			product	hypothetical protein
+			protein_id	gnl|X|POJEAIJC_00003
+3150	2761	gene
+			locus_tag	POJEAIJC_00004
+3150	2761	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	POJEAIJC_00004
+			product	hypothetical protein
+			protein_id	gnl|X|POJEAIJC_00004
+3542	3168	gene
+			locus_tag	POJEAIJC_00005
+3542	3168	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	POJEAIJC_00005
+			product	hypothetical protein
+			protein_id	gnl|X|POJEAIJC_00005
+4030	3557	gene
+			locus_tag	POJEAIJC_00006
+4030	3557	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	POJEAIJC_00006
+			product	hypothetical protein
+			protein_id	gnl|X|POJEAIJC_00006
+4454	4041	gene
+			locus_tag	POJEAIJC_00007
+4454	4041	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	POJEAIJC_00007
+			product	hypothetical protein
+			protein_id	gnl|X|POJEAIJC_00007
+5729	4467	gene
+			locus_tag	POJEAIJC_00008
+5729	4467	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	POJEAIJC_00008
+			product	hypothetical protein
+			protein_id	gnl|X|POJEAIJC_00008
+6032	5742	gene
+			locus_tag	POJEAIJC_00009
+6032	5742	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	POJEAIJC_00009
+			product	hypothetical protein
+			protein_id	gnl|X|POJEAIJC_00009
+7114	6035	gene
+			locus_tag	POJEAIJC_00010
+7114	6035	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	POJEAIJC_00010
+			product	hypothetical protein
+			protein_id	gnl|X|POJEAIJC_00010
+9057	7111	gene
+			gene	essC
+			locus_tag	POJEAIJC_00011
+9057	7111	CDS
+			db_xref	COG:COG1674
+			gene	essC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G184
+			locus_tag	POJEAIJC_00011
+			product	Type VII secretion system protein EssC
+			protein_id	gnl|X|POJEAIJC_00011

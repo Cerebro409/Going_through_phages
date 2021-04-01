@@ -1,0 +1,9 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CEGFEPDD_00001	gene	1197				
+CEGFEPDD_00001	CDS	1197				hypothetical protein
+CEGFEPDD_00002	gene	768				
+CEGFEPDD_00002	CDS	768				IS21 family transposase IS712
+CEGFEPDD_00003	gene	393				
+CEGFEPDD_00003	CDS	393				hypothetical protein
+CEGFEPDD_00004	gene	390				
+CEGFEPDD_00004	CDS	390				hypothetical protein

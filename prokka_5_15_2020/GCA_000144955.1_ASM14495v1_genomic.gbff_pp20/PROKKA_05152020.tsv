@@ -1,0 +1,21 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+DCLJHIOD_00001	gene	726				
+DCLJHIOD_00001	CDS	726				Superantigen-like protein 13
+DCLJHIOD_00002	gene	747				
+DCLJHIOD_00002	CDS	747				Superantigen-like protein 13
+DCLJHIOD_00003	gene	198				
+DCLJHIOD_00003	CDS	198				hypothetical protein
+DCLJHIOD_00004	gene	198				
+DCLJHIOD_00004	CDS	198				hypothetical protein
+DCLJHIOD_00005	gene	960	hly			
+DCLJHIOD_00005	CDS	960	hly			Alpha-hemolysin
+DCLJHIOD_00006	gene	234				
+DCLJHIOD_00006	CDS	234				hypothetical protein
+DCLJHIOD_00007	gene	186				
+DCLJHIOD_00007	CDS	186				hypothetical protein
+DCLJHIOD_00008	gene	222				
+DCLJHIOD_00008	CDS	222				hypothetical protein
+DCLJHIOD_00009	gene	351	scn			
+DCLJHIOD_00009	CDS	351	scn			Staphylococcal complement inhibitor
+DCLJHIOD_00010	gene	408	fib			
+DCLJHIOD_00010	CDS	408	fib			Fibrinogen-binding protein

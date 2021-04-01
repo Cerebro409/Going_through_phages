@@ -1,0 +1,70 @@
+>Feature gnl|X|CANDCAGL_1
+124	657	gene
+			gene	msrA2
+			locus_tag	CANDCAGL_00001
+124	657	CDS
+			EC_number	1.8.4.11
+			db_xref	COG:COG0225
+			gene	msrA2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A086
+			locus_tag	CANDCAGL_00001
+			product	Peptide methionine sulfoxide reductase MsrA 2
+			protein_id	gnl|X|CANDCAGL_00001
+650	1078	gene
+			gene	msrB
+			locus_tag	CANDCAGL_00002
+650	1078	CDS
+			EC_number	1.8.4.12
+			gene	msrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99065
+			locus_tag	CANDCAGL_00002
+			product	Peptide methionine sulfoxide reductase MsrB
+			protein_id	gnl|X|CANDCAGL_00002
+1090	1590	gene
+			gene	crr
+			locus_tag	CANDCAGL_00003
+1090	1590	CDS
+			gene	crr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60857
+			locus_tag	CANDCAGL_00003
+			product	PTS system glucose-specific EIIA component
+			protein_id	gnl|X|CANDCAGL_00003
+1590	1811	gene
+			locus_tag	CANDCAGL_00004
+1590	1811	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A0W3
+			locus_tag	CANDCAGL_00004
+			note	UPF0346 protein MW1311
+			product	hypothetical protein
+			protein_id	gnl|X|CANDCAGL_00004
+2000	3490	gene
+			locus_tag	CANDCAGL_00005
+2000	3490	CDS
+			EC_number	3.4.21.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5M9
+			locus_tag	CANDCAGL_00005
+			product	putative CtpA-like serine protease
+			protein_id	gnl|X|CANDCAGL_00005
+3887	4396	gene
+			locus_tag	CANDCAGL_00006
+3887	4396	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	CANDCAGL_00006
+			product	hypothetical protein
+			protein_id	gnl|X|CANDCAGL_00006
+4408	5478	gene
+			gene	murG
+			locus_tag	CANDCAGL_00007
+4408	5478	CDS
+			EC_number	2.4.1.227
+			gene	murG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65482
+			locus_tag	CANDCAGL_00007
+			product	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+			protein_id	gnl|X|CANDCAGL_00007

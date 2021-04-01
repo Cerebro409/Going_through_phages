@@ -1,0 +1,1406 @@
+Seq-entry ::= set {
+  class genbank ,
+  seq-set {
+    set {
+      class nuc-prot ,
+      descr {
+        source {
+          org {
+            taxname "Genus species" ,
+            orgname {
+              mod {
+                {
+                  subtype strain ,
+                  subname "strain" } } ,
+              gcode 11 } } } ,
+        comment "Annotated using prokka 1.14.6 from
+ https://github.com/tseemann/prokka" ,
+        user {
+          type
+            str "NcbiCleanup" ,
+          data {
+            {
+              label
+                str "method" ,
+              data
+                str "SeriousSeqEntryCleanup" } ,
+            {
+              label
+                str "version" ,
+              data
+                int 8 } ,
+            {
+              label
+                str "month" ,
+              data
+                int 5 } ,
+            {
+              label
+                str "day" ,
+              data
+                int 15 } ,
+            {
+              label
+                str "year" ,
+              data
+                int 2020 } } } ,
+        create-date
+          std {
+            year 2020 ,
+            month 5 ,
+            day 15 } } ,
+      seq-set {
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OFJEEBPC_1" } } ,
+          descr {
+            molinfo {
+              biomol genomic } } ,
+          inst {
+            repr raw ,
+            mol dna ,
+            length 14916 ,
+            seq-data
+              iupacna "AGGAAATACTTGATAAAATCTATAAAAATTTTATGAATGATGATACTATAACAAC
+GATATTTAACAATAATTTACAGGCAATTATTAACCATTACCTATCAATATGAATATTAAATAAAACTAGAACCTCCTT
+CACTTAGCACTGAGGAATATTCTTACATTTTTTAATAAGTGGTGATATAAAAAAGCAGTTAGTGGCCATAGATTCAAT
+TTCTAAGGTAGCTTCCCTTTCAATAATTTTTGAATTCAAAATTTTAATATAAATCCCTTCCTTTTATATTATACACAA
+TCTATTTTTTAGTTTTATTTGTGATACGCTTCTGCTTATCAGTTAATGATGCGGTTTTTGAAAAATAACTACAGAAAT
+TTATAGAAGAACAACAAAACTCAAACGCTATATCATATAATAAGTTCTTAGAAGCTTACAAAGTAGACACGTCTTCTG
+ATTAAACTAATACAGTTGATGAATTAACAGAAAATCCAGTATGTACTGAGTACATAAGAGATCGAACAGAAGCTAGAG
+AAAAAGGTCAAGGTAGAACTTATTAAGCATATTAAATTAATTAACTTGATACTTTTCAATAAAAAACAGAGCACCTCC
+ATAACGTGGAGGATGCTCTATTTTTTTATAACGCATTTACTAATATTTCAAATTCATCTTTATTAATATTAATACCTT
+CAAGATTAACATTTACTAAATTAGGGTGTTGACCGCTTGTTAGGACATATACTTCAATATGTGGACATGTTTCATTAA
+CGATAGGCATGATTTCTTCATCAAACCGCTTCGGTCCATTGTTTTCACTGTAAATCACAACATGAAATTTAATATCAT
+CAGCTATATTCATAGGAATTTTGTCTTCTCTCTTTCTAGACAATACACACTGTTTTCCTACGATATTTGAAATCCATT
+CTTCTTTCTTTCGGCAATAATCTATAAAATCTTTTCTTTGATATCCTAAGTCCATTTTAACTTCTAGTATATTTTTAA
+TTTCATTATCTTCACAAATTAATAAATCCGGATATCTTGTACTTAAAGATTTATCAATCATAGATAAAGGCTGATCAA
+TAAATATTTGGACACCTTCCAATCTACTAATCAAATAAGCACCCAGCAAGTCTTCTCCAATACCTGAAATACTATGAT
+TACGTCCTCGATATAAATTTTCATGAGGATAAGTAGGCTTTCCTGCTTCTTTATATGCCTTTACAAGATGTTCGATAA
+CTTCCACTTCAGTGAATTTCATACTCAATCACCCTATCTATAGATACTCTATATTTCAACAAACAAAGTATATCACAC
+ATTTGAAAGCATAAATACAAAAAACCTCCTAATAAATTAAGAGGGTTGAATGATAGTTTATAAAATATTAAATTATTT
+GCTATTATAATTAACTATTTTGGTTAATTCTTTAATCGTTAAAGGTTTTTTAGTATTTCTATGAATCATTTTATGGCA
+ATTAGAACATAGTGGGACTAAATCTTTTTGTGGATTTACTTTTATTTCTCTTTTTATTGAAAACATTGGTTTTAAATG
+ATGAATTTCAATAAAACCCTCACCTAAATCGCCATACTTAGCTTTAAAATCAAATCCACATACTTTACATGTAGTTCC
+ATGAATTTTAATAGCTTCATTTCTTAATGCCTGATTTCTTTCATATTTAATACCGTACTGTACATATGGTTTACCTTC
+GACATATTCAGTGTTTTCTAACTCATTATCTAAATTTAAAATATTCGTTTTCAAGACTTTTGTATATAACTTTTTAAA
+GGTTCCTTTAAAGTCATAGGACCTTGAACATTACCTTTTAACCCATTATCTTGTAAAAATTCTAAATCTAATTGGTCA
+TCATCAAGTTTGTTTAATAACTTTAATTCCATGTAATTACCATAGTTAATATAATTATCACCCTTGATAACAAATTGA
+CTATCATCAATTTATGATAAACATTTATCTCAAGCATCTTATTTAATCGGTTGTCAAAAAACTGGAGAAGCCATGATC
+ATTGATCCTATTTGTGACTTATCTTCATATATTCGAGTTGCCGATGAAGAGAGTTTAACCATTACTCATGCAGCTGAA
+ACACATATACATGCAAATTTTGTTTCAGGAATTAGAGATGTTGCTATAAAGTTAAATGCTAGTATTTATGTATCGGGC
+GAAAGTGATGACATGTTAGGTTATAAAAATATGCCTAACCACACTCATTTTGTTCAACATAATGATGATATTTATGTA
+GGAAATATAAAATTAAAAGTGCTTCATACACCTGGTCACACGCCAGAAAGTATAAGTTTTTTACTTACTGACGAAGGT
+GCTGGAGCACAAGTTCCAATGGGACTATTCAGTGGTGATTTTATTTTTGTAGGAGATATCGGTAGACCTGATTTACTA
+GAAAAAGCTGTTAAAGTAGAAGGATTATCTGAAATAGGCGCAAAACAAATGTTTAAATCTATTGAAAGTATTAAAGAC
+TTGCCAGACTACATTCAAATTTGGCCTGGTCATGGCGCTGGTAGTCCTTGTGGTAAATCTTTAGGTGCTATTCCAACA
+TCTACGCTTGGCTATGAAAAACAAACGAACTGGGCTTTTTCTGAAAATAATGAAGCTACCTTTATCGATAAACTCATT
+TCTGACCAACCTGCACCACCACATCATTTTGCACAAATGAAAAAAATTAATCAATTCGGTATGAATTTATATCAACCT
+TATACGGTTTATCCAGCTACAAGTACAAACAGATTAACTTTTGATCTCCGCAGTAAGGAGGCTTATCATGGTGGACAT
+ATTGAAGGTACAATCAATATTCCATATGATAAAAATTTCATCAATCAAATTGGCTGGTATCTAAACTATAATCAAGAA
+ATTAACTTGATTGGAGACTATCACCTTGTTTCAAAAGCAACACATAACATACTTTACAACTTATTGGATATGATAATG
+TGTCTGGATATCAGTTACCACAAGCTCAAATTCAAACACAATCTGTTCATAGTAAAGACATAACTGGTAATGAAGCAC
+ATGTCTTAGATGTACGTAATGATAATGAATGGAATAATGGCCACTTATCCCAAGCGGTTCATGTGCCACACGGCAAAC
+TTTTAGAAACAGATTTACCTTTCAATAGAAACGATGTTATTTATGTAGACTGTCAGTCTGGCATTAGAAGTTCTATAG
+CTATTGGTATTTTAGAACACAAAGGTTATCACAACATTATTAATGTAAACGAAGGTTACAAAGATATATACCTTTCTT
+AATAATTATATTTATACTAATGAAGAAGGACTATAAGTAGTTAGATATAGCTTTTAGATATAGCTTATAGTTCCTTTT
+TATATTATTGGATAAATATCTATTTAAAAATCATTTATATACCCTCGCTTTATATCATTTAATAAATATTTTACATAG
+TACATACCTTTTTTGTTTATTGATGTGATCAAAAAACATAACAGCAATTCCTATAAACCTCATATGTTCTGATACGTT
+CAAAATCCCTTTATGAAGTGTCTAAAAAACCGCATCTCTGCGTATCGGTTAATGATACGGTTTTCTATGATATTTATT
+AATAAATATAAGATGCGAAGCATTTGTATAATCCAAACACTTCGCACCTATCTCTTGTTTTTTTATTTATTCCTAAAG
+AAAGACTCTAAACTTTTAATTACTTTTTTAGTTCGCAATATATCAGCTTCTTTTGATTCTATTAACACATATTTAGTA
+GCCGGACCTTCACCTTCTTTTTTTATCAAGTTATCATCTTTTAGTTTTTTTAAAATATTTCTAAACTGATATTCTGTC
+ATATTTTCCATTTTTAAGGCTTCACCCTTACTTATTGATCCATAGTCAATAATATACTTTATTACTTTTTTGTCTAAC
+TCAGGATATTTTTCAAACTCCTTCATTAAATCTTGTTTCCAAAGTACTACATTAGTGTCCATGTCCGTTAATTCTATT
+TCAGGCGTTTTAAGCTTATGTCTATTAACTACATCGAATATCCTTGGTCCTCCAGATCCAGCTTTTTCTGAATATCCT
+ACTCTTCTGAAAAGCGTCGATAATATACTATTTCTGTCCTTTGAATGCCCTCCATGAATAAAATCTTCTTTATTTATT
+CTCATATTACCCGGATTATAAAACTCTATAAAATCTTCACAATTAACTATTTTAATACTTTGCTTAGTATCATAATAC
+GCATGCATTAATGTATTAACCAGTGCTTCGCGAATTGCTACTTTTAAATCTCTTGCATAATTTTGTCTAGTCAAACCA
+TCATTTAGGCTAAATGATTCCTCAATGTTATCAGTTAATTTTATCAATACTTTTTCAAAAAAACTATACACGTTTAAA
+TCTTCATTACCTAAATCTCCACTTGATATTCTATCTTTCCAATCAGTATCTAGGTAATTTGTTTTCTTAAAATAATCT
+AATTGAAATCCTGGGAATCTATCACTAATCGCATTATACTTACCAAAGAATAATAAACATGCTGTAGTCATTTTATAC
+TGTTTGTCTTTCGAACTTCTATCTTTTCTATATGCTCCTAAATCTATCATTAAATCCAGTTGGCTCATATTCGCATAT
+CTCTCATCATTAGTATTTTTTAATAGAAGTTTCCTATAATTTTCGATAGATTCGTGATTTAAATCAGACATGTCATAG
+TTATCTAATAATTCTGTATCTATATCGTCTTGAGAATTTACAATCATGAATTTATACTCTTCTTCAGTCGCAATTCTA
+TCAGCATCATCAACTCTTTTATATACTAAATCTTTTTTATTATCTACATATATCGGTTTCTTCGAATAAGGCGCTTCT
+GGTACATGAATTTCAATGCACGCTTTATTTTCAATATTAACAATTTTAACATCTTTATTTGATAAAATATTTTGACTA
+ACTTTACTTCTTCCATATAGTGCATTCCAAAAATCTTCAATCATTTTCTCTGGATCTTCAACACCAACTGAAACAAAG
+ACTTTTTTGTCCTCGATCTTTTTTTCTTCAATTCCTAAATATATAGTACCACCTTCAGTATTTGCAAAAGCACTATAC
+GTAGACCAAATATCATTAGATAATCCTTTTCGTGATTTCTTATACTCTATATATTTACTTTCTCTATGCAACGCAATT
+CCTCCAAACCATAAATATTAAAATACTCCATTAATTTACTCAAACCGTCTACCATAGTATTTCACGCGATTTTCGCGC
+GATTACTACGATGATTTCAAACGATTCCTCTGATTATTTCACGCGATTTTCGCGCGATTACTACGATGATTTCAAACG
+ATTCCTCTGATTATTTCACGTGATTTTCGCGCGATTACTACGATGATTTCAAACGATTCCTCTGATTATTTCACGCGA
+TTTCCACAACATTTTTCGTATTTCAGAACGATTAAGACTACATTATCCTGGCTTAATATTAATTAATTTTAATTATAT
+CTATAAATATTTTCAGTGAAAAACTATTTCTTTAAGGCATCTAATGCTTTAAAAAACAACGATACATTGTACTCAATA
+TTGTTATGCTTTGTTTTTTCTCTAGGAAAGCAGTAGGCTTTATAATAATCAATTTTAACTTTCAACATATTTTGTTCA
+ATAGATAAAGTTGCATTTAATAACGATTCTTCTAATCCATTTTTAAATCTTTTAATCTGATCTTTTACGTATCTATAC
+TTTTTAATAGATTCTTCTATCAGTGTAATTCTTTTGTAATTATCTTTTTCTCCTTCACATGTATCTACAATGTCTCTA
+ATAATATATAATCTAACAACAGGTAATCGTATATCTATAAGTAAAATAATGACATATGATTGAATAAATTCGTTTAAT
+TTTTTCCCAAACTCATAATCTGTTTTCTTTTGTCCTTTAAATGCCTTCAAATACAATTCTATCAAATAAAATAGTTCA
+TTTAAAAAAGCCCAAGCATATTCCTGTTCTAATGCAACATAACTAATCAATTGATTATTAAGATTATAAAACTGAATC
+TCATTATATAAATATTTCCAATGATTCTCCAATTTTGTATACGATATTTTTTCTCCTAACCGTACATATTCATTTTCT
+TTTTTTGACTGATTATAGAGTGTGTCTATCTTTGTAACTAATCTTTTTTGCGTTTTGTTTATTTCTGCCAATGCTTTT
+GAAGTAATATTTGAATCATAACTCATATGTGCATCTACTTTCTTTATCGCGAGTAGTGATTTCAATTGTTCTTCATTT
+ATAAATGGATTACGTTTAAAATTATTATTTTGACTATTGATATGCGTCATGATATTTAAATTACTGTAAATCTTATTG
+ATACTTCTAAACTCAGTATCATCTAATAAATAATCGAAATTTGAGTTTAAATGTTTTTTTATAAATGAAACTCTATCC
+ATCTTTTGATGTTCATTTAAATCGCTTAAACTTCTTAATAACAACAAATCTTCATAAACCTCAACTGTTACATCAAAT
+TTCAAATAATCAACTAAGTTTCCATACTTATCAATAATTTCTTCTAGCGTAGGTATCAATATATACCCCCCCTCCCCA
+TTTTTTGTTCCGCGTCTAATCATAATGCTTCATTTATGCTTATTATAGCAATCAATTGAAGATAGTTTAACCTATATG
+ATATTGATTGACTCCTTAAAAATTATTGGAGGAATTTTAAAATGAATAAGAAATCTAAGCAGCAAGAAAAGCTTTATA
+ATTTTATAATTGCTAAATCTTTTCAACAACCAGTTGGAAGTACGTTCACTTATGGTGAATTAAGAAAGAAATATAATG
+TGGTTTGTAGCACGAATGATCAACGTGAAGTAGGACGTCGTTTTGCTTACTGGATTAAGTACACGCCAGGATTACCAT
+TTAAAATTGTAGGAACAAAAAATGGCAGTTTATTATATCAGAAAATAGGGATAAACCCATGCAATAATAGCACGCCTT
+CGAAAGGAGGTGATTGCTAATGAGTTACACATTGTTTGAAATTGGCCCATTTGCTTTAGATTCCTTCGGTTGGAAAGA
+AACGATACCACCTAAAAAAGATGGTGACAGTGAAAAAGTGGTTAGAATGGCTAGCCCTATTATTGTTAATGCAAGATT
+TTCTGATCCAATTACTGGTGTTGAAAAGTTGATTATTACTAACAACAATGGTAAAAAAGACATTTTTGAGTCTGATAT
+CTTAACAACACGAAACTTACCTTCTTTAATTAAATATGGCTACAGTATTAACGAGAAGTATATTAGATCATTGAGTTA
+TGCCTTGCAATTGATGCGAGATAGATTACCACTTTCTGAATTATATGAGGGTGTAGGTATACTAGAGACACCTTTTGG
+CTACTTGATATCGCTAGATAAAGTTCTCAAATCTATTCAATTTAATCAGTCCTCACCTTCATACCCTATTGTAGATAG
+TGCTTATGACTTAACTCCTAAAGGTACATTTGATAATTGGTTTAACATGTATATTGACGAGGTTAAAGGTCATCTTCT
+TTTAGAATTGGCAGTCATATTTGGGATTTCTGCCTTAGTGACAAGTTTTCTGAAGCATAAACATGAAATCGAATTTGC
+AGGAATTCTCTTTAGTTTTACAGGTCAATCCTCAACCGGTAAGTCAACCGCAGCTGCTTTAGCTGTATCAGTCGCTGG
+TAACCCTACCAAAGGTAATGAAACTCTTTTTAGAAGTTGGAATGCCACACGAAACGCACTTGAAGGTTATTTGAGTAA
+CAATTATGGCATTCCTATAGTATTTGATGAGCTTTCATCTACGACACTTAGAGATACCACGGGTTTGTTATATTCCAT
+CGCTGAAGGTCAAGGTCGTCAACGTTCAAACGTTCATGGAGAAGTTAAAACGCCTAAGAATTGGGGTACTTCTGTCAT
+TTCAACGTCAGAATACAGTATTTTTAATGATTCAGCTCAAAACGATGGATTACGTGTAAGAACCATCGAGATTAATGA
+ACAATTCACTACAAATGCGACCAATGCTGACAATATTAAAAAAGCTGTAGCACTAAACTATGGTCATGTTTTACCGTT
+AGTAGCTAAATATCTTATAAATCGTGAAGATGAAGTTATTCAATGGTTTTACAAGGAAGTAGATTGGTTTGAAGCTAA
+ATTGAAAGATGAAACAAACAATACAGGTATTCGTATGTTTAAGCGTTATGCAGTCATTACAACATCTGCGAAAATATT
+AGGTCGTGTTTTATCTACAGATATTGATATCGCTAATATAAGAGACTACTTTATTGATTATCATACTCATACAGTCTC
+TGAACGCTCATTAGCTGATAAAGCTATTGATGTCATCATTCAATTTGTGGCACAAAACAGAGGTAAGTTTTCAGATGA
+AGGTGCTTTGAAAAATATGTTTGAGAACTATGGATTAATCTCATTAAAAGATGACCATATCGAAGTAAAAATAATTGC
+GAACGTTTTTAAACAGATGCTAAACAATCATCAATTTCAAGATGTTAATAATGTTGTCAACGCCTTAAGAGATAAAGG
+TTTCATATTAGCTGACCGTGGACGCCAAACAACTAAAAGAAGTGTCAAAGATAATAGCGGTAAAAAACAATCACTTGT
+ATTTTACCATCTAAAATTAGATGTAGAGTTTGCATCTATCCTCGGATTAACTAAAGATAAGTCGTTACTTCAAAATTG
+GACACCGTCAAATGATAACAAAGCTGCGAAAGAACTTTTTAAATCCGCTAATGAAGGGATAGGCCCTTCAGGAGTTCA
+CGAAGATTTCTAATTGTCTTTATCATACAACTGTGAAGCATCAAACTGAATAATCGACGTATTGAAGATAGAACAAAT
+AACGGAGTGAAAAACATGGATGAACTTATCGAGATATTAGCCGATTTGGTAATTGAAGAAATCAATCAAACAAATGAC
+TAATATGGACGCCCAACATCTCATTGATGTTGGGCTTATATATCAATTCATCCATAAATATATATTATCACTGTGAAA
+GGAGGAGCCGATATGAAACAAGTCATAGGCTATTTACGTCAAAGTACGATGAAACAACAATCTCTTGCAGCACAGAAA
+CAAGCTATCGAAGCAATAGCCGAAAAACATCATATTCAACATATCAACTTTTATAGCGACAAACAATCAGGTCGCAAA
+GATAATCGTAGTGGGTATCGACAAATAACACAATTAATTCAACAAGGACAGTGTGACATATTATGCTGTTATCGTCTT
+AATAGGTTGCATCGTAATCTGAAAAATGCATTAAAACTCATCAAATTATGTCAAACGTACCATGTTCATATCTTAAGC
+GTACATGATGGTTACTTTGATATGGATCAAGCTTTCGACCGACTCAAGCTTAATATCTTCATCAGTTTAGCCGAACTT
+GAATCGGATAACATTGGAGAACAAGTCAGAAATGGGCTTCAAGAAAAAGCAAAGCAAGGTCGATTGATTACAACACAT
+GCACCTTTTGGTTACGAATATCACAACGGAACATTCATCATCAATCAAAATGAGTCACCAACGGTAAAGGCTGTATTC
+AATTATTACATTAAAGGTCATGGTTATAAGAAAATTGCACAGTTATTAGAAGAAGATAACACGTATATCAATCGACAA
+CCCTATCAAGTTCGTAACATTATCATCAATCCTAATTATTGTGGTCGTGTCAACAATCAATATGGCCAATTCGACAAT
+ATGTTTCCTTCTATTGTTTCCACAAGTATATATGAGCAAGCGCAGAGACTTCGATTGCAAAAACAAACCAAACAGACA
+CCTTCGGATAATCAACTCAAACAAAAAATCAAATGCCCATGTTGTAATGCAACACTTACAAATATGACCATTAGAAAA
+AAGAATCATACATTACGTTACTACGTCTGTCCTAAAAACATGAATGCTTCACGCTTTGTCTGTGATTTTAAAGGCATC
+AATGCACAAACACTTGAAGATAAAGTATTAGAAGTGTGCCGAGACTTTTATCAAAATCAACGCATCTACACAAAAATT
+AAAAGTGCGATTGACAAACGCATCAAAAGACAAAGAAACATAGAAAAACATCACACATTGACTCAAGAACAACTGATA
+GAAAAGTTGGCACAAGGCATCATTGATGCAGAAACGTTCAGAGAGCAAACACAATCATTACGTCAACAACCGCAACGC
+ACTACATCTATCAATGGGCATCAAATACAACACATCATTCAAAATATTATTCAAAAACGTTTCACGTTAAACATATTG
+TACCCCTATATTGAAACCATTCACATTACGAAAGATAAAAATCTTATAGGAATCTATTTCAAAAATGAACCACTCAAT
+ATTGTCAATCAAACCATGCAATCATCGATTGCATAAATGAAGAAAGGATGTAACATAATGCAACAACTTAAAACAAAA
+CGTGTCGGTATCTATGTACGTGTATCAACAGAAATGCAAAGCACAGAAGGTTATAGTATCGACGGACAAATCAATCAA
+ATCAAAGAATACTGTGACTTCCATCATTTTGAAGTTAAAGATATATACGCTGACCGTGGTATTTCAGGTAAATCTATG
+AACAGACCTGAGCTCCAACGTATGTTGAAAGATGCAAAAGAAGGCAATATCGACTGTGTTATGGTATACAAAACAAAC
+CGATTAGCTCGTAATACATCTGATCTTCTCAAAATTGTCGAAGATTTACACAAACAAAATGTCGAATTTTTCAGTTTG
+TCAGAGCGTATGGAAGTCAATACTTCTTCTGGTAAACTCATGTTACAGATACTTGCGAGTTTCTCAGAATTCGAACGT
+AATAACATTGTCGAGAACGTATTTATGGGTCAAACGAGACGTGCCCAAGAAGGCTATTATCAAGGCAATTTACCACTA
+GGTTATGACAAAATACCAGATAGTAAACACGAGCTAATGATTAACCAACATGAAGCTAATATTGTAAAATATATATTC
+GAGTGCTATGCCAAAGGACATGGCTATCGTAAAATTGCCAATGCATTGAATCACAAAGGATATGTCACTAAAAAGGGG
+AAACCTTTCAGTATTAGTTCAATCACATACATCTTAGCTAACCCTTTCTATATCGGCAAAATTCAATTTGCGAAATAC
+AAAGATTGGAGTGAAAAACGTCGTAAAGGGCTGAATGATAAACCAGTGATAGCTGAAGGTAAGCATTCCCCCATTATT
+AATCAAGATTTATGGGATAAAGTACAAATGCGTAAGAAACAAGTCAGTCAAAAACCCCAAGTCCATGGCAAAGGAACG
+AATCTGCTTACAGGCATTATTCACTGTCCCCAATGTGGCGCACCTATGGCAGCAAGCAATACCACGAATACTCTTAAA
+GACGGGACTAAGAAACGTATTCGTTACTATTCATGTAGTAATTTTCGGAACAAGGGTTCCAAAGTATGTTCGGCAAAC
+AGTGTAAGAGCTGATGTGATTGAAGATTATGTGATGAAGCAAATACTTGAAATAGTCAAAAGTGATAAAGTCATTCAA
+CGCGTAGTAACACACGTCAATCAAGAAAATCAAGTTGATGGCGCTGCACTTCATCACGATATTGCTTATAAGCAACAA
+CAATATGATGAAGTACAAATCAAAATAAATAACTTGATTAAAACCATCGAGGATAATCCGGACTTAACATCAGTAATC
+AGACCAAGTATTCAAAAATATGAAAAGCAACTCAATGACATTACGAATCAAATCAACCAACTCAAAAATCAACAAAAT
+GAAGATAAGACTTTATTTGATGCCAAAGAAATCAGTAAACTATTACAACACATCTTTCATGATATTAAGCACATAGAA
+AAATCTCGACTCAAAGCATTGTATCTATCAGTGATTGATCGCATTGATATTAAAAAAGATGGTAATCATAAAAAACAA
+TTCTATGTCACACTCAAACTTAATAACGAAATCATTAAACAACTTTTCAATAATAAACAACTCGACGAAGTGCATCTC
+AGCACTTCGTCTTTATTTTTGCCCCAAACACTATATCTTACTATTTAGCTAATAGAATCATTGTTATAACAATAATTT
+TCACTATATTCTTTCGCTTATTTTATCTAACTATTTTCAAGAATTGCTCTTTATCAATTTCAATAACACTTATCTAAT
+GAAACAGTTATTGTCGTAATTTTTTCATAACTATACAATGCTTATATTGAAATTGCTAAAGAACATCCCACAATGATT
+TTTTATCGGGAAATGATTGGGATTTGCAGATTCGAAGAAACAGAAGGATTGTGCAAGCACAATCCCAAAATCCCGTTA
+CTTTTTATAAATAAATAATATATATAAGGAAGCAGAGACACAACCCTATCATCAATACTTATAAATAATGAGTTGATT
+GTTTGTCAAAATAGGCGGAATTTCAGGATTTCCTTGGCATACCAACGTTTGTAGCGGGTTTTTATATGGAATTTTCTC
+TTATTCCCACCGGGATTCGTAATAAATGACAAATCAAATATATATTATCTCAATGATGTATATGAACTACATCACTAT
+TACACTATCTAGGAGGCAATAATATGAAAACCATCACTCAAGAACTCAAACAATATATAACCCACCTATTCCAACTAT
+CTAATAACGAAGCTTGGGAATGTGAAGCGCTGGAGGAAGCAGCAGAAAATATTCTACCGGAACGTTTTATTAATGATT
+CTCCACTGGTACATCTCACACTCGAGACTTATACCTACTATAATGATGAACTACATGAGCTAAGTATCTATCCATTTC
+TAATGTATGCCAATAACCAACTCATCAGTGTCGGATACTTAGACCATTTTGACATGGACTTTCTGTACCTTACAGATA
+CTCAAAATATCATTATTGATGAACGTCATTTACTAAAACAAGGAGGTCAGGACCATGAATAATTGGATCATAGTTGCT
+CAATTATCCGTCACAGTTATCAACGAAATCATCGACATCATGAAAGAAAAGCAGAAGGGAGGGAAATAGCATGAAAAT
+CAATCGATACATCACAAGAGGAATTAATGAAAGTATTCCACTAGACCTTCAAATCTTACTTTGGCACATGGTAGAAAA
+AAAAGATAACCAGCCTCATACAGATTACCTACACATTTTTAAATTACAAGAAGATGAGAATATACTCTCAATCACACA
+TGAACAAGAACAACCCACATACAAATTGGAATATCACTATACAAACTATGAAAAAAATCAAAATGCATTACCTAAGAA
+AGTCTACGTCATTCGTGAAGATGACGTGGACGCTTTTTATTATGTGATGCTTTTACCAGAAGAATACTAAAGGAAGTG
+ACGATGATGAATACAATCAAAAGTACGATACACACAGAAGCCATATTTAGCGATGATGAACAGCACCGCTATTTACTC
+AAGAAAACATGGGATGAAAAGAAAGCTGCATGCACAGTGATAACGATGTATCCTCATTTAGACGGTGTATTATCACTC
+GATCTCACAACTGTTCTTATCCTCAACCAATTAGCCAATTCAGAACGATACGGTGCTGTATATCTTGTAAATCTATTC
+TCTAATATTAGAACACCCGAAAACCTCAAACATATCAAAAATCCATACGATGAGCACACTGATATTCATTTGATGAAA
+GCGATTAGTGAAAGTGACACAGTGATTCTTGCTTATGGTGCCTATGCGAAGCGACCAGTTGTTATCGACCGTGTCGAA
+CAAGTGATGGAAATGTTAAAACCTCATAAAAAGAAAGTAAAAAAGCTCATCAATCCAGTAACAAATGAAATTATGCAT
+CCACTCAACCCTAAGGCACGTCAAAAATGGATTTTGAAATCATAGCAAATACATGGAGGTCAATATGGAAACAAAACA
+AATCAACATCGTTTTACTGTAAATGATATTGTTGAAACAATTCCTGACAATGAATTCGACGAATTCAGACATCACCGT
+GGTGCAACTTCGTACCATCCTAAAATGATGTTAAAAGTGATTCTATATGCCTACACACAATCTGTATTCTCAGGTCGT
+AAAATAGAAAAAATGCTTAATGATAGCATCCGAATGATGTGGCTATCACAAAATCAAAAACCTTCTTATAAAACAATT
+AATCAATTTAGAGTAAATCCAAAAGTAGATGCTTTATTAGAATCTTTATTTATTCAATTTTACAGTCAGTGTGTAAAA
+CAAAATCTTATAGATGATAAAGCTATTTTTATTGATGGTACAAAAATTGAAGCAAATGCCAATCGATATACATTTGTA
+TGGAAAAAGAGTATTCAAAACCATGAATCAAAGATGAATGAGGATTCTAAAGCCCTCTACCATGAATTGGTAACCAAT
+AAAATCATACCGGAAATTAAAGAAGATCATGATAATGAATTAACAAAAGAAGAAATAGATTTGATTGGTAGTCACTTA
+GATAAAGAAATCGAAGATTTAAACCAACATATCAACAATGAAAAATGTACTAAAACAAGAAAACAAATACGTCTCAAA
+AGAACTAAAATCAAAAAATACAAAAAGCAAATCAATGATTATTTTGAGCGAAAGTATCGATACGAATTTCAAAAATCT
+ATTTTAAAGGATAGAAATAGTTATTCTAAGACAGATTATGATGCGACATTTATGAGAATGAAAGAAGATCACATGAAA
+AATGGACAACTTAAGCCAGGGTATAATTTACAAATAGCAACAAATTCCCAATTTGTTTTATCTTATAATGTGTATCAA
+AATCCAACGGATACTAGAACGATGATTCCATTTTTAAATTCAATTCAAGAGACCTACGGTCATTTACCTGAATATATT
+GTAGCTGATGCAGGTTATGGTAGTGAATCAAATTATAAGGCAATTATAGATGACTTTAATCGAACGCCACTCATAACA
+TATGGAATGTTTATAAAAGATAAAACTAAAAAATATAAAAGTGACATCTTTAATACTCAAAATTGGAACTATGACGAA
+ATTAATGACGAATTCATTTGTCCGAATAATAAACGGCTAGG" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 14 ,
+                    data
+                      gene {
+                        locus-tag "OFJEEBPC_00001" } ,
+                    location
+                      int {
+                        from 626 ,
+                        to 1246 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 15 ,
+                    data
+                      gene {
+                        locus-tag "OFJEEBPC_00002" } ,
+                    location
+                      int {
+                        from 1375 ,
+                        to 1746 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 16 ,
+                    data
+                      gene {
+                        locus-tag "OFJEEBPC_00003" } ,
+                    location
+                      int {
+                        from 1743 ,
+                        to 1880 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 17 ,
+                    data
+                      gene {
+                        locus "gloB" ,
+                        locus-tag "OFJEEBPC_00004" } ,
+                    location
+                      int {
+                        from 1999 ,
+                        to 3003 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 18 ,
+                    data
+                      gene {
+                        locus-tag "OFJEEBPC_00005" } ,
+                    location
+                      int {
+                        from 3627 ,
+                        to 5117 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 19 ,
+                    data
+                      gene {
+                        locus-tag "OFJEEBPC_00006" } ,
+                    location
+                      int {
+                        from 5460 ,
+                        to 6551 ,
+                        strand minus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 20 ,
+                    data
+                      gene {
+                        locus-tag "OFJEEBPC_00007" } ,
+                    location
+                      int {
+                        from 6648 ,
+                        to 6938 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 21 ,
+                    data
+                      gene {
+                        locus-tag "OFJEEBPC_00008" } ,
+                    location
+                      int {
+                        from 6938 ,
+                        to 8725 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 22 ,
+                    data
+                      gene {
+                        locus-tag "OFJEEBPC_00009" } ,
+                    location
+                      int {
+                        from 8941 ,
+                        to 10308 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 23 ,
+                    data
+                      gene {
+                        locus-tag "OFJEEBPC_00010" } ,
+                    location
+                      int {
+                        from 10330 ,
+                        to 11958 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 24 ,
+                    data
+                      gene {
+                        locus-tag "OFJEEBPC_00011" } ,
+                    location
+                      int {
+                        from 12480 ,
+                        to 12830 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 25 ,
+                    data
+                      gene {
+                        locus-tag "OFJEEBPC_00012" } ,
+                    location
+                      int {
+                        from 12917 ,
+                        to 13228 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_1" } } } ,
+                  {
+                    id
+                      local
+                        id 26 ,
+                    data
+                      gene {
+                        locus-tag "OFJEEBPC_00013" } ,
+                    location
+                      int {
+                        from 13240 ,
+                        to 13749 ,
+                        strand plus ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_1" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OFJEEBPC_00001" } } ,
+          descr {
+            title "hypothetical protein OFJEEBPC_00001 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 206 ,
+            seq-data
+              ncbieaa "MKFTEVEVIEHLVKAYKEAGKPTYPHENLYRGRNHSISGIGEDLLGAYLISRLEG
+VQIFIDQPLSMIDKSLSTRYPDLLICEDNEIKNILEVKMDLGYQRKDFIDYCRKKEEWISNIVGKQCVLSRKREDKIP
+MNIADDIKFHVVIYSENNGPKRFDEEIMPIVNETCPHIEVYVLTSGQHPNLVNVNLEGININKDEFEILVNAL" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 27 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 205 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_00001" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OFJEEBPC_00002" } } ,
+          descr {
+            title "hypothetical protein OFJEEBPC_00002 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 123 ,
+            seq-data
+              ncbieaa "MKTNILNLDNELENTEYVEGKPYVQYGIKYERNQALRNEAIKIHGTTCKVCGFDF
+KAKYGDLGEGFIEIHHLKPMFSIKREIKVNPQKDLVPLCSNCHKMIHRNTKKPLTIKELTKIVNYNSK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 28 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 122 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_00002" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OFJEEBPC_00003" } } ,
+          descr {
+            title "hypothetical protein OFJEEBPC_00003 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 45 ,
+            seq-data
+              ncbieaa "MELKLLNKLDDDQLDLEFLQDNGLKGNVQGPMTLKEPLKSYIQKS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 29 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 44 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_00003" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OFJEEBPC_00004" } } ,
+          descr {
+            title "Hydroxyacylglutathione hydrolase [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 334 ,
+            seq-data
+              ncbieaa "MIIDPICDLSSYIRVADEESLTITHAAETHIHANFVSGIRDVAIKLNASIYVSGE
+SDDMLGYKNMPNHTHFVQHNDDIYVGNIKLKVLHTPGHTPESISFLLTDEGAGAQVPMGLFSGDFIFVGDIGRPDLLE
+KAVKVEGLSEIGAKQMFKSIESIKDLPDYIQIWPGHGAGSPCGKSLGAIPTSTLGYEKQTNWAFSENNEATFIDKLIS
+DQPAPPHHFAQMKKINQFGMNLYQPYTVYPATSTNRLTFDLRSKEAYHGGHIEGTINIPYDKNFINQIGWYLNYNQEI
+NLIGDYHLVSKATHNILYNLLDMIMCLDISYHKLKFKHNLFIVKT" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 30 ,
+                    data
+                      prot {
+                        name {
+                          "Hydroxyacylglutathione hydrolase" } ,
+                        ec {
+                          "3.1.2.6" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 333 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_00004" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OFJEEBPC_00005" } } ,
+          descr {
+            title "hypothetical protein OFJEEBPC_00005 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 496 ,
+            seq-data
+              ncbieaa "MHRESKYIEYKKSRKGLSNDIWSTYSAFANTEGGTIYLGIEEKKIEDKKVFVSVG
+VEDPEKMIEDFWNALYGRSKVSQNILSNKDVKIVNIENKACIEIHVPEAPYSKKPIYVDNKKDLVYKRVDDADRIATE
+EEYKFMIVNSQDDIDTELLDNYDMSDLNHESIENYRKLLLKNTNDERYANMSQLDLMIDLGAYRKDRSSKDKQYKMTT
+ACLLFFGKYNAISDRFPGFQLDYFKKTNYLDTDWKDRISSGDLGNEDLNVYSFFEKVLIKLTDNIEESFSLNDGLTRQ
+NYARDLKVAIREALVNTLMHAYYDTKQSIKIVNCEDFIEFYNPGNMRINKEDFIHGGHSKDRNSILSTLFRRVGYSEK
+AGSGGPRIFDVVNRHKLKTPEIELTDMDTNVVLWKQDLMKEFEKYPELDKKVIKYIIDYGSISKGEALKMENMTEYQF
+RNILKKLKDDNLIKKEGEGPATKYVLIESKEADILRTKKVIKSLESFFRNK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 31 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 495 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_00005" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OFJEEBPC_00006" } } ,
+          descr {
+            title "hypothetical protein OFJEEBPC_00006 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 363 ,
+            seq-data
+              ncbieaa "MIRRGTKNGEGGYILIPTLEEIIDKYGNLVDYLKFDVTVEVYEDLLLLRSLSDLN
+EHQKMDRVSFIKKHLNSNFDYLLDDTEFRSINKIYSNLNIMTHINSQNNNFKRNPFINEEQLKSLLAIKKVDAHMSYD
+SNITSKALAEINKTQKRLVTKIDTLYNQSKKENEYVRLGEKISYTKLENHWKYLYNEIQFYNLNNQLISYVALEQEYA
+WAFLNELFYLIELYLKAFKGQKKTDYEFGKKLNEFIQSYVIILLIDIRLPVVRLYIIRDIVDTCEGEKDNYKRITLIE
+ESIKKYRYVKDQIKRFKNGLEESLLNATLSIEQNMLKVKIDYYKAYCFPREKTKHNNIEYNVSLFFKALDALKK" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 32 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 362 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_00006" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OFJEEBPC_00007" } } ,
+          descr {
+            title "hypothetical protein OFJEEBPC_00007 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 96 ,
+            seq-data
+              ncbieaa "MNKKSKQQEKLYNFIIAKSFQQPVGSTFTYGELRKKYNVVCSTNDQREVGRRFAY
+WIKYTPGLPFKIVGTKNGSLLYQKIGINPCNNSTPSKGGDC" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 33 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 95 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_00007" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OFJEEBPC_00008" } } ,
+          descr {
+            title "hypothetical protein OFJEEBPC_00008 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 595 ,
+            seq-data
+              ncbieaa "MSYTLFEIGPFALDSFGWKETIPPKKDGDSEKVVRMASPIIVNARFSDPITGVEK
+LIITNNNGKKDIFESDILTTRNLPSLIKYGYSINEKYIRSLSYALQLMRDRLPLSELYEGVGILETPFGYLISLDKVL
+KSIQFNQSSPSYPIVDSAYDLTPKGTFDNWFNMYIDEVKGHLLLELAVIFGISALVTSFLKHKHEIEFAGILFSFTGQ
+SSTGKSTAAALAVSVAGNPTKGNETLFRSWNATRNALEGYLSNNYGIPIVFDELSSTTLRDTTGLLYSIAEGQGRQRS
+NVHGEVKTPKNWGTSVISTSEYSIFNDSAQNDGLRVRTIEINEQFTTNATNADNIKKAVALNYGHVLPLVAKYLINRE
+DEVIQWFYKEVDWFEAKLKDETNNTGIRMFKRYAVITTSAKILGRVLSTDIDIANIRDYFIDYHTHTVSERSLADKAI
+DVIIQFVAQNRGKFSDEGALKNMFENYGLISLKDDHIEVKIIANVFKQMLNNHQFQDVNNVVNALRDKGFILADRGRQ
+TTKRSVKDNSGKKQSLVFYHLKLDVEFASILGLTKDKSLLQNWTPSNDNKAAKELFKSANEGIGPSGVHEDF" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 34 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 594 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_00008" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OFJEEBPC_00009" } } ,
+          descr {
+            title "hypothetical protein OFJEEBPC_00009 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 455 ,
+            seq-data
+              ncbieaa "MKGGADMKQVIGYLRQSTMKQQSLAAQKQAIEAIAEKHHIQHINFYSDKQSGRKD
+NRSGYRQITQLIQQGQCDILCCYRLNRLHRNLKNALKLIKLCQTYHVHILSVHDGYFDMDQAFDRLKLNIFISLAELE
+SDNIGEQVRNGLQEKAKQGRLITTHAPFGYEYHNGTFIINQNESPTVKAVFNYYIKGHGYKKIAQLLEEDNTYINRQP
+YQVRNIIINPNYCGRVNNQYGQFDNMFPSIVSTSIYEQAQRLRLQKQTKQTPSDNQLKQKIKCPCCNATLTNMTIRKK
+NHTLRYYVCPKNMNASRFVCDFKGINAQTLEDKVLEVCRDFYQNQRIYTKIKSAIDKRIKRQRNIEKHHTLTQEQLIE
+KLAQGIIDAETFREQTQSLRQQPQRTTSINGHQIQHIIQNIIQKRFTLNILYPYIETIHITKDKNLIGIYFKNEPLNI
+VNQTMQSSIA" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 35 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 454 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_00009" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OFJEEBPC_00010" } } ,
+          descr {
+            title "hypothetical protein OFJEEBPC_00010 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 542 ,
+            seq-data
+              ncbieaa "MQQLKTKRVGIYVRVSTEMQSTEGYSIDGQINQIKEYCDFHHFEVKDIYADRGIS
+GKSMNRPELQRMLKDAKEGNIDCVMVYKTNRLARNTSDLLKIVEDLHKQNVEFFSLSERMEVNTSSGKLMLQILASFS
+EFERNNIVENVFMGQTRRAQEGYYQGNLPLGYDKIPDSKHELMINQHEANIVKYIFECYAKGHGYRKIANALNHKGYV
+TKKGKPFSISSITYILANPFYIGKIQFAKYKDWSEKRRKGLNDKPVIAEGKHSPIINQDLWDKVQMRKKQVSQKPQVH
+GKGTNLLTGIIHCPQCGAPMAASNTTNTLKDGTKKRIRYYSCSNFRNKGSKVCSANSVRADVIEDYVMKQILEIVKSD
+KVIQRVVTHVNQENQVDGAALHHDIAYKQQQYDEVQIKINNLIKTIEDNPDLTSVIRPSIQKYEKQLNDITNQINQLK
+NQQNEDKTLFDAKEISKLLQHIFHDIKHIEKSRLKALYLSVIDRIDIKKDGNHKKQFYVTLKLNNEIIKQLFNNKQLD
+EVHLSTSSLFLPQTLYLTI" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 36 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 541 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_00010" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OFJEEBPC_00011" } } ,
+          descr {
+            title "hypothetical protein OFJEEBPC_00011 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 116 ,
+            seq-data
+              ncbieaa "MKTITQELKQYITHLFQLSNNEAWECEALEEAAENILPERFINDSPLVHLTLETY
+TYYNDELHELSIYPFLMYANNQLISVGYLDHFDMDFLYLTDTQNIIIDERHLLKQGGQDHE" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 37 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 115 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_00011" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OFJEEBPC_00012" } } ,
+          descr {
+            title "hypothetical protein OFJEEBPC_00012 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 103 ,
+            seq-data
+              ncbieaa "MKINRYITRGINESIPLDLQILLWHMVEKKDNQPHTDYLHIFKLQEDENILSITH
+EQEQPTYKLEYHYTNYEKNQNALPKKVYVIREDDVDAFYYVMLLPEEY" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 38 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 102 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_00012" } } } } } } } ,
+        seq {
+          id {
+            general {
+              db "X" ,
+              tag
+                str "OFJEEBPC_00013" } } ,
+          descr {
+            title "hypothetical protein OFJEEBPC_00013 [Genus species]" ,
+            molinfo {
+              biomol peptide ,
+              tech concept-trans } } ,
+          inst {
+            repr raw ,
+            mol aa ,
+            length 169 ,
+            seq-data
+              ncbieaa "MMNTIKSTIHTEAIFSDDEQHRYLLKKTWDEKKAACTVITMYPHLDGVLSLDLTT
+VLILNQLANSERYGAVYLVNLFSNIRTPENLKHIKNPYDEHTDIHLMKAISESDTVILAYGAYAKRPVVIDRVEQVME
+MLKPHKKKVKKLINPVTNEIMHPLNPKARQKWILKS" } ,
+          annot {
+            {
+              data
+                ftable {
+                  {
+                    id
+                      local
+                        id 39 ,
+                    data
+                      prot {
+                        name {
+                          "hypothetical protein" } } ,
+                    location
+                      int {
+                        from 0 ,
+                        to 168 ,
+                        id
+                          general {
+                            db "X" ,
+                            tag
+                              str "OFJEEBPC_00013" } } } } } } } } ,
+      annot {
+        {
+          data
+            ftable {
+              {
+                id
+                  local
+                    id 1 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OFJEEBPC_00001" } ,
+                location
+                  int {
+                    from 626 ,
+                    to 1246 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OFJEEBPC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 2 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OFJEEBPC_00002" } ,
+                location
+                  int {
+                    from 1375 ,
+                    to 1746 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OFJEEBPC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 3 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OFJEEBPC_00003" } ,
+                location
+                  int {
+                    from 1743 ,
+                    to 1880 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OFJEEBPC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 4 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OFJEEBPC_00004" } ,
+                location
+                  int {
+                    from 1999 ,
+                    to 3003 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OFJEEBPC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } ,
+                  {
+                    qual "inference" ,
+                    val "protein motif:HAMAP:MF_01374" } } } ,
+              {
+                id
+                  local
+                    id 5 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OFJEEBPC_00005" } ,
+                location
+                  int {
+                    from 3627 ,
+                    to 5117 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OFJEEBPC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 6 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OFJEEBPC_00006" } ,
+                location
+                  int {
+                    from 5460 ,
+                    to 6551 ,
+                    strand minus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OFJEEBPC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 7 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OFJEEBPC_00007" } ,
+                location
+                  int {
+                    from 6648 ,
+                    to 6938 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OFJEEBPC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 8 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OFJEEBPC_00008" } ,
+                location
+                  int {
+                    from 6938 ,
+                    to 8725 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OFJEEBPC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 9 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OFJEEBPC_00009" } ,
+                location
+                  int {
+                    from 8941 ,
+                    to 10308 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OFJEEBPC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 10 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OFJEEBPC_00010" } ,
+                location
+                  int {
+                    from 10330 ,
+                    to 11958 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OFJEEBPC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 11 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OFJEEBPC_00011" } ,
+                location
+                  int {
+                    from 12480 ,
+                    to 12830 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OFJEEBPC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 12 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OFJEEBPC_00012" } ,
+                location
+                  int {
+                    from 12917 ,
+                    to 13228 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OFJEEBPC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } ,
+              {
+                id
+                  local
+                    id 13 ,
+                data
+                  cdregion {
+                    frame one ,
+                    code {
+                      id 11 } } ,
+                product
+                  whole
+                    general {
+                      db "X" ,
+                      tag
+                        str "OFJEEBPC_00013" } ,
+                location
+                  int {
+                    from 13240 ,
+                    to 13749 ,
+                    strand plus ,
+                    id
+                      general {
+                        db "X" ,
+                        tag
+                          str "OFJEEBPC_1" } } ,
+                qual {
+                  {
+                    qual "inference" ,
+                    val "ab initio prediction:Prodigal:002006" } } } } } } } } }

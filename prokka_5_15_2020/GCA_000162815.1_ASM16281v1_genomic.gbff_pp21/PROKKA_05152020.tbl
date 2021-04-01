@@ -1,0 +1,57 @@
+>Feature gnl|X|PHBHOCAB_1
+1154	771	gene
+			gene	panD
+			locus_tag	PHBHOCAB_00001
+1154	771	CDS
+			EC_number	4.1.1.11
+			db_xref	COG:COG0853
+			gene	panD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9PIK3
+			locus_tag	PHBHOCAB_00001
+			product	Aspartate 1-decarboxylase
+			protein_id	gnl|X|PHBHOCAB_00001
+2007	1156	gene
+			gene	panC
+			locus_tag	PHBHOCAB_00002
+2007	1156	CDS
+			EC_number	6.3.2.1
+			gene	panC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65659
+			locus_tag	PHBHOCAB_00002
+			product	Pantothenate synthetase
+			protein_id	gnl|X|PHBHOCAB_00002
+2818	2000	gene
+			gene	panB
+			locus_tag	PHBHOCAB_00003
+2818	2000	CDS
+			EC_number	2.1.2.11
+			gene	panB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65656
+			locus_tag	PHBHOCAB_00003
+			product	3-methyl-2-oxobutanoate hydroxymethyltransferase
+			protein_id	gnl|X|PHBHOCAB_00003
+2891	3751	gene
+			locus_tag	PHBHOCAB_00004
+2891	3751	CDS
+			EC_number	1.1.1.169
+			db_xref	COG:COG1893
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WIL1
+			locus_tag	PHBHOCAB_00004
+			product	2-dehydropantoate 2-reductase
+			protein_id	gnl|X|PHBHOCAB_00004
+4541	3837	gene
+			gene	aldC
+			locus_tag	PHBHOCAB_00005
+4541	3837	CDS
+			EC_number	4.1.1.5
+			db_xref	COG:COG3527
+			gene	aldC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8L208
+			locus_tag	PHBHOCAB_00005
+			product	Alpha-acetolactate decarboxylase
+			protein_id	gnl|X|PHBHOCAB_00005

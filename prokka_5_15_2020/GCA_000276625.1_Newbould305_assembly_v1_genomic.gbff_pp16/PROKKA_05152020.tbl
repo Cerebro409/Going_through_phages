@@ -1,0 +1,101 @@
+>Feature gnl|X|AMJMGKGB_1
+698	1270	gene
+			locus_tag	AMJMGKGB_00001
+698	1270	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AMJMGKGB_00001
+			product	hypothetical protein
+			protein_id	gnl|X|AMJMGKGB_00001
+1273	1998	gene
+			gene	menG
+			locus_tag	AMJMGKGB_00002
+1273	1998	CDS
+			EC_number	2.1.1.163
+			gene	menG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67062
+			locus_tag	AMJMGKGB_00002
+			product	Demethylmenaquinone methyltransferase
+			protein_id	gnl|X|AMJMGKGB_00002
+2015	2959	gene
+			gene	hepT
+			locus_tag	AMJMGKGB_00003
+2015	2959	CDS
+			EC_number	2.5.1.30
+			db_xref	COG:COG0142
+			gene	hepT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31114
+			locus_tag	AMJMGKGB_00003
+			product	Heptaprenyl diphosphate synthase component 2
+			protein_id	gnl|X|AMJMGKGB_00003
+3051	3500	gene
+			gene	ndk
+			locus_tag	AMJMGKGB_00004
+3051	3500	CDS
+			EC_number	2.7.4.6
+			gene	ndk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99068
+			locus_tag	AMJMGKGB_00004
+			product	Nucleoside diphosphate kinase
+			protein_id	gnl|X|AMJMGKGB_00004
+3710	3910	gene
+			locus_tag	AMJMGKGB_00005
+3710	3910	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AMJMGKGB_00005
+			product	hypothetical protein
+			protein_id	gnl|X|AMJMGKGB_00005
+4297	5463	gene
+			gene	aroC
+			locus_tag	AMJMGKGB_00006
+4297	5463	CDS
+			EC_number	4.2.3.5
+			db_xref	COG:COG0082
+			gene	aroC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q59803
+			locus_tag	AMJMGKGB_00006
+			product	Chorismate synthase
+			protein_id	gnl|X|AMJMGKGB_00006
+5489	6553	gene
+			gene	aroB
+			locus_tag	AMJMGKGB_00007
+5489	6553	CDS
+			EC_number	4.2.3.4
+			gene	aroB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6GGU4
+			locus_tag	AMJMGKGB_00007
+			product	3-dehydroquinate synthase
+			protein_id	gnl|X|AMJMGKGB_00007
+6563	7861	gene
+			gene	aroA
+			locus_tag	AMJMGKGB_00008
+6563	7861	CDS
+			EC_number	2.5.1.19
+			gene	aroA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P63585
+			locus_tag	AMJMGKGB_00008
+			product	3-phosphoshikimate 1-carboxyvinyltransferase
+			protein_id	gnl|X|AMJMGKGB_00008
+7868	9112	gene
+			gene	bepA
+			locus_tag	AMJMGKGB_00009
+7868	9112	CDS
+			EC_number	3.4.-.-
+			gene	bepA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00997
+			locus_tag	AMJMGKGB_00009
+			product	Beta-barrel assembly-enhancing protease
+			protein_id	gnl|X|AMJMGKGB_00009
+9114	9701	gene
+			locus_tag	AMJMGKGB_00010
+9114	9701	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	AMJMGKGB_00010
+			product	hypothetical protein
+			protein_id	gnl|X|AMJMGKGB_00010

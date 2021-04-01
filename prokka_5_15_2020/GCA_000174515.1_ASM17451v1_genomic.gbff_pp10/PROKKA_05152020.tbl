@@ -1,0 +1,68 @@
+>Feature gnl|X|LLGBBFNI_1
+1451	750	gene
+			gene	lrgB
+			locus_tag	LLGBBFNI_00001
+1451	750	CDS
+			db_xref	COG:COG1346
+			gene	lrgB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60643
+			locus_tag	LLGBBFNI_00001
+			product	Antiholin-like protein LrgB
+			protein_id	gnl|X|LLGBBFNI_00001
+1887	1444	gene
+			gene	lrgA
+			locus_tag	LLGBBFNI_00002
+1887	1444	CDS
+			db_xref	COG:COG1380
+			gene	lrgA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P72358
+			locus_tag	LLGBBFNI_00002
+			product	Antiholin-like protein LrgA
+			protein_id	gnl|X|LLGBBFNI_00002
+2740	2000	gene
+			gene	lytR
+			locus_tag	LLGBBFNI_00003
+2740	2000	CDS
+			db_xref	COG:COG3279
+			gene	lytR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60611
+			locus_tag	LLGBBFNI_00003
+			product	Sensory transduction protein LytR
+			protein_id	gnl|X|LLGBBFNI_00003
+4482	2743	gene
+			gene	ypdA
+			locus_tag	LLGBBFNI_00004
+4482	2743	CDS
+			EC_number	2.7.13.3
+			db_xref	COG:COG3275
+			gene	ypdA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AA93
+			locus_tag	LLGBBFNI_00004
+			product	Sensor histidine kinase YpdA
+			protein_id	gnl|X|LLGBBFNI_00004
+5417	4743	gene
+			gene	scdA
+			locus_tag	LLGBBFNI_00005
+5417	4743	CDS
+			db_xref	COG:COG2846
+			gene	scdA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5HJB7
+			locus_tag	LLGBBFNI_00005
+			product	Iron-sulfur cluster repair protein ScdA
+			protein_id	gnl|X|LLGBBFNI_00005
+7282	5561	gene
+			gene	tarS
+			locus_tag	LLGBBFNI_00006
+7282	5561	CDS
+			EC_number	2.4.1.355
+			gene	tarS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3JPC6
+			locus_tag	LLGBBFNI_00006
+			product	Poly(ribitol-phosphate) beta-N-acetylglucosaminyltransferase TarS
+			protein_id	gnl|X|LLGBBFNI_00006
