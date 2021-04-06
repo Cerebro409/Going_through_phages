@@ -26,7 +26,10 @@ head(links)
 
 ```{r}
 net <- graph_from_data_frame(d=links, vertices=nodes, directed=T)
-net <- simplify(net, remove.multiple = F, remove.loops = T) 
+net <- simplify(net, remove.multiple = F, remove.loops = T)
+E(net)$width <- E(net)$weight
+deg <- degree(net, mode="all")
+V(net)$size <- deg
 net
 ```
 ```{r}
