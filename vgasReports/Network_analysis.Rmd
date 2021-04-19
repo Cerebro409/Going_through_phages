@@ -44,5 +44,8 @@ net
 E(net)$width #<- E(net)$weight
 ```
 ```{r}
-plot(net, edge.arrow.size=.2,vertex.label=NA, edge.color="red", layout=layout_with_mds)
+edge.start <- ends(net, es=E(net), names=F)[,1]
+edge.col <- V(net)$color[edge.start]
+
+plot(net, edge.color=edge.col, edge.curved=.1,layout_with_fr)  
 ```

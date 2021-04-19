@@ -44,5 +44,6 @@ net
 E(net)$width #<- E(net)$weight
 ```
 ```{r}
-plot(net, edge.arrow.size=.2,vertex.label=NA, edge.color="blue", layout=layout_with_fr)
+l <- layout_with_kk(net)
+plot(net, edge.arrow.size=.2,vertex.label=NA, edge.color="blue", layout=layout_with_gem)
 ```
