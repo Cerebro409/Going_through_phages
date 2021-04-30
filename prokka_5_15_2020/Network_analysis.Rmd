@@ -33,17 +33,45 @@ head(links)
 ```
 
 ```{r}
-net <- graph_from_data_frame(d=links, vertices=nodes, directed=T)
-net <- simplify(net, remove.multiple = F, remove.loops = T)
+nodes
+```
+
+```{r}
+Prokka_net <- graph_from_data_frame(d=links, vertices=nodes, directed=T)
+Prokka_net <- simplify(net, remove.multiple = F, remove.loops = T)
 #E(net)$width <- E(net)$weight
-deg <- degree(net, mode="all")
-V(net)$size <- deg
-net
+deg <- degree(Prokka_net, mode="all")
+V(Prokka_net)$size <- deg
+Prokka_net
 ```
 ```{r}
-E(net)$width #<- E(net)$weight
+E(Prokka_net)$width #<- E(net)$weight
 ```
 ```{r}
-l <- layout_with_kk(net)
-plot(net, edge.arrow.size=.2,vertex.label=NA, edge.color="blue", layout=layout_with_gem)
+plot(Prokka_net, edge.arrow.size=0,vertex.size=5,vertex.label=NA, edge.color="blue", layout=layout_with_gem)
+```
+```{r}
+plot(Prokka_net, edge.arrow.size=0,vertex.size=3,vertex.label=NA, edge.color="blue", layout=layout_with_gem)
+```
+```{r}
+plot(Prokka_net, edge.arrow.size=0,vertex.size=3,vertex.label=NA, edge.color="blue", layout=layout_with_mds)
+```
+
+```{r}
+# Function for Jaccard index
+jaccard_index<-function(g1,g2) {
+  library(igraph)
+  g1<-get.adjacency(g1)
+  g1[g1 > 0.001] <- 1
+  g2<-get.adjacency(g2)
+  g2[g2 > 0.001] <- 1
+  A<-sum(g1 != g2) # edges that changed (0->1 and 1->0)
+  B<-sum(g1 * g2) # edges that have a 1 in M1 and 1 in M2, so stayed the same (1->1)
+  return(round(B/sum(A,B),digits = 2)) # the ratio of stable ties ties (B), compared to all ties who change (A) + stable ties (B)
+  on.exit(rm(A,B))
+}
+```
+
+```{r}
+jaccard_index(Prokka_net,VGAS_net)
 ```

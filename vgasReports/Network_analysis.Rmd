@@ -22,7 +22,7 @@ install.packages("ndtv")
 
 ```{r , echo=FALSE}
 library("igraph")
-nodes <- read.csv("VGAS_CORRECTED", header=F, as.is=T)
+nodes <- read.csv("VGAS_CORRECTED2", header=F, as.is=T)
 links <- read.csv("VGAS_EDGES", header=F, as.is=T)
 ```
 
@@ -33,19 +33,27 @@ head(links)
 ```
 
 ```{r}
-net <- graph_from_data_frame(d=links, vertices=nodes, directed=T)
-net <- simplify(net, remove.multiple = F, remove.loops = T)
+VGAS_net <- graph_from_data_frame(d=links, vertices=nodes, directed=T)
+VGAS_net <- simplify(VGAS_net, remove.multiple = F, remove.loops = T)
 #E(net)$width <- E(net)$weight
-deg <- degree(net, mode="all")
-V(net)$size <- deg
-net
+deg <- degree(VGAS_net, mode="all")
+V(VGAS_net)$size <- deg
+VGAS_net
 ```
 ```{r}
-E(net)$width #<- E(net)$weight
+E(VGAS_net)$width #<- E(net)$weight
 ```
 ```{r}
-edge.start <- ends(net, es=E(net), names=F)[,1]
-edge.col <- V(net)$color[edge.start]
+plot(VGAS_net, edge.arrow.size=.1,vertex.size=5,vertex.label=NA, edge.color="red", layout=layout_with_mds)
+```
 
-plot(net, edge.color=edge.col, edge.curved=.1,layout_with_fr)  
+```{r}
+plot(VGAS_net, edge.arrow.size=0,vertex.size=5,vertex.label=NA, edge.color="red", layout=layout_with_mds)
+```
+```{r}
+plot(VGAS_net, edge.arrow.size=0, vertex.size=4,vertex.label=NA, edge.color="red")
+```
+
+```{r}
+plot(VGAS_net, edge.arrow.size=0,vertex.size=6,vertex.label=NA, edge.color="red", layout=layout_with_gem)
 ```
