@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r}
+```{r, echo=FALSE}
 install.packages("igraph") 
 install.packages("network") 
 install.packages("sna")
@@ -37,7 +37,7 @@ nodes
 ```
 
 ```{r}
-Prokka_net <- graph_from_data_frame(d=links, vertices=nodes, directed=T)
+Prokka_net <- graph_from_data_frame(d=links, vertices=nodes, directed=F)
 Prokka_net <- simplify(net, remove.multiple = F, remove.loops = T)
 #E(net)$width <- E(net)$weight
 deg <- degree(Prokka_net, mode="all")

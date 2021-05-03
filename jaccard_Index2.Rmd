@@ -1,0 +1,68 @@
+---
+title: "Jaccard_Index"
+author: "Tyrome Sweet"
+date: "5/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+# Function for Jaccard index
+jaccard_change<-function(g1,g2) {
+  library(igraph)
+  g1<-get.adjacency(g1)
+  g1[g1 > 0.001] <- 1
+  g2<-get.adjacency(g2)
+  g2[g2 > 0.001] <- 1
+  Title<-"Numbers represent edges"
+  Left<-sum(g1 > g2) # edges that changed (1->0)
+  Right<-sum(g1 < g2) # edges that changed (0->1)
+  Both<-sum(g1 * g2) # edges that have a 1 in M1 and 1 in M2, so stayed the same (1->1)
+  Index<-round(Both/sum(Left,Right,Both),digits = 2) # the ratio of stable ties ties (B), compared to all ties who change (A) + stable ties (B)
+  Results<-return(structure(list(Title,Index,Left,Right,Both),names=c("Title","Jaccard_Index","Left_Network_Only", "Right_Network_Only", "Both_Networks")))
+  on.exit(rm(Left,Right,Both,Index))
+}
+```
+
+```{r}
+#Test Run Setup
+set.seed(1337)
+Test_Network_1<-matrix(nrow = 10, ncol = 10)    # 1 row and 1 column per participant
+for (i in sample(1:10,13,replace=T)) {          # randomly select a number between 1 and 10, and the same numbers can be used multiple times. We do this 13 times 
+  Test_Network_1[i,sample(1:10,1,replace=T)]<-1 # for each randomly selected participant, randomly assign and alter (again, between 1 and 10) to create an edge
+}
+```
+
+```{r pressure, echo=FALSE}
+# Count Elements in a Matrix
+sum(Test_Network_1,na.rm=TRUE)
+```
+```{r pressure, echo=FALSE}
+# Count Elements in a Matrix
+Test_Network_2<-Test_Network_1
+```
+# My data
+```{r, echo=FALSE}
+# make a network out of the matrices
+library(igraph)
+## 
+## Attaching package: 'igraph'
+## The following objects are masked from 'package:stats':
+## 
+##     decompose, spectrum
+## The following object is masked from 'package:base':
+## 
+##     union
+
+vgas_nodes <- read.csv("VGAS_CORRECTED2", header=F, as.is=T)
+vgas_links <- read.csv("VGAS_EDGES", header=F, as.is=T)
+
+prokka_nodes <- read.csv("NODES", header=F, as.is=T)
+prokka_links <- read.csv("EDGES", header=F, as.is=T)
+
+
+vgas_Graph_1<-graph_from_adjacency_matrix(Test_Network_1, mode = c("directed"))
+Test_Graph_2<-graph_from_adjacency_matrix(Test_Network_2, mode = c("directed"))
+```
+```{r, echo=FALSE}
+jaccard_index(Test_Graph_1,Test_Graph_2)
+```
