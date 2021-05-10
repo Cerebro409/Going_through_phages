@@ -37,12 +37,20 @@ library(igraph)
 ##     union
 
 #VGAS
-vgas_nodes <- read.csv("/Users/tyromesweet/Documents/GitHub/Going_through_phages/vgasReports/VGAS_CORRECTED2", header=F, as.is=T)
-vgas_links <- read.csv("/Users/tyromesweet/Documents/GitHub/Going_through_phages/vgasReports/VGAS_EDGES", header=F, as.is=T)
+#vgas_nodes <- read.csv("/Users/tyromesweet/Documents/GitHub/Going_through_phages/vgasReports/VGAS_CORRECTED2", header=F, as.is=T)
+#vgas_links <- read.csv("/Users/tyromesweet/Documents/GitHub/Going_through_phages/vgasReports/VGAS_EDGES2", header=F, as.is=T)
 
 #Prokka
-prokka_nodes <- read.csv("/Users/tyromesweet/Documents/GitHub/Going_through_phages/prokka_5_15_2020/NODES", header=F, as.is=T)
-prokka_links <- read.csv("/Users/tyromesweet/Documents/GitHub/Going_through_phages/prokka_5_15_2020/EDGES", header=F, as.is=T)
+#prokka_nodes <- read.csv("/Users/tyromesweet/Documents/GitHub/Going_through_phages/prokka_5_15_2020/NODES", header=F, as.is=T)
+#prokka_links <- read.csv("/Users/tyromesweet/Documents/GitHub/Going_through_phages/prokka_5_15_2020/EDGES", header=F, as.is=T)
+
+
+vgas_nodes <- read.csv("/home/tsweet/Going_through_phages/vgasReports/VGAS_CORRECTED2", header=F, as.is=T)
+vgas_links <- read.csv("/home/tsweet/Going_through_phages/vgasReports/VGAS_EDGES2", header=F, as.is=T)
+
+#Prokka
+prokka_nodes <- read.csv("/home/tsweet/Going_through_phages/prokka_5_15_2020/NODES", header=F, as.is=T)
+prokka_links <- read.csv("/home/tsweet/Going_through_phages/prokka_5_15_2020/EDGES", header=F, as.is=T)
 ```
 
 ```{r, echo=FALSE}
