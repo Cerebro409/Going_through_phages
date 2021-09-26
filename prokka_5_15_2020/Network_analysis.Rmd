@@ -22,7 +22,7 @@ head(links)
 ```
 
 ```{r}
-nodes
+write.csv(links,"links.csv", row.names = FALSE)
 ```
 
 ```{r}

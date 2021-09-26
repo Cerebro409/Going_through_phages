@@ -137,10 +137,12 @@ print(output)
 ```{r}
 prokka_unique=prokka_net%m%vgas_net
 get.edgelist(prokka_unique)
+write_graph(prokka_unique, "/home/tsweet/Going_through_phages/prokka_unique.txt", "edgelist")
 ```
 ```{r}
 vgas_unique=vgas_net%m%prokka_net
 get.edgelist(vgas_unique)
+write_graph(vgas_unique, "/home/tsweet/Going_through_phages/vgas_unique.txt", "edgelist")
 ```
 ```{r}
 library(igraph)
