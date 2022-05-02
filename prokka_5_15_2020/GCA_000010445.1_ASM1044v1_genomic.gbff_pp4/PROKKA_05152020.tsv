@@ -1,9 +1,0 @@
-locus_tag	ftype	length_bp	gene	EC_number	COG	product
-DGNCDLFN_00001	gene	1536	yfkN			
-DGNCDLFN_00001	CDS	1536	yfkN		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
-DGNCDLFN_00002	gene	1545				
-DGNCDLFN_00002	CDS	1545				hypothetical protein
-DGNCDLFN_00003	gene	957	phnD2			
-DGNCDLFN_00003	CDS	957	phnD2		COG3221	putative ABC transporter phosphonate/phosphite binding protein PhnD2
-DGNCDLFN_00004	gene	171				
-DGNCDLFN_00004	CDS	171				hypothetical protein

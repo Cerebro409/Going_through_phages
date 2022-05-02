@@ -1,5 +1,0 @@
-organism: Genus species strain 
-contigs: 1
-bases: 7917
-CDS: 9
-gene: 9

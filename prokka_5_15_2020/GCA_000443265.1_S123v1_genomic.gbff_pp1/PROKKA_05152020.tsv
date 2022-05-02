@@ -1,9 +1,0 @@
-locus_tag	ftype	length_bp	gene	EC_number	COG	product
-CNAOMDFN_00001	gene	1968	yhgF			
-CNAOMDFN_00001	CDS	1968	yhgF		COG2183	Protein YhgF
-CNAOMDFN_00002	gene	456				
-CNAOMDFN_00002	CDS	456				Protein SprT-like protein
-CNAOMDFN_00003	gene	83				
-CNAOMDFN_00003	tRNA	83				tRNA-Leu(gag)
-CNAOMDFN_00004	gene	74				
-CNAOMDFN_00004	tRNA	74				tRNA-Gly(tcc)

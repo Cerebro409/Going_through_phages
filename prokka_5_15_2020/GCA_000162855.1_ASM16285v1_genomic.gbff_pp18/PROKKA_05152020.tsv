@@ -1,9 +1,0 @@
-locus_tag	ftype	length_bp	gene	EC_number	COG	product
-OHJACJIE_00001	gene	234				
-OHJACJIE_00001	CDS	234				hypothetical protein
-OHJACJIE_00002	gene	186				
-OHJACJIE_00002	CDS	186				hypothetical protein
-OHJACJIE_00003	gene	351	scn			
-OHJACJIE_00003	CDS	351	scn			Staphylococcal complement inhibitor
-OHJACJIE_00004	gene	408	fib			
-OHJACJIE_00004	CDS	408	fib			Fibrinogen-binding protein

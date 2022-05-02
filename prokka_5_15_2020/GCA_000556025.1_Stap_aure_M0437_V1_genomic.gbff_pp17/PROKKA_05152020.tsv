@@ -1,9 +1,0 @@
-locus_tag	ftype	length_bp	gene	EC_number	COG	product
-EBMHDCHI_00001	gene	1491				
-EBMHDCHI_00001	CDS	1491		3.4.21.-		putative CtpA-like serine protease
-EBMHDCHI_00002	gene	510				
-EBMHDCHI_00002	CDS	510				hypothetical protein
-EBMHDCHI_00003	gene	1071	murG			
-EBMHDCHI_00003	CDS	1071	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
-EBMHDCHI_00004	gene	615				
-EBMHDCHI_00004	CDS	615				hypothetical protein

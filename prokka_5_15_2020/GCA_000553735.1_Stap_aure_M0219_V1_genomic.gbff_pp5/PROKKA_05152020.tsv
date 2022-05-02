@@ -1,9 +1,0 @@
-locus_tag	ftype	length_bp	gene	EC_number	COG	product
-BOIMCKJB_00001	gene	1167	wbnH			
-BOIMCKJB_00001	CDS	1167	wbnH	2.4.1.306		O-antigen biosynthesis glycosyltransferase WbnH
-BOIMCKJB_00002	gene	693				
-BOIMCKJB_00002	CDS	693				hypothetical protein
-BOIMCKJB_00003	gene	978	wbgU			
-BOIMCKJB_00003	CDS	978	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
-BOIMCKJB_00004	gene	705	butA			
-BOIMCKJB_00004	CDS	705	butA	1.1.1.304		Diacetyl reductase [(S)-acetoin forming]

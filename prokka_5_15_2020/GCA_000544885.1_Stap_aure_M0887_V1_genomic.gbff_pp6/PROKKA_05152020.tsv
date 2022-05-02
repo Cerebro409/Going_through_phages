@@ -1,7 +1,0 @@
-locus_tag	ftype	length_bp	gene	EC_number	COG	product
-HJCNAOEB_00001	gene	207	sepA			
-HJCNAOEB_00001	CDS	207	sepA			Multidrug resistance efflux pump SepA
-HJCNAOEB_00002	gene	1446	farB			
-HJCNAOEB_00002	CDS	1446	farB			Fatty acid resistance protein FarB
-HJCNAOEB_00003	gene	1065	salA			
-HJCNAOEB_00003	CDS	1065	salA		COG0489	Iron-sulfur cluster carrier protein

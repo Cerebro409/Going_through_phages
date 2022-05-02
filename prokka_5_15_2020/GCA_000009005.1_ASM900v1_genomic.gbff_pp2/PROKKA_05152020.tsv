@@ -1,7 +1,0 @@
-locus_tag	ftype	length_bp	gene	EC_number	COG	product
-FAPDFBMB_00001	gene	378				
-FAPDFBMB_00001	CDS	378				hypothetical protein
-FAPDFBMB_00002	gene	138	tarM			
-FAPDFBMB_00002	CDS	138	tarM	2.4.1.70		Poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase
-FAPDFBMB_00003	gene	207				
-FAPDFBMB_00003	CDS	207				hypothetical protein
