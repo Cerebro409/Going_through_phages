@@ -11,3 +11,5 @@
 **Make_matrix.pl** - Create Matrix of grouped genes in phage dataset
 
 **runBlast.pl** - Blast comparison for multiple fasta files
+
+**Staph_wgs.txt** - *S. aureus* files downloaded/used from NCBI
