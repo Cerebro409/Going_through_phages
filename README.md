@@ -1,4 +1,4 @@
-# Going_through_phages standard operating procedure *S. Aureus Sequence Aggregation*:
+#  SOP for *S. Aureus* Sequence Aggregation:
 
 ## Available Scripts:
 
