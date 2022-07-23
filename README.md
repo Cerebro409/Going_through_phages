@@ -44,10 +44,10 @@ for next in $(cat assembly_summary_complete_genomes.txt); do wget -P references 
 The data used for this project can be found in the following directory: references_08_08_2021
 
 ### DNA Data Bank of Japan (DDBJ)
-515 *S. aureus* whole genome sequences were downloaded from DDBJ on April 27th, 2022 through the website's UI.
+515 *S. aureus* whole genome sequences were downloaded from DDBJ on April 27th, 2022 through the [Website's UI](http://ddbj.nig.ac.jp/arsa/search?lang=en&cond=quick_search&query=staphylococcus+aureus&operator=AND).
 
 ### JGI Integrated Microbial Genomes & Microbiomes (IMG/M)
-5240 S. aureus whole genome sequences were downloaded from JGI IMG/M Database on April 27th, 2022 through the [Website's UI](http://ddbj.nig.ac.jp/arsa/search?lang=en&cond=quick_search&query=staphylococcus+aureus&operator=AND)
+5240 S. aureus whole genome sequences were downloaded from JGI IMG/M Database on April 27th, 2022 through the [Website's UI](https://img.jgi.doe.gov/cgi-bin/m/main.cgi).
 
 
 ## Viral Detection:
