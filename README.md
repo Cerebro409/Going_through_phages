@@ -47,7 +47,7 @@ The data used for this project can be found in the following directory: referenc
 515 *S. aureus* whole genome sequences were downloaded from DDBJ on April 27th, 2022 through the website's UI.
 
 ### JGI Integrated Microbial Genomes & Microbiomes (IMG/M)
-5240 S. aureus whole genome sequences were downloaded from JGI IMG/M Database on April 27th, 2022 through the website's UI.
+5240 S. aureus whole genome sequences were downloaded from JGI IMG/M Database on April 27th, 2022 through the [Website's UI](http://ddbj.nig.ac.jp/arsa/search?lang=en&cond=quick_search&query=staphylococcus+aureus&operator=AND)
 
 
 ## Viral Detection:
