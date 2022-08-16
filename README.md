@@ -49,8 +49,12 @@ The data used for this project can be found in the following directory: referenc
 ### JGI Integrated Microbial Genomes & Microbiomes (IMG/M)
 5240 S. aureus whole genome sequences were downloaded from JGI IMG/M Database on April 27th, 2022 through the [Website's UI](https://img.jgi.doe.gov/cgi-bin/m/main.cgi).
 
-
 ## Viral Detection:
+
+### PhiSpy
+
+### Virsorter2
+
 ## Phage Clustering:
 ## Validate of predicted phage:
 ## Unique Phage Sequence Annotation:
