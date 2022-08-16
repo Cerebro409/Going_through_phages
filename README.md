@@ -52,6 +52,7 @@ The data used for this project can be found in the following directory: referenc
 ## Viral Detection:
 
 ### PhiSpy
+Putative prophage sequences were detected using PhiSpy, Version 3.2 [(Akhter, Aziz and Edwards 2012)](https://doi.org/10.1093/nar/gks406). PhiSpy uses a random forest algorithm that has been trained on seven distinct features of prophage: protein length, transcription strand directionality, AT and GC skew, the abundance of unique phage words (unique sequence of length 12 base pairs), phage insertion points and the similarity of phage proteins.  PhiSpy has 49 available training sets to increase accuracy for specific genomes.
 
 ### Virsorter2
 
